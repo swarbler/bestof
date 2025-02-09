@@ -39,7 +39,7 @@ I try to balance my own experiences and opinions with online reviews and forums 
 
 ## I have an \[X problem] with bestof
 
-if you have any issues with bestof, please to email me at: \[I'll put an email here later] 
+if you have any issues with bestof, please to email me at: [sbird+bestof@disroot.org](mailto:sbird+bestof@disroot.org)
 
 ## timeline of events
 
