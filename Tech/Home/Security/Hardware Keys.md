@@ -1,0 +1,7 @@
+- **standard size** 
+	- **USB-C:** YubiKey 5C NFC
+		- *cheaper, no NFC version available*
+	- **USB-A:** YubiKey 5 NFC
+- **tiny** 
+	- **USB-C:** YubiKey 5C Nano
+	- **USB-A:** YubiKey 5 Nano

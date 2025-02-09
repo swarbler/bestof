@@ -1,0 +1,26 @@
+#### Desk
+
+- **tabletop:** *butcher block countertop* / Ikea Karlby
+- **non-adjustable desk:** Ikea Lagtapten + Alex
+- **standing desks** 
+	- **pneumatic** 
+		- **standard:** Uplift Pneumatic
+		- **upgrade:** The Klöud
+	- **electronic** 
+		- **more customisable:** Uplift V2
+		- **more stable:** Vari
+- **desk mat** 
+	- **cloth:** Steelseries QcK XXL
+	- **felt:** Wolvende / Deltahub
+	- **printed designs:** deskpads gallery
+	- **most features:** Orbitkey *(magnetic cable management)*
+- **under-desk footrest:** ComfiLife
+
+#### Chair
+
+- **cheaper:** Colamy Atlas / *used chairs*
+	- **alternative:** Branch Ergonomic Chair
+- **standard:** Haworth Breck
+	- **alternative:** Haworth Soji
+- **better:** Haworth Zody
+- **upgrade:** Haworth Fern / Steelcase Leap V2

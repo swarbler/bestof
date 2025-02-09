@@ -1,0 +1,4 @@
+- **body lotion:** Aveeno
+	- **alternative:** CeraVe
+- **bug repellent:** *any 20% picaridin insect repellent spray*
+- **sunscreen:** Biore UV Aqua Rich SPF 50+

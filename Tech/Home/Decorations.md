@@ -1,0 +1,6 @@
+- **decorative wall lights:** Nanoleaf
+	- **alternative:** *DIY with WLED strips + 3D printing*
+- **digital picture frames**
+	- **standard:** Aura Mason *(4:3)*
+	- **landscape only:** Aura Carver *(16:10)*
+	- **larger:** Aura Walden *(4:3)*
