@@ -104,7 +104,8 @@
 - **code editor:** VSCodium
 - **GUI git client:** Fork
 	- **alternative:** lazygit
-	- *note: you can use Git Graph extension in VSCodium*
+{: .note }
+you can use the Git Graph extension in VSCodium
 
 ## Image + Video + Audio Editing
 
