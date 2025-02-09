@@ -1,3 +1,5 @@
+# Appliances
+
 - **toaster oven:** Breville / Panasonic FlashXpress
 - **microwave:** Panasonic
 - **air fryer** 

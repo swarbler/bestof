@@ -1,4 +1,6 @@
-- **swim shirt:** Speedo
+# Swimming
+
+- **swim shirt:** Arena / Speedo
 - **swim shorts** 
 	- **trunk style:** Patagonia Baggies
 	- **skintight:** Speedo

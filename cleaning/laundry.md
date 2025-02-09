@@ -1,3 +1,5 @@
+# Laundry
+
 #### Washing Machines
 
 - **washer and dryer:** *any*

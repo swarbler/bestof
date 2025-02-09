@@ -1,6 +1,9 @@
+# Travel Tech
+
 #### Mouse
 
-- **mouse:** Logitech MX Anywhere 3S
+- **mouse:** MX Anywhere 3S / Razer Pro Click Mini
+	- *MX Anywhere 3**S** is silent*
 - **drawing tablet:** Wacom Intuos S
 
 #### Portable Monitors

@@ -1,4 +1,6 @@
-## Everyday Apps
+# Desktop Apps
+
+## Everyday
 
 - **email client:** Thunderbird
 - **browser** Firefox
@@ -20,7 +22,7 @@
 
 ## Utilities
 
-#### :RiComputerLine: Cross-Platform
+#### Cross-Platform
 
 - **file sharing:** KDE Connect
 - **OCR screen capture:** NormCap
@@ -28,7 +30,7 @@
 - **video file conversion:** ffmpeg
 - **screen mirroring and extending:** spacedesk
 
-#### :RiWindowsLine: Windows
+#### Windows
 
 - **file search:** Everything
 - **file explorer:** One Commander 
@@ -64,14 +66,14 @@
 
 ## Media
 
-#### :RiWindowsLine: Windows
+#### Windows
 
 - **image viewer:** nomacs
 - **media viewer:** Potplayer
 - **music player:** AIMP
 - **pdf viewer:** SumatraPDF
 
-#### :RiAppleLine: MacOS
+#### MacOS
 
 - **image viewer:** *Preview*
 - **media viewer:** IINA
@@ -79,7 +81,7 @@
 - **pdf viewer:** *Preview*
 	- **alternative:** Skim
 
-#### :RiUbuntuLine: Linux
+#### Linux
 
 - **image viewer:** feh / nomacs / pqiv
 - **media viewer:** MPV

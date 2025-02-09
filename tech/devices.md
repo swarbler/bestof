@@ -1,11 +1,13 @@
-## All Devices
+# Devices
+
+## For All Devices
 
 - **screen protectors:** Spigen EZ Fit
 - **skins:** dbrand
 
 ## Laptops
 
-#### :RiWindowsLine: Windows
+#### Windows
 
 - **everyday** 
 	- **ARM:** Surface Laptop 7 / Zenbook A14
@@ -62,13 +64,13 @@
 		- **graphics:** *RTX 4060/70*
 	- Lenovo Legion?
 
-#### :RiAppleLine: MacOS
+#### MacOS
 
 - **cheaper:** Macbook Air *(M1)*
 - **everyday:** Macbook Air *(M3)*
 - **powerful:** Macbook Pro *(M4)*
 
-#### :RiUbuntuLine: Linux
+#### Linux
 
 - **everyday:** System76 Lemur Pro
 
@@ -88,7 +90,7 @@
 
 ## Phones
 
-#### :RiAndroidLine: Android
+#### Android
 
 ***good -> best is based on software updates***
 - **flagship** 
@@ -124,14 +126,14 @@
 	- **standard:** OnePlus Open / Oppo Find N3
 	- **thinner:** Honor Magic V3
 
-#### :RiAppleLine: iOS
+#### iOS
 
 - **standard:** iPhone *(wait for ProMotion)*
 - **midrange:** iPhone SE *(4th gen)*
 - **compact:** iPhone SE *(1st gen)*
 	- **alternative:** iPhone 5S *(slower processor)*
 
-#### :RiUbuntuLine: Linux
+#### Linux
 
 - **standard:** PinePhone
 	- *PinePhone Pro is slightly more powerful but has worse battery*
@@ -173,11 +175,11 @@
 
 ## Tablets
 
-#### :RiWindowsLine: Windows
+#### Windows
 
 - **standard:** ProArt PZ13
 
-#### :RiAppleLine: iPadOS
+#### iPadOS
 
 - **cheaper:** iPad
 - **smaller:** iPad Mini
@@ -186,7 +188,7 @@
 	- **standard:** iPad Pro *2022*
 	- **better:** iPad Pro *2024* *(Tandem OLED + M4 but more expensive)*
 
-#### :RiAndroidLine: Android
+#### Android
 
 - **cheaper:** Xiaomi Pad 7
 - **smaller:** Lenovo Legion Tab
@@ -219,13 +221,13 @@
 
 ## Smartwatches
 
-#### :RiAndroidLine: WearOS
+#### WearOS
 
 - **cheaper:** Galaxy Watch 4
 	- **alternative:** Galaxy Watch FE *(same specs except newer software)*
 - **standard:** OnePlus Watch 2
 
-#### :RiAppleLine: watchOS
+#### watchOS
 
 - **cheaper:** Apple Watch SE
 	- **alternative:** Apple Watch Series 5 *(always-on display + ECG)*

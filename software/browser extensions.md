@@ -1,3 +1,5 @@
+# Browser Extensions
+
 #### Firefox
 
 - **content blocker:** uBlock Origin

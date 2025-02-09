@@ -1,3 +1,5 @@
+# Household Supplies
+
 - **body lotion:** Aveeno
 	- **alternative:** CeraVe
 - **bug repellent:** *any 20% picaridin insect repellent spray*

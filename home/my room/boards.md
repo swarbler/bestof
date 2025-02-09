@@ -1,3 +1,5 @@
+# Boards
+
 #### Pegboard
 
 - **pegboard:** Wall Control

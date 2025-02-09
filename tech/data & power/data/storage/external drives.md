@@ -1,3 +1,5 @@
+# External Drives
+
 - **USB drives** 
 	- **compact:** Kingston DataTraveller Micro / Samsung Fit Plus / Sandisk Ultra Fit
 	- **standard:** Kingston DataTraveller / Samsung Bar Plus / Sandisk Extreme Pro

@@ -1,4 +1,6 @@
-#### :LiEye: Vision
+# Outdoor Gear
+
+#### Vision
 
 - **binoculars** 
 	- **standard:** Vortex Diamondback HD 8x42
@@ -14,7 +16,7 @@
 	- **standard:** *8" Dobsonian telescope*
 		- *e.g. Sky-Watcher 8" Classic Dob / Aputura AD8 Dobsonian*
 
-#### :LiAudioWaveform: Audio
+#### Audio
 
 - **walkie talkie:** BCA BC Link Mini
 - **megaphone** 

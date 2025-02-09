@@ -1,10 +1,12 @@
+# Vintage
+
 - **cassette player:** Sony Walkman *(used)*
 - **CD player:** Sony Diskman *(used)*
 	- **modern:** Moondrop DiscDream
 - **MP3 player:** iPod *(used, use RockBox)* 
 	- **modern:** Fiio M11S *(larger)* / Sony NW-A306 *(smaller)*
 
-## :LiDiscAlbum: Turntable
+## Turntable
 
 - **automatic** 
 	- **standard:** Audio-Technica AT-LP60X
@@ -19,7 +21,7 @@
 	- **cheaper:** Behringer Microphono PP400
 	- **better:** Schitt Mani
 
-## :BoBxsRadio: Radio
+## Radio
 
 - **standard**
 	- **vertical:** Sangean WR-15

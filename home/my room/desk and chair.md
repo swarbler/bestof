@@ -1,4 +1,4 @@
-#### Desk
+# Desk
 
 - **tabletop:** *butcher block countertop* / Ikea Karlby
 - **non-adjustable desk:** Ikea Lagtapten + Alex
@@ -14,13 +14,11 @@
 	- **felt:** Wolvende / Deltahub
 	- **printed designs:** deskpads gallery
 	- **most features:** Orbitkey *(magnetic cable management)*
+- **chair**
+	- **cheaper:** Colamy Atlas / *used chairs*
+		- **alternative:** Branch Ergonomic Chair
+	- **standard:** Haworth Breck
+		- **alternative:** Haworth Soji
+	- **better:** Haworth Zody
+	- **upgrade:** Haworth Fern / Steelcase Leap V2
 - **under-desk footrest:** ComfiLife
-
-#### Chair
-
-- **cheaper:** Colamy Atlas / *used chairs*
-	- **alternative:** Branch Ergonomic Chair
-- **standard:** Haworth Breck
-	- **alternative:** Haworth Soji
-- **better:** Haworth Zody
-- **upgrade:** Haworth Fern / Steelcase Leap V2

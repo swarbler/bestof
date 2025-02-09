@@ -1,3 +1,5 @@
+# Cheaper Instruments
+
 ## Digital Piano
 
 - **entry-level:** Roland FP-10 / Yamaha P45

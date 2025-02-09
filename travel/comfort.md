@@ -1,3 +1,5 @@
+# Comfort
+
 - **sleep mask:** Alaska Bear natural silk
 - **neck fan:** ChillGo
 - **handheld fan:** Jisulife

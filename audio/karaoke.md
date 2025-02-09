@@ -1,3 +1,5 @@
+# Karaoke
+
 - **mixer:** Yamaha MG06X
 - **microphones** 
 	- **cheaper:** Shure PGA48

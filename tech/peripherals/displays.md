@@ -1,3 +1,5 @@
+# Displays
+
 #### Monitors
 
 - **24” 1080p:** AOC 24G4 *(180hz IPS)*

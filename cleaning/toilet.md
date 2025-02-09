@@ -1,3 +1,5 @@
+# Toilet
+
 - **toilet brush:** OXO Good Grips
 - **toilet cleaner** 
 	- **hydrogen peroxide:** Lysol

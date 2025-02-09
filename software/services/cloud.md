@@ -1,4 +1,6 @@
-#### Everyday Services
+# Cloud Services
+
+#### Everyday
 
 - **email:** Disroot *(free)* / mailbox.org *(paid)*
 	- **alternatives:** Proton Mail / Tuta *(neither are IMAP)*

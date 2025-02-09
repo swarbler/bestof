@@ -1,3 +1,5 @@
+# Safety
+
 #### Hand Protection
 
 - **cut-resistant gloves:** Mercer Culinary MercerGuard

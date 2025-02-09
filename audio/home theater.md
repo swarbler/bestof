@@ -1,3 +1,5 @@
+# Home Theater
+
 #### Speakers
 
 - **L/R:** Emotiva C2+ / Monolith THX-365T / SVS Prime Tower / Wharfedale Evo 4.2

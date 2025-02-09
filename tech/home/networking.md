@@ -1,3 +1,5 @@
+# Networking
+
 - **router** 
 	- **WiFi 6:**  TP-Link Archer AX55 Pro *(AX3000)*
 		- **alternative:** Netgear RAX5 *(AX1600)*

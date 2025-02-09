@@ -1,12 +1,12 @@
-#### TVs
+# TV
 
 *don't connect "smart" TVs to internet to make them dumb TVs*
-- **miniLED TV** 
+- **miniLED** 
 	- **standard:** Hisense U7N / TCL QM7
 	- **better:** Hisense U8N / TCL QM8
 	- **best:** Sony Bravia 9
-- **OLED TV** 
-	- **standard:** LG C3 / LG C4 / Sony A75L / Sony A80L
+- **OLED** 
+	- **standard:** LG C3 or C4 / Sony A75L or A80L
 		- *LG C3 and C4 are almost identical*
 		- *Sony A75L has worse built-in speakers + no "Hey Google" recognition + basic stand compared to A80L but is otherwise the same TV*
 	- **best:** Sony A95L

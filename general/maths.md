@@ -1,3 +1,5 @@
+# Maths
+
 - **calculator:** Casio FX82 / FX83 / FX85
 	- **alternative:** Sharp EL531
 - **ruler** 

@@ -1,4 +1,6 @@
-#### :LiUsb: USB Chargers
+# Chargers
+
+#### USB Chargers
 
 - **cheaper** 
 	- **standard:** Apple 20W
@@ -16,7 +18,7 @@
 	- **higher power:** Leviton T5636
 		- **alternative:** Leviton T5836 *(20A A/C outlets)*
 
-#### :LiPlug: Plug Adapters
+#### Plug Adapters
 
 - **travel adapter set:** Ceptics
 	- **alternative:** Bestek

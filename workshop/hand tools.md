@@ -1,4 +1,6 @@
-## :LiBolt: Fastening
+# Hand Tools
+
+## Fastening
 
 - **socket + bit set:** Wera Tool-Check Plus
 
@@ -39,7 +41,7 @@
 - **bigger hammer:** Estwing E3-16C
 - **mallet:** Narex
 
-## :LiScissorsLineDashed: Cutting
+## Cutting
 
 #### Saws
 

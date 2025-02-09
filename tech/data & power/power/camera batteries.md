@@ -1,4 +1,6 @@
-#### Cameras
+# Camera Batteries
+
+#### Standard
 
 - **Sony**
 	- **standard:** NP-FZ100
@@ -8,7 +10,7 @@
 - **Fujifilm:** NP-W235
 - **Ricoh:** DB-110
 
-#### Other
+#### Camera Rigs
 
 ##### V-mount
 

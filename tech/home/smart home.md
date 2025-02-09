@@ -1,3 +1,5 @@
+# Smart Home
+
 #### Smart Hubs
 
 - **hub:** Home Assistant

@@ -1,4 +1,6 @@
-#### Everyday Services
+# Self-Hosted Services
+
+#### Everyday
 
 - **email:** mailcow / mail-in-a-box
 - **search engine:** SearXNG

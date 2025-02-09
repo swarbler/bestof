@@ -1,3 +1,5 @@
+# Decorations
+
 - **decorative wall lights:** Nanoleaf
 	- **alternative:** *DIY with WLED strips + 3D printing*
 - **digital picture frames**

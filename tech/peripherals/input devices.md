@@ -1,3 +1,5 @@
+# Input Devices
+
 #### Mice
 
 - **standard:** Keychron M6 / MX Master 3

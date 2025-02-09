@@ -1,4 +1,4 @@
-#### Clothing
+# Summer
 
 - **hoodie:** Outdoor Research Echo
 - **hat:** Sunday Afternoons Ultra Adventure
