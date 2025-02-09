@@ -27,7 +27,7 @@ I try to balance my own experiences and opinions with online reviews and forums 
 - There was very little information surrounding that product category
 - This product category is incredibly subject to personal preference and this is simply the thing that I prefer
 
-> if you strongly believe that \[X thing] is the best product in its category, please to email me at: \[I'll put an email here later] 
+> if you strongly believe that \[X thing] is the best product in its category, please to email me at: [sbird+bestof@disroot.org](mailto:sbird+bestof@disroot.org)
 
 ## you missed out on \[X category of things], what gives?
 
@@ -35,7 +35,7 @@ I try to balance my own experiences and opinions with online reviews and forums 
 - There may not neccesarily be a "best thing" in \[X category of things] and it doesn't really matter which one you buy as long as it's from a reputable manufacturer
 - I am not the target demographic for \[X category of things] and I am not the right person to ask for recommendations for \[X category of things]!
 
-> If you strongly believe that \[X cateogry of things] should be included, please to email me at: \[I'll put an email here later] 
+> If you strongly believe that \[X category of things] should be included, please to email me at: [sbird+bestof@disroot.org](mailto:sbird+bestof@disroot.org)
 
 ## I have an \[X problem] with bestof
 
