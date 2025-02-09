@@ -1,4 +1,6 @@
-
 title: bestof
 description: the best things!
 remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-include-cache
