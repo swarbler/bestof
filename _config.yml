@@ -1,4 +1,4 @@
 
 title: bestof
 description: the best things!
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
