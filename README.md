@@ -6,7 +6,7 @@ bestof is a repository of the best things in each product category, frequently u
 
 ## background
 
-I've been working on this for over a year now, starting off with a PowerPoint detailing which things are the best in their respective categories. The idea was that I would never have to do any of the researching when I actually needed to buy anything. 
+I've been working on this for many years now, starting off with a PowerPoint detailing which things are the best in their respective categories. The idea was that I would never have to do any of the researching when I actually needed to buy anything. 
 
 I later moved everything from the PowerPoint to a more organised system of different folders and markdown files, which makes it much easier to find everything. Fast forward to now, this repository of all sorts of things is significantly larger!
 
@@ -40,3 +40,10 @@ I try to balance my own experiences and opinions with online reviews and forums 
 ## I have an \[X problem] with bestof
 
 if you have any issues with bestof, please to email me at: \[I'll put an email here later] 
+
+## timeline of events
+
+- **20??/??/??:** created original Google Slides "Dream Room"
+- **2024/??/??:** converted from Google Slides to a PowerPoint
+- **2024/07/12:** moved from PowerPoint to Markdown files
+- **2025/02/09:** public GitHub repository created
