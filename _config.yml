@@ -1,6 +1,6 @@
-title: bestof
+title: BestOf
 description: the best things!
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-include-cache
