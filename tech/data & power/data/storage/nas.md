@@ -51,6 +51,4 @@ nav_order: 3
 	- **N3:** *8x 3.5", 1x 2.5", m-ITX, noisier*
 	- **N4:** *6x 3.5", 2x 2.5", m-ATX, wooden accents*
 	- **N5:** *12x 3.5", 2x 2.5", E-ATX, largest, wooden accents*
-- **software** 
-	- **standard:** TrueNAS
-	- **more user-friendly:** HexOS
+- **software:** OpenMediaVault / TrueNAS
