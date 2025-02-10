@@ -1,7 +1,7 @@
 ---
 title: Data and Power
 parent: Tech
-nav_order: 5
+nav_order: 4
 ---
 # Data and Power
 
