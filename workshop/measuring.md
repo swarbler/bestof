@@ -1,5 +1,5 @@
 ---
-title: Adhesives and Fixtures
+title: Measuring
 parent: Workshop
 nav_order: 4
 ---
