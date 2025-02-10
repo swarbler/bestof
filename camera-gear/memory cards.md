@@ -1,7 +1,7 @@
 ---
 title: Memory Cards
 parent: Camera Gear
-nav_order: 4
+nav_order: 6
 ---
 # Memory Cards
 

@@ -1,7 +1,7 @@
 ---
 title: Lighting and Effects
 parent: Camera Gear
-nav_order: 3
+nav_order: 5
 ---
 # Lighting and Effects
 

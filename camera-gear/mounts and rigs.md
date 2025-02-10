@@ -1,7 +1,7 @@
 ---
 title: Mounts and Rigs
 parent: Camera Gear
-nav_order: 6
+nav_order: 7
 ---
 # Mounts and Rigs
 
