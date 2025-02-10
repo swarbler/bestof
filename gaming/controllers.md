@@ -1,3 +1,8 @@
+---
+title: Controllers
+parent: Gaming
+nav_order: 1
+---
 # Controllers
 
 #### PC

@@ -1,3 +1,8 @@
+---
+title: Floors
+parent: Cleaning
+nav_order: 2
+---
 # Floors
 
 #### Vacuums

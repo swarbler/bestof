@@ -1,3 +1,8 @@
+---
+title: Dishwashing
+parent: Cleaning
+nav_order: 1
+---
 # Dishwashing
 
 ## Hand Washing

@@ -1,3 +1,8 @@
+---
+title: Maths
+parent: General
+nav_order: 2
+---
 # Maths
 
 - **calculator:** Casio FX82 / FX83 / FX85

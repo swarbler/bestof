@@ -1,3 +1,8 @@
+---
+title: Mounts and Rigs
+parent: Camera Gear
+nav_order: 6
+---
 # Mounts and Rigs
 
 #### Tripods

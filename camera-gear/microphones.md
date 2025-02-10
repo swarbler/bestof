@@ -1,3 +1,8 @@
+---
+title: Microphones
+parent: Camera Gear
+nav_order: 5
+---
 # Microphones
 
 #### On-Camera Microphones

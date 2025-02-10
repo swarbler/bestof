@@ -1,3 +1,8 @@
+---
+title: Lenses and Filters
+parent: Camera Gear
+nav_order: 2
+---
 # Lenses and Filters
 
 ## Full Frame

@@ -1,3 +1,8 @@
+---
+title: Waste
+parent: Cleaning
+nav_order: 7
+---
 # Waste
 
 - **trash bins:** Simplehuman *(step or in-cabinet)*

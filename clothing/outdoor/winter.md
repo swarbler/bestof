@@ -1,3 +1,8 @@
+---
+title: Winter
+parent: Outdoor Clothing
+nav_order: 3
+---
 # Winter
 
 #### Clothing

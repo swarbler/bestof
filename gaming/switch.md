@@ -1,3 +1,8 @@
+---
+title: Nintendo Switch
+parent: Gaming
+nav_order: 3
+---
 # Nintendo Switch
 
 #### Carry Bags

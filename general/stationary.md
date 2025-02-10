@@ -1,3 +1,8 @@
+---
+title: Stationary
+parent: General
+nav_order: 3
+---
 # Stationary
 
 #### Pencils

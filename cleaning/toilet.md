@@ -1,3 +1,8 @@
+---
+title: Toilet
+parent: Cleaning
+nav_order: 6
+---
 # Toilet
 
 - **toilet brush:** OXO Good Grips

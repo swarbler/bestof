@@ -1,3 +1,8 @@
+---
+title: Laundry
+parent: Cleaning
+nav_order: 3
+---
 # Laundry
 
 #### Washing Machines

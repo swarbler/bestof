@@ -1,3 +1,8 @@
+---
+title: Pocket Cameras
+parent: Camera Gear
+nav_order: 7
+---
 # Pocket Cameras
 
 - **point-and-shoot** 

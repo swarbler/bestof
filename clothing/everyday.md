@@ -1,3 +1,8 @@
+---
+title: Everyday Clothing
+parent: Clothing
+nav_order: 1
+---
 # Everyday Clothing
 
 #### Clothing

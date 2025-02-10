@@ -1,3 +1,8 @@
+---
+title: Wet
+parent: Outdoor Clothing
+nav_order: 4
+---
 # Wet
 
 #### Clothing

@@ -1,3 +1,8 @@
+---
+title: Handhelds
+parent: Gaming
+nav_order: 2
+---
 # Handhelds
 
 ## PC Gaming

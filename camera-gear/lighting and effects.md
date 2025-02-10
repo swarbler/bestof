@@ -1,3 +1,8 @@
+---
+title: Lighting and Effects
+parent: Camera Gear
+nav_order: 3
+---
 # Lighting and Effects
 
 ## Lights

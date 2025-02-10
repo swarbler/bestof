@@ -1,3 +1,8 @@
+---
+title: VR
+parent: Gaming
+nav_order: 5
+---
 # VR
 
 #### Standalone Headsets

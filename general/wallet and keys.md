@@ -1,3 +1,8 @@
+---
+title: Wallet and Keys
+parent: General
+nav_order: 4
+---
 # Wallet and Keys
 
 - **wallet:** Bellroy Hide & Seek

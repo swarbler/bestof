@@ -1,3 +1,8 @@
+---
+title: Memory Cards
+parent: Camera Gear
+nav_order: 4
+---
 # Memory Cards
 
 #### Cards

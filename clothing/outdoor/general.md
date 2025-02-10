@@ -1,3 +1,8 @@
+---
+title: General
+parent: Outdoor Clothing
+nav_order: 1
+---
 # General
 
 #### Clothing

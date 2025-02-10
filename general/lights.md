@@ -1,3 +1,8 @@
+---
+title: Lights
+parent: General
+nav_order: 1
+---
 # Lights
 
 #### Flashlights

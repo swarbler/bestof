@@ -1,4 +1,9 @@
-# Cameras and Lenses (cleaning)
+---
+title: Cameras and Lenses
+parent: Delicate
+nav_order: 2
+---
+# Cameras and Lenses
 
 #### General Cleaning
 

@@ -1,3 +1,8 @@
+---
+title: Cameras
+parent: Camera Gear
+nav_order: 1
+---
 # Cameras
 
 #### Hybrid
