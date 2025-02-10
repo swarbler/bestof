@@ -13,3 +13,7 @@ callouts:
     title: Note
     color: blue
 
+aux_links:
+  sbird:
+    - https://swarbler.github.io
+
