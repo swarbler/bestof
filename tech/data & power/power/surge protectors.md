@@ -1,3 +1,8 @@
+---
+title: Surge Protectors
+parent: Power
+nav_order: 4
+---
 # Surge Protectors
 
 - **standard:** Tripp Lite TLP1208 Protect It! *(12 outlets)*

@@ -1,3 +1,8 @@
+---
+title: Cables
+parent: Power
+nav_order: 2
+---
 # Power Cables
 
 #### USB-C

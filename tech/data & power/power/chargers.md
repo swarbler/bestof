@@ -1,3 +1,8 @@
+---
+title: Chargers
+parent: Power
+nav_order: 2
+---
 # Chargers
 
 #### USB Chargers

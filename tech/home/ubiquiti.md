@@ -1,3 +1,8 @@
+---
+title: Ubiquiti
+parent: Home
+nav_order: 6
+---
 # Ubiquiti
 
 #### Networking

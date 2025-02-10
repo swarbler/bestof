@@ -1,3 +1,8 @@
+---
+title: Custom Water Cooling
+parent: PC Setup
+nav_order: 3
+---
 # Custom Water Cooling
 
 #### Pump and Reservoir

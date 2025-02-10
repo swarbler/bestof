@@ -1,3 +1,8 @@
+---
+title: Smart Home
+parent: Home
+nav_order: 1
+---
 # Smart Home
 
 #### Smart Hubs

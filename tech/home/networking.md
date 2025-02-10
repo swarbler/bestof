@@ -1,3 +1,8 @@
+---
+title: Networking
+parent: Home
+nav_order: 3
+---
 # Networking
 
 - **router** 

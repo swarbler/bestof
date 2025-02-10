@@ -1,3 +1,8 @@
+---
+title: ATX
+parent: PC Builds
+nav_order: 1
+---
 # ATX Builds
 
 #### Cheaper

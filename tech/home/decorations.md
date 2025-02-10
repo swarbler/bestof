@@ -1,3 +1,8 @@
+---
+title: Decorations
+parent: Home
+nav_order: 5
+---
 # Decorations
 
 - **decorative wall lights:** Nanoleaf

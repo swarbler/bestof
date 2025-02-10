@@ -1,3 +1,8 @@
+---
+title: Rackmount
+parent: PC Builds
+nav_order: 3
+---
 # Rackmount Builds
 
 - **case:** Sliger CX3151a *(15" deep)*

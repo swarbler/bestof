@@ -1,3 +1,8 @@
+---
+title: Hard Drives
+parent: Storage
+nav_order: 1
+---
 # Hard Drives
 
 ## HDDs

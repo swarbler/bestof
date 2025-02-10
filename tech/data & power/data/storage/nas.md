@@ -1,3 +1,8 @@
+---
+title: NAS
+parent: Storage
+nav_order: 3
+---
 # NAS
 
 ## Pre-built

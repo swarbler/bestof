@@ -1,3 +1,8 @@
+---
+title: External Drives
+parent: Storage
+nav_order: 2
+---
 # External Drives
 
 - **USB drives** 

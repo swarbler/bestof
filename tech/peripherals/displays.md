@@ -1,3 +1,8 @@
+---
+title: Displays
+parent: Peripherals
+nav_order: 1
+---
 # Displays
 
 #### Monitors

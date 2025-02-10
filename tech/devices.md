@@ -1,3 +1,8 @@
+---
+title: Devices
+parent: Tech
+nav_order: 1
+---
 # Devices
 
 ## For All Devices

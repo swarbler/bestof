@@ -1,3 +1,8 @@
+---
+title: Input Devices
+parent: Peripherals
+nav_order: 2
+---
 # Input Devices
 
 #### Mice

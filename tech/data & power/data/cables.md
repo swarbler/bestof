@@ -1,3 +1,8 @@
+---
+title: Cables
+parent: Data
+nav_order: 2
+---
 # Data Cables
 
 #### USB-C Cables

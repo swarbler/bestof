@@ -1,3 +1,8 @@
+---
+title: SFF
+parent: PC Builds
+nav_order: 2
+---
 # SFF Builds
 
 #### Cheaper

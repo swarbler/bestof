@@ -1,3 +1,8 @@
+---
+title: Capture Cards
+parent: Data
+nav_order: 4
+---
 # Capture Cards
 
 - **USB stick:** Elgato CamLink 4K

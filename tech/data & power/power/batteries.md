@@ -1,3 +1,8 @@
+---
+title: Batteries
+parent: Power
+nav_order: 1
+---
 # Batteries
 
 #### Power Banks
@@ -62,6 +67,26 @@
 - **quad-bay** 
 	- **standard:** Xtar VC4SL
 	- **most features:** SkyRC MC3000
+
+#### Camera Batteries
+
+- **Sony**
+	- **standard:** NP-FZ100
+	- **smaller APS-C:** NP-FW50
+	- **RX100 series:** NP-BX1
+- **Panasonic Lumix:** DMW-BLK2
+- **Fujifilm:** NP-W235
+- **Ricoh:** DB-110
+
+##### V-mount
+
+- **standard:** Smallrig
+- **rugged:** Core SWX NanoX Micro
+
+##### NPF
+
+- **standard:** Smallrig
+- **better:** Sony
 
 #### Storage
 

@@ -1,3 +1,8 @@
+---
+title: Gadgets
+parent: Tech
+nav_order: 5
+---
 # Gadgets
 
 #### USB Testers

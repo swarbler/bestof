@@ -1,3 +1,8 @@
+---
+title: Keyboards
+parent: Peripherals
+nav_order: 3
+---
 # Keyboards
 
 ## Membrane
