@@ -1,3 +1,8 @@
+---
+title: CNC Machining
+parent: Making
+nav_order: 2
+---
 # CNC Machining
 
 #### CNC Machines

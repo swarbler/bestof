@@ -1,3 +1,8 @@
+---
+title: Cleaning
+parent: Workshop
+nav_order: 7
+---
 # Cleaning
 
 #### Cleaning

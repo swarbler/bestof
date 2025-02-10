@@ -1,3 +1,8 @@
+---
+title: Craft
+parent: Making
+nav_order: 5
+---
 # Craft
 
 ## Tools

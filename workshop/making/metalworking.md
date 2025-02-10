@@ -1,3 +1,8 @@
+---
+title: Metalworking
+parent: Making
+nav_order: 6
+---
 # Metalworking
 
 #### Welders

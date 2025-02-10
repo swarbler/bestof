@@ -1,3 +1,8 @@
+---
+title: 3D Printing
+parent: Making
+nav_order: 1
+---
 # 3D Printing
 
 ## Printers

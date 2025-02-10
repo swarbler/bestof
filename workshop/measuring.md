@@ -1,3 +1,8 @@
+---
+title: Adhesives and Fixtures
+parent: Workshop
+nav_order: 4
+---
 # Measuring
 
 #### Length Measurements

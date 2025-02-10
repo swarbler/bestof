@@ -1,3 +1,8 @@
+---
+title: Sensors
+parent: Workshop
+nav_order: 8
+---
 # Sensors
 
 - **barcode scanner:** Tera / Zebra

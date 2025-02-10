@@ -1,3 +1,8 @@
+---
+title: Hand Tools
+parent: Workshop
+nav_order: 2
+---
 # Hand Tools
 
 ## Fastening

@@ -1,3 +1,8 @@
+---
+title: Electronics
+parent: Making
+nav_order: 3
+---
 # Electronics
 
 #### Precision Tools

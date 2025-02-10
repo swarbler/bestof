@@ -1,3 +1,8 @@
+---
+title: Painting
+parent: Making
+nav_order: 4
+---
 # Painting
 
 #### Paint

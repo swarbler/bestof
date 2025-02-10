@@ -1,3 +1,8 @@
+---
+title: Protection
+parent: Workshop
+nav_order: 6
+---
 # Protection
 
 #### Face/Eye
