@@ -1,5 +1,5 @@
 ---
-title: Audio
+title: Workshop
 nav_order: 14
 ---
 # Workshop
