@@ -1,3 +1,8 @@
+---
+title: Cable Management
+parent: My Room
+nav_order: 3
+---
 # Cable Management
 
 #### Cables and Cords

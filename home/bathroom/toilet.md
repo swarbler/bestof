@@ -1,3 +1,8 @@
+---
+title: Toilet
+parent: Bathroom
+nav_order: 3
+---
 # Toilet
 
 - **toilet paper** 

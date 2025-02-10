@@ -1,3 +1,8 @@
+---
+title: TV
+parent: Living Room
+nav_order: 1
+---
 # TV
 
 *don't connect "smart" TVs to internet to make them dumb TVs*

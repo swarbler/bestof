@@ -1,3 +1,8 @@
+---
+title: Organisation
+parent: Home
+nav_order: 7
+---
 # Organisation
 
 ## Storage

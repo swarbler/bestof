@@ -1,3 +1,8 @@
+---
+title: Appliances
+parent: Kitchen
+nav_order: 2
+---
 # Appliances
 
 - **toaster oven:** Breville / Panasonic FlashXpress

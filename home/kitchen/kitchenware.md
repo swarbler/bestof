@@ -1,3 +1,8 @@
+---
+title: Kitchenware
+parent: Kitchen
+nav_order: 1
+---
 # Kitchenware
 
 ## Cooking

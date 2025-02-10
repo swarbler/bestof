@@ -1,3 +1,8 @@
+---
+title: Organisation
+parent: Kitchen
+nav_order: 3
+---
 # Organisation
 
 #### Kitchenware

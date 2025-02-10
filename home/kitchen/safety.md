@@ -1,3 +1,8 @@
+---
+title: Safety
+parent: Kitchen
+nav_order: 4
+---
 # Safety
 
 #### Hand Protection

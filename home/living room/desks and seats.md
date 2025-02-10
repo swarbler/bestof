@@ -1,8 +1,14 @@
+---
+title: Desks and Seats
+parent: Living Room
+nav_order: 2
+---
 # Desks and Seats
 
 #### Desks
 
 - **folding desk:** 4NM
+?
 
 #### Pillows
 

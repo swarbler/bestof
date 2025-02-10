@@ -1,3 +1,8 @@
+---
+title: Shower
+parent: Bathroom
+nav_order: 1
+---
 # Shower
 
 ## Washing

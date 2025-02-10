@@ -1,3 +1,8 @@
+---
+title: Bedroom
+parent: Home
+nav_order: 1
+---
 # Bedroom
 
 ## Bed

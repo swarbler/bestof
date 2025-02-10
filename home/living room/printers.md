@@ -1,3 +1,8 @@
+---
+title: Printers
+parent: Living Room
+nav_order: 4
+---
 # Printers
 
 - **laser printer:** Brother HL-L2350DW / HL-L2370DW

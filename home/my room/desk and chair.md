@@ -1,4 +1,9 @@
-# Desk
+---
+title: Desk Setup
+parent: My Room
+nav_order: 1
+---
+# Desk Setup
 
 - **tabletop:** *butcher block countertop* / Ikea Karlby
 - **non-adjustable desk:** Ikea Lagtapten + Alex

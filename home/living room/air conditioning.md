@@ -1,3 +1,8 @@
+---
+title: Air Conditioning
+parent: Living Room
+nav_order: 3
+---
 # Air Conditioning
 
 #### Fans

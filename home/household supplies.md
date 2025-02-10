@@ -1,3 +1,8 @@
+---
+title: Household Supplies
+parent: Home
+nav_order: 6
+---
 # Household Supplies
 
 - **body lotion:** Aveeno
