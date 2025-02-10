@@ -18,12 +18,13 @@ nav_order: 4
 - **tiny + cheap:** Razer Seiren Mini
 - **standard:** Sennheiser Profile
 
-## XLR Interfaces
+## Interfaces
 
 - **cheaper:** mTrack Solo
 - **standard:** Scarlett Solo
 - **better:** SSL2 / Motu M2 / iD4 Mark II
 - **upgrade:** Babyface Pro
+- **podcasts + content creating:** Rodecaster Duo
 
 ## Other Accessories
 

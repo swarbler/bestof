@@ -5,6 +5,8 @@ nav_order: 1
 ---
 # Cameras
 
+## Cameras
+
 #### Hybrid
 
 - **cheaper:** Sony A6400 *(A6500 has worse AF + worse battery but has IBIS)*
@@ -24,7 +26,11 @@ nav_order: 1
 	- **standard:** DJI Action 4
 	- **better:** DJI Action 5 Pro *(brighter OLED screens + 4K120 + higher resolution + more dynamic range + larger battery)*
 
-#### Drones
+#### Other Cameras
+
+- **overhead camera:** Panasonic Lumix ZS80 / Sony ZV1-F
+
+## Drones
 
 *<250g*
 - **beginner:** DJI Neo
@@ -37,6 +43,9 @@ nav_order: 1
 - **better:** DJI Air 3S
 - **upgrade:** DJI Mavic 3 Pro
 
-#### Other
+## Interfaces
 
-- **overhead camera:** Panasonic Lumix ZS80 / Sony ZV1-F
+- **video switcher** 
+	- **standard:** ATEM Mini / Ulanzi DD02
+	- **better:** ATEM *(ISO models)*
+	- **large screen:** FeelWorld L4
