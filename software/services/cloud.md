@@ -1,3 +1,8 @@
+---
+title: Cloud
+parent: Services
+nav_order: 1
+---
 # Cloud Services
 
 #### Everyday

@@ -1,3 +1,8 @@
+---
+title: Bike
+parent: Vehicles
+nav_order: 2
+---
 # Bike
 
 - **e-bike:** Aventon Pace 500.3 / Level.2

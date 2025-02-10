@@ -1,3 +1,8 @@
+---
+title: Tech
+parent: Travel
+nav_order: 2
+---
 # Travel Tech
 
 #### Mouse

@@ -1,3 +1,8 @@
+---
+title: Outdoor Gear
+parent: Outdoor
+nav_order: 1
+---
 # Outdoor Gear
 
 #### Vision

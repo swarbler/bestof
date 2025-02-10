@@ -1,3 +1,8 @@
+---
+title: Comfort
+parent: Travel
+nav_order: 4
+---
 # Comfort
 
 - **sleep mask:** Alaska Bear natural silk

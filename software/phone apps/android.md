@@ -1,3 +1,8 @@
+---
+title: Android
+parent: Phone Apps
+nav_order: 2
+---
 # Android Apps
 
 - **browser:** Firefox / Fennec / Mull

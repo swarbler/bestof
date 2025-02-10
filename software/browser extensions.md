@@ -1,3 +1,8 @@
+---
+title: Browser Extensions
+parent: Software
+nav_order: 4
+---
 # Browser Extensions
 
 #### Firefox

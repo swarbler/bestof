@@ -1,3 +1,8 @@
+---
+title: Toiletries
+parent: Travel
+nav_order: 3
+---
 # Travel Toiletries
 
 #### Storage

@@ -1,3 +1,8 @@
+---
+title: Self-Hosted
+parent: Services
+nav_order: 2
+---
 # Self-Hosted Services
 
 #### Everyday

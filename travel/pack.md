@@ -1,3 +1,8 @@
+---
+title: Pack
+parent: Travel
+nav_order: 1
+---
 # Pack
 
 #### Backpacks

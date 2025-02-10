@@ -1,3 +1,8 @@
+---
+title: Desktop Apps
+parent: Software
+nav_order: 1
+---
 # Desktop Apps
 
 ## Everyday
