@@ -1,7 +1,7 @@
 ---
 title: Home Theater
 parent: Audio
-nav_order: 5
+nav_order: 6
 ---
 # Home Theater
 

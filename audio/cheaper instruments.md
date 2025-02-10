@@ -1,7 +1,7 @@
 ---
 title: Cheaper Instruments
 parent: Audio
-nav_order: 2
+nav_order: 7
 ---
 # Cheaper Instruments
 

@@ -1,7 +1,7 @@
 ---
 title: Headphones
 parent: Audio
-nav_order: 4
+nav_order: 2
 ---
 # Headphones
 
