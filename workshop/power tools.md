@@ -29,7 +29,7 @@ nav_order: 1
 
 ## Impact Driver
 
-- **standard:** Milwaukee M18 Fuel
+- **standard:** Dewalt *(DCF860B)* / Milwaukee M18 Fuel
 - **right-angle:** Milwaukee M18
 
 ##### Bits
