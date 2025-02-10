@@ -1,3 +1,8 @@
+---
+title: Cables
+parent: Audio
+nav_order: 1
+---
 # Cables
 
 #### Audio Jack

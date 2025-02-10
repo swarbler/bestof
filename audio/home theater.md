@@ -1,3 +1,8 @@
+---
+title: Home Theater
+parent: Audio
+nav_order: 5
+---
 # Home Theater
 
 #### Speakers

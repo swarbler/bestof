@@ -1,3 +1,8 @@
+---
+title: DACs and AMPs
+parent: Audio
+nav_order: 3
+---
 # DACs and AMPs
 
 #### Combo DAC/AMP

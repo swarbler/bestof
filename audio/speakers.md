@@ -1,3 +1,8 @@
+---
+title: Speakers
+parent: Audio
+nav_order: 8
+---
 # Speakers
 
 ## Computer Speakers

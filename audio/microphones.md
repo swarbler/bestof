@@ -1,3 +1,8 @@
+---
+title: Microphones
+parent: Audio
+nav_order: 7
+---
 # Microphones
 
 ## Mics

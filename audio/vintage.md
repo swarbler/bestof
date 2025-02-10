@@ -1,3 +1,8 @@
+---
+title: Vintage
+parent: Audio
+nav_order: 9
+---
 # Vintage
 
 - **cassette player:** Sony Walkman *(used)*

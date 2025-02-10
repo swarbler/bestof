@@ -1,3 +1,8 @@
+---
+title: Cheaper Instruments
+parent: Audio
+nav_order: 2
+---
 # Cheaper Instruments
 
 ## Digital Piano

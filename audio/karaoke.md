@@ -1,3 +1,8 @@
+---
+title: Karaoke
+parent: Audio
+nav_order: 6
+---
 # Karaoke
 
 - **mixer:** Yamaha MG06X
