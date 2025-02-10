@@ -1,3 +1,7 @@
+---
+title: home
+nav_order: 0
+---
 # bestof - the best things!
 
 ## what is this?
