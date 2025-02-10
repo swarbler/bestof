@@ -1,6 +1,6 @@
 ---
 title: Car
-parent: Travel
+parent: Vehicles
 nav_order: 1
 ---
 # Car

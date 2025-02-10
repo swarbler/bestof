@@ -1,7 +1,7 @@
 ---
 title: Food and Drink
 parent: Travel
-nav_order: 5
+nav_order: 3
 ---
 # Food and Drink
 
