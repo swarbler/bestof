@@ -25,7 +25,9 @@ nav_order: 3
 - **packing:** Duck EZ Start / HD Clear / Max Strength
 	- **dispenser:** Scotch H180 industrial
 - **masking:** Scotch general purpose
-- **kapton:** Elegoo
+- **kapton** 
+	- **cheaper:** Elegoo
+	- **better:** Kapton by DuPont
 
 #### Strips
 
