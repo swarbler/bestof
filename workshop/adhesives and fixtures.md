@@ -72,8 +72,12 @@ nav_order: 3
 
 - **wood screws:** Grip-Rite / GRK / Spax
 - **drywall anchors:** Fischer
-- **heat-set screw inserts:** ?
+- **heat-set screw inserts** 
+	- **cheaper:** *generic*
+	- **better:** Ruthex
 
 ## Magnets
 
-- **standard:** K&J Magnetics?
+- **standard** 
+	- **cheaper:** *generic*
+	- **better:** K&J Magnetics
