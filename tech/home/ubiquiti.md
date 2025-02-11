@@ -1,6 +1,6 @@
 ---
 title: Ubiquiti
-parent: Home
+parent: Home Tech
 nav_order: 6
 ---
 # Ubiquiti

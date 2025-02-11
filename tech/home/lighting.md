@@ -1,6 +1,6 @@
 ---
 title: Lighting
-parent: Home
+parent: Home Tech
 nav_order: 2
 ---
 # Lighting

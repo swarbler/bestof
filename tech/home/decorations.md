@@ -1,6 +1,6 @@
 ---
 title: Decorations
-parent: Home
+parent: Home Tech
 nav_order: 5
 ---
 # Decorations

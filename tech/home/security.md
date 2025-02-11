@@ -1,6 +1,6 @@
 ---
 title: Security
-parent: Home
+parent: Home Tech
 nav_order: 4
 ---
 # Security

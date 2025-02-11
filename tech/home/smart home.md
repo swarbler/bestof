@@ -1,6 +1,6 @@
 ---
 title: Smart Home
-parent: Home
+parent: Home Tech
 nav_order: 1
 ---
 # Smart Home

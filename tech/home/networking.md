@@ -1,6 +1,6 @@
 ---
 title: Networking
-parent: Home
+parent: Home Tech
 nav_order: 3
 ---
 # Networking
