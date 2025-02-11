@@ -8,7 +8,9 @@ nav_order: 2
 ## PC Gaming
 
 - **handheld:** Steam Deck OLED
-	- **alternative:** ROG Ally *(with Bazzite)*
+
+{: .alternative }
+ROG Ally with Bazzite
 
 #### Accessories
 

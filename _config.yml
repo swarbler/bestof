@@ -8,15 +8,18 @@ plugins:
 color_scheme: bird
 
 callouts:
-  warning:
-    title: Warning
+  alternative:
+    title: alternative
     color: yellow
   note:
-    title: Note
+    title: note
     color: blue
-  purple:
-    title: Fun Fact
-    color: purple
+  warning:
+    title: warning
+    color: red
+  upcoming:
+    title: upcoming
+    color: green
   
 nav_external_links:
   - title: bestof on GitHub

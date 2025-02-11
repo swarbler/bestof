@@ -131,6 +131,11 @@ nav_order: 1
 	- **standard:** OnePlus Open / Oppo Find N3
 	- **thinner:** Honor Magic V3
 
+{: .upcoming-title }
+> Upcoming book-style foldable
+> 
+> OnePlus Open 2 / Oppo Find N5
+
 #### iOS
 
 - **standard:** iPhone *(wait for ProMotion)*
@@ -231,6 +236,12 @@ nav_order: 1
 - **cheaper:** Galaxy Watch 4
 	- **alternative:** Galaxy Watch FE *(same specs except newer software)*
 - **standard:** OnePlus Watch 2
+
+
+{: .upcoming-title }
+> Upcoming WearOS smartwatch
+> 
+> OnePlus Watch 3
 
 #### watchOS
 

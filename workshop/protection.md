@@ -41,14 +41,17 @@ nav_order: 6
 #### Welding
 
 - **welding helmet:** Lincoln Electric Viking 3350
-	- **alternative:** Yeswelder welder mask *(not very durable)*
+	- **alternative:** Yeswelder welder mask *(not as durable)*
 - **welding jacket:** Lincoln Electric
 - **welding pants:** Wrangler Riggs FR carpenter jeans
-	- **alternative:** Dickies sanded duck carpenter jeans *(not flame resistant)*
+	- **alternative:** Dickies sanded duck carpenter jeans
 - **welding gloves**
 	- **for MIG welding (split cowhide leather):** Lincoln Electric Traditional
 	- **for TIG welding (goatskin):** Lincoln Electric Grain Leather
 - **fibreglass welding blanket:** *any*
+
+{: .warning }
+Dickies carpenter jeans are **NOT** flame resistant!
 
 #### Paint
 

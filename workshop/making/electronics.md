@@ -11,10 +11,12 @@ nav_order: 3
 	- **cheaper:** Jakemy
 	- **standard:** Klein Tools
 	- **better:** iFixit
-		- **alternative:** LTT *(spinny + bit compartment)*
 	- **electric:** Xiaomi
 - **spudger:** Jakemy
 - **mini rotary tool:** Dremel
+
+{: .alternative }
+The LTT precision screwdriver is a bit more expensive than the iFixit, but includes a spinny fidget with ceramic bearings and a bit compartment
 
 #### Wire Strippers
 

@@ -23,7 +23,11 @@ nav_order: 1
 ## Documents
 
 - **office suites:** LibreOffice
-	- **Windows alternative:** OnlyOffice
+
+{: .alternative-title }
+> Alternative for Windows
+> 
+> OnlyOffice
 
 ## Utilities
 
@@ -110,8 +114,8 @@ nav_order: 1
 - **GUI git client:** Fork
 	- **alternative:** lazygit
 
-{: .note }
-you can use the Git Graph extension in VSCodium
+{: .alternative }
+the Git Graph extension in VSCodium
 
 ## Image + Video + Audio Editing
 

@@ -6,7 +6,7 @@ nav_order: 5
 # Decorations
 
 - **decorative wall lights:** Nanoleaf
-	- **alternative:** *DIY with WLED strips + 3D printing*
+	- **alternative:** *DIY with WLED strips*
 - **digital picture frames**
 	- **standard:** Aura Mason *(4:3)*
 	- **landscape only:** Aura Carver *(16:10)*

@@ -55,7 +55,9 @@ nav_order: 4
 
 ##### Android
 
-- **coin style:** Moto Tag *(fits in AirTag accessories + UWB)*
-	- **alternative:** Pebblebee
+- **coin style:** Moto Tag / Pebblebee
 - **card style:** Pebblebee
 - **tag style:** Pebblebee
+
+{: .note }
+Moto Tag has UWB support + fits in AirTag accessories

@@ -31,7 +31,11 @@ nav_order: 3
 
 - **todo.txt:** 2do.txt *(free)* / Swiftodo *(paid)*
 - **calendar:** *Calendar*
-	- **alternatives:** Across *(free)* / Creme *(free)* / Calendar 366 *(paid)*
+
+{: .alternative-title }
+> Alternative Calendar Apps
+> 
+> Across *(free)* / Creme *(free)* / Calendar 366 *(paid)*
 
 #### Social
 
@@ -68,6 +72,6 @@ nav_order: 3
 - **dialer:** *Phone*
 - **contacts:** *Contacts*
 - **SMS messenger:** *iMessage*
-- **file manager:** FE File Explorer Pro / FileBrowser *(both require purchase)*
+- **file manager:** FE File Explorer Pro *(paid)* / FileBrowser *(paid)* / Owlfiles *(free)*
 	- **alternative:** Documents by Readdle
 - **QR codes:** Qewie

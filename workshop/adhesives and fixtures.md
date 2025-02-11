@@ -68,8 +68,7 @@ nav_order: 3
 
 ## Screws
 
-- **wood** **screws:** Grip-Rite
-	- **alternative:** GRK / Spax
+- **wood screws:** Grip-Rite / GRK / Spax
 - **drywall anchors:** Fischer
 - **heat-set screw inserts:** ?
 

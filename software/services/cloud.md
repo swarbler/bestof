@@ -8,9 +8,19 @@ nav_order: 1
 #### Everyday
 
 - **email:** Disroot *(free)* / mailbox.org *(paid)*
-	- **alternatives:** Proton Mail / Tuta *(neither are IMAP)*
+
+{: .alternative-title }
+> Alternative Emails
+> 
+> Proton Mail / Tuta *(neither are IMAP)*
+
 - **search engine:** DuckDuckGo / Mojeek / SearXNG
-	- **alternative:** Kagi *(subscription required)*
+
+{: .alternative-title }
+> Alternative Search Engine
+> 
+> Kagi *(subscription required)*
+
 - **notes:** Cryptpad / Etherpad
 
 #### Communication
@@ -41,8 +51,13 @@ nav_order: 1
 
 #### Security
 
-- **password manager:** Bitwarden *(Proton Pass is also good)*
-	- **alternative:** 1Password *(closed-source)*
+- **password manager:** Bitwarden
+
+{: .alternative-title }
+> Alternative Password Managers
+> 
+> Proton Pass (open source) / 1Password (closed source)
+
 - **2FA:** Ente Auth
 - **VPN:** Proton VPN / Mullvad VPN
 - **DNS:** Cloudflare / NextDNS

@@ -12,8 +12,10 @@ nav_order: 2
 - **cheaper:** OnePlus Buds 3 / Soundcore Liberty 4 NC / Earfun Air 4 Pro
 - **upgrade:** Momentum True Wireless 4
 	- **alternative:** Jabra Elite 10 *(Gen 2)*
-	- *Jabra is out of the TWS buds market*
 - **open-ear:** LinkBuds Open
+
+{: .warning }
+Jabra is out of the consumer audio market
 
 #### Wired
 
