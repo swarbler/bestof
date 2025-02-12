@@ -46,6 +46,14 @@ nav_order: 4
 		- **wide-angle:** Duo 2 PoE
 - **smart doorbell:** Reolink
 
+##### Ubiquiti Cameras
+
+- **cameras** 
+	- **cheaper:** G5 Flex
+	- **indoor:** G5 Dome
+	- **outdoor:** G5 Bullet
+- **doorbell:** G4 Doorbell Pro
+
 #### Bluetooth Trackers
 
 ##### iOS

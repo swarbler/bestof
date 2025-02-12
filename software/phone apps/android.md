@@ -59,7 +59,6 @@ nav_order: 2
 
 - **dialer:** Emerald Dialer / Fossify Dialer
 - **contacts:** Connect You / Fossify Contacts
-	- **alternative:** *CardDAV*
 - **SMS messenger:** Quik SMS
 - **keyboard:** FlorisBoard / HeliBoard
 - **file manager:** Material Files / MiXplorer

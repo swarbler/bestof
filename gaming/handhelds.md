@@ -16,6 +16,7 @@ ROG Ally with Bazzite
 
 - **grip case:** dbrand KillSwitch
 - **skins:** dbrand
+- **carrying case:** ?
 
 ## Retro Handhelds
 

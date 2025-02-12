@@ -51,8 +51,6 @@ nav_order: 1
 			- **screen:** *14” 120hz OLED*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 1TB*
-		- Yoga Slim 9i?
-		- MSI Prestige 13 AI+ Evo?
 - **powerful:** ProArt P16 / ROG Zephyrus G16
 	- *Ryzen AI 9 HX 370*
 	- ***summary:***

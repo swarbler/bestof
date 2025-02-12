@@ -5,7 +5,11 @@ nav_order: 3
 ---
 # NAS
 
-## Pre-built
+## Entry-Level
+
+- **cheaper:** Synology BeeStation 4TB
+
+## Standard
 
 #### QNAP
 
@@ -28,14 +32,12 @@ nav_order: 3
 - **2-bay:** F2-424 *(or Pro)*
 - **4-bay:** F4-424 *(or Pro)*
 - **6-bay:** F6-424 *(or Pro)*
-- **8-bay NVMe:** F8 SSD
 
 #### Asustor
 
 *great hardware, might be a bit overkill*
 - **4-bay:** Lockerstor 4 Gen 3
 - **6-bay:** Lockerstor 6 Gen 3
-- **NVMe:** Flashstor Gen 2 *(6-bay or 12-bay)*
 
 #### Ugreen
 
