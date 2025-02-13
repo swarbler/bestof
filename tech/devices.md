@@ -15,37 +15,42 @@ nav_order: 1
 #### Windows
 
 - **everyday** 
-	- **ARM:** Surface Laptop 7 / Zenbook A14
+	- **ARM:** Surface Laptop 7 / Yoga Slim 7x / Zenbook A14
 		- *Snapdragon X series*
 		- ***summary:***
 			- **Surface Laptop 7** is the best overall ARM laptop with *good ports + haptic trackpad*
+			- **Yoga Slim 7x** is a good alternative option if you want *OLED*, but has *terrible ports*
 			- **Zenbook A14** is *cheaper and incredibly lightweight* but is *60hz*
 		- **Surface Laptop 7** *(haptic touchpad)*
 			- **screen:** *13/15" 120hz LCD touchscreen*
 			- **ports:** *2x USB-C 40Gbps + USB-A 5Gbps + Surface Connect + audio jack*
 				- *microSD for 15" only*
 			- **memory + storage:** *up to 32GB + 1TB
+		- **Yoga Slim 7x**
+			- **screen:** *14” 90hz OLED touchscreen*
+			- **ports:** *3x USB-C 40Gbps…that’s it?*
+			- **memory + storage:** *up to 32GB + 1TB*
 		- **Zenbook A14**
 			- **screen:** *14" 60hz IPS (OLED for X Elite varient)*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 1TB*
-	- **x86 (AMD):** Zenbook S 16 / Yoga Pro 7
+	- **x86 (AMD):** Yoga Pro 7 / Zenbook S 16
 		- *Ryzen AI 9 300 series*
 		- ***summary:***
-			- **Zenbook S 16** is a great option with *a larger 16” screen + great ports*
 			- **Yoga Pro 7** is also a great option with *a smaller 14” screen + a really good keyboard*
-		- **Zenbook S 16** 
-			- **screen:** *16" 120hz OLED touchscreen*
-			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack + SD*
-			- **memory + storage:** *up to 32GB + 2TB*
+			- **Zenbook S 16** is a great option with *a larger 16” screen + great ports*
 		- **Yoga Pro 7**
 			- **screen:** *14” 120hz OLED*
 			- **ports:** *USB-C 40Gbps + USB-C 10Gbps + USB-A 5Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *32GB + 1TB*
+		- **Zenbook S 16** 
+			- **screen:** *16" 120hz OLED touchscreen*
+			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack + SD*
+			- **memory + storage:** *up to 32GB + 2TB*
 	- **x86 (Intel):**  Zenbook S 14
 		- *Core Ultra Series 2*
 		- ***summary:***
-			- **Zenbook S 14** is a good option with *great ports + OLED*
+			- **Zenbook S 14** is a great option with *great ports + OLED*
 		- **Zenbook S 14**
 			- *up to Core Ultra 9 Series 2* 
 			- **screen:** *14” 120hz OLED*
@@ -65,7 +70,6 @@ nav_order: 1
 	- **shared specs**
 		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + 2x USB-A 10Gbps + HDMI 2.1 + audio jack + DC-in + SD card reader*
 		- **graphics:** *RTX 4060/70*
-	- Lenovo Legion?
 
 #### MacOS
 
@@ -198,10 +202,19 @@ nav_order: 1
 
 #### Android
 
-- **cheaper:** Xiaomi Pad 7
+- **budget:** onn
+- **cheaper:** Lenovo Tab Plus
 - **smaller:** Lenovo Legion Tab
 - **standard:** OnePlus Pad 2
 - **upgrade:** Galaxy Tab S10 series *(anti-reflective OLED)*
+
+{: .note }
+onn tablet is only available in Walmart
+
+{: .alternative-title }
+> Alternative cheaper Android tablets
+> 
+> any you can find on a good deal
 
 #### Linux
 

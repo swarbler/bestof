@@ -49,6 +49,10 @@ nav_order: 1
 	- **subscription:** Tidal
 	- **purchasing songs:** Bandcamp
 
+#### Programming
+
+- **git:** Codeberg / GitHub
+
 #### Security
 
 - **password manager:** Bitwarden

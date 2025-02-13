@@ -8,7 +8,7 @@ nav_order: 1
 ## Washing
 
 - **body wash** 
-	- **liquid:** Aveeno Skin Relief / Ceramedx
+	- **liquid:** Aveeno Skin Relief
 	- **bar:** CeraVe Hydrating/Foaming
 - **shampoo:** Dove *(unscented)*
 - **facial cleanser:** CeraVe Hydrating/Foaming

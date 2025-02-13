@@ -9,8 +9,9 @@ nav_order: 2
 
 - **email:** mailcow / mail-in-a-box
 - **search engine:** SearXNG
-- **notes:** Cryptpad / Etherpad
-	- **alternative:** Hedgehog / Livebook
+- **notes** 
+	- **standard:** Cryptpad / Etherpad / Hedgehog / Livebook / *others*
+	- **twitter feed style:** Memos
 
 #### Communication
 
@@ -36,6 +37,10 @@ nav_order: 2
 - **RSS feed:** RSSHub / RSS-Bridge
 - **music:** Navidrome
 - **e-books:** Calibre / Kavita / Readarr
+
+#### Programming
+
+- **git:** Gitea
 
 #### Security
 
