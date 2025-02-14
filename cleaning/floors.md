@@ -7,7 +7,7 @@ nav_order: 2
 
 #### Vacuums
 
-- **canister/upright** 
+- **canister/upright** ?
 	- **cheaper:** Kenmore 200 series
 	- **standard:** Kennmore 400 series
 	- **better:** Miele C1 Turbo Team *(Classic/Compact)* / SEBO K2 Turbo *(or E2 Turbo)*

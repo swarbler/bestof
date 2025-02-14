@@ -8,12 +8,12 @@ nav_order: 2
 #### General Cleaning
 
 - **rocket blower:** Giottos
-- **brushes:** Otis Technology
+- **brushes:** Otis Technology?
 
 #### Lens Cleaning
 
 - **lens wipes:** Kimtech Kimwipes
-- **pre-moistened lens wipes:** Zeiss lens wipes
+- **pre-moistened lens wipes:** Zeiss
 - **lens cleaner:** LensPen
 
 #### Sensor Cleaning

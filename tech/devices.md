@@ -146,9 +146,14 @@ nav_order: 1
 #### iOS
 
 - **standard:** iPhone *(wait for ProMotion)*
-- **midrange:** iPhone SE *(4th gen)*
+- **midrange:** iPhone SE *(3rd gen)*
 - **compact:** iPhone SE *(1st gen)*
 	- **alternative:** iPhone 5S *(slower processor)*
+
+{: .upcoming-title }
+> Upcoming midrange iPhone
+> 
+> iPhone SE (4th gen)
 
 #### Linux
 

@@ -136,7 +136,7 @@ nav_order: 1
 ## Ice Cream
 
 - **ice cream maker** 
-	- **canister-style:** Cuisinart ICE-21 *(best option, very cheap too)*
+	- **canister-style:** Cuisinart ICE-21
 	- **self-refridgerating:** Whynter ICM-201SB
 - **ice cream scooper:** Zeroll 1020 original 
 

@@ -23,8 +23,11 @@ nav_order: 1
 	- **better:** Lands' End
 - **waffle towels:** Onsen 
 - **bath mat**
-	- **cheaper:** Ikea *(no rubber backing)*
+	- **cheaper:** Ikea
 	- **better:** Lands’ End
+
+{: .warning }
+Don't get bath mats with a rubber backing, they don't last as long!
 
 #### Hair Dryers
 

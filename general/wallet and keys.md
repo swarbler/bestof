@@ -6,10 +6,7 @@ nav_order: 4
 # Wallet and Keys
 
 - **wallet:** Bellroy Hide & Seek
-- **key organiser** 
-	- **modular:** Keyport Pivot
-	- **basic:** Orbitkey
-	- **charging:** Nomad ChargeKey
+- **key organiser:** Keyport Pivot
 - **passport cover:** Bellroy
 
 #### Hardware Keys

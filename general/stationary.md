@@ -7,11 +7,12 @@ nav_order: 3
 
 #### Pencils
 
-- **mechanical pencil:** Uni Kuru Toga Alpha Gel Switch
+- **mechanical pencil** 
+	- **standard:** Pentel P207 / Staedtler 925
+	- **squishy grip:** Uni Kuru Toga Alpha Gel Switch
 - **pencils** 
 	- **standard:** Staedtler Mars Lumograph
 	- **drawing:** Uni Mitsubishi Hi-Uni
-- **lead holder:** Staedtler 925 series
 - **colour pencils:** Prismacolour Premier
 	- **erasable:** Uni Arterase
 - **planning pencils:** Uni Mitsubishi Vermilion and Prussian Blue   
@@ -28,22 +29,23 @@ nav_order: 3
 
 - **ballpoint** 
 	- **standard:** Uni Jetstream
-	- **ergonomic:** Uni Jetstream Alpha Gel Grip
-	- **low-noise:** Zebra bLen
+	- **squishy grip:** Uni Jetstream Alpha Gel
+	- **firmer grip:** Pilot Dr. Grip
 - **gel** 
 	- **standard:** Uni-ball Signo UM-151
-	- **ergonomic:** Uni-ball Signo 207 Premier
+	- **squishy grip:** Uni-ball Signo 207 Premier
+	- **firmer grip:** Pilot Dr. Grip
 - **multi-pen** 
 	- **standard:** Uni Jetstream
-	- **low-noise:** Zebra bLen 3C
+	- **firmer grip:** Pilot Dr. Grip
 
 #### Markers
 
-- **retractable tip:** Zebra ClickArt Knock Sign
 - **label:** Zebra Mackee
 - **drawing:** Faber-Castell PITT
 - **dry erase:** Pilot Board Master
 - **multi-surface:** Uni Posca
+- **retractable tip:** Zebra ClickArt Knock Sign
 
 #### Highlighters
 

@@ -13,7 +13,7 @@ nav_order: 3
 	- **standard:** Fiio KA3
 		- **with display:** Fiio KA5
 	- **higher power:** Fiio KA13
-	- **upgrade:** Fiio KA17 *(more expensive + larger)*
+	- **upgrade:** Fiio KA17? *(more expensive + larger)*
 - **Bluetooth** 
 	- **standard:** Fiio BTR5
 	- **better:** Fiio BTR7
