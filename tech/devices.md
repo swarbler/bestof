@@ -47,10 +47,16 @@ nav_order: 1
 			- **screen:** *16" 120hz OLED touchscreen*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack + SD*
 			- **memory + storage:** *up to 32GB + 2TB*
-	- **x86 (Intel):**  Zenbook S 14
+	- **x86 (Intel):** Yoga Slim 7i Aura Edition / Zenbook S 14
 		- *Core Ultra Series 2*
 		- ***summary:***
-			- **Zenbook S 14** is a great option with *great ports + OLED*
+			- **Yoga Slim 7i Aura Edition** is a great option with *good keyboard + solid build quality* but the screen is *LCD*
+			- **Zenbook S 14** is also a great option if you want *OLED*
+		- **Yoga Slim 7i Aura Edition**
+			- *Core Ultra 7 Series 2*
+			- **screen:** *15" 120hz LCD*
+			- **ports:** *2x USB-C 40Gbps + USB-A 5Gbps + HDMI 2.1 + audio jack*
+			- **memory + storage:** *up to 32GB + 1TB*
 		- **Zenbook S 14**
 			- *up to Core Ultra 9 Series 2* 
 			- **screen:** *14” 120hz OLED*
