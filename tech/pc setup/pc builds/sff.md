@@ -13,7 +13,7 @@ nav_order: 2
 		- **no integrated GPU:** Ryzen 5 7500F
 	- **Zen 5:** Ryzen 5 9600X
 - **motherboard:** Asrock A620I Lightning WiFi
-- **GPU:** RX 7700 XT
+- **GPU:** RX 6800 XT / RX 7700 XT
 	- **cheaper:** Intel Arc B580
 - **RAM:** 6000MT/s CL30 DDR5
 - **CPU cooler:** *stock* / Phantom Spirit 120SE

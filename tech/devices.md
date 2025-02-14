@@ -194,7 +194,7 @@ nav_order: 1
 
 #### Windows
 
-- **standard:** ProArt PZ13
+- **standard:** ProArt PZ13 / Surface Pro 11 *(Snapdragon X series)*
 
 #### iPadOS
 

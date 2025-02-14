@@ -16,7 +16,12 @@ ROG Ally with Bazzite
 
 - **grip case:** dbrand KillSwitch
 - **skins:** dbrand
-- **carrying case:** ?
+- **carrying case:** tomtoc Arccos-G47
+
+{: .alternative-title }
+> Alternative for steam deck
+> 
+> ROG Ally with Bazzite
 
 ## Retro Handhelds
 

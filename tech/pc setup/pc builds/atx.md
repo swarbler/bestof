@@ -13,7 +13,7 @@ nav_order: 1
 		- **no integrated GPU:** Ryzen 5 7500F
 	- **Zen 5:** Ryzen 5 9600X
 - **motherboard:** ASRock B650 PG Lightning or B650 Livemixer
-- **GPU:** RX 7700 XT
+- **GPU:** RX 6800 XT / RX 7700 XT
 	- **cheaper:** B580
 - **RAM:** 6000MT/s CL30 DDR5
 - **power supply:** be quiet! Pure Power 11 / Corsair CX / EVGA G5 / Seasonic Focus FX *(550W)*
