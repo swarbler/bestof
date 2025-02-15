@@ -11,7 +11,6 @@ nav_order: 1
 
 ##### Prusa
 
-- **smaller bed-slinger:** Mini+
 - **upgrade bed-slinger:** MK4S
 	- **enclosure:** *enclosure kit*
 - **upgrade CoreXY:** Core One

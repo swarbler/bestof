@@ -11,20 +11,22 @@ nav_order: 3
 
 ## Standard
 
+#### Synology
+
+*great software and app ecosystem*
+- **2-bay** 
+	- **cheaper:** DS224+
+	- **better:** DS723+
+- **4-bay**
+	- **cheaper:** DS423+
+	- **better:** DS923+
+- **8-bay:** DS1821+
+
 #### QNAP
 
 *great hardware but has security vulnerabilities*
 - **2-bay:** TS-264
 - **4-bay:** TS-464
-
-#### Synology
-
-*great software and app ecosystem, meh hardware*
-- **2-bay:** DS723+
-- **4-bay**
-	- **cheaper:** DS423+
-	- **better:** DS923+
-- **8-bay:** DS1821+
 
 #### Terramaster
 

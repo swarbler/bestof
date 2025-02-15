@@ -10,7 +10,7 @@ nav_order: 7
 #### Containers
 
 - **small parts organisers:** Akro-Mils / *3D printed*
-- **tackle box:** Plano / *3D printed*
+- **tackle box:** Plano
 - **storage totes** 
 	- **standard:** Rubbermaid Brute
 	- **attached lid:** Akro-Mils / Monoflo
@@ -65,13 +65,10 @@ nav_order: 7
 
 ## Laundry
 
-- **hangers**
-	- **cheaper:** Amazon Basics *(velvet)*
-	- **upgrade:** Mawa *(Euro, Silhouette, or pant hangers)*
+- **hangers:** Amazon Basics
 - **baskets** 
 	- **standard:** Sterilite
 	- **upgrade:** Steele Canvas
-	- **aesthetic:** Yamakazi
 - **drying racks**
 	- **cheaper:** Ikea Frost
 	- **standard:** Whitmor

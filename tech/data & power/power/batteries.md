@@ -9,9 +9,11 @@ nav_order: 1
 
 - **power banks**
 	- **ultra-compact:** TravelCard Plus *(3000mAh)*
-	- **travel:** Nitecore NB10000 Gen 3 / Nitecore Carbo 20000
+	- **travel** 
+		- **10k mAh:** Nitecore NB10000 Gen 3
+		- **20k mAh:** Nitecore Carbo 20000
 	- **fast charging** 
-		- **standard:** Anker 737
+		- **standard:** Anker 737 24,000mAh
 		- **better:** Anker Prime 27,650mAh
 	- **magnetic:** Anker MagGo Qi2 Slim *(5/10K Slim)*
 

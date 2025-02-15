@@ -20,6 +20,11 @@ nav_order: 3
 - **fun:** Owala FreeSip
 - **mug:** Zojirushi / Takeya Traveler
 
+{: .alternative-title }
+> cheaper plastic water bottle
+> 
+> a random one on amazon/aliexpress/taobao/etc. I have this one from a brand called "Uzspace" that has lasted for many years
+
 #### Food Containers
 
 - **plastic containers:** Rubbermaid Brilliance

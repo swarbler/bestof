@@ -8,6 +8,7 @@ nav_order: 2
 ## Fastening
 
 - **socket + bit set:** Wera Tool-Check Plus
+- **socket set:** Klein Tools Flip Socket
 
 #### Screwdrivers
 

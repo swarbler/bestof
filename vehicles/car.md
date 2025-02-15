@@ -7,7 +7,7 @@ nav_order: 1
 
 #### Tech
 
-- **dash cam:** Vinfo A229 Pro / Vantrue N4 Pro
+- **dash cam:** Vantrue N4 Pro / Vinfo A229 Pro
 - **touch screen stereo** 
 	- **standard:** Sony XAV-AX6000
 	- **better screen quality:** Sony XAV-9000ES

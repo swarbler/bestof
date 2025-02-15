@@ -10,8 +10,7 @@ nav_order: 3
 - **TB4:** CalDigit TS4 / Kensington SD5700T / Sonnet Echo 11
 - **TB3:** CalDigit TS3 Plus
 - **modular:** Kingston Workflow Station
-- **hard drive dock:** Sabrent 
-	- *single, dual, or quad bay*
+- **hard drive docks:** Sabrent 
 	- **USB-A:** *5Gbps*
 	- **USB-C:** *5Gbps / 10Gbps*
 

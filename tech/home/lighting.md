@@ -8,13 +8,15 @@ nav_order: 2
 #### Dumb
 
 - **bulbs** 
-	- **cheaper:** Feit Electric
-		- **alternative:** GE
+	- **cheaper:** Feit Electric / GE
 	- **better:** Phillips Warm Glow Effect Flicker-Free
 - **work lamps:** Ikea Forsä
-	- **upgrade:** *any with interchangeable bulbs*
 - **floor lamps:** Ikea Ranarp
-	- **upgrade:** *any with interchangeable bulbs*
+
+{: .alternative-title }
+> Alternative lamps
+> 
+> any you can find on a good deal with interchangeable bulbs
 
 #### Smart
 
@@ -31,4 +33,4 @@ nav_order: 2
 	- **WiFi:** Leviton Decora
 	- **Zigbee:** Inovelli Blue series
 	- **Z-Wave:** Inovelli Red Series
-- **motion-activated night lights:** Third Reality
+- **motion-activated night lights:** Third Reality / Xiaomi

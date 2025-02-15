@@ -27,6 +27,8 @@ nav_order: 1
 - **socks** 
 	- **regular:** Uniqlo
 	- **tough:** Fox River
+- **shoes**
+	- ???
 - **laceless shoes** 
 	- **walking:** Skechers *(slip-on)*
 	- **running:** On Cloud 5 *(speed laces)* / Kiziks *(slip-on)*
