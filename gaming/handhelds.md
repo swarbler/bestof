@@ -27,11 +27,16 @@ ROG Ally with Bazzite
 
 #### Software Emulators
 
-- **smaller:** TrimUI Brick / Miyoo Mini Plus
-- **vertical:** Anbernic RG40XXV
-- **clamshell:** Anbernic RG 35XXSP / Miyoo Flip
-- **widescreen:** Retroid Pocket 5
+- **non-Android**
+	- **smaller:** TrimUI Brick / Miyoo Mini Plus
+	- **standard:** Anbernic RG40XXV
+	- **clamshell:** Anbernic RG 35XXSP / Miyoo Flip
+	- **horizontal:** Anbernic RG 35XXH
+- **Android** 
+	- **cheaper:** Anbernic RG406H
+	- **standard:** Retroid Pocket 5
+	- **upgrade:** Odin 2 series
 
 #### Hardware Emulators
 
-- **vertical:** Analogue Pocket
+- **standard:** Analogue Pocket
