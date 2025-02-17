@@ -5,14 +5,10 @@ nav_order: 3
 ---
 # Laundry
 
-#### Washing Machines
-
-- **washer and dryer:** *any*
-- **steam closet:** LG Styler S3GNF?
-
-
-#### Detergent
-
+- **washing machine**
+	- **cheaper:** *any*
+	- **upgrade:** Miele / Speed Queen
+- **dryer:** *any*
 - **liquid detergent:** Tide
 	- **alternative:** Aspenclean
 

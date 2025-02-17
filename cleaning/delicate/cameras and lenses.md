@@ -8,7 +8,6 @@ nav_order: 2
 #### General Cleaning
 
 - **rocket blower:** Giottos
-- **brushes:** Otis Technology?
 
 #### Lens Cleaning
 

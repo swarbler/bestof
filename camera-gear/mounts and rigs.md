@@ -13,10 +13,10 @@ nav_order: 7
 	- **spider:** Leofoto MT-04
 - **travel** 
 	- **cheaper:** K&F Concept C225C0 (BA225) / Sirui 5C or 7C
-	- **better:** Ulanzi Falcam TreeRoot?
-- **heavy-duty** ?
-	- **standard:** Smallrig AD-01
-	- **upgrade:** Ulanzi VideoFast
+	- **better:** Ulanzi Coman Zero Y
+- **heavy-duty** 
+	- **cheaper:** Smallrig AD-01
+	- **upgrade:** *used Sachtler Flowtech*
 
 #### Plates
 

@@ -10,13 +10,15 @@ nav_order: 3
 - **standard:** Fiio K7
 	- **alternative form factor:** Fiio K11
 - **USB** 
-	- **standard:** Fiio KA3
-		- **with display:** Fiio KA5
-	- **higher power:** Fiio KA13
-	- **upgrade:** Fiio KA17? *(more expensive + larger)*
+	- **cheaper:** Fiio KA1
+	- **better:** Fiio KA13
+		- **with screen:** Fiio KA5
 - **Bluetooth** 
 	- **standard:** Fiio BTR5
 	- **better:** Fiio BTR7
+
+{: .note }
+The Fiio KA13 is confusingly the successor to the KA3, so if the KA3 is cheaper than get that
 
 #### DACs
 
