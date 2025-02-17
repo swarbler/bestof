@@ -11,5 +11,10 @@ nav_order: 3
 - **dryer:** *any*
 - **liquid detergent:** Tide
 	- **alternative:** Aspenclean
+- **clothing iron** 
+	- **standard:** Black+Decker D3030
+	- **better:** Rowenta DW9280
+- **clothing steamer:** Conair Turbo ExtremeSteam (GS59X)
 
-?
+{: .note }
+The Rowenta DW9280 is discontinued so may be harder to find
