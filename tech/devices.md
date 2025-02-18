@@ -213,18 +213,13 @@ nav_order: 1
 #### Android
 
 - **budget:** onn
-- **cheaper:** Lenovo Tab Plus
+- **cheaper:** *any you can find on a good deal*
 - **smaller:** Lenovo Legion Tab
 - **standard:** OnePlus Pad 2
 - **upgrade:** Galaxy Tab S10 series *(anti-reflective OLED)*
 
 {: .note }
 onn tablet is only available in Walmart
-
-{: .alternative-title }
-> Alternative cheaper Android tablets
-> 
-> any you can find on a good deal
 
 #### Linux
 
