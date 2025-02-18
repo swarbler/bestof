@@ -255,14 +255,13 @@ onn tablet is only available in Walmart
 #### WearOS
 
 - **cheaper:** Galaxy Watch 4
-	- **alternative:** Galaxy Watch FE *(same specs except newer software)*
+	- **alternative:** Galaxy Watch FE *(same specs, newer software)*
+- **smaller:** Pixel Watch 3
 - **standard:** OnePlus Watch 2
+- **better:** OnePlus Watch 3
 
-
-{: .upcoming-title }
-> Upcoming WearOS smartwatch
-> 
-> OnePlus Watch 3
+{: .note }
+The OnePlus Watch 3 has even better battery life and improved health and sleep tracking over the Watch 2, but there is a small price increase
 
 #### watchOS
 
