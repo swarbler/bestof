@@ -20,8 +20,11 @@ nav_order: 1
 
 - **streaming stick:** Chromecast with Google TV 4K
 - **tv box** 
-	- **standard:** Onn 4K
+	- **standard:** onn 4K
 	- **upgrade:** Apple TV 4K
+
+{: .note }
+onn TV box is only available in Walmart
 
 #### Other
 
