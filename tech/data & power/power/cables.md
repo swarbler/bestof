@@ -8,16 +8,26 @@ nav_order: 2
 #### USB-C
 
 - **to USB-C:** Belkin BoostCharge / Cable Matters
-	- **soft silicone:** Anker 643 Flow
-- **to Lightning:** Anker Powerline II or II+ *(II+ is braided)* / Belkin BoostCharge
-	- **soft silicone:** Anker 641 Flow
+- **to Lightning:** Belkin BoostCharge
+	- **alternative:** Anker Powerline II
 - **to microUSB:** Amazon Basics
+
+{: .alternative-title }
+> if you want the longest certified USB-C to USB-C cable
+>
+> Club3D CAC-1575 (the orange cable)
+
+{: .alternative-title }
+> if you want cables with a soft silicone sheath
+>
+> Anker 643 Flow (to USB-C) or 641 Flow (to Lightning)
 
 #### USB-A
 
-- **to USB-C:** Anker Premium Nylon / Belkin BoostCharge / Cable Matters
-- **to Lightning:** Anker Powerline II or II+ *(II+ is braided)* / Belkin BoostCharge
-- **to microUSB:** Amazon Basics / Anker Powerline
+- **to USB-C:** Belkin BoostCharge / Cable Matters
+- **to Lightning:** Belkin BoostCharge
+	- **alternative:** Anker Powerline II
+- **to microUSB:** Amazon Basics
 
 #### Adapters
 
