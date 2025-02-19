@@ -141,7 +141,7 @@ nav_order: 1
 {: .upcoming-title }
 > Upcoming book-style foldable
 > 
-> OnePlus Open 2 / Oppo Find N5
+> Oppo Find N5
 
 #### iOS
 
