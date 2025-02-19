@@ -39,11 +39,11 @@ nav_order: 1
 		- ***summary:***
 			- **Yoga Pro 7** is also a great option with *a smaller 14” screen + a really good keyboard*
 			- **Zenbook S 16** is a great option with *a larger 16” screen + great ports*
-		- **Yoga Pro 7**
+		- **Yoga Pro 7** *(more performance)*
 			- **screen:** *14” 120hz OLED*
 			- **ports:** *USB-C 40Gbps + USB-C 10Gbps + USB-A 5Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *32GB + 1TB*
-		- **Zenbook S 16** 
+		- **Zenbook S 16** *(thin and light)*
 			- **screen:** *16" 120hz OLED touchscreen*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack + SD*
 			- **memory + storage:** *up to 32GB + 2TB*
@@ -146,14 +146,9 @@ nav_order: 1
 #### iOS
 
 - **standard:** iPhone *(wait for ProMotion)*
-- **midrange:** iPhone SE *(3rd gen)*
+- **midrange:** iPhone 16E
 - **compact:** iPhone SE *(1st gen)*
 	- **alternative:** iPhone 5S *(slower processor)*
-
-{: .upcoming-title }
-> Upcoming midrange iPhone
-> 
-> iPhone SE (4th gen)
 
 #### Linux
 
