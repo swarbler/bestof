@@ -146,7 +146,7 @@ nav_order: 1
 #### iOS
 
 - **standard:** iPhone *(wait for ProMotion)*
-- **midrange:** iPhone 16E
+- **midrange:** iPhone 16e
 - **compact:** iPhone SE *(1st gen)*
 	- **alternative:** iPhone 5S *(slower processor)*
 

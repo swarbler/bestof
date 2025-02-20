@@ -19,28 +19,58 @@ nav_order: 3
 		- **40mm:** Sony 40mm f2.5 G
 		- **50mm:** Sony 50mm f2.5 G
 - **zoom:** Sigma 24-70mm f2.8 DG DN *(67mm)*
-	- **compact:** Sony 24-50mm f2.8 G *(67mm)*
+	- **more compact:** Sony 24-50mm f2.8 G *(67mm)*
 
-#### L-mount
+#### L-mount (Panasonic Lumix)
 
 - **primes** 
 	- **all 67mm filter thread:** Lumix 18/24/35/50/85mm f1.8
 	- **varying filter threads:** Sigma 20/24/35/50/85mm f1.4 DG DN
-		- **compact:** Sigma 20/24/35/50/65mm f2 DG DN
+		- **more compact:** Sigma 20/24/35/50/65mm f2 DG DN
 - **zooms:** Sigma 24-70mm f2.8 DG DN *(67mm)*
+
+#### EF or RF mount (Canon)
+
+?
+
+#### Z-mount (Nikon)
+
+?
 
 ## APS-C
 
 #### E-mount
 
 - **primes** 
-	- **cheapest:** TTArtisan 35/56mm f1.8
-	- **cheaper:** Viltrox 35/56mm f1.7 or Meike 33/55mm f1.4
-	- **standard:** Sigma 16/23/30/56mm f1.4 DC DN *(varying filter threads)*
+	- **cheapest:** TTArtisan 35/56mm f1.8?
+	- **cheaper:** Viltrox 35/56mm f1.7 or Meike 33/55mm f1.4?
+	- **better:** Sigma 16/23/30/56mm f1.4 DC DN *(varying filter threads)*
 	- **ultrawide:** Sony 11mm f1.8 *(55mm)*
 	- **compact:** TTArtisan 27mm f2.8
-- **zooms:** Sigma 18-50mm f2.8 DC DN *(55mm)*
+- **zooms**
+	- **standard:** Sigma 18-50mm f2.8 DC DN *(55mm)*
 	- **ultrawide:** Sigma 10-18 mm f2.8 DC DN *(67mm)* 
+
+#### X-mount (Fujifilm)
+
+Fujifilm lenses???
+- **primes** 
+	- **cheapest:** TTArtisan 35/56mm f1.8?
+	- **cheaper:** Viltrox 35/56mm f1.7 or Meike 33/55mm f1.4?
+	- **better:** Sigma 16/23/30/56mm f1.4 DC DN *(varying filter threads)*
+	- **ultrawide:** ?
+	- **compact:** TTArtisan 27mm f2.8
+- **zooms** 
+	- **standard:** Sigma 18-50mm f2.8 DC DN *(55mm)*
+	- **ultrawide:** Sigma 10-18 mm f2.8 DC DN *(67mm)* 
+
+#### EF-S or RF-S mount (Canon)
+
+?
+
+## M4/3
+
+?
 
 ## Filters
 

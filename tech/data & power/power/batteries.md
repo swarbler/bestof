@@ -72,14 +72,6 @@ nav_order: 1
 
 #### Camera Batteries
 
-- **Sony**
-	- **standard:** NP-FZ100
-	- **smaller APS-C:** NP-FW50
-	- **RX100 series:** NP-BX1
-- **Panasonic Lumix:** DMW-BLK2
-- **Fujifilm:** NP-W235
-- **Ricoh:** DB-110
-
 ##### V-mount
 
 - **standard:** Smallrig
