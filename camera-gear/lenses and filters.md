@@ -42,27 +42,34 @@ nav_order: 3
 #### E-mount
 
 - **primes** 
-	- **cheapest:** TTArtisan 35/56mm f1.8?
-	- **cheaper:** Viltrox 35/56mm f1.7 or Meike 33/55mm f1.4?
-	- **better:** Sigma 16/23/30/56mm f1.4 DC DN *(varying filter threads)*
+	- **cheapest:** TTArtisan 35/56mm f1.8 *(52mm)*
+	- **cheaper:** Viltrox 35/56mm f1.7 *(52mm)* or 
+	- **better:** Sigma 16mm *(67mm)* or 23/30mm *(52mm)* or 56mm *(55mm)* f1.4 DC DN
 	- **ultrawide:** Sony 11mm f1.8 *(55mm)*
-	- **compact:** TTArtisan 27mm f2.8
+	- **compact:** TTArtisan 27mm f2.8 *(39mm)*
+
+{: .note }
+Meike 33mm *(52mm)* or 55mm *(58mm)* f1.4 is a bit more expensive than the Viltrox lenses but have a wider aperture
+
 - **zooms**
 	- **standard:** Sigma 18-50mm f2.8 DC DN *(55mm)*
-	- **ultrawide:** Sigma 10-18 mm f2.8 DC DN *(67mm)* 
+	- **ultrawide:** Sigma 10-18 mm f2.8 DC DN / Tamron 11-20mm f2.8 Di III-A RXD *(67mm)* 
 
 #### X-mount (Fujifilm)
 
-Fujifilm lenses???
 - **primes** 
-	- **cheapest:** TTArtisan 35/56mm f1.8?
-	- **cheaper:** Viltrox 35/56mm f1.7 or Meike 33/55mm f1.4?
-	- **better:** Sigma 16/23/30/56mm f1.4 DC DN *(varying filter threads)*
-	- **ultrawide:** ?
-	- **compact:** TTArtisan 27mm f2.8
+	- **standard:** Fuji XC 23/35mm  *(43mm)* or 50mm *(46mm)* f2
+	- **better:** Fuji XF 16/23/35mm f1.4 *(varying filter threads)*
+	- **ultrawide:** Fuji XF 8mm f3.5 *(62mm)*
+	- **compact:** TTArtisan 27mm f2.8 *(39mm)*
+
+{: .alternative }
+Sigma 16/23/30/56mm f1.4 DC DN are also very sharp prime lenses
+
+
 - **zooms** 
 	- **standard:** Sigma 18-50mm f2.8 DC DN *(55mm)*
-	- **ultrawide:** Sigma 10-18 mm f2.8 DC DN *(67mm)* 
+	- **ultrawide:** Sigma 10-18 mm f2.8 DC DN / Tamron 11-20mm f2.8 Di III-A RXD *(67mm)* 
 
 #### EF-S or RF-S mount (Canon)
 
