@@ -13,8 +13,11 @@ nav_order: 2
 
 #### Portable Monitors
 
-- **1080p:** Zenscreen MQ13AH *(13")* / MQ16AH *(16")*
-- **4K:** Viewsonic VX1655
+- **IPS:** ThinkVision M14 *(14")* / Zenscreen MB16ACV *(16")*
+- **OLED:** Zenscreen MQ13AH *(13")* / MQ16AH *(16")*
+
+{: .alternative }
+The Zenscreen MB166C is almost identical to the MB16ACV and is a bit cheaper but lacks an integrated kickstand
 
 #### Other
 
