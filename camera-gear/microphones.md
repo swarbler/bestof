@@ -12,6 +12,13 @@ nav_order: 4
 - **larger** 
 	- **standard:** Audio-Technica AT875R
 	- **longer distance:** Sennheiser MKE 600
+
+#### Lavalier Microphones
+
+- **wired**
+	- **budget:** *cheapest one available*
+	- **standard:** DJI Lavalier
+	- **better:** Rode Lavalier II
 - **wireless:** Hollyland Lark M2
 
 #### Audio Recorders
