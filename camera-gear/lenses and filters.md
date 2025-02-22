@@ -37,6 +37,15 @@ nav_order: 3
 	- **standard:** Canon 35mm f1.8 Macro *(52mm)* / 85mm f2 Macro *(67mm)*
 	- **compact:** Canon 16mm f2.8 / 50mm f1.8 *(43mm)*
 	- **pancake:** Canon 28mm f2.8 *(55mm)*
+- **zooms** 
+	- **compact trio** *(77mm)*
+		- **standard:** Canon 24-105mm f4L
+		- **wide:** Canon 14-35mm f4L
+		- **telephoto:** Canon 70-200mm f4L
+	- **standard trio**
+		- **standard:** Canon 24-70mm f2.8L  *(82mm)*
+		- **wide:** Canon 15-35mm f2.8L *(82mm)*
+		- **telephoto:** Canon 70-200mm f2.8L *(77mm)*
 
 #### Z-mount (Nikon)
 
