@@ -39,6 +39,7 @@ nav_order: 3
 
 - **primes**
 	- **standard:** Nikon 35/50mm *(62mm)* or 85mm *(67mm)* f1.8S
+	- **compact:** Nikon 28mm f2.8 / Nikon 40mm f2
 
 ## APS-C
 
@@ -55,12 +56,16 @@ Meike 33mm *(52mm)* or 55mm *(58mm)* f1.4 is a bit more expensive than the Viltr
 #### E-mount (Sony)
 
 - **primes** 
-	- **standard:** ?
+	- **standard:** Sony 35/50mm f1.8 OSS *(49mm)*
 	- **ultrawide:** Sony 11mm f1.8 *(55mm)*
+
+{: .note }
+The Sony 15mm f1.4 G is an alternative to the Sigma 16mm f1.4 with a brighter aperture but is a bit pricier
 
 - **zooms**
 	- **standard:** Sigma 18-50mm f2.8 DC DN *(55mm)*
 	- **ultrawide:** Sigma 10-18 mm f2.8 DC DN / Tamron 11-20mm f2.8 Di III-A RXD *(67mm)* 
+	- **small telephoto:** Sony 55-210mm f4.5-6.3
 
 #### X-mount (Fujifilm)
 
@@ -75,12 +80,8 @@ Meike 33mm *(52mm)* or 55mm *(58mm)* f1.4 is a bit more expensive than the Viltr
 
 #### Z-mount (Nikon)
 
-- **primes** 
-	- **standard:** Nikon 24mm f1.7 DX / 
-	- **ultrawide:** ?
-
-- **zooms**
-	- **cheap + versatile:** Nikon Z DX 18-140mm f3.5-6.3 *(62mm)*
+- **nice compact prime:** Nikon 24mm f1.7 DX *(46mm)*
+- **cheap + versatile zoom:** Nikon Z DX 18-140mm f3.5-6.3 *(62mm)*
 
 ## M4/3
 
@@ -88,6 +89,7 @@ Meike 33mm *(52mm)* or 55mm *(58mm)* f1.4 is a bit more expensive than the Viltr
 
 ## Filters
 
-- **standard filter sets:** K&F Concept Nano-X
-- **magnetic filter sets:** K&F Concept Nano-X
+- **filter sets**
+	- **standard:** K&F Concept Nano-X
+	- **magnetic:** K&F Concept Nano-X Magnetic
 - **filter pouch: *(holds 8 filters)*** ThinkTank MindShift Filter Nest

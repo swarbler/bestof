@@ -32,8 +32,14 @@ nav_order: 2
 - **Mastodon**
 	- **standard:** Megalodon / Tusky
 	- **Material Design:** Moshidon
-- **YT frontend:** SkyTube / LibreTube / NewPipe
-	- **Android TV:** SmartTube Next
+- **YT frontend** 
+	- **direct connection to YT:** NewPipe / SkyTube / Tubular
+	- **piped proxy:** LibreTube
+
+{: .alternative-title }
+> Alternative YT frontend
+> 
+> Grayjay
 
 #### Programming
 

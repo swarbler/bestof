@@ -108,6 +108,11 @@ nav_order: 1
 - **YT frontend:** FreeTube
 - **YT downloader:** youtube-dl
 
+{: .alternative-title }
+> Alternative YT frontend
+> 
+> Grayjay
+
 ## Programming
 
 - **code editor:** VSCodium
