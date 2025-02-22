@@ -73,7 +73,7 @@ nav_order: 3
 Meike 33mm *(52mm)* or 55mm *(58mm)* f1.4 is a bit more expensive than the Viltrox lenses but have a wider aperture
 
 {: .upcoming }
-Viltrox has teased a 35mm equivalent “Air” series prime lens
+Viltrox has teased the 25mm f1.7 Air, a 35mm equivalent prime lens
 
 #### E-mount (Sony)
 
