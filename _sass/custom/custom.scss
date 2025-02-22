@@ -24,6 +24,9 @@ body {
 .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
     background-image: linear-gradient(-90deg, #f0ffd2 0%, #eafacbcc 80%, #e3fab600 100%)
 }
+.nav-list .nav-list-item .nav-list-expander{
+    color: #a1b181
+}
 .search-result-doc .search-result-icon{
     color: #76815e;
 }
