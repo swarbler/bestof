@@ -10,7 +10,7 @@ nav_order: 2
 - **standard:** Keychron M6 / MX Master 3
 	- *MX Master 3**S** is silent*
 	- **alternative:** ProArt MD300
-- **smaller:** MX Anywhere 3S / Razer Pro Click Mini
+- **smaller:** MX Anywhere 3 / Razer Pro Click Mini
 	- *MX Anywhere 3**S** is silent*
 - **vertical** 
 	- **smaller:** Logitech Lift
