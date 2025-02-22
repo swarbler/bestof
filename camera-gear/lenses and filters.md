@@ -68,7 +68,7 @@ nav_order: 3
 - **better:** Sigma 16mm *(67mm)* or 23/30mm *(52mm)* or 56mm *(55mm)* f1.4 DC DN
 - **pancake:** TTArtisan 27mm f2.8 *(39mm)*
 
-{: .note }
+{: .alternative }
 Meike 33mm *(52mm)* or 55mm *(58mm)* f1.4 is a bit more expensive than the Viltrox lenses but have a wider aperture
 
 #### E-mount (Sony)
@@ -77,8 +77,8 @@ Meike 33mm *(52mm)* or 55mm *(58mm)* f1.4 is a bit more expensive than the Viltr
 	- **standard:** Sony 35/50mm f1.8 OSS *(49mm)*
 	- **ultrawide:** Sony 11mm f1.8 *(55mm)*
 
-{: .note }
-The Sony 15mm f1.4 G is an alternative to the Sigma 16mm f1.4 with a brighter aperture but is a bit pricier
+{: .alternative }
+The Sony 15mm f1.4 G is a bit better Sigma 16mm f1.4, but is also more expensive
 
 - **zooms**
 	- **standard:** Sigma 18-50mm f2.8 DC DN *(55mm)*
