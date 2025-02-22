@@ -46,4 +46,4 @@ bestof as a website
 
 the original bestof, "Dream Setup.pptx"
 
-![dream setup.pptx](./screenshots/dream-setup-pptx)
+![dream setup.pptx](./screenshots/dream-setup-ppt.png)
