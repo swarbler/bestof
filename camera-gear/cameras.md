@@ -30,7 +30,7 @@ nav_order: 1
 - **secondary:** G9 II
 
 {: .alternative }
-GX9 has takes better photos than the GX85 and has a tilting viewfinder, but is more expensive and a bit larger.
+G85 is weather sealed alternative to the GX85 with a larger DSLR-style grip
 
 #### Video
 

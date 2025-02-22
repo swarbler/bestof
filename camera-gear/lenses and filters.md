@@ -20,8 +20,9 @@ nav_order: 3
 		- **24mm:** Sony 24mm f2.8 G
 		- **40mm:** Sony 40mm f2.5 G
 		- **50mm:** Sony 50mm f2.5 G
-- **zoom:** Sigma 24-70mm f2.8 DG DN *(67mm)*
-	- **more compact:** Sony 24-50mm f2.8 G *(67mm)*
+- **zoom** 
+	- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm)*
+	- **compact:** Sony 24-50mm f2.8 G *(67mm)*
 
 #### L-mount (Panasonic Lumix)
 
@@ -65,7 +66,7 @@ nav_order: 3
 - **cheapest:** TTArtisan 35/56mm f1.8 *(52mm)*
 - **cheaper:** Viltrox 35/56mm f1.7 *(52mm)*
 - **better:** Sigma 16mm *(67mm)* or 23/30mm *(52mm)* or 56mm *(55mm)* f1.4 DC DN
-- **compact:** TTArtisan 27mm f2.8 *(39mm)*
+- **pancake:** TTArtisan 27mm f2.8 *(39mm)*
 
 {: .note }
 Meike 33mm *(52mm)* or 55mm *(58mm)* f1.4 is a bit more expensive than the Viltrox lenses but have a wider aperture
@@ -102,7 +103,14 @@ The Sony 15mm f1.4 G is an alternative to the Sigma 16mm f1.4 with a brighter ap
 
 ## M4/3
 
-?
+- **primes**
+	- **standard**
+		- Olympus M.Zuiko 17/25mm *(46mm)* or 45mm *(37mm)* f1.8
+		- *OR* Panasonic Lumix 15/20mm *(46mm)* or 42.5mm *(37mm)* f1.7
+	- **wide:** Panasonic Lumix 9mm f1.7 *(55mm)*
+- **zooms**
+	- **standard:** Olympus M.Zuiko 12-45mm f4 Pro / Panasonic Lumix 12-60mm f3.5-5.6 *(58mm)*
+	- **pancake:** Panasonic Lumix 12-32mm f3.5-5.6 *(37mm)*
 
 ## Filters
 
