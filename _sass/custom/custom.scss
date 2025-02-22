@@ -12,14 +12,13 @@ body {
     display: flex;
     flex-wrap: wrap;
     background-color: #f2ffd7;
-    border-right: 1px solid #ebfdc3;
   
     @include mq(md) {
       flex-flow: column nowrap;
       position: fixed;
       width: $nav-width-md;
       height: 100%;
-      border-right: $border $border-color;
+      border-right: 1px solid #ebfdc3;
       align-items: flex-end;
     }
   
