@@ -9,6 +9,13 @@ nav_order: 1
 
 #### FDM
 
+***personal ranking***
+1. **Prusa** - good hardware, very upgradeable + repairable *(expensive though)*
+2. **Bambu Lab** - good hardware and decently repairable, but closed ecosystem
+3. **Sovol** - cheaper Prusa clones, may not be as reliable
+4. **Creality** - meh hardware, may not be as reliable
+*Elegoo’s Centauri Carbon recently released, could possibly be an incredible value but wait for independent reviews to release*
+
 ##### Prusa
 
 - **upgrade bed-slinger:** MK4S
@@ -27,6 +34,18 @@ nav_order: 1
 
 - **cheaper bed-slinger:** SV06
 - **larger bed-slinger:** SV08
+
+##### Creality
+
+- **budget bed-slinger:** Ender 3 *(terrible user experience, but very inexpensive)*
+- **upgrade CoreXY:** K2 Plus
+
+##### Elegoo
+
+- **cheaper CoreXY:** Centauri Carbon
+
+{: .alternative }
+The Centauri is even cheaper alternative if you don’t need an enclosure
 
 ##### DIY
 

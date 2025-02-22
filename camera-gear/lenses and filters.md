@@ -64,12 +64,16 @@ nav_order: 3
 #### Lenses for All Mounts
 
 - **cheapest:** TTArtisan 35/56mm f1.8 *(52mm)*
-- **cheaper:** Viltrox 35/56mm f1.7 *(52mm)*
+- **cheaper:** Viltrox 35/56mm f1.7 Air *(52mm)*
 - **better:** Sigma 16mm *(67mm)* or 23/30mm *(52mm)* or 56mm *(55mm)* f1.4 DC DN
+- **portrait:** Viltrox 75mm f1.2 *(77mm)*
 - **pancake:** TTArtisan 27mm f2.8 *(39mm)*
 
 {: .alternative }
 Meike 33mm *(52mm)* or 55mm *(58mm)* f1.4 is a bit more expensive than the Viltrox lenses but have a wider aperture
+
+{: .upcoming }
+Viltrox has teased a 35mm equivalent “Air” series prime lens
 
 #### E-mount (Sony)
 

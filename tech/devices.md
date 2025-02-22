@@ -134,11 +134,14 @@ The Poco F6 *(4 y/o OS updates)* is a powerful midrange phone, but has bloated s
 
 ##### Foldables
 
-- **clamshell-style**
-	- **standard:** Galaxy Z Flip 6
-	- **larger outer screen:** Razr 40 Ultra / Xiaomi Mix Flip
-	- **vertical outer screen:** Oppo Find N3 Flip
+- **clamshell-style** 
+	- **cheaper:** Razr 40
+	- **standard:** Galaxy Flip 6 / Razr 40 Ultra
+		- *Galaxy Flip has better build quality, Razr has a larger cover screen*
 - **book-style:** Oppo Find N5
+
+{: .alternative }
+The Xiaomi Mix Flip is also a solid clamshell-style foldable with a large cover screen and decent cameras. However, it does NOT have an IP rating!
 
 #### iOS
 

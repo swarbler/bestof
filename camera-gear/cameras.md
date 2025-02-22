@@ -43,6 +43,7 @@ G85 is weather sealed alternative to the GX85 with a larger DSLR-style grip
 
 - **cheaper:** X-T30 II
 - **main:** X-T4 / X-T5
+- **secondary:** X-T50
 
 #### Video
 
