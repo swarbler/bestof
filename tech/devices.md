@@ -20,7 +20,7 @@ nav_order: 1
 		- ***summary:***
 			- **Surface Laptop 7** is the best overall ARM laptop with *good ports + haptic trackpad*
 			- **Yoga Slim 7x** is a good alternative option if you want *OLED*, but has *terrible ports*
-			- **Zenbook A14** is *cheaper and incredibly lightweight* but is *60hz*
+			- **Zenbook A14** is *cheaper + incredibly lightweight* but is *only 60hz*
 		- **Surface Laptop 7** *(haptic touchpad)*
 			- **screen:** *13/15" 120hz LCD touchscreen*
 			- **ports:** *2x USB-C 40Gbps + USB-A 5Gbps + Surface Connect + audio jack*
@@ -114,7 +114,7 @@ nav_order: 1
 			- *Find X8 Pro has an extra 6x telephoto*
 			- *Oppo gets 5 y/o OS updates whereas OnePlus gets 4*
 		- **if you care about software support:** Pixel *(limited availability + worse chipset)*
-		- **cheaper option:** Xiaomi *(bloated UI)*
+		- **great hardware, terrible software:** Xiaomi
 	- **good:** OnePlus 13 / Xiaomi 15 series *(4 y/o OS updates)*
 	- **better:** Oppo Find X8 series *(5 y/o OS updates)*
 	- **best:** Pixel 9 series *(7 y/o OS updates)*
@@ -122,6 +122,10 @@ nav_order: 1
 - **midrange**
 	- **good:** OnePlus 13R *(4 y/o OS updates)*
 	- **best:** Pixel 8a *(7 y/o OS updates)*
+
+{: .alternative }
+The Poco F6 *(4 y/o OS updates)* is a powerful midrange phone, but has bloated software.
+
 - **budget**
 	- **good:** OnePlus Nord 4 *(4 y/o OS updates)*
 		- *metal unibody design!*
@@ -134,14 +138,7 @@ nav_order: 1
 	- **standard:** Galaxy Z Flip 6
 	- **larger outer screen:** Razr 40 Ultra / Xiaomi Mix Flip
 	- **vertical outer screen:** Oppo Find N3 Flip
-- **book-style** 
-	- **standard:** OnePlus Open / Oppo Find N3
-	- **thinner:** Honor Magic V3
-
-{: .upcoming-title }
-> Upcoming book-style foldable
-> 
-> Oppo Find N5
+- **book-style:** Oppo Find N5
 
 #### iOS
 
