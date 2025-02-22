@@ -1,8 +1,25 @@
 body {
     background-color: #f5ffe0;
 }
-.sidebar {
+.side-bar {
+    z-index: 0;
+    display: flex;
+    flex-wrap: wrap;
     background-color: #f2ffd7;
+  
+    @include mq(md) {
+      flex-flow: column nowrap;
+      position: fixed;
+      width: $nav-width-md;
+      height: 100%;
+      border-right: $border $border-color;
+      align-items: flex-end;
+    }
+  
+    @include mq(lg) {
+      width: calc((100% - #{$nav-width + $content-width}) / 20 + #{$nav-width});
+      min-width: $nav-width;
+    }
 }
 p {
     color: #bad18c;
