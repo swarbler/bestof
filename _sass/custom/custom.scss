@@ -33,10 +33,7 @@ body {
 .search-label .search-icon {
     color: #727e59;
 }
-.search-active .search-input {
-    background-color: #f5ffe0;
-}
-.search-input {
+.search-active .search-input, .search-input, .search {
     background-color: #f5ffe0;
 }
 .site-title {
@@ -45,16 +42,10 @@ body {
 h1, h2, h3, h4, h5, h6, #toctitle {
     color: #727e59;
 }
-p {
+p, li {
     color: #bad18c;
 }
-li {
-    color: #bad18c;
-}
-a {
-    color: #a0b27d;
-}
-strong {
+a, strong {
     color: #a0b27d;
 }
 em {
