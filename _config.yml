@@ -21,7 +21,7 @@ callouts:
     title: upcoming
     color: green
 
-callouts_opacity: 0.7
+callouts_opacity: 0.33
   
 nav_external_links:
   - title: bestof on GitHub
