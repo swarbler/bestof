@@ -21,6 +21,9 @@ body {
       min-width: $nav-width;
     }
 }
+.nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
+    background-image: (-90deg, #e6f5e6 0%, rgba(208, 238, 204, 0.8) 80%, rgba(192, 248, 166, 0) 100%)
+}
 p {
     color: #bad18c;
 }
