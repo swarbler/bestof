@@ -30,6 +30,9 @@ body {
 .nav-list .nav-list-item .nav-list-expander {
     color: #a1b181;
 }
+.nav-list .nav-list-item .nav-list-expander:hover {
+    background-image: linear-gradient(-90deg, #f0ffd2 0%, #eafacbcc 100%);
+}
 .search-results, .search-results-list {
     background-color: #f5ffe0;
 }
