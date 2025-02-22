@@ -8,6 +8,7 @@ nav_order: 5
 #### Audio Jack
 
 - **3.5mm:** Amazon Basics / KabelDirekt / Monoprice
+- **USB-C to 3.5mm adapter:** Apple
 
 #### XLR
 

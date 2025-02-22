@@ -31,4 +31,5 @@ nav_order: 2
 
 #### Adapters
 
+- **USB-C to USB-A:** CableCreation *(active adapter)*
 - **USB-C to barrel-jack:** Adafruit
