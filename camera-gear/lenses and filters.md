@@ -31,15 +31,23 @@ nav_order: 3
 		- **more compact:** Sigma 20/24/35/50/65mm f2 DG DN
 - **zooms:** Sigma 24-70mm f2.8 DG DN *(67mm)*
 
-#### EF or RF mount (Canon)
+#### RF mount (Canon)
 
-?
+- **primes**
+	- **standard:** Canon 35mm f1.8 Macro *(52mm)* / 85mm f2 Macro *(67mm)*
+	- **compact:** Canon 16mm f2.8 / 50mm f1.8 *(43mm)*
+	- **pancake:** Canon 28mm f2.8 *(55mm)*
 
 #### Z-mount (Nikon)
 
 - **primes**
 	- **standard:** Nikon 35/50mm *(62mm)* or 85mm *(67mm)* f1.8S
-	- **compact:** Nikon 28mm f2.8 / Nikon 40mm f2
+	- **brighter apertures:** Nikon 35mm *(67mm)* or 50mm *(62mm)* f1.4
+	- **compact:** Nikon 28mm f2.8 / Nikon 40mm f2 *(52mm)*
+- **zooms** 
+	- **standard:** Tamron 28-75mm f2.8 Di III VXD G2 *(67mm)*
+	- **better:** Nikon 24-70mm f2.8 *(77mm)*
+	- **versatile:** Tamron 35-150mm f2-2.8 Di III VXD *(82mm)*
 
 ## APS-C
 
