@@ -9,19 +9,16 @@ nav_order: 2
 
 - **handheld:** Steam Deck OLED
 
-{: .alternative }
-ROG Ally with Bazzite
+{: .alternative-title }
+> Alternative for steam deck
+> 
+> ROG Ally with Bazzite
 
 #### Accessories
 
 - **grip case:** dbrand KillSwitch
 - **skins:** dbrand
 - **carrying case:** tomtoc Arccos-G47
-
-{: .alternative-title }
-> Alternative for steam deck
-> 
-> ROG Ally with Bazzite
 
 ## Retro Handhelds
 

@@ -2,7 +2,7 @@
 
 ## what is this?
 
-bestof is a repository of the best things in each product category, frequently updated whenever a new thing is released or I find out there's an even better thing!
+bestof is a repository of the best things in each product category, frequently updated whenever a new thing is released or I find out there's an even better thing! [(view screenshots)](screenshots.md)
 
 ## background
 
@@ -47,5 +47,6 @@ if you have any issues with bestof, please to email me at: [sbird+bestof@disroot
 - **2024/??/??:** converted from Google Slides to a PowerPoint
 - **2024/07/12:** moved from PowerPoint to Markdown files
 - **2025/02/09:** public GitHub repository created
-- **2025/02/11:** custom colour scheme, added callouts, added page levels
+- **2025/02/11:** green text, added callouts, added page levels
+- **2025/02/23:** completely new colour scheme, more screenshots added
 
