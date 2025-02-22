@@ -24,6 +24,9 @@ body {
 .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
     background-image: linear-gradient(-90deg, #f0ffd2 0%, #eafacbcc 80%, #e3fab600 100%)
 }
+h1, h2, h3, h4, h5, h6, #toctitle {
+    color: #727e59;
+}
 p {
     color: #bad18c;
 }
