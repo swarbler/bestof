@@ -1,11 +1,18 @@
 body {
     background-color: #f5ffe0;
 }
+.site-header, .main-header {
+    border-bottom: 1px solid #ebfdc3;
+}
+.site-header:hover {
+    background-image: linear-gradient(-90deg, #f0ffd2 0%, #eafacbcc 80%, #e3fab600 100%);
+}
 .side-bar {
     z-index: 0;
     display: flex;
     flex-wrap: wrap;
     background-color: #f2ffd7;
+    border-right: 1px solid #ebfdc3;
   
     @include mq(md) {
       flex-flow: column nowrap;
