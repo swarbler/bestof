@@ -4,7 +4,7 @@ body {
 .site-header, .main-header {
     border-bottom: 1px solid #ebfdc3;
 }
-.site-header:hover {
+.site-header:hover a {
     background-image: linear-gradient(#f0ffd2 0%, #eafacbcc 80%, #e3fab600 100%);
 }
 .side-bar {
