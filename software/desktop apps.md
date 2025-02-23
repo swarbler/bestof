@@ -119,8 +119,10 @@ nav_order: 1
 - **GUI git client:** Fork
 	- **alternative:** lazygit
 
-{: .alternative }
-the Git Graph extension in VSCodium
+{: .alternative-title }
+> alternative git GUI
+> 
+> the Git Graph extension in VSCodium
 
 ## Image + Video + Audio Editing
 

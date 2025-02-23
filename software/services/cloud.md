@@ -7,19 +7,21 @@ nav_order: 1
 
 #### Everyday
 
-- **email:** Disroot *(free)* / mailbox.org *(paid)*
+- **email** 
+	- **free:** *any is fine, IMAP ones are preferred*
+	- **paid:** mailbox.org
 
 {: .alternative-title }
-> Alternative Emails
+> Alternative (Private) Emails
 > 
 > Proton Mail / Tuta *(neither are IMAP)*
 
-- **search engine:** DuckDuckGo / Mojeek / SearXNG
+- **search engine:** DuckDuckGo / Ecosia / Mojeek / SearXNG
 
 {: .alternative-title }
 > Alternative Search Engine
 > 
-> Kagi *(subscription required)*
+> Kagi looks great and has a lot of features, however, it requires a subscription
 
 - **notes:** Cryptpad / Etherpad
 

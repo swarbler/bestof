@@ -22,16 +22,16 @@ nav_order: 1
 			- **Yoga Slim 7x** is a good alternative option if you want *OLED*, but has *terrible ports*
 			- **Zenbook A14** is *cheaper + incredibly lightweight* but is *only 60hz*
 		- **Surface Laptop 7** *(haptic touchpad)*
-			- **screen:** *13/15" 120hz LCD touchscreen*
+			- **screen:** *13/15" 3:2 120hz LCD touchscreen*
 			- **ports:** *2x USB-C 40Gbps + USB-A 5Gbps + Surface Connect + audio jack*
 				- *microSD for 15" only*
 			- **memory + storage:** *up to 32GB + 1TB
 		- **Yoga Slim 7x**
-			- **screen:** *14” 90hz OLED touchscreen*
+			- **screen:** *14” 16:10 90hz OLED touchscreen*
 			- **ports:** *3x USB-C 40Gbps…that’s it?*
 			- **memory + storage:** *up to 32GB + 1TB*
 		- **Zenbook A14**
-			- **screen:** *14" 60hz IPS (OLED for X Elite varient)*
+			- **screen:** *14" 16:10 60hz IPS (OLED for X Elite varient)*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 1TB*
 	- **x86 (AMD):** Yoga Pro 7 / Zenbook S 16
@@ -40,11 +40,11 @@ nav_order: 1
 			- **Yoga Pro 7** is also a great option with *a smaller 14” screen + a really good keyboard*
 			- **Zenbook S 16** is a great option with *a larger 16” screen + great ports*
 		- **Yoga Pro 7** *(more performance)*
-			- **screen:** *14” 120hz OLED*
+			- **screen:** *14” 16:10 120hz OLED*
 			- **ports:** *USB-C 40Gbps + USB-C 10Gbps + USB-A 5Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *32GB + 1TB*
 		- **Zenbook S 16** *(thin and light)*
-			- **screen:** *16" 120hz OLED touchscreen*
+			- **screen:** *16" 16:10 120hz OLED touchscreen*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack + SD*
 			- **memory + storage:** *up to 32GB + 2TB*
 	- **x86 (Intel):** Yoga Slim 7i Aura Edition / Zenbook S 14
@@ -54,28 +54,49 @@ nav_order: 1
 			- **Zenbook S 14** is also a great option if you want *OLED*
 		- **Yoga Slim 7i Aura Edition**
 			- *Core Ultra 7 Series 2*
-			- **screen:** *15" 120hz LCD*
+			- **screen:** *15" 16:10 120hz LCD*
 			- **ports:** *2x USB-C 40Gbps + USB-A 5Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 1TB*
 		- **Zenbook S 14**
 			- *up to Core Ultra 9 Series 2* 
-			- **screen:** *14” 120hz OLED*
+			- **screen:** *14” 16:10 120hz OLED*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 1TB*
-- **powerful:** ProArt P16 / ROG Zephyrus G16
-	- *Ryzen AI 9 HX 370*
+- **powerful:** Legion Pro 5/5i or 7i *(Gen 10)* / ROG Zephyrus G14/16 *(2025)*
 	- ***summary:***
-		- **Zephyrus G16** for everyday usage and gaming with *240hz screen*
-		- **ProArt P16** for creative purposes with *4K touchscreen* but *is 60hz*
-	- **Zephyrus G16** 
-		- **screen:** *2.5K 240hz OLED* 
+		- **Legion** - thicker with more performance + cooling but not overkill
+		- **Zephyrus** - very slim and compact, sacrifices a bit of performance
+	- **Legion Pro 5 Gen 10** *(up to Ryzen 9 9955HX)*
+		- **screen:** *16” 16:10 240hz OLED*
 		- **memory + storage:** *up to 32GB + 2TB*
-	- **ProArt P16** 
-		- **screen:** *4K 60hz OLED touchscreen*
+		- **ports:** *2x USB-C 10Gbps + USB-A 10Gbps + 2x USB-A 5Gbps + HDMI 2.1 + audio jack + ethernet*
+		- **graphics:** *up to RTX 5070*
+	- **Legion Pro 5i Gen 10** *(up to Core Ultra 9 275HX)*
+		- **screen:** *16” 16:10 240hz OLED*
+		- **memory + storage:** *up to 32GB + 2TB*
+		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + USB-A 10Gbps + 2x USB-A 5Gbps + HDMI 2.1 + audio jack + ethernet*
+		- **graphics:** *up to RTX 5070 Ti*
+	- **Legion Pro 7i Gen 10** *(up to Core Ultra 9 275HX)*
+		- **screen:** *16” 16:10 240hz OLED*
 		- **memory + storage:** *up to 64GB + 2TB*
-	- **shared specs**
-		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + 2x USB-A 10Gbps + HDMI 2.1 + audio jack + DC-in + SD card reader*
-		- **graphics:** *RTX 4060/70*
+		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + USB-A 10Gbps + 2x USB-A 5Gbps + HDMI 2.1 + audio jack + ethernet*
+		- **graphics:** *up to RTX 5090*
+	- **Zephyrus G14** *(Ryzen AI 9 HX 370)*
+		- **screen:** *14” 16:10 120hz OLED* 
+		- **memory + storage:** *up to 32GB + 2TB*
+		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + 2x USB-A 10Gbps + HDMI 2.1 + audio jack + UHS-II microSD card reader*
+		- **graphics:** *up to RTX 5080*
+	- **Zephyrus G16** *(Core Ultra 285H)*
+		- **screen:** *16” 16:10 240hz OLED* 
+		- **memory + storage:** *up to 64GB + 2TB*
+		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + 2x USB-A 10Gbps + HDMI 2.1 + audio jack + UHS-II SD card reader*
+		- **graphics:** *up to RTX 5090*
+- **interesting one:** Honor MagicBook Art 14
+	- *Core Ultra 7 Series 1 / Snapdragon X Elite*
+	- *14” 3:2 120hz OLED touchscreen*
+	- *hidden magnetic webcam, can be flipped backwards*
+	- *very lightweight magnesium alloy body*
+	- *large haptic trackpad*
 
 #### MacOS
 
