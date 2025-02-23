@@ -27,11 +27,12 @@ nav_order: 1
 - **socks** 
 	- **regular:** Uniqlo
 	- **tough:** Fox River
-- **shoes**
-	- ???
-- **laceless shoes** 
-	- **walking:** Skechers *(slip-on)*
-	- **running:** On Cloud 5 *(speed laces)* / Kiziks *(slip-on)*
+- **sneakers:** New Balance 990s or 993 / Asics Kayano 14 / Hoka Clifton 9
+- **slip-on sneakers:** Sketchers Go Walk / Vans / Kiziks
+
+{: .alternative }
+On Cloud 5 is not slip-on, but has "speed laces" and seems very comfortable
+
 - **flip flops:** OluKai
 - **sandals:** Bedrock Sandals / Chaco’s
 - **indoor slippers** 

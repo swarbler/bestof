@@ -7,8 +7,14 @@ nav_order: 2
 
 #### Desks
 
-- **folding desk:** 4NM
-?
+- **standard**
+	- **budget:** *used (Facebook Marketplace, garage sales, etc.)*
+	- **cheaper:** Ikea Alex drawers + butcher block countertop
+	- **upgrade:** Herman Miller / Steelcase
+- **folding:** 4NM
+
+{: .alternative }
+DIY desk using spare materials, inexpensive and you can make it into any size or shape you want
 
 #### Pillows
 
