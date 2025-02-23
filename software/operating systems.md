@@ -7,8 +7,7 @@ nav_order: 5
 
 #### Linux Distros
 
-- **beginner:** Zorin OS
-- **standard:** Fedora / Ubuntu / Manjaro
+- **standard:** Fedora / Linux Mint / Pop!\_OS / Ubuntu / Manjaro
 - **gaming:** SteamOS
 	- **alternative:** Bazzite
 
