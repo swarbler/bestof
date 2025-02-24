@@ -42,9 +42,16 @@ nav_order: 3
 - **RSS reader:** NetNewsWire
 - **Mastodon** 
 	- **more customisable:** Ice Cubes
-	- **more aesthetic:** Mammoth 
+	- **more aesthetic:** Mastoot
 - **Lemmy:** Mlem
 - **YT frontend:** BluePlayer / Yattee
+
+{: .alternative-title }
+> Alternative Mastadon clients
+> 
+> Toot! looks really nice with lots of features, but it's a paid app
+> 
+> Mammoth looks quite good with a "minimalist" look, but pushes their Mammoth Gold subscription and is a little buggy in my experience.
 
 #### Navigation
 

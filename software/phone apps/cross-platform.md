@@ -14,7 +14,7 @@ nav_order: 1
 
 #### Social
 
-- **Mastadon:** Tusky
+- **Mastadon:** *official app*
 - **Lemmy:** Voyager
 
 #### Navigation
