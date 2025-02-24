@@ -54,7 +54,7 @@ nav_order: 1
 			- **Zenbook S 14** is also a great option if you want *OLED*
 		- **Yoga Slim 7i Aura Edition**
 			- *Core Ultra 7 Series 2*
-			- **screen:** *15" 16:10 120hz LCD*
+			- **screen:** *15" 16:10 120hz LCD touchscreen*
 			- **ports:** *2x USB-C 40Gbps + USB-A 5Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 1TB*
 		- **Zenbook S 14**
