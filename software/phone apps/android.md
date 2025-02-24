@@ -29,9 +29,10 @@ nav_order: 2
 #### Social
 
 - **RSS reader:** Feeder
-- **Mastodon**
-	- **standard:** Megalodon / Tusky
-	- **Material Design:** Moshidon
+- **Mastodon** 
+	- **more customisable:** Fedilab
+	- **more aesthetic:** Moshidon
+- **Lemmy:** Jerboa / Thunder
 - **YT frontend** 
 	- **direct connection to YT:** NewPipe / SkyTube / Tubular
 	- **piped proxy:** LibreTube

@@ -40,7 +40,10 @@ nav_order: 3
 #### Social
 
 - **RSS reader:** NetNewsWire
-- **Mastodon:** Mammoth
+- **Mastodon** 
+	- **more customisable:** Ice Cubes
+	- **more aesthetic:** Mammoth 
+- **Lemmy:** Mlem
 - **YT frontend:** BluePlayer / Yattee
 
 #### Navigation

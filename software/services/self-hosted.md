@@ -39,6 +39,11 @@ nav_order: 2
 - **music:** Navidrome
 - **e-books:** Calibre / Kavita / Readarr
 
+#### Social
+
+- **Mastadon**
+- **Lemmy**
+
 #### Programming
 
 - **git:** Gitea

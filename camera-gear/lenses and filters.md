@@ -75,6 +75,9 @@ Meike 33mm *(52mm)* or 55mm *(58mm)* f1.4 is a bit more expensive than the Viltr
 {: .upcoming }
 Viltrox has teased the 25mm f1.7 Air, a 35mm equivalent prime lens
 
+{: .upcoming }
+Sigma has announced the 16-300mm f/3.5-6.7 DC OS, which looks like an ultra versatile zoom lens with a zoom range of 18.8x, the largest in any APS-C mirrorless lens!
+
 #### E-mount (Sony)
 
 - **primes** 

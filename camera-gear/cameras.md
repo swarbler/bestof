@@ -85,6 +85,10 @@ The Canon M50 is similar to the R50 but uses a dead mount
 {: .alternative }
 Zfc is similar to the Z30 II but has an EVF. However, it has no weather sealing!
 
+
+{: .upcoming }
+The Sigma BF will be an incredibly lightweight and compact 24.6MP full-frame camera with a metal unibody design. 
+
 ## Action Cameras
 
 - **tiny:** DJI Action 2

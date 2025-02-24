@@ -102,6 +102,7 @@ nav_order: 1
 - **Mastadon**
 	- **web client:** Elk
 	- **MacOS:** Mammoth
+- **Lemmy:** ?
 - **RSS reader** 
 	- **Windows + MacOS:** Fluent Reader
 	- **Linux:** Akregator *(KDE)* / NewsFlash *(GTK4)*

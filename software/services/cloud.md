@@ -52,6 +52,11 @@ nav_order: 1
 	- **subscription:** Tidal
 	- **purchasing songs:** Bandcamp
 
+#### Social
+
+- **Mastadon**
+- **Lemmy**
+
 #### Programming
 
 - **git:** Codeberg / GitHub

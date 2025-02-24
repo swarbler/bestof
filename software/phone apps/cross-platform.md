@@ -12,6 +12,11 @@ nav_order: 1
 	- **iOS:** Bear
 - **office suite:** Collabora Office
 
+#### Social
+
+- **Mastadon:** Tusky
+- **Lemmy:** Voyager
+
 #### Navigation
 
 - **maps** 
