@@ -43,6 +43,9 @@ body {
 .search-results, .search-results-list {
     background-color: #f5ffe0;
 }
+.search-result:hover {
+    background-color: #f0ffd2;
+}
 .search-result-doc .search-result-icon {
     color: #76815e;
 }
