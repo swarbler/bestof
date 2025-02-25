@@ -139,6 +139,10 @@ nav_order: 1
 	- **good:** OnePlus 13 / Xiaomi 15 series *(4 y/o OS updates)*
 	- **better:** Oppo Find X8 series *(5 y/o OS updates)*
 	- **best:** Pixel 9 series *(7 y/o OS updates)*
+
+{: .upcoming }
+Xiaomi has teased the 15 Ultra, and it will have a Leica-like two-tone design with a 1” sensor and a 200MP telephoto
+
 - **enthusiast:** Sony Xperia 1 VI *(headphone jack + good screen + good cameras + front-facing speakers + microSD slot)*
 - **midrange**
 	- **good:** OnePlus 13R *(4 y/o OS updates)*
