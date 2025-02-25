@@ -24,7 +24,7 @@ nav_order: 3
 #### Audio
 
 - **music player:** Foobar2000 *(free)* / Doppler *(paid)*
-- **Navidrome client:** Amperfy / StreamMusic / substreamer
+- **Navidrome client:** Amperfy / substreamer
 - **voice recorder:** *Voice Memos* / Shure Motiv Audio
 
 #### Productivity
