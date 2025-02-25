@@ -19,6 +19,7 @@ nav_order: 2
 #### Audio
 
 - **music player:** Metro / Symphony / Vanilla Music
+- **Navidrome client:** Symfonium
 - **voice recorder:** Audio Recorder / Fossify
 
 #### Productivity

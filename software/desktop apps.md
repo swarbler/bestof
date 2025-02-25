@@ -75,6 +75,9 @@ nav_order: 1
 
 ## Media
 
+- **Navidrome client:** Aonsoku / Feishin
+	- **for macOS:** Amperfy
+
 #### Windows
 
 - **image viewer:** nomacs
