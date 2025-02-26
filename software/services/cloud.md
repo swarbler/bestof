@@ -56,6 +56,7 @@ nav_order: 1
 
 - **Mastadon**
 - **Lemmy**
+- **Pixelfed**
 
 #### Programming
 

@@ -34,6 +34,7 @@ nav_order: 2
 	- **more customisable:** Fedilab
 	- **more aesthetic:** Moshidon
 - **Lemmy:** Jerboa / Thunder
+- **Pixelfed:** PixelDroid / Pixelix
 - **YT frontend** 
 	- **direct connection to YT:** NewPipe / SkyTube / Tubular
 	- **piped proxy:** LibreTube

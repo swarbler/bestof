@@ -42,6 +42,7 @@ nav_order: 3
 - **RSS reader:** NetNewsWire
 - **Mastodon:** Ice Cubes / Mastoot
 - **Lemmy:** Mlem
+- **Pixelfed:** *official app*
 - **YT frontend:** BluePlayer / Yattee
 
 {: .alternative-title }
