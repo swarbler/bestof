@@ -97,6 +97,16 @@ nav_order: 1
 	- *hidden magnetic webcam, can be flipped backwards*
 	- *very lightweight magnesium alloy body*
 	- *large haptic trackpad*
+- **repairable** 
+	- *easy to repair, upgradeable components, modular I/O*
+	- **standard:** Framework Laptop 13 *(Core Ultra Series 1 / Ryzen 7040 series)*
+	- **more powerful:** Framework Laptop 16 *(Ryzen 7040 series)*
+		- *modular GPU (RX 7700S)*
+
+{: .upcoming }
+> Framework Laptop 13 with Ryzen 9 AI 300 series
+> 
+> Framework Laptop 12 as a cheaper alternative with 360 degree hinges + touchscreen as well as colourful plastic body
 
 #### MacOS
 
@@ -199,7 +209,7 @@ The Xiaomi Mix Flip is also a solid clamshell-style foldable with a large cover 
 	- **plastic sides:** Nomad
 - **mounting:** Peak Design / Quad Lock *(iPhone + Galaxy + Pixel)*
 	- *both have a universal adapter option*
-- **physical keyboard:** Clicks *(iPhone)*
+- **physical keyboard:** Clicks *(iPhone + Galaxy + Pixel + Razr)*
 
 #### Stands
 
@@ -220,6 +230,7 @@ The Xiaomi Mix Flip is also a solid clamshell-style foldable with a large cover 
 #### Windows
 
 - **standard:** ProArt PZ13 / Surface Pro 11 *(Snapdragon X series)*
+- **more powerful:** ROG Flow Z13 *(up to Ryzen AI Max 390)*
 
 #### iPadOS
 
@@ -290,13 +301,34 @@ The OnePlus Watch 3 has even better battery life and improved health and sleep t
 - **Galaxy:** Spigen Liquid Air / Caseology Vault
 - **Pixel:** Spigen Liquid Air / Caseology Vault
 
-## Other
+## PCs
+
+#### Mini PCs
+
+- **budget:** Dell Micro / HP Mini / Lenovo Tiny / NUCs
+- **cheaper:** Minisforum UM760 Slim
+- **standard:** Beelink SER8 / Minisforum UM890 Pro
+- **better:** Minisforum HX99G or HX100G
+- **kind of overkill / expensive**
+	- **Ryzen AI 9 HX 300 series:** Beelink SER9 / Minisforum EliteMini 
+	- **external GPU:** Beelink GTi12 Ultra or GTi14 Ultra *(RX 7800 XT / RX 7900 XTX)*
+- **MacOS:** Mac Mini *(M4)*
+
+#### Desktops
+
+- **budget:** Dell OptiPlex / HP EliteDesk / Lenovo ThinkCentre 
+	- *Intel 8th gen is the best price/performance*
+	- *older CPUs tend to be slower*
+	- *newer CPUs tend to be more expensive*
+- **cheaper:** *used PCs* / Microcenter
+
+{: .upcoming }
+The Framework Desktop is going to be repairable, customisable, and powerful with up to a Ryzen AI Max 395+
+
+## E-Readers and Digital Notebooks
 
 - **e-reader**
 	- **B/W:** Kobo Clara BW
 	- **colour:** Kobo Libra Colour
 		- **alternative:** Kobo Clara Colour *(smaller 6” screen + no note-taking)*
 - **digital notebook:** Supernote A6 X2 Nomad
-- **mini pcs** 
-	- **Windows:** Intel NUCs / Lenovo Tiny / HP Mini / Dell Micro
-	- **MacOS:** Mac Mini *(M4)*
