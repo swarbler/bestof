@@ -28,7 +28,7 @@ nav_order: 3
 	- **compact:** Sony 24-50mm f2.8 G *(67mm)*
 
 {: .upcoming }
-Sony 16mm f1.8 G seems like a good middle ground ultrawide lbetween the 20mm f1.8 and the 14mm f1.4 GM
+Sony 16mm f1.8 G seems like a good middle ground ultrawide lens between the 20mm f1.8 and the 14mm f1.4 GM
 
 #### L-mount (Panasonic Lumix)
 

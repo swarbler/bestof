@@ -23,7 +23,3 @@ The Zenscreen MB166C is almost identical to the MB16ACV and is a bit cheaper but
 
 - **reading light:** Glocusent
 - **desk lamp:** Ottlite
-- **projector** 
-	- **standard:** Nebula Mars 3 Air
-	- **larger:** Nebula Mars 3
-	- **portable:** Nebula Capsule 3 Laser *(non-Laser is cheaper but isn’t bright)*

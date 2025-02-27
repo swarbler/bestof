@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Displays
 
-#### Monitors
+## Monitors
 
 - **24” 1080p:** AOC 24G4 *(180hz IPS)*
 - **27" 1440p** 
@@ -32,3 +32,18 @@ nav_order: 1
 - **screenbar** 
 	- **cheaper:** Xiaomi
 	- **better:** BenQ Screenbar Halo
+
+## Projectors
+
+- **cheaper:** *used BenQ, Epson, or other name brand projectors*
+	- *Facebook Marketplace or similar*
+	- *refurbished projectors*
+	- *old school projectors*
+- **standard:** BenQ HT2050A
+- **upgrade:** Epson 3800
+- **better upgrade:** Epson 5050UB
+
+{: .alternative-title }
+> If you must get an e-waste projector from a no-name brand:
+> 
+> Happrun H1 / Onoayo AY2PRO
