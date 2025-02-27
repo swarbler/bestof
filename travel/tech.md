@@ -13,12 +13,15 @@ nav_order: 2
 
 #### Portable Monitors
 
-- **IPS:** ThinkVision M14 *(14")* / Zenscreen MB16ACV *(16")*
+- **IPS:** ThinkVision M14 *(14")* / Zenscreen MB166C *(16")*
 - **OLED:** Zenscreen MQ13AH *(13")* / MQ16AH *(16")*
 
 {: .alternative }
-The Zenscreen MB166C is almost identical to the MB16ACV and is a bit cheaper but lacks an integrated kickstand
-
+> The Zenscreen MB16AC, MB16ACE, and the MB16ACV are almost identical to the MB166C. The only difference seems to be price, the MB166C is the least expensive. 
+> 
+> However, the MB16ACV is worth looking at if you want an integrated kickstand instead of a folding cover, but it will strangely cost you a bit more. The MB16AC has a glossy screen but is also the most expensive out of the four. Both the MB16AC and MB16ACE have silver frames while the MB166C and MB16ACV have black frames, if that matters for some reason. 
+> 
+> If you find any of the other three for cheaper than the MB166C on a deal, get those, as they seem to be identical besides some very small differences. The other option is to get the significantly less confusing ThinkVision M14.
 #### Other
 
 - **reading light:** Glocusent
