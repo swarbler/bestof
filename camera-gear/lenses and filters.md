@@ -21,14 +21,11 @@ nav_order: 3
 		- **40mm:** Sony 40mm f2.5 G
 		- **50mm:** Sony 50mm f2.5 G
 	- **ultrawide** 
-		- **standard:** Sony 20mm f1.8 
-		- **upgrade:** Sony 14mm f1.4 GM
+		- **standard:** Sony 16mm f1.8 G *(67mm)*
+		- **upgrade:** Sony 14mm f1.4 GM *(no filter thread)*
 - **zoom** 
 	- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm)*
 	- **compact:** Sony 24-50mm f2.8 G *(67mm)*
-
-{: .upcoming }
-Sony 16mm f1.8 G seems like a good middle ground ultrawide lens between the 20mm f1.8 and the 14mm f1.4 GM
 
 #### L-mount (Panasonic Lumix)
 
