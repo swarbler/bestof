@@ -40,10 +40,30 @@ nav_order: 1
 	- *refurbished projectors*
 	- *old school projectors*
 - **standard:** BenQ HT2050A
-- **upgrade:** Epson 3800
+- **upgrade:** BenQ HT3560 / Epson 3800
+	- *the BenQ is a little bit sharper (true 4K)*
+	- *the Epson is brighter with better contrast*
 - **better upgrade:** Epson 5050UB
 
 {: .alternative-title }
-> If you must get an e-waste projector from a no-name brand:
+> If you really want to bore a hole in your wallet
+> 
+> The Epson LS11000 is sharper than the 5050UB, but it will cost significantly more and has worse contrast 
+> 
+> The Epson LS12000 has an even higher asking price the LS11000, but has better contrast and IQ overall
+> 
+> Both are not very nice for your wallet…
+
+{: .alternative-title }
+> If you must get an e-waste projector from a no-name brand
 > 
 > Happrun H1 / Onoayo AY2PRO
+
+#### Accessories
+
+- **screen**
+	- **cheaper:** ?
+	- **better:** Silver Ticket 
+
+{: .warning }
+Do NOT buy the thin bezel screens, they are ridiculously overpriced! It also makes it a lot more difficult to align the projector correctly…

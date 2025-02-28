@@ -19,18 +19,9 @@ nav_order: 1
 
 - **voice assistant:** Mycroft / OpenVoiceOS
 	- **alternative:** Assist *(Home Assistant)*
-
-##### Ikea Symfonysk 
-
-- **bookshelf**
-- **combination w/ shelf**
-- **speaker lamp**
-- **picture frame w/ speaker**
-
-##### Sonos
-
-- **standard:** Era 100
-- **better:** Era 300
+- **smart speakers**
+	- **cheaper:** Ikea Symfonysk
+	- **standard:** Sonos
 
 #### Smart Plugs and Outlets
 

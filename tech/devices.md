@@ -289,6 +289,9 @@ onn tablet is only available in Walmart
 {: .note }
 The OnePlus Watch 3 has even better battery life and improved health and sleep tracking over the Watch 2, but there is a small price increase
 
+{: .alternative }
+The Pixel Watch 2 is a good option if you find it for significantly cheaper. The only thing you won’t get with the 2 is the brighter screen and slimmer bezels of the Watch 3.
+
 #### watchOS
 
 - **cheaper:** Apple Watch SE
