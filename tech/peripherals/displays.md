@@ -15,14 +15,22 @@ nav_order: 1
 	- **mini-LED:** Xiaomi G Pro 27i
 - **32” 4K** 
 	- **standard:** Gigabyte M32U / LG 32GR93U *(144hz IPS)*
-	- **better:** *any 240hz QD-OLED, depends on pricing*
-		- **alternative:** LG 32GS95UE *(240hz WOLED)*
-		- **with DP 2.1:** Gigabyte FO32U2P
+	- **better:** *any 240hz QD-OLED, depends on pricing
 - **34" ultrawide** 
 	- **standard:** Gigabyte M34WQ *(144hz IPS)*
 	- **better:** Odyssey OLED G8 *(240hz QD-OLED)*
-		- **alternative:** LG 34GS95QE *(240hz WOLED)*
  - **49" ultrawide:** Evnia 49M2C8900L *(240hz QD-OLED)*
+
+{: .alternative-title }
+> If you prefer WOLED over QD-OLEDs
+> 
+> The LG 32GS95UE is a good 32" 4K 240hz WOLED monitor
+> The LG 34GS95QE is a good 34" ultrawide 240hz WOLED monitor
+
+{: .alternative-title }
+> If you want DisplayPort 2.1
+> 
+> The Gigabyte FO32U2P is a unique 32" 4K 240hz QD-OLED monitor in that it has DP 2.1 support for some future proofing. The FO32U2 is the same monitor but a little cheaper and without DP 2.1
 
 #### Accessories
 
