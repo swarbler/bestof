@@ -69,9 +69,10 @@ nav_order: 1
 
 #### Accessories
 
-- **screen**
-	- **cheaper:** ?
-	- **better:** Silver Ticket 
+- **screen:** Silver Ticket 
+
+{: .alternative }
+Elite Screens also make good projector screens, but Silver Ticket is usually a bit better on price
 
 {: .warning }
 Do NOT buy the thin bezel screens, they are ridiculously overpriced! It also makes it a lot more difficult to align the projector correctly…
