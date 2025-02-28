@@ -15,10 +15,11 @@ nav_order: 3
 ## Pre-Built Mechanical
 
 - **standard:** Aula F65/75/87
-	- **alternative:** Keychron V series
 - **aluminium body:** Cidoo V65/75/87
-	- **alternative:** Keychron Q series
 - **low-profile:** Nuphy Air *(wisteria switches)* / Lofree Flow 
+
+{: .alternative }
+Keychron keyboards are quite good, but the price is a bit high. Also, customer service seems a bit iffy.
 
 ## Custom Mechanical
 
