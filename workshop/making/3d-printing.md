@@ -33,7 +33,7 @@ nav_order: 1
 
 ##### Sovol
 
-- **cheaper bed-slinger:** SV06
+- **cheaper bed-slinger:** SV06 Ace
 - **larger bed-slinger:** SV08
 
 ##### Creality
