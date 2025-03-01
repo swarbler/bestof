@@ -102,7 +102,7 @@ nav_order: 1
 
 ## Social
 
-- **Mastadon**
+- **Mastodon**
 	- **web client:** Elk
 	- **MacOS:** Mammoth
 - **Lemmy:** ?

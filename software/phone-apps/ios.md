@@ -46,7 +46,7 @@ nav_order: 3
 - **YT frontend:** BluePlayer / Yattee
 
 {: .alternative-title }
-> Alternative Mastadon clients
+> Alternative Mastodon clients
 > 
 > Toot! looks really nice with lots of features, but it's a paid app
 > 

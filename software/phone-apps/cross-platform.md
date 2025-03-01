@@ -14,7 +14,7 @@ nav_order: 1
 
 #### Social
 
-- **Mastadon:** *official app*
+- **Mastodon:** *official app*
 - **Lemmy:** Voyager
 
 #### Navigation

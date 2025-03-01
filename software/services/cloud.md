@@ -54,7 +54,7 @@ nav_order: 1
 
 #### Social
 
-- **Mastadon**
+- **Mastodon**
 - **Lemmy**
 - **Pixelfed**
 
