@@ -14,6 +14,7 @@ nav_order: 1
 2. **Bambu Lab** - good hardware and decently repairable, but closed ecosystem
 3. **Sovol** - cheaper Prusa clones, may not be as reliable
 4. **Creality** - meh hardware, may not be as reliable
+
 *Elegoo’s Centauri Carbon recently released, could possibly be an incredible value but wait for independent reviews to release*
 
 ##### Prusa
