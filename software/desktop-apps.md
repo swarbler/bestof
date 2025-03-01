@@ -12,22 +12,32 @@ nav_order: 1
 	- **MacOS:** Orion by Kagi
 - **local AI:** GPT4All *(more models)* / Sanctum *(more user-friendly)*
 
+{: .alternative-title }
+> alternative browsers
+> 
+> Mozilla has been walking back on some of its privacy promises, and there are numerous forks of Firefox such as Waterfox, Librewolf, Floorp, and the Mullvad/Tor Browser. They all have different features that make them appealing for different people.
+> 
+> Waterfox is pretty much Firefox but with no branding and tracking. Librewolf is more privacy-oriented than Waterfox, but makes the user experience a little bit more annoying. Another option is to use Firefox with Arkenfox. 
+> 
+> Floorp is all about customisability and is the one I personally use. Finally, the Tor browser has many default settings that help keep you anonymous, with the Mullvad Browser being the same thing but without the Tor network. 
+>
+>The Ladybird project is also worth looking at as a browser that does not rely on either Blink (Chromium), Gecko (Firefox), or WebKit (Safari), but they are currently still in active development.
+
 ## Productivity
 
-- **note-taking:** Obsidian
-	- **alternative:** Joplin
+- **note-taking:** Joplin / Obsidian
 	- **MacOS:** Bear
 - **todo.txt:** sleek
 - **notepad alternative (Windows):** Notepad++
 
 ## Documents
 
-- **office suites:** LibreOffice
+- **office suites:** LibreOffice / OnlyOffice
 
-{: .alternative-title }
-> Alternative for Windows
+{: .note }
+> LibreOffice's UI looks terrible in Windows for whatever reason, so I prefer OnlyOffice when I'm using Windows. LibreOffice is fine on Linux though. 
 > 
-> OnlyOffice
+> Aside from the better UI on Windows, OnlyOffice has better compatibility with MS Office compared to LibreOffice. LibreOffice has more features, however. LibreOffice is also not owned by a company like OnlyOffice is, so that may influence your decision.
 
 ## Utilities
 
