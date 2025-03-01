@@ -10,7 +10,7 @@ nav_order: 2
 - **email:** mailcow / mail-in-a-box
 - **search engine:** SearXNG
 - **notes** 
-	- **standard:** Cryptpad / Etherpad / Hedgehog / Livebook / *others*
+	- **standard:** Cryptpad / Etherpad / HedgeDoc / Livebook / *others*
 	- **twitter feed style:** Memos
 
 #### Communication
