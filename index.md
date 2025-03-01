@@ -14,6 +14,16 @@ I've been working on this for many years now, starting off with a PowerPoint det
 
 I later moved everything from the PowerPoint to a more organised system of different folders and markdown files, which makes it much easier to find everything. Fast forward to now, this repository of all sorts of things is significantly larger!
 
+## similar projects
+
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [tycrek/degoogle](https://tycrek.github.io/degoogle/)
+- [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+- [awesome-tuis](https://github.com/rothgar/awesome-tuis)
+- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+- other github repos also exist as well, they're all very good!
+
 ## how I decide the things
 
 - **personal experience** 
