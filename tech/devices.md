@@ -69,17 +69,17 @@ nav_order: 1
 	- **Legion Pro 5 Gen 10** *(up to Ryzen 9 9955HX)*
 		- **screen:** *16” 16:10 240hz OLED*
 		- **memory + storage:** *up to 32GB + 2TB*
-		- **ports:** *2x USB-C 10Gbps + USB-A 10Gbps + 2x USB-A 5Gbps + HDMI 2.1 + audio jack + ethernet*
+		- **ports:** *2x USB-C 10Gbps + USB-A 10Gbps + 2x USB-A 5Gbps + HDMI 2.1 + audio jack + 1G ethernet*
 		- **graphics:** *up to RTX 5070*
 	- **Legion Pro 5i Gen 10** *(up to Core Ultra 9 275HX)*
 		- **screen:** *16” 16:10 240hz OLED*
 		- **memory + storage:** *up to 32GB + 2TB*
-		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + USB-A 10Gbps + 2x USB-A 5Gbps + HDMI 2.1 + audio jack + ethernet*
+		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + USB-A 10Gbps + 2x USB-A 5Gbps + HDMI 2.1 + audio jack + 1G ethernet*
 		- **graphics:** *up to RTX 5070 Ti*
 	- **Legion Pro 7i Gen 10** *(up to Core Ultra 9 275HX)*
 		- **screen:** *16” 16:10 240hz OLED*
 		- **memory + storage:** *up to 64GB + 2TB*
-		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + USB-A 10Gbps + 2x USB-A 5Gbps + HDMI 2.1 + audio jack + ethernet*
+		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + USB-A 10Gbps + 2x USB-A 5Gbps + HDMI 2.1 + audio jack + 2.5G ethernet*
 		- **graphics:** *up to RTX 5090*
 	- **Zephyrus G14** *(Ryzen AI 9 HX 370)*
 		- **screen:** *14” 16:10 120hz OLED* 
@@ -116,7 +116,28 @@ nav_order: 1
 
 #### Linux
 
-- **everyday:** System76 Lemur Pro
+- **standard:** System76 Lemur Pro / Tuxedo InfinityBook Pro 14 or 15 Gen 9
+	- **Lemur Pro**
+		- *up to Core Ultra 7 155H*
+		- **screen:** *14" 16:10 60hz IPS*
+		- **memory + storage:** *up to 56GB + 4TB*
+		- **ports:** *USB-C 40Gbps + USB-C 10Gbps + USB-A 10Gbps + USB-A 5Gbps + HDMI 2.1 + audio jack + UHS-I microSD card reader*
+	- **InfinityBook Pro 14 or 15 Gen 9**
+		- *up to Core Ultra 7 155H or Ryzen 7 8845HS
+		- **screen:** *14" 16:10 120hz IPS or 15" 16:10 240hz IPS*
+		- **memory + storage:** *up to 96GB + 8TB*
+		- **ports:** *USB-C 40Gbps + USB-C 10Gbps + 2x USB-A 5Gbps + 1x USB-A 480Mbps + HDMI 2.0b + audio jack + UHS-II SD card reader + 1G ethernet*
+- **powerful:** Tuxedo Stellaris 15 Slim Gen 6
+	- *up to Core i9-14900HX OR Ryzen 7 8845HS*
+	- **graphics:** *up to RTX 4070
+	- **screen:** *15" 16:10 240hz IPS*
+	- **memory + storage:** *up to 96GB + 8TB*
+	- **ports:** *USB-C 10Gbps + USB-C 5Gbps + 4x USB-A 5Gbps + HDMI 2.1 + audio jack + UHS-II SD card reader + 2.5G ethernet*
+
+{: .alternative }
+> Lenovo Thinkpads are also good dedicated Linux laptops.
+> 
+> You could also install Linux on *any* laptop, but check if the hardware is compatible!
 
 #### Sleeves
 
