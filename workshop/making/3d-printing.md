@@ -110,7 +110,10 @@ The Centauri is even cheaper alternative if you don’t need an enclosure
 
 - **RFID for non-Bambu filaments:** OpenSpool
 - **screen upgrade:** Panda Touch *(for P1 series)*
-- **open-source multi-material system:** ERCF v2 *(for Klipper-based printers)*
+- **open-source multi-material system:** BoxTurtle / ERCF v2 / Tradrack *(for Klipper-based printers like Vorons)*
+
+{: .note }
+BoxTurtle and Tradrack seems to be much easier to put together than ERCF, but your mileage may vary. I have never used either.
 
 ## Software
 
