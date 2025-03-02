@@ -52,7 +52,8 @@ There no real reason why you should get the Prusa Mini+ unless you want a small 
 
 ##### Creality
 
-- **budget bed-slinger:** Ender 3 V3 SE
+- **budget bed-slinger:** Ender 3 V3 SE or KE
+	- *KE can print at higher temperatures + has linear rail for X-axis + has Klipper firmware*
 - **upgrade CoreXY:** K2 Plus
 
 ##### Elegoo
