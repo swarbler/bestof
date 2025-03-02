@@ -10,12 +10,17 @@ nav_order: 1
 #### FDM
 
 ***personal ranking***
-1. **Voron** - good hardware, very upgradeable + repairable, very open-source *(best option if you're fine with building it yourself)*
+1. **Voron** - good hardware, very upgradeable + repairable, very open-source 
+	- *best option if you're fine with building it yourself*
 2. **Prusa** - good hardware, very upgradeable + repairable, but expensive
-3. **Sovol** - SV06 ACE is a Prusa clone, SV08 is a Voron kit, very repairable + open
-4. **Qidi** - well-priced CoreXY printers with some interesting features, prints engineering filaments out of the box
-5. **Bambu Lab** - good hardware and decently repairable, but very closed ecosystem
-6. **Creality** - meh hardware for the price, may not be as reliable as other brands
+	- *gold standard for quality + customer support* 
+3. **Qidi** - well-priced CoreXY printers with some interesting features, prints engineering filaments out of the box
+	- *the Qidi Q1 Pro is an amazing value and very competitive with Bambu Lab!*
+4. **Sovol** - SV06 ACE is a Prusa clone, SV08 is a Voron kit, very repairable + open
+5. **Bambu Lab** - good hardware and some parts are replaceable, but very closed ecosystem
+	- *Bambu Lab has locked down on third-party software!*
+6. **Creality** - meh hardware for the price, may not be as reliable as other brands. 
+	- *ecosystem is also quite closed, but less so than Bambu*
 
 *Elegoo’s Centauri Carbon recently released, could possibly be an incredible value but wait for independent reviews to release*
 
