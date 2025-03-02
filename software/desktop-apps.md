@@ -15,7 +15,7 @@ nav_order: 1
 		- **more private:** Librewolf / Arkenfox / Mullvad Browser
 		- **Tor network:** Tor Browser
 	- **Blink (Chromium):** Vivaldi 
-	- **MacOS:** Orion by Kagi
+	- **for MacOS:** Orion by Kagi *(has support for Chrome and Firefox extensions)*
 - **local AI:** GPT4All *(more models)* / Sanctum *(more user-friendly)*
 
 ## Productivity
@@ -24,6 +24,9 @@ nav_order: 1
 	- **MacOS:** Bear
 - **todo.txt:** sleek
 - **notepad alternative (Windows):** Notepad++
+
+{: .note }
+Both Joplin and Obsidian have loads of different plugins and are great note-taking apps. Joplin is open-source whereas Obsidian is closed, and Obsidian organises notes in "vaults" whereas Joplin has "notebooks"
 
 ## Documents
 
@@ -127,6 +130,13 @@ nav_order: 1
 - **code editor:** VSCodium
 - **GUI git client:** Fork
 	- **alternative:** lazygit
+
+{: .alternative-title }
+> other code editors
+> 
+> vim and emacs have a steep learning curve but seem like powerful options, but I have personally never tried either
+> 
+> The JetBrains IDEs are also very good, each have all sorts of features tailored to the specific programming languages (WebStorm, Pycharm, CLion, etc.)
 
 {: .alternative-title }
 > alternative git GUI
