@@ -33,15 +33,15 @@ nav_order: 1
 {: .note }
 There no real reason why you should get the Prusa Mini+ unless you want a small printer/the cheapest printer from Prusa. Other options in this price range offer far better value (Sovol, Qidi, and Bambu Lab all have good options)
 
-##### Sovol
-
-- **cheaper bed-slinger:** SV06 Ace
-- **larger CoreXY:** SV08
-
 ##### Qidi
 
 - **cheaper CoreXY:** Qidi Q1 Pro
 - **standard CoreXY:** Qidi Plus 4
+
+##### Sovol
+
+- **cheaper bed-slinger:** SV06 Ace
+- **larger CoreXY:** SV08
 
 ##### Bambu Lab
 
@@ -51,7 +51,7 @@ There no real reason why you should get the Prusa Mini+ unless you want a small 
 - **upgrade CoreXY:** X1 Carbon
 
 {: .warning }
-> Bambu Lab has restricted access to its printers, so you are unable to use third-party software without changing to "Developer Mode" (LAN mode) in firmware after v4.0.0.0! 
+> Bambu Lab has restricted access to its printers, so you are unable to use third-party software without changing to "Developer Mode" (LAN only mode) in firmware after v4.0.0.0! 
 > 
 > If you want to continue using a Bambu Handy-like app with Bambu printers, I recommend the "Bambu Companion" app (unfortunately iOS only) with Tailscale. It works surprisingly well!
 
