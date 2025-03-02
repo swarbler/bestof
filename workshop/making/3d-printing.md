@@ -48,11 +48,11 @@ There no real reason why you should get the Prusa Mini+ unless you want a small 
 {: .warning }
 > Bambu Lab has restricted access to its printers, so you are unable to use third-party software without changing to "Developer Mode" (LAN mode) in firmware after v4.0.0.0! 
 > 
-> If you want to continue using a Bambu Handy-like app with Bambu printers, I recommend the "Bambu Companion" app with Tailscale. It works surprisingly well!
+> If you want to continue using a Bambu Handy-like app with Bambu printers, I recommend the "Bambu Companion" app (unfortunately iOS only) with Tailscale. It works surprisingly well!
 
 ##### Creality
 
-- **budget bed-slinger:** Ender 3 V3
+- **budget bed-slinger:** Ender 3 V3 SE
 - **upgrade CoreXY:** K2 Plus
 
 ##### Elegoo
@@ -121,3 +121,8 @@ BoxTurtle and Tradrack seems to be much easier to put together than ERCF, but yo
 - **print failure detection:** OctoEverywhere
 - **Bambu Handy alternative:** Bambu Companion *(iOS only)*
 - **print farm management:** Polar
+
+{: .alternative-title }
+> other good slicers
+> 
+> OrcaSlicer is based on PrusaSlicer, which itself is a very good slicer! 
