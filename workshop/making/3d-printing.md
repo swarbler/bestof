@@ -10,15 +10,17 @@ nav_order: 1
 #### FDM
 
 ***personal ranking***
-1. **Prusa** - good hardware, very upgradeable + repairable *(expensive though)*
-2. **Bambu Lab** - good hardware and decently repairable, but closed ecosystem
-3. **Sovol** - cheaper Prusa clones, may not be as reliable
-4. **Creality** - meh hardware, may not be as reliable
+1. **Voron** - good hardware, very upgradeable + repairable, very open-source, best option if you're fine with building it yourself
+2. **Prusa** - good hardware, very upgradeable + repairable *(expensive though)*
+3. **Bambu Lab** - good hardware and decently repairable, but closed ecosystem
+4. **Sovol** - SV06 ACE is a Prusa clone, SV08 is a Voron kit, very repairable + open
+5. **Creality** - meh hardware, may not be as reliable
 
 *Elegoo’s Centauri Carbon recently released, could possibly be an incredible value but wait for independent reviews to release*
 
 ##### Prusa
 
+- **smaller bed-slinger:** Mini+
 - **upgrade bed-slinger:** MK4S
 	- **enclosure:** *enclosure kit*
 - **upgrade CoreXY:** Core One
@@ -38,7 +40,7 @@ nav_order: 1
 
 ##### Creality
 
-- **budget bed-slinger:** Ender 3 *(terrible user experience, but very inexpensive)*
+- **budget bed-slinger:** Ender 3 V3
 - **upgrade CoreXY:** K2 Plus
 
 ##### Elegoo
@@ -48,7 +50,7 @@ nav_order: 1
 {: .alternative }
 The Centauri is even cheaper alternative if you don’t need an enclosure
 
-##### DIY
+##### Voron
 
 - **fixed gantry CoreXY:** Voron Trident
 - **moving gantry CoreXY:** Voron 2.4

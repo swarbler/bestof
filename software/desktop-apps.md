@@ -8,20 +8,15 @@ nav_order: 1
 ## Everyday
 
 - **email client:** Thunderbird
-- **browser** Firefox
+- **browser** 
+	- **Gecko (Firefox)**
+		- **standard:** Firefox / Waterfox *(depending on how much you trust Mozilla)*
+		- **more customisable:** Floorp
+		- **more private:** Librewolf / Arkenfox / Mullvad Browser
+		- **Tor network:** Tor Browser
+	- **Blink (Chromium):** Vivaldi 
 	- **MacOS:** Orion by Kagi
 - **local AI:** GPT4All *(more models)* / Sanctum *(more user-friendly)*
-
-{: .alternative-title }
-> alternative browsers
-> 
-> Mozilla has been walking back on some of its privacy promises, and there are numerous forks of Firefox such as Waterfox, Librewolf, Floorp, and the Mullvad/Tor Browser. They all have different features that make them appealing for different people.
-> 
-> Waterfox is pretty much Firefox but with no branding and tracking. Librewolf is more privacy-oriented than Waterfox, but makes the user experience a little bit more annoying. Another option is to use Firefox with Arkenfox. 
-> 
-> Floorp is all about customisability and is the one I personally use. Finally, the Tor browser has many default settings that help keep you anonymous, with the Mullvad Browser being the same thing but without the Tor network. 
->
->The Ladybird project is also worth looking at as a browser that does not rely on either Blink (Chromium), Gecko (Firefox), or WebKit (Safari), but they are currently still in active development.
 
 ## Productivity
 

@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Android Apps
 
-- **browser:** Firefox / Fennec / Mull
+- **browser:** Firefox / Fennec / IronFox
 - **email client:** K-9 Mail / Thunderbird
 - **CalDAV / CardDAV:** DAVx5
 

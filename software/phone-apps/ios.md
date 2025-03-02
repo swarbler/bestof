@@ -10,6 +10,7 @@ nav_order: 3
 	- **more features:** Orion by Kagi 
 		- *Chrome and Firefox extension support + customisable Safari-like gestures*
 	- **more customisable:** SnowHaze
+		- *the browser with the most settings to be customised I've seen on iOS!*
 - **email client:** Apple Mail *(or wait for Thunderbird for iOS)*
 
 #### Photos

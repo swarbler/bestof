@@ -66,17 +66,14 @@ nav_order: 3
 
 #### Lenses for All Mounts
 
-- **cheapest:** TTArtisan 35/56mm f1.8 *(52mm)*
-- **cheaper:** Viltrox 35/56mm f1.7 Air *(52mm)*
+- **cheapest:** TTArtisan 23/35/56mm f1.8 *(52mm)*
+- **cheaper:** Viltrox 25/35/56mm f1.7 Air *(52mm)*
 - **better:** Sigma 16mm *(67mm)* or 23/30mm *(52mm)* or 56mm *(55mm)* f1.4 DC DN
 - **portrait:** Viltrox 75mm f1.2 *(77mm)*
 - **pancake:** TTArtisan 27mm f2.8 *(39mm)*
 
 {: .alternative }
 Meike 33mm *(52mm)* or 55mm *(58mm)* f1.4 is a bit more expensive than the Viltrox lenses but have a wider aperture
-
-{: .upcoming }
-Viltrox has teased the 25mm f1.7 Air, a 35mm equivalent prime lens
 
 {: .upcoming }
 Sigma has announced the 16-300mm f/3.5-6.7 DC OS, which looks like an ultra versatile zoom lens with a zoom range of 18.8x, the largest in any APS-C mirrorless lens!
