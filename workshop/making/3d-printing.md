@@ -119,7 +119,18 @@ BoxTurtle and Tradrack seems to be much easier to put together than ERCF, but yo
 ## Software
 
 - **slicer:** OrcaSlicer
-- **print failure detection:** OctoEverywhere
+- **printer software:** OctoPrint *(remote access, automated print failure detection, etc.)*
+	- **plugins**
+		- Dashboard *(a dashboard for monitoring the printer)*
+		- Arc Welder *(reduces stuttering during printing by modifying gcode)*
+		- OctoEverywhere *(automated print failure detection)*
+		- Filament Manager *(manage spools of filament)*
+		- PrintTimeGenius *(more accurate print time estimates)*
+		- OctoLapse *(timelapses)*
+		- Exclude Region *(prevent printing within a region in the current gcode)*
+		- Simple Emergency Stop
+		- UI Customiser
+		- *loads of other plugins exist, try them out!*
 - **Bambu Handy alternative:** Bambu Companion *(iOS only)*
 - **print farm management:** Polar
 
