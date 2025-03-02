@@ -10,33 +10,45 @@ nav_order: 1
 #### FDM
 
 ***personal ranking***
-1. **Voron** - good hardware, very upgradeable + repairable, very open-source, best option if you're fine with building it yourself
-2. **Prusa** - good hardware, very upgradeable + repairable *(expensive though)*
-3. **Bambu Lab** - good hardware and decently repairable, but closed ecosystem
-4. **Sovol** - SV06 ACE is a Prusa clone, SV08 is a Voron kit, very repairable + open
-5. **Creality** - meh hardware, may not be as reliable
+1. **Voron** - good hardware, very upgradeable + repairable, very open-source *(best option if you're fine with building it yourself)*
+2. **Prusa** - good hardware, very upgradeable + repairable, but expensive
+3. **Sovol** - SV06 ACE is a Prusa clone, SV08 is a Voron kit, very repairable + open
+4. **Qidi** - well-priced CoreXY printers with some interesting features, prints engineering filaments out of the box
+5. **Bambu Lab** - good hardware and decently repairable, but very closed ecosystem
+6. **Creality** - meh hardware for the price, may not be as reliable as other brands
 
 *Elegoo’s Centauri Carbon recently released, could possibly be an incredible value but wait for independent reviews to release*
 
 ##### Prusa
 
 - **smaller bed-slinger:** Mini+
-- **upgrade bed-slinger:** MK4S
-	- **enclosure:** *enclosure kit*
+- **standard bed-slinger:** MK4S
 - **upgrade CoreXY:** Core One
+
+{: .note }
+There no real reason why you should get the Prusa Mini+ unless you want a small printer/the cheapest printer from Prusa. Other options in this price range offer far better value (Sovol, Qidi, and Bambu Lab all have good options)
+
+##### Sovol
+
+- **cheaper bed-slinger:** SV06 Ace
+- **larger CoreXY:** SV08
+
+##### Qidi
+
+- **cheaper CoreXY:** Qidi Q1 Pro
+- **standard CoreXY:** Qidi Plus 4
 
 ##### Bambu Lab
 
 - **smaller bed-slinger:** A1 Mini 
 - **cheaper bed-slinger:** A1
-- **standard CoreXY:** P1P
-	- **enclosure:** P1S / *enclosure kit*
+- **standard CoreXY:** P1P / P1S *(P1S has an enclosure)*
 - **upgrade CoreXY:** X1 Carbon
 
-##### Sovol
-
-- **cheaper bed-slinger:** SV06 Ace
-- **larger bed-slinger:** SV08
+{: .warning }
+> Bambu Lab has restricted access to its printers, so you are unable to use third-party software without changing to "Developer Mode" (LAN mode) in firmware after v4.0.0.0! 
+> 
+> If you want to continue using a Bambu Handy-like app with Bambu printers, I recommend the "Bambu Companion" app with Tailscale. It works surprisingly well!
 
 ##### Creality
 
