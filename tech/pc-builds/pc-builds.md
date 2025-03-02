@@ -1,7 +1,7 @@
 ---
 title: PC Builds
-parent: PC Setup
-nav_order: 1
+parent: Tech
+nav_order: 3
 ---
 # PC Builds
 
