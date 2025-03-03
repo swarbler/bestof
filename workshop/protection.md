@@ -9,7 +9,7 @@ nav_order: 6
 
 - **mask:** RZ mask
 - **full-face respirator:** 3M
-- **safety goggles:** Dewalt *(DPG82)*
+- **safety goggles:** DeWalt *(DPG82)*
 - **laser safety eyewear:** Laservision *(lasersafety.com)*
 	- **alternative:** Cloudray
 
@@ -19,7 +19,9 @@ nav_order: 6
 - **nitrile gloves** 
 	- **standard:** Venom Steel
 	- **fine motor skills:** Grease Monkey
-***(GLOVES ARE NOT FOR POWER TOOLS)***
+
+{: .warning }
+Do **NOT** wear gloves when using power tools!
 
 #### Ear
 
