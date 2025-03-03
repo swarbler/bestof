@@ -14,15 +14,11 @@ I've been working on this for many years now, starting off with a PowerPoint det
 
 I later moved everything from the PowerPoint to a more organised system of different folders and markdown files, which makes it much easier to find everything. Fast forward to now, this repository of all sorts of things is significantly larger!
 
-## similar projects
+## Upcoming Changes
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-- [tycrek/degoogle](https://tycrek.github.io/degoogle/)
-- [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
-- [awesome-tuis](https://github.com/rothgar/awesome-tuis)
-- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
-- other github repos also exist as well, they're all very good!
+- higher contrast colour palettes
+- more details on why things are chosen as the best
+- a "reviews" section for more in-depth information on things I have personal experience with
 
 ## how I decide the things
 
@@ -32,6 +28,16 @@ I later moved everything from the PowerPoint to a more organised system of diffe
 - **feature set and (relative) price**
 
 I try to balance my own experiences and opinions with online reviews and forums when deciding which things are the best things, as well as taking into account the feature set and price of the thing.
+
+## similar projects
+
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [tycrek/degoogle](https://tycrek.github.io/degoogle/)
+- [awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin)
+- [awesome-tuis](https://github.com/rothgar/awesome-tuis)
+- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+- other github repos also exist as well, they're all very good!
 
 ## why isn't \[X thing] the best one?
 

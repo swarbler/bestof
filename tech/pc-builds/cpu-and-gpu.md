@@ -33,8 +33,7 @@ nav_order: 1
 - **CPU:** Ryzen 7 7700 or 7700X
 - **GPU:** RX 7800 XT / RTX 4070 Super
 	- **better:** RX 7900 XT / RTX 4070 Ti Super
-- **power supply:** *at least 750W*
-- **CPU cooler:** Phantom Spirit 120
+- **power supply:** *at least 750W
 
 > If ASRock Steel Legend is out of stock, the Gigabyte B650 Aorus Elite AX V2 is a good alternative
 
