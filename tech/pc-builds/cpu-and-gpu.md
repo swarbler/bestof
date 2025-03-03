@@ -5,7 +5,6 @@ nav_order: 1
 ---
 # CPU and GPU
 
-{: .disclaimer }
 > I did not include CPUs on dead platforms as this list is meant to be future proof. If you buy into a dead platform now, you will be unable to upgrade to a newer CPU in the future.
 > 
 > However, good older CPUs for an budget build include the Ryzen 5 5600, the Core i3-12100F or i5-12400F, and the Ryzen 7 5700X3D.
