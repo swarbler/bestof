@@ -21,15 +21,8 @@ nav_order: 1
 	- **better:** Odyssey OLED G8 *(240hz QD-OLED)*
  - **49" ultrawide:** Evnia 49M2C8900L *(240hz QD-OLED)*
 
-{: .alternative-title }
-> If you prefer WOLED over QD-OLEDs
-> 
-> The LG 32GS95UE is a good 32" 4K 240hz WOLED monitor
-> The LG 34GS95QE is a good 34" ultrawide 240hz WOLED monitor
+> If you prefer WOLED, the LG 32GS95UE and LG 34GS95QE are good 32" 4K and 34" ultrawide 240hz WOLED monitors respectively
 
-{: .alternative-title }
-> If you want DisplayPort 2.1
-> 
 > The Gigabyte FO32U2P is a unique 32" 4K 240hz QD-OLED monitor in that it has DP 2.1 support for some future proofing. The FO32U2 is the same monitor but a little cheaper and without DP 2.1
 
 #### Accessories
@@ -71,8 +64,8 @@ nav_order: 1
 
 - **screen:** Silver Ticket 
 
-{: .alternative }
-Elite Screens also make good projector screens, but Silver Ticket is usually a bit better on price
+
+> Elite Screens also make good projector screens, but Silver Ticket is usually a bit better on price
 
 {: .warning }
 Do NOT buy the thin bezel screens, they are ridiculously overpriced! It also makes it a lot more difficult to align the projector correctly…

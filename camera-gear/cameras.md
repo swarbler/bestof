@@ -29,8 +29,7 @@ nav_order: 1
 - **main:** S5 II or IIX
 - **secondary:** G9 II
 
-{: .alternative }
-G85 is weather sealed alternative to the GX85 with a larger DSLR-style grip
+> G85 is weather sealed alternative to the GX85 with a larger DSLR-style grip
 
 #### Video
 
@@ -59,8 +58,7 @@ G85 is weather sealed alternative to the GX85 with a larger DSLR-style grip
 - **main:** R6 II
 - **secondary:** R7
 
-{: .alternative }
-Canon R8 is similar to the R7, but is full-frame rather than APS-C
+> Canon R8 is similar to the R7, but is full-frame rather than APS-C
 
 
 #### Video
@@ -68,8 +66,7 @@ Canon R8 is similar to the R7, but is full-frame rather than APS-C
 - **cheaper:** R50
 - **upgrade:** C70
 
-{: .alternative }
-The Canon M50 is similar to the R50 but uses a dead mount
+> The Canon M50 is similar to the R50 but uses a dead mount
 
 ### Nikon
 
@@ -82,9 +79,7 @@ The Canon M50 is similar to the R50 but uses a dead mount
 	- *Zf is more fun and a bit smaller*
 - **secondary:** Z30 II
 
-{: .alternative }
-Zfc is similar to the Z30 II but has an EVF. However, it has no weather sealing!
-
+> Zfc is similar to the Z30 II but has an EVF. However, it has no weather sealing!
 
 {: .upcoming }
 The Sigma BF will be an incredibly lightweight and compact 24.6MP full-frame camera with a metal unibody design. 

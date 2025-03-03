@@ -14,8 +14,7 @@ nav_order: 2
 	- **upgrade:** Miele Classic C1 Turbo Team / Numatic Henry Petcare HPC-160 / Sebo K2
 	- **better upgrade:** Miele Classic C1 Cat & Dog
 
-{: .alternative }
-The SEBO K3 is a better canister than the Miele Classic C1 Cat & Dog with more QoL features + a longer hose and cord, but its MSRP is $100 (USD) more expensive
+> The SEBO K3 is a better canister than the Miele Classic C1 Cat & Dog with more QoL features + a longer hose and cord, but its MSRP is $100 (USD) more expensive
 
 - **bagged upright**
 	- **budget:** Hoover Windtunnel T-Series Tempo

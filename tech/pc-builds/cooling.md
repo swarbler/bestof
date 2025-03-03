@@ -15,8 +15,8 @@ nav_order: 5
 	- **53mm height:** Thermalright AXP90-X53
 	- **67mm height:** Thermalright AXP-120-X67
 
-{: .alternative }
-The Peerless Assasin is very similar to the Phantom Spirit and quite close to performance, so it's a good alternative if the Phantom Spirit is out of stock
+
+> The Peerless Assasin is very similar to the Phantom Spirit and quite close to performance, so it's a good alternative if the Phantom Spirit is out of stock
 
 #### AIOs
 
@@ -31,8 +31,7 @@ The Peerless Assasin is very similar to the Phantom Spirit and quite close to pe
 - **120mm:** Arctic P12 Max
 - **140mm:** Arctic P14
 
-{: .alternative }
-Other fans such as the Phanteks T-30 and Noctuas are also very high performing, but the price is not as good as the Arctic fans. They are a bit quieter at higher fan speeds, but most people won't run their fans at 100%!
+> Other fans such as the Phanteks T-30 and Noctuas are also very high performing, but the price is not as good as the Arctic fans. They are a bit quieter at higher fan speeds, but most people won't run their fans at 100%!
 
 ## Custom Water Cooling
 

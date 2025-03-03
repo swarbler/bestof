@@ -134,8 +134,8 @@ nav_order: 1
 	- **memory + storage:** *up to 96GB + 8TB*
 	- **ports:** *USB-C 10Gbps + USB-C 5Gbps + 4x USB-A 5Gbps + HDMI 2.1 + audio jack + UHS-II SD card reader + 2.5G ethernet*
 
-{: .alternative }
-> Lenovo Thinkpads are also good dedicated Linux laptops.
+
+> > Lenovo Thinkpads are also good dedicated Linux laptops.
 > 
 > You could also install Linux on *any* laptop, but check if the hardware is compatible!
 
@@ -180,8 +180,8 @@ Xiaomi has teased the 15 Ultra, and it will have a Leica-like two-tone design wi
 	- **good:** OnePlus 13R *(4 y/o OS updates)*
 	- **best:** Pixel 8a *(7 y/o OS updates)*
 
-{: .alternative }
-The Poco F6 *(4 y/o OS updates)* is a powerful midrange phone, but has bloated software.
+
+> The Poco F6 *(4 y/o OS updates)* is a powerful midrange phone, but has bloated software.
 
 {: .upcoming  }
 Galaxy A56 will release this year with *6 y/o OS updates!*

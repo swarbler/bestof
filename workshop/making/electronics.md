@@ -15,8 +15,7 @@ nav_order: 3
 - **spudger:** Jakemy
 - **mini rotary tool:** Dremel
 
-{: .alternative }
-The LTT precision screwdriver is a bit more expensive than the iFixit, but includes a spinny fidget with ceramic bearings and a bit compartment
+> The LTT precision screwdriver is a bit more expensive than the iFixit, but includes a spinny fidget with ceramic bearings and a bit compartment. Purchase if you like LTT and want to support them
 
 #### Wire Strippers
 

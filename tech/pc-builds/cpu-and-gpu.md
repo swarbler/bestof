@@ -25,8 +25,8 @@ nav_order: 1
 
 > The 7600 / 7600X can be cooled with their stock coolers
 
-{: .alternative }
-The RX 7700 XT underperforms in comparison to the RX 6800 XT. If you're able to find the RX 7700 XT for a lot cheaper than it could be worth it
+
+> The RX 7700 XT underperforms in comparison to the RX 6800 XT. If you're able to find the RX 7700 XT for a lot cheaper than it could be worth it
 
 ## 1440p / 4K
 
@@ -40,9 +40,6 @@ The RX 7700 XT underperforms in comparison to the RX 6800 XT. If you're able to 
 
 > If you find the RTX 4070 for a lot cheaper than the Super model, then get that
 
-{: .alternative-title }
-> Another good GPU
-> 
 > The RX 7900 GRE sits in between RX 7800 XT and RX 7900 XT and is a very good value
 
 ## Best for Gaming Battlestations

@@ -55,5 +55,4 @@ nav_order: 2
 - **VPN:** Tailscale
 - **DNS:** Pi-hole
 
-{: .alternative }
-Bitwarden's official server is a lot more resource-heavy and not ideal for individuals and small organisations, but you may want to use that if you are planning to host an instance for THOUSANDS of users. Vaultwarden can "only" handle several hundred. For most people, Vaultwarden makes much more sense.
+> Bitwarden's official server is a lot more resource-heavy and not ideal for individuals and small organisations, but you may want to use that if you are planning to host an instance for THOUSANDS of users. Vaultwarden can "only" handle several hundred. For most people, Vaultwarden makes much more sense.

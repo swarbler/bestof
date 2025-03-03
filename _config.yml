@@ -8,12 +8,9 @@ plugins:
 color_scheme: bird
 
 callouts:
-  alternative:
-    title: alternative
-    color: yellow
   warning:
     title: warning
-    color: red
+    color: yellow
   upcoming:
     title: upcoming
     color: green

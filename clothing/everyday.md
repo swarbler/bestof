@@ -30,8 +30,9 @@ nav_order: 1
 - **sneakers:** New Balance 990s or 993 / Asics Kayano 14 / Hoka Clifton 9
 - **slip-on sneakers:** Sketchers Go Walk / Vans / Kiziks
 
-{: .alternative }
-On Cloud 5 is not slip-on, but has "speed laces" and seems very comfortable
+> The On Cloud 5 is not slip-on, but has "speed laces" and seems very comfortable
+
+> Shoes are very personal and it honestly doesn't really matter which one you pick as long as find it for a decent price and think it's comfortable. The ones I suggested here are shoes that are known for their comfort online (esp. the New Balances)
 
 - **flip flops:** OluKai
 - **sandals:** Bedrock Sandals / Chaco’s

@@ -66,8 +66,7 @@ nav_order: 1
 
 - **cheaper CoreXY:** Centauri Carbon *($299)*
 
-{: .alternative }
-The Centauri *($199)* is even cheaper alternative if you don’t need an enclosure
+> The Centauri *($199)* is even cheaper alternative if you don’t need an enclosure
 
 ##### Voron
 

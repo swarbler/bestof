@@ -13,8 +13,7 @@ nav_order: 2
 	- **upgrade:** Herman Miller / Steelcase
 - **folding:** 4NM
 
-{: .alternative }
-DIY desk using spare materials, inexpensive and you can make it into any size or shape you want
+> You could also make a DIY desk using spare materials, it's inexpensive and you can make it into any size or shape you want
 
 #### Pillows
 

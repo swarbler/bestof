@@ -25,10 +25,6 @@ nav_order: 1
 	- **upgrade:** Haworth Fern / Steelcase Leap V2 or Gesture
 - **under-desk footrest:** ComfiLife
 
-{: .alternative-title }
-> If you prefer mesh chairs
-> 
 > Another great chair is the Herman Miller Aeron if you prefer mesh chairs
 
-{: .alternative }
-The Haworth Soji is similar to the Breck but a bit more expensive, it's also a great option if you find it on a good deal
+> The Haworth Soji is similar to the Breck but a bit more expensive, it's also a great option if you find it on a good deal

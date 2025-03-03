@@ -17,8 +17,7 @@ nav_order: 3
 	- **standard:** Fiio BTR5
 	- **better:** Fiio BTR7
 
-{: .alternative }
-The Fiio KA13 is confusingly the successor to the KA3, so if the KA3 is cheaper than get that
+> The Fiio KA13 is confusingly the successor to the KA3, so if the KA3 is cheaper than get that
 
 #### DACs
 

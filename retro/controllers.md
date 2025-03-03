@@ -8,5 +8,4 @@ nav_order: 2
 - **standard:** 8BitDo SN30 Pro
 - **larger:** 8BitDo Pro 2
 
-{: .alternative }
-Using first-party OEM controllers that originally came with the console
+> You could also use first-party OEM controllers that originally came with the console if you prefer that
