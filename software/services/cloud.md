@@ -11,16 +11,10 @@ nav_order: 1
 	- **free:** *any is fine, IMAP ones are preferred*
 	- **paid:** mailbox.org
 
-{: .alternative-title }
-> Alternative (Private) Emails
-> 
-> Proton Mail / Tuta *(neither are IMAP)*
+> Proton Mail and Tuta are also good private emails, but neither are IMAP
 
 - **search engine:** DuckDuckGo / Ecosia / Mojeek / SearXNG
 
-{: .alternative-title }
-> Alternative Search Engine
-> 
 > Kagi looks great and has a lot of features, however, it requires a subscription
 
 - **notes:** Cryptpad / Etherpad
@@ -66,10 +60,7 @@ nav_order: 1
 
 - **password manager:** Bitwarden
 
-{: .alternative-title }
-> Alternative Password Managers
-> 
-> Proton Pass (open source) / 1Password (closed source)
+> Other password managers include Proton Pass (open source) and 1Password (closed source)
 
 - **2FA:** Ente Auth
 - **VPN:** Proton VPN / Mullvad VPN

@@ -138,7 +138,4 @@ nav_order: 1
 - **Bambu Handy alternative:** Bambu Companion *(iOS only)*
 - **print farm management:** Polar
 
-{: .alternative-title }
-> other good slicers
-> 
 > OrcaSlicer is based on PrusaSlicer, which itself is a very good slicer! 

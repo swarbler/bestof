@@ -13,10 +13,7 @@ nav_order: 2
 - **work lamps:** Ikea Forsä
 - **floor lamps:** Ikea Ranarp
 
-{: .alternative-title }
-> Alternative lamps
-> 
-> any you can find on a good deal with interchangeable bulbs
+> Any other lamps you like the look of with interchangeable bulbs are good options too. These Ikea ones are just priced very well
 
 #### Smart
 

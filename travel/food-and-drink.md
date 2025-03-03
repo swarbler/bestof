@@ -15,15 +15,9 @@ nav_order: 3
 - **plastic:** CamelBak Chute Mag
 - **fun:** Owala FreeSip
 
-{: .alternative-title }
-> cheaper plastic water bottle
-> 
-> a random one on amazon/aliexpress/taobao/etc. I have this one from a brand called "Uzspace" that has lasted for many years
+> a random plastic water bottle on amazon/aliexpress/taobao/etc can be a good cheap alternative. I have this one from a brand called "Uzspace" that has lasted for many years
 
-{: .alternative-title }
-> water bottle with a glass-like inner layer
-> 
-> Purist Collective water bottles prevent the "metal" taste, but they are much more expensive than similar sized bottles
+> Purist Collective water bottles prevent the "metal" taste with a "glass-like layer", but they are much more expensive than similar sized bottles
 
 ##### Thermos
 

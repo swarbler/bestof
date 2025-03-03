@@ -7,10 +7,7 @@ nav_order: 2
 
 - **handheld:** Steam Deck OLED
 
-{: .alternative-title }
-> Alternative for steam deck
-> 
-> ROG Ally with Bazzite
+> The ROG Ally with Bazzite may also be worth considering
 
 #### Accessories
 

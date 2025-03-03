@@ -12,15 +12,9 @@ nav_order: 2
 	- **alternative:** Anker Powerline II
 - **to microUSB:** Amazon Basics
 
-{: .alternative-title }
-> if you want the longest certified USB-C to USB-C cable
->
-> Club3D CAC-1575 (the orange cable)
+> If you want the longest certified USB-C to USB-C cable, the Club3D CAC-1575 is also a good option. You can spot it as "the orange cable"
 
-{: .alternative-title }
-> if you want cables with a soft silicone sheath
->
-> Anker 643 Flow (to USB-C) or 641 Flow (to Lightning)
+> The Anker 643 Flow (to USB-C) and 641 Flow (to Lightning) have a flexible silicone sheath that's very soft, but are a bit more expensive
 
 #### USB-A
 

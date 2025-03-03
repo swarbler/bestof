@@ -23,10 +23,7 @@ nav_order: 4
 
 > The Montech Air 100 is an mATX case, whereas the 903 can fit ATX motherboards
 
-{: .alternative-title }
-> alternative budget mATX case
-> 
-> Lian Li DAN A3-mATX is a nice-looking case, there's also a wood panel option!
+> Lian Li DAN A3-mATX is a nice-looking case, and there's also a wood panel option!
 
 ## SFF (mini-ITX)
 

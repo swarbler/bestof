@@ -33,10 +33,7 @@ nav_order: 3
 - **todo.txt:** 2do.txt *(free)* / Swiftodo *(paid)*
 - **calendar:** *Calendar*
 
-{: .alternative-title }
-> Alternative Calendar Apps
-> 
-> Across *(free)* / Creme *(free)* / Calendar 366 *(paid)*
+> other good calendar apps include Across *(free)*, Creme *(free)*, and Calendar 366 *(paid)*
 
 #### Social
 
@@ -46,10 +43,7 @@ nav_order: 3
 - **Pixelfed:** *official app*
 - **YT frontend:** BluePlayer / Yattee
 
-{: .alternative-title }
-> Alternative Mastodon clients
-> 
-> Toot! looks really nice with lots of features, but it's a paid app
+> Toot! looks like really nice Mastadon client with lots of features, but it's a paid app. If you like it, support the dev by purchasing it!
 > 
 > Mammoth looks quite good with a "minimalist" look, but pushes their Mammoth Gold subscription and is a little buggy in my experience.
 

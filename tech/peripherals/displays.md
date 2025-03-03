@@ -46,19 +46,9 @@ nav_order: 1
 	- *the Epson is brighter with better contrast*
 - **better upgrade:** Epson 5050UB
 
-{: .alternative-title }
-> If you really want to bore a hole in your wallet
-> 
-> The Epson LS11000 is sharper than the 5050UB, but it will cost significantly more and has worse contrast 
-> 
-> The Epson LS12000 has an even higher asking price the LS11000, but has better contrast and IQ overall
-> 
-> Both are not very nice for your wallet…
+> The Epson LS11000 is sharper than the 5050UB, but it will cost significantly more and has worse contrast. The LS12000 has an even higher asking price the LS11000, but has better contrast and IQ overall. Both are not very nice for your wallet…
 
-{: .alternative-title }
-> If you must get an e-waste projector from a no-name brand
-> 
-> Happrun H1 / Onoayo AY2PRO
+> Happrun H1 / Onoayo AY2PRO seem to be good no-name brand projectors, but I would not recommend them as they are mass-produced e-waste that need to replaced within a few months
 
 #### Accessories
 

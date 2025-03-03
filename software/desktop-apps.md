@@ -118,28 +118,15 @@ nav_order: 1
 - **YT frontend:** FreeTube
 - **YT downloader:** youtube-dl
 
-{: .alternative-title }
-> Alternative YT frontend
-> 
-> Grayjay
-
 ## Programming
 
 - **code editor:** VSCodium
 - **GUI git client:** Fork
-	- **alternative:** lazygit
+	- **alternative:** Git Graph extension in VSCodium
 
-{: .alternative-title }
-> other code editors
-> 
 > vim and emacs have a steep learning curve but seem like powerful options, but I have personally never tried either
 > 
 > The JetBrains IDEs are also very good, each have all sorts of features tailored to the specific programming languages (WebStorm, Pycharm, CLion, etc.)
-
-{: .alternative-title }
-> alternative git GUI
-> 
-> the Git Graph extension in VSCodium
 
 ## Image + Video + Audio Editing
 

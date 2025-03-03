@@ -39,11 +39,6 @@ nav_order: 2
 	- **direct connection to YT:** NewPipe / SkyTube / Tubular
 	- **piped proxy:** LibreTube
 
-{: .alternative-title }
-> Alternative YT frontend
-> 
-> Grayjay
-
 #### Programming
 
 - **code editor:** Acode

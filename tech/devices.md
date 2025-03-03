@@ -203,15 +203,9 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 		- *Galaxy Flip has better build quality, Razr has a larger cover screen*
 - **book-style:** Oppo Find N5
 
-{: .alternative-title }
-> alternative clamshell-style foldable
->
 >The Xiaomi Mix Flip is also a solid clamshell-style foldable with a large cover screen and decent cameras. However, it does NOT have an IP rating!
 
-{: .alternative-title }
-> alternative book-style foldable
-> 
-> The OnePlus Open is based on the predecessor of the Find N5, the Find N3. It's a bit older but still a great foldable if the Oppo is not available in your region.
+> The OnePlus Open is based on the predecessor of the Find N5, the Find N3. It's a bit older but still a great book-style foldable if the Oppo is not available in your region.
 > 
 > The Google Pixel 9 Pro Fold (mouthful of a name!) is also a very good foldable. Although it's not as slim as the Find N5 and has worse battery life, it has Pixel cameras and software. That also means it will get 7 y/o OS updates!
 > 
