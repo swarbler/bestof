@@ -165,11 +165,12 @@ nav_order: 1
 			- *ultrasonic vs optical fingerprint scanner*
 			- *Find X8 Pro has an extra 6x telephoto*
 			- *Oppo gets 5 y/o OS updates whereas OnePlus gets 4*
-		- **if you care about software support:** Pixel *(limited availability + worse chipset)*
+		- **if you care about software support:** Honor Magic 7 Pro *(MagicOS is a bit bloated)*
+			- **if you want near-stock OS:** Pixel *(limited availability + worse chipset)*
 		- **great hardware, terrible software:** Xiaomi
 	- **good:** OnePlus 13 / Xiaomi 15 series *(4 y/o OS updates)*
 	- **better:** Oppo Find X8 series *(5 y/o OS updates)*
-	- **best:** Pixel 9 series *(7 y/o OS updates)*
+	- **best:** Pixel 9 series / Honor Magic 7 Pro *(7 y/o OS updates)*
 
 {: .upcoming }
 Xiaomi has teased the 15 Ultra, and it will have a Leica-like two-tone design with a 1” sensor and a 200MP telephoto

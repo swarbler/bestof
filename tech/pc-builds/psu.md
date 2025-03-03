@@ -5,8 +5,6 @@ nav_order: 3
 ---
 # PSUs
 
-## ATX
-
 - **ATX:** Be Quiet / Corsair RMx or RMx Shift / EVGA G6 or G7 / Seasonic Focus GX or Prime PX
 
 {: .note }
@@ -16,7 +14,6 @@ nav_order: 3
 > 
 > EVGA's G3 is made by Superflower, the G5 is made by FSP, and the G6 and G7 is made by Seasonic. The G6 and G7 is best designed out of all of them. 
 
-## SFX
-
 - **SFX:** SF750 *(smaller)*
 - **SFX-L:** Loki 1000W Platinum *(larger + more powerful)*
+- **Flex-ATX:** ?

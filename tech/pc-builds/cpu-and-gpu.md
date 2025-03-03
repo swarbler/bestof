@@ -5,12 +5,18 @@ nav_order: 1
 ---
 # CPU and GPU
 
-- **RAM:** 6000MT/s CL30 DDR5 *(best option for AM5)*
-
-{: .note-title }
-> About Zen 5 processors
+{: .disclaimer }
+> I did not include CPUs on dead platforms as this list is meant to be future proof. If you buy into a dead platform now, you will be unable to upgrade to a newer CPU in the future.
 > 
-> They had a rocky launch with a very minimal performance uplift from Zen 4 despite the price increase. However, if you're able to find them for the same or even cheaper than the equivalent Zen 4 processors in your region, grab them while you can
+> However, good older CPUs for an budget build include the Ryzen 5 5600, the Core i3-12100F or i5-12400F, and the Ryzen 7 5700X3D.
+> 
+> I did not include Intel's 13th and 14th generation CPUs due to their microcode issues resulting in CPUs going dead. 
+> 
+> Intel's newest Arrow Lake CPUs actually had a performance regression in gaming compared to last gen and you have to get the latest motherboards with the LGA 1851 socket, which are expensive. 
+> 
+> AMD's Zen 5 processors underperformed despite the higher price compared to equivalent Zen 4 processors.
+
+- **RAM:** 6000MT/s CL30 DDR5 *(best option for AM5)*
 
 ## 1080p / 1440p
 
@@ -19,7 +25,7 @@ nav_order: 1
 - **power supply:** *at least 650W*
 
 {: .note }
-The 7600 / 7600X 
+The 7600 / 7600X can be cooled with their stock coolers
 
 {: .alternative }
 The RX 7700 XT underperforms in comparison to the RX 6800 XT. If you're able to find the RX 7700 XT for a lot cheaper than it could be worth it
@@ -55,7 +61,7 @@ If you find the RTX 4080 for a lot cheaper than the Super model, then get that
 
 ## Best for Productivity Workhorses
 
-- **CPU:** Ryzen 9 7950X
+- **CPU:** Ryzen 9 7900X or 7950X
 - **GPU:** RX 7900 XT / RTX 4070 Ti Super
 	- **better:** RX 7900 XTX / RTX 4080 Super
 - **power supply:** *at least 850W*
