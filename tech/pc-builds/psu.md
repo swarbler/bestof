@@ -7,7 +7,6 @@ nav_order: 3
 
 - **ATX:** Be Quiet / Corsair RMx or RMx Shift / EVGA G6 or G7 / Seasonic Focus GX or Prime PX
 
-{: .note }
 > Corsair RMe series uses cheaper components and, according to online reviews, have a problem with coil whine. The RMx Shift series is similar to the RMx series but with ATX 3.0 compatibility.
 > 
 > The Seasonic Focus GX and Prime PX series are both very good, but the Prime is *very slightly* more efficient than the Focus. You will have a good experience with both.

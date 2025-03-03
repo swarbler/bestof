@@ -14,8 +14,7 @@ nav_order: 2
 	- **X670:** ASRock X670E Steel Legend *(very expensive)*
 	- **X870:** ASRock X870E Nova WiFi *(also very expensive)*
 
-{: .note }
-If ASRock Steel Legend is out of stock, the Gigabyte B650 Aorus Elite AX V2 is a good alternative
+> If ASRock Steel Legend is out of stock, the Gigabyte B650 Aorus Elite AX V2 is a good alternative
 
 ## micro-ATX
 

@@ -288,8 +288,7 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 - **standard:** OnePlus Pad 2
 - **upgrade:** Galaxy Tab S10 series *(anti-reflective OLED)*
 
-{: .note }
-onn tablet is only available in Walmart
+> onn tablet is only available in Walmart
 
 #### Linux
 
@@ -325,11 +324,9 @@ onn tablet is only available in Walmart
 - **standard:** OnePlus Watch 2
 - **better:** OnePlus Watch 3
 
-{: .note }
-The OnePlus Watch 3 has even better battery life and improved health and sleep tracking over the Watch 2, but there is a small price increase
+> The OnePlus Watch 3 has even better battery life and improved health and sleep tracking over the Watch 2, but there is a small price increase
 
-{: .alternative }
-The Pixel Watch 2 is a good option if you find it for significantly cheaper. The only thing you won’t get with the 2 is the brighter screen and slimmer bezels of the Watch 3.
+> The Pixel Watch 2 is a good option if you find it for significantly cheaper. The only thing you won’t get with the 2 is the brighter screen and slimmer bezels of the Watch 3.
 
 #### watchOS
 

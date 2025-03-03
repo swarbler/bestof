@@ -25,14 +25,12 @@ nav_order: 1
 - **todo.txt:** sleek
 - **notepad alternative (Windows):** Notepad++
 
-{: .note }
-Both Joplin and Obsidian have loads of different plugins and are great note-taking apps. Joplin is open-source whereas Obsidian is closed, and Obsidian organises notes in "vaults" whereas Joplin has "notebooks"
+> Both Joplin and Obsidian have loads of different plugins and are great note-taking apps. Joplin is open-source whereas Obsidian is closed, and Obsidian organises notes in "vaults" whereas Joplin has "notebooks"
 
 ## Documents
 
 - **office suites:** LibreOffice / OnlyOffice
 
-{: .note }
 > LibreOffice's UI looks terrible in Windows for whatever reason, so I prefer OnlyOffice when I'm using Windows. LibreOffice is fine on Linux though. 
 > 
 > Aside from the better UI on Windows, OnlyOffice has better compatibility with MS Office compared to LibreOffice. LibreOffice has more features, however. LibreOffice is also not owned by a company like OnlyOffice is, so that may influence your decision.

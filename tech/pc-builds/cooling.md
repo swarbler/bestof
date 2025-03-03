@@ -24,8 +24,7 @@ The Peerless Assasin is very similar to the Phantom Spirit and quite close to pe
 - **standard:** *they all perform similarly, pick the one you like the best/at the best price in your region*
 - **higher performance:** Arctic Liquid Freezer III 
 
-{: .note }
-The Liquid Freezer III has a thicker radiator that may not fit in all cases
+> The Liquid Freezer III has a thicker radiator that may not fit in all cases
 
 ## Fans
 

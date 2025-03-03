@@ -67,5 +67,4 @@ nav_order: 4
 - **card style:** Pebblebee
 - **tag style:** Pebblebee
 
-{: .note }
-Moto Tag has UWB support + fits in AirTag accessories
+> Moto Tag has UWB support + fits in AirTag accessories

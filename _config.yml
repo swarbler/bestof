@@ -11,9 +11,6 @@ callouts:
   alternative:
     title: alternative
     color: yellow
-  note:
-    title: note
-    color: blue
   warning:
     title: warning
     color: red

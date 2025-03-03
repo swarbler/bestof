@@ -19,11 +19,9 @@ nav_order: 4
 		- *NZXT H5 Flow*
 		- *Phanteks Eclipse G500A*
 
-{: .note }
-The Lian Li Lancool 207 is smaller than the 216 and more similar to a mATX case that happens to support ATX motherboards
+> The Lian Li Lancool 207 is smaller than the 216 and more similar to a mATX case that happens to support ATX motherboards
 
-{: .note }
-The Montech Air 100 is an mATX case, whereas the 903 can fit ATX motherboards
+> The Montech Air 100 is an mATX case, whereas the 903 can fit ATX motherboards
 
 {: .alternative-title }
 > alternative budget mATX case

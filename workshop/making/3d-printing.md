@@ -30,8 +30,7 @@ nav_order: 1
 - **standard bed-slinger:** MK4S *($729 for kit, $999 for pre-assembled)*
 - **upgrade CoreXY:** Core One  *($949 for kit, $1,199 for pre-assembled)*
 
-{: .note }
-There no real reason why you should get the Prusa Mini+ unless you want a small printer/the cheapest printer from Prusa. Other options in this price range offer far better value (Sovol, Qidi, and Bambu Lab all have good options)
+> There no real reason why you should get the Prusa Mini+ unless you want a small printer/the cheapest printer from Prusa. Other options in this price range offer far better value (Sovol, Qidi, and Bambu Lab all have good options)
 
 ##### Qidi
 
@@ -120,8 +119,7 @@ The Centauri *($199)* is even cheaper alternative if you don’t need an enclosu
 - **screen upgrade:** Panda Touch *(for P1 series)*
 - **open-source multi-material system:** BoxTurtle / ERCF v2 / Tradrack *(for Klipper-based printers like Vorons)*
 
-{: .note }
-BoxTurtle and Tradrack seems to be much easier to put together than ERCF, but your mileage may vary. I have never used either.
+> BoxTurtle and Tradrack seems to be much easier to put together than ERCF, but your mileage may vary. I have never used either.
 
 ## Software
 

@@ -23,8 +23,7 @@ nav_order: 1
 	- **standard:** onn 4K
 	- **upgrade:** Apple TV 4K
 
-{: .note }
-onn TV box is only available in Walmart
+> onn TV box is only available in Walmart
 
 #### Other
 

@@ -23,8 +23,7 @@ nav_order: 1
 - **GPU:** RX 6800 XT
 - **power supply:** *at least 650W*
 
-{: .note }
-The 7600 / 7600X can be cooled with their stock coolers
+> The 7600 / 7600X can be cooled with their stock coolers
 
 {: .alternative }
 The RX 7700 XT underperforms in comparison to the RX 6800 XT. If you're able to find the RX 7700 XT for a lot cheaper than it could be worth it
@@ -37,11 +36,9 @@ The RX 7700 XT underperforms in comparison to the RX 6800 XT. If you're able to 
 - **power supply:** *at least 750W*
 - **CPU cooler:** Phantom Spirit 120
 
-{: .note }
-If ASRock Steel Legend is out of stock, the Gigabyte B650 Aorus Elite AX V2 is a good alternative
+> If ASRock Steel Legend is out of stock, the Gigabyte B650 Aorus Elite AX V2 is a good alternative
 
-{: .note }
-If you find the RTX 4070 for a lot cheaper than the Super model, then get that
+> If you find the RTX 4070 for a lot cheaper than the Super model, then get that
 
 {: .alternative-title }
 > Another good GPU
@@ -55,8 +52,7 @@ If you find the RTX 4070 for a lot cheaper than the Super model, then get that
 	- **better:** RX 7900 XTX / RTX 4080 Super
 - **power supply:** *at least 850W*
 
-{: .note }
-If you find the RTX 4080 for a lot cheaper than the Super model, then get that
+> If you find the RTX 4080 for a lot cheaper than the Super model, then get that
 
 ## Best for Productivity Workhorses
 
@@ -65,5 +61,4 @@ If you find the RTX 4080 for a lot cheaper than the Super model, then get that
 	- **better:** RX 7900 XTX / RTX 4080 Super
 - **power supply:** *at least 850W*
 
-{: .note }
-If you find the RTX 4080 for a lot cheaper than the Super model, then get that
+> If you find the RTX 4080 for a lot cheaper than the Super model, then get that
