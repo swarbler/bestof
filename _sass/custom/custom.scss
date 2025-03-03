@@ -1,28 +1,28 @@
 body {
-    background-color: #f5ffe0;
-    color: #8d9b70;
+    background-color: #fff;
+    color: #000;
 }
 .site-header, .main-header {
-    border-bottom: 1px solid #ebfdc3;
+    border-bottom: 1px solid #ccc;
 }
 hr {
-    background-color: #ebfdc3
+    background-color: #ccc
 }
 .site-header:hover a {
-    background-image: linear-gradient(#f0ffd2 0%, #eafacbcc 80%, #e3fab600 100%);
+    background-image: linear-gradient(#ccc 0%, #ddd 80%, #dedede00 100%);
 }
 .side-bar {
     z-index: 0;
     display: flex;
     flex-wrap: wrap;
-    background-color: #f2ffd7;
+    background-color: #bbb;
   
     @include mq(md) {
       flex-flow: column nowrap;
       position: fixed;
       width: $nav-width-md;
       height: 100%;
-      border-right: 1px solid #ebfdc3;
+      border-right: 1px solid #ccc;
       align-items: flex-end;
     }
   
@@ -32,55 +32,55 @@ hr {
     }
 }
 .nav-list .nav-list-item .nav-list-link:hover, .nav-list .nav-list-item .nav-list-link.active {
-    background-image: linear-gradient(-90deg, #f0ffd2 0%, #eafacbcc 80%, #e3fab600 100%);
+    background-image: linear-gradient(-90deg, #ccc 0%, #ddddddcc 80%, #dedede00 100%);
 }
 .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
-    color: #a7b689;
+    color: #c0c5c3;
 }
 .nav-list .nav-list-item .nav-list-expander {
-    color: #a1b181;
+    color: #c0c5c3;
 }
 .nav-list .nav-list-item .nav-list-expander:hover {
-    background-image: linear-gradient(-90deg, #f0ffd2 0%, #eafacbcc 100%);
+    background-image: linear-gradient(-90deg, #ddd 0%, #dededecc 100%);
 }
 .search-results, .search-results-list {
-    background-color: #f5ffe0;
+    background-color: #eee;
 }
 .search-result:hover {
-    background-color: #f0ffd2;
+    background-color: #ddd;
 }
 .search-result-doc .search-result-icon {
-    color: #76815e;
+    color: #000;
 }
 .search-label .search-icon {
-    color: #727e59;
+    color: #000;
 }
 .search-input:focus + .search-label .search-icon{
-    color: #9fa88a;
+    color: #000;
 }
 .search-active .search-input, .search-input, .search {
-    background-color: #f5ffe0;
+    background-color: #999;
 }
 .site-title, .icon {
-    color: #727f59;
+    color: #000;
 }
 .site-button:hover {
-    background-image: linear-gradient(-90deg, #ecffc6 0%, #e7fbbfcc 100%);
+    background-image: linear-gradient(-90deg, #ddd 0%, #dededecc 100%);
 }
 h1, h2, h3, h4, h5, h6, #toctitle {
-    color: #727e59;
+    color: #000;
 }
 p, li {
-    color: #8d9b70;
+    color: #000;
 }
 a, strong, .search-result-preview, .search-result-rel-url, .search-input {
-    color: #a0b27d;
+    color: #000;
 }
-a:not([class]) { text-decoration-color: #c1d49a; }
-a:not([class]):hover { text-decoration-color: #a0b27d; }
+a:not([class]) { text-decoration-color: #000; }
+a:not([class]):hover { text-decoration-color: #000; }
 em, .main-content .anchor-heading svg, .site-footer {
-    color: #7e8c62;
+    color: #333;
 }
 blockquote {
-    border-left: 2px dotted #a0b27d;
+    border-left: 2px dotted #aaa;
 }
