@@ -12,7 +12,7 @@ nav_order: 1
 ***personal ranking***
 1. **Voron** - good hardware, very upgradeable + repairable, very open-source 
 	- *best option if you're fine with building it yourself*
-2. **Prusa** - good hardware, very upgradeable + repairable, but expensive
+2. **Prusa** - good hardware, very upgradeable + repairable
 	- *gold standard for quality + customer support* 
 3. **Qidi** - well-priced CoreXY printers with some interesting features, prints engineering filaments out of the box
 	- *the Qidi Q1 Pro is an amazing value and very competitive with Bambu Lab!*
@@ -35,8 +35,8 @@ There no real reason why you should get the Prusa Mini+ unless you want a small 
 
 ##### Qidi
 
-- **cheaper CoreXY:** Qidi Q1 Pro
-- **standard CoreXY:** Qidi Plus 4
+- **cheaper CoreXY:** Qidi Q1 Pro *(~~$599~~ $449)*
+- **larger CoreXY:** Qidi Plus 4 *(~~$999~~ $799)*
 
 ##### Sovol
 

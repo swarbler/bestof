@@ -22,7 +22,7 @@ callouts:
     color: green
   disclaimer:
     title: disclaimer
-    color: orange
+    color: pink
 
 callouts_opacity: 0.33
   
