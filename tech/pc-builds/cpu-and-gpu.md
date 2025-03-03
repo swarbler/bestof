@@ -25,7 +25,6 @@ nav_order: 1
 
 > The 7600 / 7600X can be cooled with their stock coolers
 
-
 > The RX 7700 XT underperforms in comparison to the RX 6800 XT. If you're able to find the RX 7700 XT for a lot cheaper than it could be worth it
 
 ## 1440p / 4K
