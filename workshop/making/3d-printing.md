@@ -142,5 +142,4 @@ nav_order: 1
 
 ## Other
 
-- **vacuum-seal bags:** ?
-- **mini air pump:** ?
+- **vacuum-seal bags:** *any will do, eSun and Eibos kits seem pretty good*

@@ -5,9 +5,12 @@ nav_order: 1
 ---
 # Camping
 
-## Tents
+## Shelter
 
-?
+- **tents:** *any will do (e.g. REI, Nature Hike, Kelty, Eureka, and Coleman ones are all good)*
+- **sleeping bags:** *any will do (e.g. REI, Teton, Marmot, and Coleman ones are all good)*
+
+> You can also try to snag a higher-quality used tent
 
 ## Cooking
 
