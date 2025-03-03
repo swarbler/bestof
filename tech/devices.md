@@ -192,7 +192,7 @@ Galaxy A56 will release this year with *6 y/o OS updates!*
 The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updates!*
 
 - **compact:** Xperia XZ1 Compact
-- **matte:** TCL 50 NXTPaper 5G
+- **matte:** TCL 50 NXTPaper 5G *(NXTPaper 3.0)*
 
 ##### Foldables
 
