@@ -5,8 +5,6 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-include-cache
 
-color_scheme: contrast
-
 callouts:
   warning:
     title: warning

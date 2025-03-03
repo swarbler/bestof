@@ -8,10 +8,6 @@ nav_order: 0
 
 bestof is a repository of the best things in each product category, frequently updated whenever a new thing is released or I find out there's an even better thing! [(view screenshots)](screenshots.md)
 
-<button type="button" name="button" class="btn" onclick="jtd.setTheme('contrast')">contrast mode</button>
-<button type="button" name="button" class="btn" onclick="jtd.setTheme('green')">green mode</button>
-
-
 ## background
 
 I've been working on this for many years now, starting off with a PowerPoint detailing which things are the best in their respective categories. The idea was that I would never have to do any of the researching when I actually needed to buy anything. 
