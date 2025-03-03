@@ -24,7 +24,7 @@ nav_order: 1
 		- **Surface Laptop 7** *(haptic touchpad)*
 			- **screen:** *13/15" 3:2 120hz LCD touchscreen*
 			- **ports:** *2x USB-C 40Gbps + USB-A 5Gbps + Surface Connect + audio jack*
-				- *microSD for 15" only*
+				- *microSD card reader for 15" only*
 			- **memory + storage:** *up to 32GB + 1TB
 		- **Yoga Slim 7x**
 			- **screen:** *14” 16:10 90hz OLED touchscreen*
@@ -45,7 +45,7 @@ nav_order: 1
 			- **memory + storage:** *32GB + 1TB*
 		- **Zenbook S 16** *(thin and light)*
 			- **screen:** *16" 16:10 120hz OLED touchscreen*
-			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack + SD*
+			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack + SD card reader*
 			- **memory + storage:** *up to 32GB + 2TB*
 	- **x86 (Intel):** Yoga Slim 7i Aura Edition / Zenbook S 14
 		- *Core Ultra Series 2*
@@ -102,6 +102,17 @@ nav_order: 1
 	- **standard:** Framework Laptop 13 *(Core Ultra Series 1 / Ryzen 7040 series)*
 	- **more powerful:** Framework Laptop 16 *(Ryzen 7040 series)*
 		- *modular GPU (RX 7700S)*
+- **2-in-1**
+	- **standard:** Yoga Slim 7i 2-in-1 *(14" or 16")*
+		- *up to Core Ultra 7 256V*
+		- **screen:** *14" 16:10 60hz OLED touchscreen / 16" 16:10 60hz IPS touchscreen*
+		- **ports:** *2x USB-C 40Gbps + USB-A 5Gbps + HDMI 1.4b + audio jack + microSD card reader*
+		- **memory + storage:** *up to 32GB + 1TB*
+	- **better:** Yoga Slim 9i 2-in-1 *(14")*
+		- *up to Core Ultra 7 258V*
+		- **screen:** *14" 16:10 120hz OLED touchscreen*
+		- **ports:** *2x USB-C 40Gbps + USB-C 20Gbps + USB-A 10Gbps + audio jack + microSD card reader*
+		- **memory + storage:** *up to 32GB + 1TB*
 
 {: .upcoming }
 > Framework Laptop 13 with Ryzen 9 AI 300 series
@@ -129,10 +140,15 @@ nav_order: 1
 		- **ports:** *USB-C 40Gbps + USB-C 10Gbps + 2x USB-A 5Gbps + 1x USB-A 480Mbps + HDMI 2.0b + audio jack + UHS-II SD card reader + 1G ethernet*
 - **powerful:** Tuxedo Stellaris 15 Slim Gen 6
 	- *up to Core i9-14900HX OR Ryzen 7 8845HS*
-	- **graphics:** *up to RTX 4070
 	- **screen:** *15" 16:10 240hz IPS*
 	- **memory + storage:** *up to 96GB + 8TB*
 	- **ports:** *USB-C 10Gbps + USB-C 5Gbps + 4x USB-A 5Gbps + HDMI 2.1 + audio jack + UHS-II SD card reader + 2.5G ethernet*
+	- **graphics:** *up to RTX 4070
+- **2-in-1:** Tuxedo InfinityFlex 14 Gen 1
+	- *Core i5-1335U*
+	- **screen:** *14" 16:10 60hz IPS touchscreen*
+	- **memory + storage:** *up to 64GB + 8TB*
+	- **ports:** *USB-C 40Gbps + USB-C 10Gbps + USB-A 10Gbps + USB-A 5Gbps + HDMI 2.0 + audio jack + microSD / SIM card slot*
 
 > Lenovo Thinkpads are also good dedicated Linux laptops.
 > 
@@ -376,3 +392,13 @@ The Framework Desktop is going to be repairable, customisable, and powerful with
 	- **colour:** Kobo Libra Colour
 		- **alternative:** Kobo Clara Colour *(smaller 6” screen + no note-taking)*
 - **digital notebook:** Supernote A6 X2 Nomad
+
+## Dumbphones
+
+- **budget:** Noctua 2760 / TCL Flip 2
+- **cheaper:** Cat S22 Flip / Qin F21 Pro *(Xiaomi)*
+- **standard:** Kyocera Dura XV Extreme / Sunbeam F1
+- **better:** Kyocera Dura XV Extreme+ / Light Phone II / Kyocera Digno 903KC
+- **keitai phones:** Kyocera 902KC/903KC Digno Ketai 3 or A202KC Digno Ketai 4 / *others*
+
+> Japanese keitai phones are great, but they may be region locked. Check if the one you are purchasing works with your carrier!

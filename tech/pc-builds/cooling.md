@@ -22,6 +22,13 @@ nav_order: 5
 
 *larger radiator gives you better cooling*
 - **standard:** *they all perform similarly, pick the one you like the best/at the best price in your region*
+	- **good ones include, but not limited to:**
+		- Lian Li Galahad II Trinity Performance
+		- Thermalright Frozen Notte
+		- Corsair iCUE Link
+		- Deepcool LT520 or LT720
+		- be quiet! Pure Loop 2
+		- NZXT Kraken
 - **higher performance:** Arctic Liquid Freezer III 
 
 > The Liquid Freezer III has a thicker radiator that may not fit in all cases

@@ -139,3 +139,8 @@ nav_order: 1
 - **print farm management:** Polar
 
 > OrcaSlicer is based on PrusaSlicer, which itself is a very good slicer! 
+
+## Other
+
+- **vacuum-seal bags:** ?
+- **mini air pump:** ?
