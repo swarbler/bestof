@@ -9,9 +9,9 @@ nav_order: 1
 > 
 > However, good older CPUs for an budget build include the Ryzen 5 5600, the Core i3-12100F or i5-12400F, and the Ryzen 7 5700X3D.
 > 
-> I did not include Intel's 13th and 14th generation CPUs due to their microcode issues resulting in CPUs going dead. 
+> I did not include Intel's 13th and 14th generation CPUs due to their microcode issues resulting in CPUs going dead. Also, they are on a dead platform.
 > 
-> Intel's newest Arrow Lake CPUs actually had a performance regression in gaming compared to last gen and you have to get the latest motherboards with the LGA 1851 socket, which are expensive. 
+> Intel's newest Arrow Lake CPUs actually had a performance regression in gaming compared to last gen and you have to get a new motherboard with the LGA 1851 socket, which is expensive. 
 > 
 > AMD's Zen 5 processors underperformed despite the higher price compared to equivalent Zen 4 processors.
 

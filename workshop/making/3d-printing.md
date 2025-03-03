@@ -26,9 +26,9 @@ nav_order: 1
 
 ##### Prusa
 
-- **smaller bed-slinger:** Mini+
-- **standard bed-slinger:** MK4S
-- **upgrade CoreXY:** Core One
+- **smaller bed-slinger:** Mini+ *($429 for kit, $459 for semi-assembled)*
+- **standard bed-slinger:** MK4S *($729 for kit, $999 for pre-assembled)*
+- **upgrade CoreXY:** Core One  *($949 for kit, $1,199 for pre-assembled)*
 
 {: .note }
 There no real reason why you should get the Prusa Mini+ unless you want a small printer/the cheapest printer from Prusa. Other options in this price range offer far better value (Sovol, Qidi, and Bambu Lab all have good options)
@@ -40,15 +40,17 @@ There no real reason why you should get the Prusa Mini+ unless you want a small 
 
 ##### Sovol
 
-- **cheaper bed-slinger:** SV06 Ace
-- **larger CoreXY:** SV08
+- **cheaper bed-slinger:** SV06 ACE *(~~$299~~ $279)*
+- **larger bed-slinger:** SV06 Plus ACE *(~~$349~~ $299)*
+- **larger CoreXY:** SV08 *(~~$599~~ $569)*
 
 ##### Bambu Lab
 
-- **smaller bed-slinger:** A1 Mini 
-- **cheaper bed-slinger:** A1
-- **standard CoreXY:** P1P / P1S *(P1S has an enclosure)*
-- **upgrade CoreXY:** X1 Carbon
+- **smaller bed-slinger:** A1 Mini  *(~~$299~~ $219)*
+- **cheaper bed-slinger:** A1 *(~~$399~~ $359)*
+- **standard CoreXY:** P1P  *(~~$699~~ $519)*
+	- **with enclosure:** P1S  *(~~$699~~ $629)*
+- **upgrade CoreXY:** X1 Carbon  *(~~$1,199~~ $1,149)*
 
 {: .warning }
 > Bambu Lab has restricted access to its printers, so you are unable to use third-party software without changing to "Developer Mode" (LAN only mode) in firmware after v4.0.0.0! 
@@ -59,24 +61,24 @@ There no real reason why you should get the Prusa Mini+ unless you want a small 
 
 - **budget bed-slinger:** Ender 3 V3 SE or KE
 	- *KE can print at higher temperatures + has linear rail for X-axis + has Klipper firmware*
-- **upgrade CoreXY:** K2 Plus
+- **upgrade CoreXY:** K2 Plus 
 
 ##### Elegoo
 
-- **cheaper CoreXY:** Centauri Carbon
+- **cheaper CoreXY:** Centauri Carbon *($299)*
 
 {: .alternative }
-The Centauri is even cheaper alternative if you don’t need an enclosure
+The Centauri *($199)* is even cheaper alternative if you don’t need an enclosure
 
 ##### Voron
 
-- **fixed gantry CoreXY:** Voron Trident
-- **moving gantry CoreXY:** Voron 2.4
+- **fixed gantry CoreXY:** Voron Trident *(price varies depending on kit)*
+- **moving gantry CoreXY:** Voron 2.4 *(price varies depending on kit)*
 
 #### Resin
 
-- **smaller:** Elegoo Mars 5 Ultra
-- **larger:** Elegoo Saturn 4 Ultra
+- **smaller:** Elegoo Mars 5 Ultra  *(~~$338~~ $269)*
+- **larger:** Elegoo Saturn 4 Ultra  *(~~$524~~ $399)*
 
 ## Filaments
 
