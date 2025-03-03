@@ -134,8 +134,7 @@ nav_order: 1
 	- **memory + storage:** *up to 96GB + 8TB*
 	- **ports:** *USB-C 10Gbps + USB-C 5Gbps + 4x USB-A 5Gbps + HDMI 2.1 + audio jack + UHS-II SD card reader + 2.5G ethernet*
 
-
-> > Lenovo Thinkpads are also good dedicated Linux laptops.
+> Lenovo Thinkpads are also good dedicated Linux laptops.
 > 
 > You could also install Linux on *any* laptop, but check if the hardware is compatible!
 
@@ -180,8 +179,7 @@ Xiaomi has teased the 15 Ultra, and it will have a Leica-like two-tone design wi
 	- **good:** OnePlus 13R *(4 y/o OS updates)*
 	- **best:** Pixel 8a *(7 y/o OS updates)*
 
-
-> The Poco F6 *(4 y/o OS updates)* is a powerful midrange phone, but has bloated software.
+> The Poco F6 (4 y/o OS updates) is a powerful midrange phone, but has bloated software.
 
 {: .upcoming  }
 Galaxy A56 will release this year with *6 y/o OS updates!*
@@ -194,6 +192,7 @@ Galaxy A56 will release this year with *6 y/o OS updates!*
 The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updates!*
 
 - **compact:** Xperia XZ1 Compact
+- **matte:** TCL 50 NXTPaper 5G
 
 ##### Foldables
 
@@ -205,7 +204,7 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 
 >The Xiaomi Mix Flip is also a solid clamshell-style foldable with a large cover screen and decent cameras. However, it does NOT have an IP rating!
 
-> The OnePlus Open is based on the predecessor of the Find N5, the Find N3. It's a bit older but still a great book-style foldable if the Oppo is not available in your region.
+> The OnePlus Open is based on the predecessor of the Find N5, the Find N3. It's a bit older but still a great foldable if the Oppo is not available in your region.
 > 
 > The Google Pixel 9 Pro Fold (mouthful of a name!) is also a very good foldable. Although it's not as slim as the Find N5 and has worse battery life, it has Pixel cameras and software. That also means it will get 7 y/o OS updates!
 > 
@@ -276,13 +275,25 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 
 #### Android
 
-- **budget:** onn
-- **cheaper:** *any you can find on a good deal*
+- **dirt cheap:** onn
+- **budget:** Galaxy Tab A9 / Xiaoxin Pad Pro *(Lenovo)* / *others*
+- **cheaper:** Galaxy Tab S9 FE / Xiaomi Pad 6 / *others*
 - **smaller:** Lenovo Legion Tab
-- **standard:** OnePlus Pad 2
-- **upgrade:** Galaxy Tab S10 series *(anti-reflective OLED)*
+- **better:** OnePlus Pad 2
+- **upgrade:** Galaxy Tab S9 or S10 series
+- **matte** 
+	- **NXTPaper 3.0:** TCL NXTPaper 14
+	- **NXTPaper 4.0:** TCL NXTPaper 11 Plus / *others soon to come?*
 
 > onn tablet is only available in Walmart
+
+> If you are able to find a tablet with better specs for a good deal in your region, go for that instead!
+
+> The Galaxy Tab S9 and S10 series are very overpriced, but have beautiful OLED screens. The S10 is a minimal improvement, with the only noticeable change being an anti-reflective screen
+> 
+> Also, Samsung removed the base model for the S10 series, so now there’s only the Plus and Ultra
+
+> NXTPaper 4.0 give you better sharpness with a new etching process compared to 3.0
 
 #### Linux
 
