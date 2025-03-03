@@ -15,4 +15,4 @@ nav_order: 3
 
 - **SFX:** SF750 *(smaller)*
 - **SFX-L:** Loki 1000W Platinum *(larger + more powerful)*
-- **Flex-ATX:** ?
+- **Flex-ATX:** Enhance ENP 7660B / Silverstone FX

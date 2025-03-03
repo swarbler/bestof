@@ -11,12 +11,12 @@ nav_order: 5
 
 - **standard:** Thermalright Phantom Spirit 120
 - **low-profile** 
-	- **43mm height:** Thermalright AXP90-X43
-	- **53mm height:** Thermalright AXP90-X53
+	- **36/43/53mm height:** Thermalright AXP90-X36/43/53
 	- **67mm height:** Thermalright AXP-120-X67
 
-
 > The Peerless Assasin is very similar to the Phantom Spirit and quite close to performance, so it's a good alternative if the Phantom Spirit is out of stock
+
+> The Noctua NH-L9a is also a good low-profile cooler, but is a bit expensive
 
 #### AIOs
 
