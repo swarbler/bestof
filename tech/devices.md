@@ -204,7 +204,9 @@ nav_order: 1
 > The Poco F6 (4 y/o OS updates) is a powerful midrange phone, but has bloated software.
 
 {: .upcoming  }
-Galaxy A56 will release this year with *6 y/o OS updates!*
+> Galaxy A56 will release this year with *6 y/o OS updates!*
+> 
+> The Pixel 9a will also release soon!
 
 - **budget**
 	- **good:** OnePlus Nord 4 / Realme GT 6T *(4 y/o OS updates)*
