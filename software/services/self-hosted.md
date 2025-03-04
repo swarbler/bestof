@@ -32,6 +32,7 @@ nav_order: 2
 - **storage:** Nextcloud
 - **photos:** Immich
 - **videos:** Jellyfin
+- **peer-to-peer syncing:** Syncthing
 
 #### Media
 
