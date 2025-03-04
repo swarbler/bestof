@@ -46,10 +46,8 @@ nav_order: 2
 
 #### Macros and Controls
 
-- **macropad** 
-	- **standard:** Megalodon
-	- **more customisable:** Duckypad
-	- **under-side mounted:** Pikatea Macropad GB5
+- **macropad:** *any of them are fine, pick the one you like the best* 
+	- *e.g. Stream Deck, Duckypad, Megaladon, Murphpad, BDN9*
 - **knobs** 
 	- **standard:** Binepad BNR1-V2
 	- **larger:** Binepad KN01
