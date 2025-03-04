@@ -7,11 +7,21 @@ nav_order: 2
 
 #### Mice
 
-- **standard:** Keychron M6 / MX Master 3
-	- *MX Master 3**S** is silent*
-	- **alternative:** ProArt MD300
-- **smaller:** MX Anywhere 3 / Razer Pro Click Mini
-	- *MX Anywhere 3**S** is silent*
+- **standard**
+	- **larger:** Keychron M6 / MX Master 3
+		- *MX Master 3**S** is silent*
+	- **smaller:** MX Anywhere 3 / Razer Pro Click Mini
+		- *MX Anywhere 3**S** is silent*
+- **gaming** 
+	- **standard:** *shape is key, there are plenty of good options*
+		- **some good ones include, but not limited to:**
+			- *Logitech G Pro X, G Pro X Superlight, G502X, etc.*
+			- *Razer Basilisk V3, DeathAdder V3 Pro, etc.*
+			- *Lamzu Thorn, Atlantis, Maya, etc.*
+			- *Zowie EC2-CW (or other models depending on preferred shape + size)*
+			- *EGG XM2we, OP1, etc.*
+			- *Vaxee NP-01, NP-01S, XE, etc.*
+	- **loads of buttons:** Razer Naga
 - **vertical** 
 	- **smaller:** Logitech Lift
 	- **larger:** MX Vertical
