@@ -9,7 +9,7 @@ nav_order: 5
 
 #### Air Coolers
 
-- **standard:** Thermalright Phantom Spirit 120
+- **standard:** Thermalright Phantom Spirit
 - **low-profile** 
 	- **36/43/53mm height:** Thermalright AXP90-X36/43/53
 	- **67mm height:** Thermalright AXP-120-X67

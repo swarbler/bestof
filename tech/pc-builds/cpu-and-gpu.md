@@ -20,7 +20,7 @@ nav_order: 1
 
 ## 1080p / 1440p
 
-- **CPU:** Ryzen 5 7600 *(~~$229~~ ~$190)* or 7600X *(~~$299~~ ~$220)*
+- **CPU:** Ryzen 5 [7600](https://camelcamelcamel.com/product/B0BMQJWBDM) *(~~$229~~ ~$190)* or [7600X](https://camelcamelcamel.com/product/B0BBJDS62N) *(~~$299~~ ~$220)*
 - **GPU:** RX 6800 XT
 - **power supply:** *at least 650W*
 
@@ -30,7 +30,7 @@ nav_order: 1
 
 ## 1440p / 4K
 
-- **CPU:** Ryzen 7 7700X *(~~$399~~ ~$270)*
+- **CPU:** Ryzen 7 [7700X](https://camelcamelcamel.com/product/B0BBHHT8LY) *(~~$399~~ ~$270)*
 - **GPU:** RX 7800 XT / RTX 4070 Super
 	- **better:** RX 7900 XT / RTX 4070 Ti Super
 - **power supply:** *at least 750W*
@@ -41,16 +41,16 @@ nav_order: 1
 
 ## Best for Gaming Battlestations
 
-- **CPU:** Ryzen 7 7800X3D *($449)*
+- **CPU:** Ryzen 7 [7800X3D](https://camelcamelcamel.com/product/B0BTZB7F88) *($449)*
 - **GPU:** RX 7900 XT / RTX 4070 Ti Super
 	- **better:** RX 7900 XTX / RTX 4080 Super
 - **power supply:** *at least 850W*
 
-> If you find the 9800X3D *($479)* for a reasonable price, it is better than the 7800X3D. It might not always be in stock, however.
+> If you find the [9800X3D](https://camelcamelcamel.com/product/B0DKFMSMYK) *($479)* for a reasonable price, it is better than the 7800X3D. It might not always be in stock, however.
 
 ## Best for Productivity Workhorses
 
-- **CPU:** Ryzen 9 7900X *(~~$549~~ ~$350)* or 7950X *(~~$699~~ ~$480)*
+- **CPU:** Ryzen 9 [7900X](https://camelcamelcamel.com/product/B0BBJ59WJ4) *(~~$549~~ ~$350)* or [7950X](https://camelcamelcamel.com/product/B0BBHD5D8Y) *(~~$699~~ ~$480)*
 - **GPU:** RX 7900 XT / RTX 4070 Ti Super
 	- **better:** RX 7900 XTX / RTX 4080 Super
 - **power supply:** *at least 1000W*
