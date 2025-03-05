@@ -16,7 +16,7 @@ nav_order: 1
 > AMD's Zen 5 processors (9xxx series) underperformed despite the higher price compared to equivalent Zen 4 processors (7xxx series), but if you find them for a similar price, they are worth it as they are a lot better in power efficiency
 
 - **RAM:** 6000MT/s CL30 DDR5 *(best option for AM5)*
-- **SSDs:** [[hard-drives]]
+- **SSDs:** [view section of SSDs](https://swarbler.github.io/bestof/tech/data-and-power/data/storage/hard-drives#ssds)
 
 ## 1080p / 1440p
 
