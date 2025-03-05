@@ -9,5 +9,6 @@ nav_order: 5
 	- **alternative:** *DIY with WLED strips*
 - **digital picture frames**
 	- **standard:** Aura Mason *(4:3)*
-	- **landscape only:** Aura Carver *(16:10)*
 	- **larger:** Aura Walden *(4:3)*
+
+> The Aura Carver is also a good option, but is 16:10

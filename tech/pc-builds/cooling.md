@@ -14,9 +14,11 @@ nav_order: 5
 	- **36/43/53mm height:** Thermalright AXP90-X36/43/53
 	- **67mm height:** Thermalright AXP-120-X67
 
-> The Peerless Assasin is very similar to the Phantom Spirit and quite close to performance, so it's a good alternative if the Phantom Spirit is out of stock
-
-> The Noctua NH-L9a is also a good low-profile cooler, but is a bit expensive
+> The Peerless Assasin is very similar to the Phantom Spirit and quite close to performance, so it's a good alternative if the Phantom Spirit is out of stock.
+> 
+> The Scythe Fuma 3 is also a very good performer as well, and if you find it for a lot cheaper than the Phantom Spirit, it might be a good value.
+> 
+> Noctua coolers are marginally better than the competition, but unless you are running a very hot processor such as the 13900K or 14900K, it is not worth the >$100 price increase.
 
 #### AIOs
 
