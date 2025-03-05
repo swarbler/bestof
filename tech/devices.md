@@ -62,6 +62,9 @@ nav_order: 1
 			- **screen:** *14” 16:10 120hz OLED*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 1TB*
+
+> The ThinkPad X1 Carbon Gen 13 has Intel's Lunar Lake processors and has great build quality, battery life, and an amazing keyboard. However, it is much more expensive than other options. 
+
 - **powerful:** Legion Pro 5/5i or 7i *(Gen 10)* / ROG Zephyrus G14/16 *(2025)*
 	- ***summary:***
 		- **Legion** - thicker with more performance + cooling but not overkill

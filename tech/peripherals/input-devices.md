@@ -7,24 +7,26 @@ nav_order: 2
 
 #### Mice
 
-- **standard**
-	- **larger:** Keychron M6 / MX Master 3
-		- *MX Master 3**S** is silent*
-	- **smaller:** MX Anywhere 3 / Razer Pro Click Mini
-		- *MX Anywhere 3**S** is silent*
-- **gaming** 
-	- **standard:** *shape is key, there are plenty of good options*
-		- **some good ones include, but not limited to:**
-			- *Logitech G Pro X, G Pro X Superlight, G502X, etc.*
-			- *Razer Basilisk V3, DeathAdder V3 Pro, etc.*
-			- *Lamzu Thorn, Atlantis, Maya, etc.*
-			- *Zowie EC2-CW (or other models depending on preferred shape + size)*
-			- *EGG XM2we, OP1, etc.*
-			- *Vaxee NP-01, NP-01S, XE, etc.*
-	- **loads of buttons:** Razer Naga
-- **vertical** 
-	- **smaller:** Logitech Lift
-	- **larger:** MX Vertical
+- **standard:** Logitech M720 Triathlon or MX Master 3 / Keychron M6
+	- *MX Master 3**S** is silent*
+
+> The MX Master 3S is heavy and expensive, and likely not worth it for most people. Also, the rubber coating on the MX Masters do not last. 
+
+> The MX Anywhere 3 (or 3S) and Razer Pro Click Mini are good options for those with smaller hands.
+
+- **gaming:** *shape is key, there are plenty of good options*
+	- **some good ones include, but not limited to:**
+		- *Logitech G Pro X, G Pro X Superlight, G502 X, etc.*
+		- *Razer Basilisk V3, Basilisk V3 Pro, DeathAdder V3 Pro, Cobra, etc.*
+		- *Lamzu Thorn, Atlantis, Maya, etc.*
+		- *Zowie EC2-CW (or other models depending on preferred shape + size)*
+		- *EGG XM2we, OP1, etc.*
+		- *Vaxee NP-01, NP-01S, XE, etc.*
+		- *Pwnage Ultra Custom Ambi, Symm, etc.*
+- **vertical:** Logitech Lift or MX Vertical
+
+> The Lift is smaller whereas the MX Vertical is larger
+
 - **trackball:** Elecom Deft Pro / Kensington Slimblade
 - **magnesium alloy:** Pwnage Stormbreaker *(looks really cool)*
 - **for CAD**

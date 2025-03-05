@@ -26,7 +26,7 @@ nav_order: 1
 
 > The Ryzen 5 7600 and 7600X can be cooled with their included stock coolers
 
-> The RX 7700 XT underperforms in comparison to the RX 6800 XT. If you're able to find the RX 7700 XT for a lot cheaper than it might be worth it
+> The RX 7700 XT underperforms in comparison to the 6800 XT. If you're able to find the 7700 XT for a lot cheaper than it might be worth it
 
 ## 1440p / 4K
 
@@ -37,7 +37,7 @@ nav_order: 1
 
 > If ASRock Steel Legend is out of stock, the Gigabyte B650 Aorus Elite AX V2 is a good alternative
 
-> The RX 7900 GRE sits in between RX 7800 XT and RX 7900 XT and is a very good value
+> The RX 7900 GRE sits in between 7800 XT and 7900 XT and is a quite a good value if you can find it for just over the price of the 7800 XT
 
 ## Best for Gaming Battlestations
 
