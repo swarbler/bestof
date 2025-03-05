@@ -10,7 +10,7 @@ nav_order: 2
 #### Wireless
 
 - **cheaper:** OnePlus Buds 3 / Soundcore Liberty 4 NC / Earfun Air 4 Pro
-- **upgrade:** Momentum True Wireless 4
+- **upgrade:** Sennheiser Momentum True Wireless 4 / Sony WF-1000XM5
 	- **alternative:** Jabra Elite 10 *(Gen 2)*
 - **open-ear:** LinkBuds Open
 
