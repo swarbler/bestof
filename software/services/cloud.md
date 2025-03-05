@@ -21,7 +21,7 @@ nav_order: 1
 
 #### Communication
 
-- **messaging:** Element
+- **messaging:** Signal / Element
 - **file sharing:** Send
 
 #### Productivity
