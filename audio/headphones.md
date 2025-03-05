@@ -28,12 +28,12 @@ Jabra is out of the consumer audio market
 
 #### Wireless
 
-- **cheaper:** Soundcore Space Q45
-- **upgrade:** Momentum 4 Wireless *(60 hours of battery life!)*
+- **cheaper:** Sony WH-CH720N / Soundcore Life Q30 or Space Q45 / Sennheiser HD 450BT
+- **upgrade:** Sennheiser Momentum 4 Wireless *(60 hours of battery life!)*
 
 #### Wired
 
 - **cheaper:** Phillips SHP9500 / Hifiman HE400SE
-- **standard:** HD599 *(more fun)* / HD560S *(more analytical)*
-- **upgrade:** HD600 / HD650 / HD660S2
+- **standard:** Sennheiser HD599 *(more fun)* or HD560S *(more analytical)*
+- **upgrade:** Sennheiser HD600, HD650, or HD660S2
 	- **alternative:** Hifiman Sundara
