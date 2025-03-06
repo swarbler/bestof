@@ -14,6 +14,10 @@ nav_order: 1
 
 #### Windows
 
+- **budget:** Acer Aspire 3 or 5 / IdeaPad Slim 3
+
+> If you find laptops with great specs for a better price, it may be worth it. The budget Windows laptop market constantly changes!
+
 - **everyday** 
 	- **ARM:** Surface Laptop 7 / Yoga Slim 7x / Zenbook A14
 		- *Snapdragon X series*
