@@ -7,16 +7,22 @@ nav_order: 4
 
 ## Mics
 
-#### XLR
-
-- **under $100:** Audio-Technica ATR2100x *(USB-C/XLR)* / Samson Q2U *(mini-USB/XLR)*
-- **under $150:** Audio-Technica AT2035 / Rode NT1 Signature Series
-- **under $400:** Shure SM7B
+> The Rode VideoMic Go II is a good value, but it's meant to be mounted on a camera
 
 #### USB
 
 - **under $50:** Razer Seiren Mini
 - **a bit over $100:** Sennheiser Profile
+
+#### USB/XLR
+
+- **under $100:** Audio-Technica ATR2100x *(USB-C/XLR)* / Samson Q2U *(mini-USB/XLR)*
+
+#### XLR
+
+- **under $100:** Shure SM58 / Rode PodMic
+- **under $150:** Audio-Technica AT2035 / Rode NT1 Signature Series
+- **under $200:** Shure SM7X
 
 ## Interfaces
 

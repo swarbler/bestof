@@ -7,9 +7,14 @@ nav_order: 4
 
 #### On-Camera Microphones
 
-- **compact:** Sennheiser MKE 400
-	- **cheaper:** Sennheiser MKE 200
-- **larger** 
+- **under $100:** Sennheiser MKE 200
+
+> The Rode VideoMic Go II is also okay, but the shock mount is quite annoying
+
+- **under $200:** Sennheiser MKE 400
+
+
+- **shotgun** 
 	- **standard:** Audio-Technica AT875R
 	- **longer distance:** Sennheiser MKE 600
 
