@@ -9,21 +9,20 @@ nav_order: 4
 
 #### XLR
 
-- **cheaper:** Audio-Technica ATR2100x *(USB-C/XLR)* / Samson Q2U *(mini-USB/XLR)*
-- **standard:** Audio-Technica AT2035 / Rode NT1 Signature Series
-- **upgrade:** Shure SM7B
+- **under $100:** Audio-Technica ATR2100x *(USB-C/XLR)* / Samson Q2U *(mini-USB/XLR)*
+- **under $150:** Audio-Technica AT2035 / Rode NT1 Signature Series
+- **under $400:** Shure SM7B
 
 #### USB
 
-- **tiny + cheap:** Razer Seiren Mini
-- **standard:** Sennheiser Profile
+- **under $50:** Razer Seiren Mini
+- **a bit over $100:** Sennheiser Profile
 
 ## Interfaces
 
-- **cheaper:** mTrack Solo
-- **standard:** Scarlett Solo
-- **better:** SSL2 / Motu M2 / iD4 Mark II
-- **upgrade:** Babyface Pro
+- **under $50:** mTrack Solo
+- **under $150:** Scarlett Solo
+- **under $200:** SSL2 / Motu M2 / iD4 Mark II
 - **podcasts + content creating:** Rodecaster Duo
 
 ## Other Accessories
