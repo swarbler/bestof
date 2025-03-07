@@ -5,36 +5,38 @@ nav_order: 3
 ---
 # DACs and AMPs
 
-#### Combo DAC/AMP
+## Combo DAC/AMP
 
-- **standard:** Fiio K7
-	- **alternative form factor:** Fiio K11
-- **USB** 
-	- **cheaper:** Fiio KA1
-	- **better:** Fiio KA13
-		- **with screen:** Fiio KA5
-- **Bluetooth** 
-	- **standard:** Fiio BTR5
-	- **better:** Fiio BTR7
+- **under $100:** Topping DX1
+- **under $150:** Fiio K11
+- **under $200:** Fiio K7 / Topping DX3 Pro+ / SMSL DL200 / Schiit Magni Unity
+
+#### USB
+
+- **under $10:** *Apple dongle*
+- **under $50:** Fiio KA1
+- **under $100:** Fiio KA13 / Moondrop Dawn Pro
 
 > The Fiio KA13 is confusingly the successor to the KA3, so if the KA3 is cheaper than get that
 
-#### DACs
+#### Bluetooth
 
-- **cheaper:** Aiyama A2 Pro
-- **better:** Schitt Modi / JDS Labs Atom
+- **under $100:** Fiio BTR13
+- **a bit over $100:** Qudelix 5K
 
-#### AMPs
+> The Fiio BTR5 is also a good option
 
-- **amp**
-	- **standard:** Schitt Magni / JDS Labs Atom
-	- **better:** Schitt Asgard
-- **headphone amp:** Schitt Vali 3
-- **speaker amp** 
-	- **standard:** Aiyima A07
-	- **better:** Schitt Rekkr 
+## DACs
 
-#### Other
+- **under $100:** SMSL SU-1 / Topping E30 II
+- **under $150:** Schiit Modi / JDS Labs Atom DAC 2
+
+## AMPs
+
+- **under $100:** Fiio K3
+- **under $150:** Schiit Magni / JDS Labs Atom Amp 2 / Topping L30 II
+
+## Other
 
 - **volume control:** Schitt SYS
 - **input switch:** Schitt SYS
