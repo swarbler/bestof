@@ -7,8 +7,8 @@ nav_order: 1
 
 ## Computer Speakers
 
-- **cheaper:** Creative Pebble Pro
-- **better:** *bookshelf speakers*
+- **under $60:** Creative Pebble Pro
+- **upgrade:** *bookshelf speakers*
 
 ## Bookshelf
 
