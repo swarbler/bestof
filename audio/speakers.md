@@ -13,8 +13,9 @@ nav_order: 1
 ## Bookshelf
 
 - **under $100:** Micca RB42X G2
-- **under $150:** Sony SSCS5 / Neumi BS5
-- **under $500:** Elac Debut 3.0 / Wharfedale Diamond 12.x
+- **under $150:** Edifier MR3 / Neumi BS5 or BS5P-ARC / Sony SSCS5
+- **under $500:** Elac Debut 3.0 / Wharfedale Diamond 12.x / KEF Q150
+- **under $700:** Elac DBR62
 - **under $1000:** Polk R200 / Q Acoustics 5020
 
 > or find some speakers used
