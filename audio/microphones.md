@@ -21,8 +21,8 @@ nav_order: 4
 #### XLR
 
 - **under $100:** Shure SM58 / Rode PodMic
-- **under $150:** Audio-Technica AT2035 / Rode NT1 Signature Series
-- **under $200:** Shure SM7X
+- **under $150:** Audio-Technica AT2035
+- **under $200:** Rode NT1 Signature Series / Lewitt LCT 240 Pro
 
 ## Interfaces
 

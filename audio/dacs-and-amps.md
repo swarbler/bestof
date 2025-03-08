@@ -8,8 +8,7 @@ nav_order: 3
 ## Combo DAC/AMP
 
 - **under $100:** Topping DX1
-- **under $150:** Fiio K11
-- **under $200:** Fiio K7 / Topping DX3 Pro+ / SMSL DL200 / Schiit Magni Unity
+- **under $200:** Fiio K11 or K7 / Topping DX3 Pro+ / SMSL DL100 or DL200 / Schiit Magni Unity
 
 #### USB
 
@@ -26,21 +25,29 @@ nav_order: 3
 
 > The Fiio BTR5 is also a good option
 
+## DAC/AMP Stacks
+
+- **Schiit Modi + Magni**
+- **JDS Labs Atom 2**
+- **Topping E30 II + L30 II**
+- **Topping D50 III + A50 III**
+
 ## DACs
 
-- **under $100:** SMSL SU-1 / Topping E30 II
-- **under $150:** Schiit Modi / JDS Labs Atom DAC 2
+- **under $100:** SMSL SU-1
+- **under $150:** Schiit Modi / JDS Labs Atom 2 / Topping E30 II
+- **under $250:** Topping D50 III
 
 ## AMPs
 
-- **under $100:** Fiio K3
-- **under $150:** Schiit Magni / JDS Labs Atom Amp 2 / Topping L30 II
+- **under $100:** Aiyima A07 Max
+- **under $150:** Schiit Magni / JDS Labs Atom 2 / Topping L30 II
+- **under $200:** Topping A50 III
 
 ## Other
 
-- **volume control:** Schitt SYS
-- **input switch:** Schitt SYS
+- **input switch:** Schiit SYS
 - **equaliser** 
-	- **analog:** Schitt Loki Mini+
+	- **analog:** Schiit Loki Mini+
 	- **software:** Equalizer APO
 
