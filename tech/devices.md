@@ -298,6 +298,7 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 	- *Peak Design can fit many cards but is expensive*
 	- *PopWallet has built-in Pop Socket*
 - **tripod:** Peak Design
+- **camera grip:** G-Grip by Greg Williams
 
 ## Tablets
 
@@ -309,20 +310,19 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 #### iPadOS
 
 - **cheaper:** iPad
-- **smaller:** iPad Mini
 - **standard:** iPad Air
 - **upgrade** 
-	- **standard:** iPad Pro *2022*
-	- **better:** iPad Pro *2024* *(Tandem OLED + M4 but more expensive)*
+	- **standard:** iPad Pro 2022
+	- **better:** iPad Pro 2024 *(Tandem OLED + M4 but more expensive)*
 
 #### Android
 
-- **dirt cheap:** onn
-- **budget:** Galaxy Tab A9 / Xiaoxin Pad Pro *(Lenovo)* / *others*
-- **cheaper:** Galaxy Tab S9 FE / Xiaomi Pad 6 / *others*
-- **smaller:** Lenovo Legion Tab
-- **better:** OnePlus Pad 2
-- **upgrade:** Galaxy Tab S9 or S10 series
+- **under $100:** onn
+- **under $250:** Galaxy Tab A9+ *(~~$219~~ $149)* / [Lenovo Xiaoxin Pad Pro](https://www.aliexpress.com/item/1005005902996431) *(~~about $349~~ about $249)*  / *others*
+- **under $500:** Galaxy Tab S9 FE *($449)* / Xiaomi Pad 6 *($449)* / *others*
+- **over $500:** OnePlus Pad 2 *($549)*
+- **over $600:** Galaxy Tab S9 *(~~$799~~ $649)* 
+- **over $850:** Galaxy Tab S10+ *(~~$999~~ $869)* or S10 Ultra *(~~$1199~~  $1059)*
 - **matte** 
 	- **NXTPaper 3.0:** TCL NXTPaper 14
 	- **NXTPaper 4.0:** TCL NXTPaper 11 Plus / *others soon to come?*
