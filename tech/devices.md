@@ -24,10 +24,15 @@ nav_order: 1
 		- **screen:** *15" 16:9 60hz IPS*
 		- **ports:** *USB-C 5Gbps + 2x USB-A 5Gbps + HDMI 1.4 + audio jack + SD card reader*
 		- **memory + storage:** *8GB + 256GB*
+- **around $500:** Vivobook Go 15 OLED
+	- *Ryzen 5 7520U*
+	- **screen:** *15” 16:9 60hz OLED*
+	- **ports:** *USB-C 5Gbps + USB-A 5Gbps + USB-A 480Mbps + HDMI 1.4 + audio jack*
+	- **memory + storage:** *up to 16GB + 1TB*
 
-> If you find laptops with great specs for a better price, it may be worth it. The budget Windows laptop market constantly changes! 
+> If you find laptops with great specs for a better price, it may be worth it. The budget laptop market constantly changes! 
 
-> Another good option is to find used laptops
+> Another good option is to find used laptops (such as used ThinkPads)
 
 - **everyday** 
 	- **ARM:** Surface Laptop 7 / Yoga Slim 7x / Zenbook A14
@@ -35,7 +40,7 @@ nav_order: 1
 		- ***summary:***
 			- **Surface Laptop 7** is the best overall ARM laptop with *good ports + haptic trackpad*
 			- **Yoga Slim 7x** is a good alternative option if you want *OLED*, but has *terrible ports*
-			- **Zenbook A14** is *cheaper + incredibly lightweight* but is *only 60hz*
+			- **Zenbook A14** is *incredibly lightweight* but is *only 60hz*
 		- **Surface Laptop 7** *(haptic touchpad)*
 			- **screen:** *13/15" 3:2 120hz IPS touchscreen*
 			- **ports:** *2x USB-C 40Gbps + USB-A 5Gbps + Surface Connect + audio jack*
@@ -264,7 +269,7 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 - **everyday** 
 	- **iPhone:** Caudabe Sheath
 	- **iPhone + Galaxy:** ESR HaloLock
-	- **iPhone + Galaxy + Pixel:** Caseology Nano Pop / dbrand Grip Case / Ringke Onyx
+	- **iPhone + Galaxy + Pixel:** Caseology Nano Pop / dbrand Grip Case / OtterBox /  Ringke Onyx
 	- **OnePlus:** Sandstone Case *(OEM)*
 	- **Oppo:** Leather/Aramid Fibre Case *(OEM)*
 	- **a whole bunch:** Spigen
