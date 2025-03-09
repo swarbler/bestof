@@ -23,7 +23,9 @@ nav_order: 3
 
 #### Pencil Sharpeners
 
-- **manual crank pencil sharpener:** Carl Angel-5   
+- **standard:** Kutsuwa Stad 2 Maiba Double Blade / KUM
+- **manual crank:** Carl Angel-5 / Uni KH-20
+- **for colour pencils:** Uni
 
 #### Pens
 

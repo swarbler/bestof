@@ -9,7 +9,8 @@ nav_order: 5
 
 - **cheaper:** Pico 4 / Quest 3S
 - **standard:** Pico 4 Ultra / Quest 3
-- *Bytedance or Meta, pick your poison (Quest has larger games library)*
+
+> Bytedance or Meta, pick your poison (Quest has larger games library)
 
 #### PCVR
 
