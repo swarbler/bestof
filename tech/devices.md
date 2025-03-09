@@ -14,9 +14,20 @@ nav_order: 1
 
 #### Windows
 
-- **budget:** Acer Aspire 3 or 5 / IdeaPad Slim 3
+- **around $300:** Acer Aspire 3 / IdeaPad Slim 3
+	- *Ryzen 3 7320U*
+	- **Acer Aspire 3**
+		- **screen:** *15" 16:9 60hz IPS*
+		- **ports:** *USB-C 10Gbps + 2x USB-A 5Gbps + HDMI 2.1 + audio jack*
+		- **memory + storage:** *8GB + 128GB*
+	- **IdeaPad Slim 3**
+		- **screen:** *15" 16:9 60hz IPS*
+		- **ports:** *USB-C 5Gbps + 2x USB-A 5Gbps + HDMI 1.4 + audio jack + SD card reader*
+		- **memory + storage:** *8GB + 256GB*
 
-> If you find laptops with great specs for a better price, it may be worth it. The budget Windows laptop market constantly changes!
+> If you find laptops with great specs for a better price, it may be worth it. The budget Windows laptop market constantly changes! 
+
+> Another good option is to find used laptops
 
 - **everyday** 
 	- **ARM:** Surface Laptop 7 / Yoga Slim 7x / Zenbook A14
@@ -26,7 +37,7 @@ nav_order: 1
 			- **Yoga Slim 7x** is a good alternative option if you want *OLED*, but has *terrible ports*
 			- **Zenbook A14** is *cheaper + incredibly lightweight* but is *only 60hz*
 		- **Surface Laptop 7** *(haptic touchpad)*
-			- **screen:** *13/15" 3:2 120hz LCD touchscreen*
+			- **screen:** *13/15" 3:2 120hz IPS touchscreen*
 			- **ports:** *2x USB-C 40Gbps + USB-A 5Gbps + Surface Connect + audio jack*
 				- *microSD card reader for 15" only*
 			- **memory + storage:** *up to 32GB + 1TB
@@ -93,7 +104,7 @@ nav_order: 1
 		- **memory + storage:** *up to 32GB + 2TB*
 		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + 2x USB-A 10Gbps + HDMI 2.1 + audio jack + UHS-II microSD card reader*
 		- **graphics:** *up to RTX 5080*
-	- **Zephyrus G16** *(Core Ultra 285H)*
+	- **Zephyrus G16** *(Core Ultra 9 285H)*
 		- **screen:** *16” 16:10 240hz OLED* 
 		- **memory + storage:** *up to 64GB + 2TB*
 		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + 2x USB-A 10Gbps + HDMI 2.1 + audio jack + UHS-II SD card reader*
@@ -224,6 +235,7 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 
 - **compact:** Xperia XZ1 Compact
 - **matte:** TCL 50 NXTPaper 5G *(NXTPaper 3.0)*
+- **repairable:** Fairphone 5
 
 ##### Foldables
 
