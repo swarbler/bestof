@@ -18,6 +18,12 @@ nav_order: 1
 - **RAM:** 6000MT/s CL30 DDR5 *(best option for AM5)*
 - **SSDs:** [view section on SSDs](https://swarbler.github.io/bestof/tech/data-and-power/data/storage/hard-drives#ssds)
 
+> Good brands for AMD GPUs: Sapphire, Powercolor, and XFX (or reference models)
+> 
+> Good brands for Nvidia GPUs: MSI, Gigabyte, Asus, PNY, and Zotac (or Founder's Edition models)
+> 
+> **Just get the cheapest ones you can find, the brand doesn't really matter.** Above are just some brands that are popular online.
+
 ## 1080p / 1440p
 
 - **CPU:** Ryzen 5 [7600](https://camelcamelcamel.com/product/B0BMQJWBDM) *(~~$229~~ ~$190)* or [7600X](https://camelcamelcamel.com/product/B0BBJDS62N) *(~~$299~~ ~$220)*
