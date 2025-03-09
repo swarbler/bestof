@@ -8,7 +8,7 @@ nav_order: 1
 ## HDDs
 
 - **cheaper:** *used hard drives*
-- **standard:** Seagate Ironwolf / Toshiba N300 / WD Red
+- **standard:** Seagate Ironwolf or EXOS / Toshiba N300
 
 ## SSDs
 
