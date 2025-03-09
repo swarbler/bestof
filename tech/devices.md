@@ -109,28 +109,21 @@ nav_order: 1
 		- **memory + storage:** *up to 64GB + 2TB*
 		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + 2x USB-A 10Gbps + HDMI 2.1 + audio jack + UHS-II SD card reader*
 		- **graphics:** *up to RTX 5090*
-- **interesting one:** Honor MagicBook Art 14
+- **interesting one:** Honor MagicBook Art 14 *(haptic touchpad)*
 	- *Core Ultra 7 Series 1 / Snapdragon X Elite*
 	- *14” 3:2 120hz OLED touchscreen*
 	- *hidden magnetic webcam, can be flipped backwards*
 	- *very lightweight magnesium alloy body*
-	- *large haptic trackpad*
 - **repairable** 
 	- *easy to repair, upgradeable components, modular I/O*
 	- **standard:** Framework Laptop 13 *(Core Ultra Series 1 / Ryzen 7040 series)*
 	- **more powerful:** Framework Laptop 16 *(Ryzen 7040 series)*
 		- *modular GPU (RX 7700S)*
-- **2-in-1**
-	- **standard:** Yoga Slim 7i 2-in-1 *(14" or 16")*
-		- *up to Core Ultra 7 256V*
-		- **screen:** *14" 16:10 60hz OLED touchscreen / 16" 16:10 60hz IPS touchscreen*
-		- **ports:** *2x USB-C 40Gbps + USB-A 5Gbps + HDMI 1.4b + audio jack + microSD card reader*
-		- **memory + storage:** *up to 32GB + 1TB*
-	- **better:** Yoga Slim 9i 2-in-1 *(14")*
-		- *up to Core Ultra 7 258V*
-		- **screen:** *14" 16:10 120hz OLED touchscreen*
-		- **ports:** *2x USB-C 40Gbps + USB-C 20Gbps + USB-A 10Gbps + audio jack + microSD card reader*
-		- **memory + storage:** *up to 32GB + 1TB*
+- **2-in-1:** HP OmniBook Ultra Flip *(haptic touchpad)*
+	- *Core Ultra 7 256V*
+	- **screen:** *14" 16:10 120hz OLED touchscreen*
+	- **ports:** *2x USB-C 40Gbps + USB-C 10Gbps + audio jack*
+	- **memory + storage:** *16GB + 1TB*
 
 {: .upcoming }
 > Framework Laptop 13 with Ryzen 9 AI 300 series
