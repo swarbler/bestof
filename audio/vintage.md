@@ -20,11 +20,11 @@ nav_order: 8
 	- **standard:** Audio-Technica AT-LP120XUSB
 	- **better:** Fluance RT82 *(better cartridge + optical sensor)*
 
-#### Accessories
+#### Phono Preamps
 
-- **phono preamp** 
-	- **cheaper:** Behringer Microphono PP400
-	- **better:** Schitt Mani
+- **under $25:** Behringer Microphono PP400 *($21)*
+- **under $100:** Art DJPreII *($64)* / iFi Zen Air Phono *($99)*
+- **under $150:** Schitt Mani *($149)* / JDS Labs Phono *($149)*
 
 ## Radio
 

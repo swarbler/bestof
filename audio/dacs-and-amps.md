@@ -9,23 +9,24 @@ nav_order: 3
 
 ## Combo DAC/AMP
 
-- **under $100:** Topping DX1
-- **under $200:** Fiio K11 or K7 / Topping DX3 Pro+ / SMSL DL100 or DL200 / Schiit Magni Unity
+- **under $100:** Topping DX1 *($99)*
+- **under $200:** Fiio K11 *($129)* or K7 *($199)* / Topping DX3 Pro+ *($199)* / SMSL DL100 *($179)* or DL200 *($189)* / Schiit Magni Unity *($189)*
+- **desktop streamer:** Fiio R7 *($699)*
 
 #### USB
 
 - **under $10:** *Apple dongle*
-- **under $50:** Fiio KA1
-- **under $100:** Fiio KA13 / Moondrop Dawn Pro
+- **under $50:** Fiio KA1 *($49)*
+- **under $100:** Fiio KA13 *(~~$79~~ $59)* / Moondrop Dawn Pro *($59)*
 
 > The Fiio KA13 is confusingly the successor to the KA3, so if the KA3 is cheaper than get that
 
 #### Bluetooth
 
-- **under $100:** Fiio BTR13
-- **a bit over $100:** Qudelix 5K
+- **under $100:** Fiio BTR13 *($69)*
+- **a bit over $100:** Qudelix 5K *($109)*
 
-> The Fiio BTR5 is also a good option
+> The Fiio BTR15 *($109)* is also a good option
 
 ## DAC/AMP Stacks
 
@@ -36,20 +37,22 @@ nav_order: 3
 
 ## DACs
 
-- **under $100:** SMSL SU-1
-- **under $150:** Schiit Modi / JDS Labs Atom 2 / Topping E30 II
-- **under $250:** Topping D50 III
+- **under $100:** SMSL SU-1 *($79)*
+- **under $150:** Schiit Modi *($129)* / JDS Labs Atom 2 *($149)* / Topping E30 II *($149)*
+- **under $250:** Topping D50 III *($229)*
 
 ## AMPs
 
-- **under $100:** Aiyima A07 Max
-- **under $150:** Schiit Magni / JDS Labs Atom 2 / Topping L30 II
-- **under $200:** Topping A50 III
+- **under $100:** Aiyima A07 Max *(~~$79~~ $65)*
+- **under $150:** Schiit Magni *($119)*  / JDS Labs Atom 2 *($129)* / Topping L30 II *($149)*
+- **under $200:** Topping A50 III *($199)*
 
 ## Other
 
-- **input switch:** Schiit SYS
+- **input switch:** Schiit SYS *($49)*
 - **equaliser** 
-	- **analog:** Schiit Loki Mini+
+	- **analog** 
+		- **4-band:** Schiit Loki Mini+ *($149)*
+		- **6-band:** Schiit Lokius *($299)*
 	- **software:** Equalizer APO
 
