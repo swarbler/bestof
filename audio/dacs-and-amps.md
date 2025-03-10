@@ -13,6 +13,8 @@ nav_order: 3
 - **under $200:** Fiio K11 *($129)* or K7 *($199)* / Topping DX3 Pro+ *($199)* / SMSL DL100 *($179)* or DL200 *($189)* / Schiit Magni Unity *($189)*
 - **desktop streamer:** Fiio R7 *($699)*
 
+> The Fiio R9 *($1499)* has a much better DAC and AMP than the R7, but is quite a bit more expensive
+
 #### USB
 
 - **under $10:** *Apple dongle*
