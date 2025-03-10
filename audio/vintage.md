@@ -6,10 +6,11 @@ nav_order: 8
 # Vintage
 
 - **cassette player:** Sony Walkman *(used)*
+	- **modern:** Fiio CP13 *($89)*
 - **CD player:** Sony Diskman *(used)*
-	- **modern:** Moondrop DiscDream
+	- **modern:** Fiio DM13 *($149)* / Moondrop DiscDream *($179)*
 - **MP3 player:** iPod *(used, use RockBox)* 
-	- **modern:** Fiio M11S *(larger)* / Sony NW-A306 *(smaller)*
+	- **modern:** Fiio M11S *($449)* / Sony NW-A306 *($350)*
 
 ## Turntable
 
