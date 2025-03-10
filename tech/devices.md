@@ -210,6 +210,7 @@ nav_order: 1
 	- *50MP ultrawide, f2.2*
 	- *optional "Photography Kit" with shutter button, DSLR-style grip, 1000mAh battery, and a filter thread adapter*
 - **enthusiast:** Sony Xperia 1 VI *(headphone jack + good screen + good cameras + front-facing speakers + microSD slot)*
+- **audio:** Moondrop MIAD-01
 
 > Unfortunately, the Sony only provides 2 y/o OS updates with 3 y/o security patches. They are also very expensive compared to the competition, so I can't recommend them for most people.
 
