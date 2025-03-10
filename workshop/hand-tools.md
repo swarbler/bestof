@@ -27,7 +27,7 @@ nav_order: 2
 
 - **combination wrench set:** Proto
 	- **alternative:** Gearwrench
-- **adjustable wrench:** Channellock 8WCB WideAzz
+- **adjustable wrench:** Milwaukee
 - **wrench pliers:** Knipex
 	- *small: 5” or 6”
 	- *medium: 7” or 8”*
