@@ -5,6 +5,8 @@ nav_order: 6
 ---
 # Home Theater
 
+> Audio is purely subjective, your tastes may vary! These are just some popular options that are well-reviewed online!
+
 ## Integrated Stereo Amplifier
 
 - **under $150:** Sony STRDH190

@@ -5,6 +5,8 @@ nav_order: 3
 ---
 # DACs and AMPs
 
+> Audio is purely subjective, your tastes may vary! These are just some popular options that are well-reviewed online!
+
 ## Combo DAC/AMP
 
 - **under $100:** Topping DX1

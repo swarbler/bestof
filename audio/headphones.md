@@ -5,6 +5,8 @@ nav_order: 2
 ---
 # Headphones
 
+> Audio is purely subjective, your tastes may vary! These are just some popular options that are well-reviewed online!
+
 ## In-Ear
 
 #### Wireless
@@ -18,8 +20,7 @@ nav_order: 2
 - **under $300:** Sennheiser Momentum True Wireless 4 / Sony WF-1000XM5
 - **open-ear:** Sony LinkBuds Open
 
-{: .warning }
-Jabra is out of the consumer audio market, support and warranty is not guaranteed
+> Jabra is out of the consumer audio market, meaning they won’t release new Elite buds
 
 #### Wired
 
