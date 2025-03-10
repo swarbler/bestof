@@ -7,24 +7,22 @@ nav_order: 1
 
 #### Power Banks
 
-- **power banks**
-	- **ultra-compact:** TravelCard Plus *(3000mAh)*
-	- **travel** 
-		- **10k mAh:** Nitecore NB10000 Gen 3
-		- **20k mAh:** Nitecore Carbo 20000
-	- **fast charging** 
-		- **standard:** Anker 737 24,000mAh
-		- **better:** Anker Prime 27,650mAh
-	- **magnetic:** Anker MagGo Qi2 Slim *(5/10K Slim)*
+- **ultra-compact:** TravelCard Plus *(3000mAh)*
+- **travel** 
+	- **10k mAh:** Nitecore NB10000 Gen 3
+	- **20k mAh:** Nitecore Carbo 20000
+- **fast charging** 
+	- **standard:** Anker 737 24,000mAh
+	- **better:** Anker Prime 27,650mAh
+- **magnetic:** Anker MagGo Qi2 Slim *(5/10K Slim)*
 
 #### Power Stations
 
-- **power stations** 
-	- *Bluetti uses LiFePO4 instead of Li-Ion*
-	- *LiFePO4 lasts longer + safer*
-	- **smaller:** Bluetti EB3A / EcoFlow River 2
-	- **standard:** Bluetti AC180 / EcoFlow River 2 Pro
-	- **larger:** Bluetti AC200Max / Ecoflow Delta 2 Max
+> Bluetti uses LiFePO4 instead of Li-ion. LiFePO4 lasts longer and is safer tan traditional Li-ion batteries
+
+- **smaller:** Bluetti EB3A / EcoFlow River 2
+- **standard:** Bluetti AC180 / EcoFlow River 2 Pro
+- **larger:** Bluetti AC200Max / Ecoflow Delta 2 Max
 
 #### AA and AAA Batteries
 
