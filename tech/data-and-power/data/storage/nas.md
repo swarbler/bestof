@@ -7,8 +7,10 @@ nav_order: 3
 
 ## Entry-Level
 
-- **4TB:** Synology BeeStation
-- **8TB:** Synology BeeStation Plus
+- **4TB:** Synology BeeStation *($199)*
+
+{: .upcoming }
+Synology BeeStation Plus will have a better CPU/RAM and 8TB of storage
 
 > The BeeStation's software lacks many features compared to Synology's DSM. Also, you are unable to upgrade storage as the drive is non-removeable. However, it's a very good value NAS if you are okay with the compromises.
 
