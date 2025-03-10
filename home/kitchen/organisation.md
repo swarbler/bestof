@@ -18,3 +18,15 @@ nav_order: 3
 
 - **metal wire shelves:** Whitmer
 - **bread box:** Brabantia 
+
+#### Drying
+
+- **drying rack** 
+	- **cheaper:** Rubbermaid Sink Drainer
+	- **better:** simplehuman Steel Frame
+- **drying mat**
+	- **microfibre:** *any from Costco/Target/Amazon/etc.*
+	- **silicone:** *any from Costco/Target/Amazon/etc.*
+	- **stone:** Dorai Home
+
+> You can also use a dish towel as a drying mat

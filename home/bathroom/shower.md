@@ -18,13 +18,11 @@ nav_order: 1
 
 #### Towels and Mats
 
-- **cotton towels**
-	- **cheaper:** Ikea
-	- **better:** Lands' End
-- **waffle towels:** Onsen 
-- **bath mat**
-	- **cheaper:** Ikea
-	- **better:** Lands’ End
+- **towels**
+	- **cheaper:** Costco / Ikea / Target
+	- **better:** Onsen 
+- **bath mat:** Ikea
+- **bath stone:** Dorai
 
 {: .warning }
 Don't get bath mats with a rubber backing, they don't last as long!
