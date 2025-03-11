@@ -16,8 +16,7 @@ nav_order: 5
 - **colourful:** Rode
 - **durable:** Mogami Gold Studio
 - **DIY**
-	- **connectors:** Neutrik
-		- **alternative:** Rean
+	- **connectors:** Neutrik / Rean
 	- **cables:** Belden 8412 / Canare L-4E6S *(Redco or Markertek)*
 
 #### Cables and Wires
