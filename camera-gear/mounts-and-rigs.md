@@ -8,24 +8,25 @@ nav_order: 7
 #### Tripods
 
 - **mini** 
-	- **standard:** Ulanzi MT-46
-	- **handheld/vlog:** SwitchPod
-	- **spider:** Leofoto MT-04
+	- **standard:** Ulanzi MT-46  $?
+	- **handheld/vlog:** SwitchPod $?
+	- **spider:** Leofoto MT-04 $?
 - **travel** 
-	- **cheaper:** K&F Concept C225C0 (BA225) / Sirui 5C or 7C
-	- **better:** Ulanzi Coman Zero Y
+	- **cheaper:** K&F Concept C225C0 (BA225) / Sirui 5C or 7C $?
+	- **better:** Ulanzi Coman Zero Y$?
 - **heavy-duty** 
-	- **cheaper:** Smallrig AD-01
-	- **upgrade:** *used Sachtler Flowtech*
+	- **cheaper:** Smallrig AD-01$?
+	- **upgrade:** *used Sachtler Flowtech* 
 
 #### Plates
 
 - **baseplates:** Smallrig *(for all cameras)*
-- **thumbgrips:** Smallrig *(for A7C II)*
-- **cold shoe mounts:** Smallrig *(for A6700)*
+- **thumbgrips:** Smallrig
+- **cold shoe mounts:** Smallrig
 
 #### Videography Rig
 
+Tilta?
 - **cage:** Smallrig
 - **side handle:** Smallrig
 - **top handle:** Smallrig
@@ -38,4 +39,4 @@ nav_order: 7
 
 #### Other
 
-- **camera strap:** Peak Design Slide Lite
+- **camera strap:** Peak Design Slide Lite $?
