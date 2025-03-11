@@ -26,13 +26,10 @@ nav_order: 7
 
 #### Videography Rig
 
-Tilta?
-- **cage:** Smallrig
+- **cage:** Smallrig / Tilta
 - **side handle:** Smallrig
 - **top handle:** Smallrig
-- **monitor** 
-	- **standard:** Portkeys PT5 ii
-	- **upgrade:** Atomos Ninja V
+- **monitor:** Portkeys PT5 ii *($106)* or PT6 *($109)*
 - **V-mount battery plate:** Smallrig
 - **magic arms:** iFootage Spider Crab
 - **airtag cage:** SmallRig
