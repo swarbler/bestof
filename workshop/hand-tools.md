@@ -54,16 +54,16 @@ nav_order: 2
 > 
 > There are also *PLENTY* of other box cutters to choose from (Milwaukee Fastback, Fiskars, Stanley, Olfa, etc.), this is just the best left-handed option!
 
-- **folding:** Fiskars Pro
-- **cutting knife:** X-ACTO knife
+- **folding:** Fiskars Pro *(~~$28~~ $14)*
+- **cutting knife:** X-ACTO knife *($5)*
 
 ## Other
 
 #### Sanding
 
-- **files:** Pferd 
-- **sanding blocks:** SandFlex
+- **files:** Pferd *($ depends on size)*
+- **sanding blocks:** SandFlex *($8 for single, $16 for 3-pack)*
 
 #### Chiseling
 
-- **chisels:** Narex Richter
+- **chisels:** Narex Richter set of 5 *(~~$249~~ $234)*
