@@ -9,58 +9,53 @@ nav_order: 2
 
 ## Fastening
 
-- **socket + bit set:** Wera Tool-Check Plus
-- **socket set:** Klein Tools Flip Socket
+- **socket + bit set:** Wera Tool-Check Plus *(~$90)*
+- **socket set:** Klein Tools Flip Socket *($24 for 6-in-1, $29 for 9-in-1)*
 
 #### Screwdrivers
 
-- **standard** 
-	- **standard:** Megapro / Wera KraftForm
-	- **better:** LTT
-- **stubby** 
-	- **cheaper:** Milwaukee
-		- **alternative:** Stahlwille
-	- **better:** LTT
-- **torque:** CDI / Wera 7400 KraftForm / Wiha
-- **ESD-safe:** Wera 7440 KraftForm / Wiha
-- **electric:** Xiaomi
+- **standard:** Megapro *($33)* / Wera KraftForm *($41)* / LTT *($69)*
+- **stubby:** Milwaukee *($26)* / Stahlwille *($34)* / LTT *($59)*
+- **torque:** Wera 7400 KraftForm *($84)* / Wiha *(~~$115~~ $99)*
+- **ESD-safe:** Wera 7440 KraftForm *($91)* 
+- **electric:** Xiaomi *($59)*
 
 #### Wrenches
 
-- **combination wrench set:** Proto
-	- **alternative:** Gearwrench
-- **adjustable wrench:** Milwaukee
-- **wrench pliers:** Knipex
-	- *small: 5” or 6”
-	- *medium: 7” or 8”*
-	- *large: 10” or 12”*
-- **torque:** Tekton
-- **hex key set:** Wera
+- **combination wrench set:** Proto / Gearwrench *($ varies depending on size of set)*
+- **adjustable wrench:** Milwaukee *($32)*
+- **wrench pliers:** Knipex *($ varies depending on size)*
+- **torque:** Tekton *(~~$60~~ $43)*
+- **hex/allen key set:** Wera *($33)*
 
 #### Ratchets
 
-- **3/8":** Gearwrench 90
-- **1/4":** Proto
-- **flex head 3/8":** Gearwrench 90
+- **3/8":** Gearwrench 90 *($33)*
+- **1/4":** Proto *($32)*
 
 #### Hammers
 
-- **smaller hammer:** Estwing E3-12C
-- **bigger hammer:** Estwing E3-16C
-- **mallet:** Narex
+- **smaller:** Estwing E3-12C *($31)*
+- **bigger:** Estwing E3-16C *($26)*
+- **mallet:** Narex *($28)*
 
 ## Cutting
 
 #### Saws
 
-- **pull saw:** Suizan
-- **flush cut saw:** Suizan
-- **coping saw:** Knew Concepts
-- **folding saw:** Silky
+- **pull saw:** Suizan Ryoba *(~$33 depending on size)* or Dozuki *(~$50 depending on size)*
+- **flush cut saw:** Suizan *($22)*
+- **coping saw:** Knew Concepts *(~$90-160 depending on size)*
+- **folding saw:** Silky Pocketboy *($44)* or Gomboy *($57)*
 
 #### Utility Knives
 
-- **box cutter:** Pacific Handy Cutter S5L
+- **box cutter:** Pacific Handy Cutter S5L *($8)*
+
+> I am left-handed! If you are part of the 90%, the S5R is the right-handed version
+> 
+> There are also *PLENTY* of other box cutters to choose from (Milwaukee Fastback, Fiskars, Stanley, Olfa, etc.), this is just the best left-handed option!
+
 - **folding:** Fiskars Pro
 - **cutting knife:** X-ACTO knife
 
