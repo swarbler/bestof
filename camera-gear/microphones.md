@@ -37,4 +37,4 @@ more to be added soon?
 
 #### Timecode
 
-- **timecode:** Tentacle Sync E *($229 for one, $399 *
+- **timecode:** Tentacle Sync E *($229 for one, $399 for two)*
