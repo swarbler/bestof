@@ -31,5 +31,8 @@ nav_order: 5
 
 #### Cutting Machines
 
-- **cheaper:** Cricut Joy Xtra
-- **better:** Cricut Explore Air 2 / Explore 3
+- **under $150:** Cricut Joy Xtra *($149)*
+- **under $200:** Silhoette Cameo 4 *(~$199)* / Cricut Explore 2 Air *(~~$249~~ $149)* or Explore 3 *(~~$319~~ $199)*
+- **under $300:** Silhoette Cameo 5 *(~~$329~~ $299)* / Cricut Maker 3  *(~~$429~~ $299)*
+
+> Cricut's software is worse and requires an internet connection to function
