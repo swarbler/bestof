@@ -8,14 +8,14 @@ nav_order: 7
 #### Tripods
 
 - **mini** 
-	- **standard:** Ulanzi MT-46  $?
-	- **handheld/vlog:** SwitchPod $?
-	- **spider:** Leofoto MT-04 $?
+	- **standard:** Ulanzi MT-46 *($49)*
+	- **handheld/vlog:** SwitchPod *($99)*
+	- **spider:** Leofoto MT-04 *($149)*
 - **travel** 
-	- **cheaper:** K&F Concept C225C0 (BA225) / Sirui 5C or 7C $?
-	- **better:** Ulanzi Coman Zero Y$?
+	- **around $100:** K&F Concept C225C0 (BA225) *(~~$109~~ $99)* / Sirui 5C *($96)* or 7C *($132)*
+	- **around $250:** Ulanzi Coman Zero Y *($249)*
 - **heavy-duty** 
-	- **cheaper:** Smallrig AD-01$?
+	- **a bit over $150:** Smallrig AD-01 *(~~$168~~ $159)*
 	- **upgrade:** *used Sachtler Flowtech* 
 
 #### Plates
@@ -39,4 +39,6 @@ Tilta?
 
 #### Other
 
-- **camera strap:** Peak Design Slide Lite $?
+- **camera strap** 
+	- **for smaller cameras:** Peak Design Slide Lite *($69)*
+	- **for larger cameras:** Peak Design Slide *($79)*
