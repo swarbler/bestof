@@ -33,7 +33,7 @@ nav_order: 2
 
 #### Wireless
 
-- **under $100:** Soundcore Space One
+- **under $100:** Sennheiser HD 350BT *(no ANC)* / Soundcore Space One
 - **under $150:** JBL Tune 770NC / Sennheiser HD 450BT / Sony WH-CH720N
 - **under $200:** JBL Live 770NC / Sennheiser Accentum Plus
 - **under $400:** Sennheiser Momentum 4 Wireless
