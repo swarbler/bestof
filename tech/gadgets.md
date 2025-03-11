@@ -7,24 +7,24 @@ nav_order: 5
 
 #### USB Testers
 
-- **cheaper:** MakerHawk Atorch
-- **standard:** Fnirsi FNB58
-- **better:** Power-Z KM003C
+- **under $20:** MakerHawk Atorch *($15)*
+- **under $60:** Fnirsi FNB58 *($58)*
+- **around $100:** Power-Z KM003C *($109)*
 
 #### Circuits
 
 - **logic analyzer**
 	- **cheaper:** *knockoff Saleae analyzers*
-	- **standard:** DSLogic Plus
-	- **better:** DSLogic Pro
-	- **upgrade:** Saleae Logic 8
-- **single board computers:** Raspberry Pi / *others*
+	- **standard:** DSLogic Plus *($149)*
+	- **better:** DSLogic Pro *($399)*
+	- **upgrade:** Saleae Logic 8 *($499)* / 8 Pro *($999)* / 16 *($1499)*
+- **single board computers:** Raspberry Pi 5 *($ depends on RAM)* / *others*
 
 #### Wireless
 
-- **multi-tool:** Flipper Zero
-- **wireless dongle:** Alfa AWUS036AC or AWUS036ACH *(other Alfa dongles)*
+- **multi-tool:** Flipper Zero *($169)*
+- **wireless dongle:** Alfa AWUS036AC *($49)* or AWUS036ACH *($64)* / *other Alfa dongles*
 
 #### Other
 
-- **remote computer control:** JetKVM
+- **remote computer control:** JetKVM *($69)*

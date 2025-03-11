@@ -29,11 +29,16 @@ nav_order: 1
 
 > The ZV-E10 II is overpriced for what it is in my opinion
 
+#### Photo
+
+- **around $3000:** A7R IV *(~~$3198~~ $2998)*
+- **around $4000:** A7R V *($3898)*
+
 ### Panasonic Lumix
 
 #### M43
 
-- **under $1000:** GX85 *(~500 used)*
+- **under $1000:** GX85 *(~$500 used)*
 - **under $2000:** G9 II *(~~$1899~~ $1697)*
 
 > G85 *($899)* is weather sealed alternative to the GX85 with a larger DSLR-style grip
