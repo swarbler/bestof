@@ -7,8 +7,8 @@ nav_order: 2
 
 #### CNC Machines
 
-- **large-scale CNC machine:** Carbide3D Shapeoko 4
-- **small-scale CNC machine**
+- **standard:** Carbide3D Shapeoko 4
+- **desktop**
 	- **cheaper:** Carvera Air
 	- **better:** Carvera
 
