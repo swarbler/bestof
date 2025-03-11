@@ -24,3 +24,5 @@ nav_external_links:
     url: https://swarbler.github.io
     hide_icon: false
     opens_in_new_tab: true
+
+permalink: /:title/
