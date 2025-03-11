@@ -35,10 +35,10 @@ nav_order: 2
 
 - **Sony** 
 	- **multi-type**
-		- **standard:** ISDT NP2
+		- **standard:** ISDT NP2 
 		- **travel:** ISDT NP2 Air
 		- **powerbank:** ISDT NP2Go
-	- **NP-FZ100:** Peter Lindgren Tri-Charge
+	- **NP-FZ100:** Peter Lindgren Tri-Charge / Llano
 	- **NP-BX1:** Telesin Pocket
 - **Panasonic Lumix:** DMW-BTC15
 - **Fujifilm:** BC-W235 / Nitecore FX3 
