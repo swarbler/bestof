@@ -42,7 +42,7 @@ nav_order: 1
 
 #### Lithium Ion Batteries
 
-> do **NOT** buy Li-ion batteries on Amazon!
+> do **NOT** buy Li-ion batteries on Amazon! Buy on [Ilumn](https://illumn.com/), [18650 battery store](https://www.18650batterystore.com/), etc.
 
 ##### 14500
 
