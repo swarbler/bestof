@@ -8,21 +8,21 @@ nav_order: 2
 #### Vacuums
 
 - **bagged canister**
-	- **budget:** Bissell Zing / Eureka Mighty Mite
-	- **cheaper:** Kenmore 400 series
-	- **better:** Miele Classic C1 Pure Suction / Numatic Henry HVR-160
-	- **upgrade:** Miele Classic C1 Turbo Team / Numatic Henry Petcare HPC-160 / Sebo K2
-	- **better upgrade:** Miele Classic C1 Cat & Dog
+	- **under $100:** Bissell Zing *($79)* / Eureka Mighty Mite *($72)*
+	- **under $300:** Kenmore 400 series *($290)*
+	- **under $400:** Miele Classic C1 Pure Suction *($350)* / Numatic Henry HVR-160 *($330)*
+	- **under $500:** Miele Classic C1 Turbo Team *($450)* / Numatic Henry Petcare HPC-160 *($420)* / Sebo K2 *($400 for Kombi, $500 for Turbo)*
+	- **over $700:** Miele Classic C1 Cat & Dog *($750)*
 
 > The SEBO K3 is a better canister than the Miele Classic C1 Cat & Dog with more QoL features + a longer hose and cord, but its MSRP is $100 (USD) more expensive
 
 - **bagged upright**
-	- **budget:** Hoover Windtunnel T-Series Tempo
-	- **cheaper:** Kenmore 31140 or BU1017
-	- **better:** Karcher CV300 *(cut-down version of SEBO Dart)* / Lindhaus Activa
-	- **upgrade:** SEBO Dart or Felix
-- **vacuum/mop combo:** Bissell CrossWave
-- **robot:** Dreame L10S Ultra / Roborock Q Revo S
+	- **under $200:** Hoover Windtunnel T-Series Tempo *($199)*
+	- **under $300:** Kenmore 31140 *($249)* or BU1017 *(~$200)*
+	- **under $500:** Karcher CV300 *($420)* / Lindhaus Activa *($460)*
+	- **over $500:** SEBO Dart *($550)* or Felix *($700)*
+- **vacuum/mop combo:** Bissell CrossWave *(~~$249~~ $199)*
+- **robot:** Dreame L10S Ultra *(~~$899~~ $499)* / Roborock Q Revo S *(~~$799~~ $499)*
 
 #### Brooms and Mops
  
