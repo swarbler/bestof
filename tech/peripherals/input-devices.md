@@ -7,10 +7,8 @@ nav_order: 2
 
 #### Mice
 
-- **standard:** Logitech M720 Triathlon *($26)* or MX Master 3 *(~~$79~~ $70)* / Keychron M6
-	- *MX Master 3**S** is silent*
-
-> The MX Master 3S *($99)* is heavy and expensive, and likely not worth it for most people. Also, the rubber coating on the MX Masters do not last. 
+- **standard:** Logitech M720 Triathlon *($26)* or MX Master 3 *(~~$79~~ $70)* / Keychron M6 *($69 for 4000hz, $49 for 1000hz)*
+	- *MX Master 3**S** ($99) is silent*
 
 > The MX Anywhere 3S *(~~$79~~ $69)* and Razer Pro Click Mini *(~~$79~~ $49)* are good options for those with smaller hands.
 

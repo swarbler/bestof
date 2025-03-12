@@ -7,10 +7,10 @@ nav_order: 3
 
 ## Membrane
 
-- **cheaper:** Logitech K380
-- **standard:** MX Keys
-- **ergonomic:** Logitech Ergo K860
-- **MacOS:** Magic Keyboard *(w/ Touch ID)*
+- **under $50:** Logitech K380 *($35)*
+- **standard:** MX Keys *($69 w/o numpad, $109 w/ numpad)*
+- **ergonomic:** Logitech Ergo K860 *(~~$129~~ $119)*
+- **MacOS:** Magic Keyboard w/ Touch ID *($149 w/o numpad, $199 w/ numpad)*
 
 ## Pre-Built Mechanical
 

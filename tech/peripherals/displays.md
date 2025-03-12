@@ -28,11 +28,11 @@ nav_order: 1
 #### Accessories
 
 - **monitor arm:** Fully Jarvis *(up to 17 lbs)* / Ergotron LX *(7 to 25 lbs)* / Ergotron HX (*28 to 45 lbs)*
-- **webcam:** Brio 505
-- **KVM switch:** Level1Techs
+- **webcam:** Logitech Brio 505 *($99)*
+- **KVM switch:** Level1Techs *($ depends on model)*
 - **screenbar** 
-	- **cheaper:** Xiaomi
-	- **better:** BenQ Screenbar Halo
+	- **cheaper:** Xiaomi *($59)*
+	- **better:** BenQ Screenbar Halo *($179)*
 
 ## Projectors
 
