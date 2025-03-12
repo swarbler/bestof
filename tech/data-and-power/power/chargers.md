@@ -8,26 +8,25 @@ nav_order: 2
 #### USB Chargers
 
 - **cheaper** 
-	- **standard:** Apple 20W
-	- **higher power:** Ikea 45W
-- **compact:** Anker 511 Nano III 30W
+	- **20W:** Apple 20W *($19)*
+	- **45W:** Ikea Sjöss 45W *($16)*
+- **compact:** Anker 511 Nano III 30W A2147 *($15)*
 - **travel** 
-	- **standard:** *any reputable 65W charger*
-	- **higher power:** Anker Prime 100W
+	- **65W:** *any reputable 65W charger*
+	- **100W:** Anker Prime 100W A2343 *($84)*
 - **desktop** 
-	- **standard:** Baseus GaN3 100W
-	- **higher power:** Anker Prime 240W *(A2342)*
+	- **100W:** Baseus GaN3 100W *(~~$65~~ $49)*
+	- **240W:** Anker Prime 240W A2342 *($139)*
 - **USB wall outlet**
-	- **standard:** Leviton T5635
+	- **30W:** Leviton T5635 *($25)*
 		- **alternative:** Leviton T5835 *(20A A/C outlets)*
-	- **higher power:** Leviton T5636
+	- **60W:** Leviton T5636 *(~~$79~~ $58)*
 		- **alternative:** Leviton T5836 *(20A A/C outlets)*
 
 #### Plug Adapters
 
-- **travel adapter set:** Ceptics
-	- **alternative:** Bestek
-- **universal travel adapter:** Epicka
+- **travel adapter set:** [Ceptics](https://www.amazon.com/dp/B00E0P2GLM) *($10)*
+- **universal travel adapter:** [Epicka](https://www.amazon.com/dp/B078S3M2NX) *(~~$24~~ $22)*
 
 #### Camera Battery Chargers
 
