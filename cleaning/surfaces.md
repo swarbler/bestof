@@ -12,11 +12,12 @@ nav_order: 4
 - **requires electrolyzing:** Force of Nature
 - **empty spray bottles:** Sally's Organics
 
-#### Vacuums
+#### Handheld Vacuums
 
-- **handheld** 
-	- **cheaper:** Black+Decker Dustbuster Blast
-	- **standard:** Ryobi 18V ONE+
+- **standard:** Ryobi 18V ONE+ *($49)*
+- **fold-up design:** Black+Decker dustbuster Pivot *(~~$89~~ $69)*
+
+> The Pivot has worse battery and is noisy
 
 #### Other
 
