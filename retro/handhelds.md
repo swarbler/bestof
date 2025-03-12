@@ -9,19 +9,19 @@ nav_order: 1
 
 #### non-Android
 
-- **smaller:** TrimUI Brick / Miyoo Mini Plus
-- **standard:** Anbernic RG40XXV
-- **clamshell:** Anbernic RG 35XXSP / Miyoo Flip
-- **horizontal:** Anbernic RG 35XXH
+- **smaller:** TrimUI Brick *($79)* / Miyoo Mini Plus *(~~$89~~ $69)*
+- **standard:** Anbernic RG40XXV *($66)*
+- **clamshell:** Anbernic RG 35XXSP *(~~$64~~ $49)* / Miyoo Flip *($119)*
+- **horizontal:** Anbernic RG 35XXH *(~~$64~~ $54)*
 
 #### Android
 
-- **cheaper:** Anbernic RG406H
-- **standard:** Retroid Pocket 5
-- **upgrade:** Odin 2 series
+- **a bit over $150:** Anbernic RG406H *(~~$167~~ $159)*
+- **under $250:** Retroid Pocket 5 *($219)*
+- **around $300:** Odin 2 series *(~~$319~~ $299)*
 
 ## Hardware Emulators
 
-- **standard:** funnyplaying
-- **upgrade:** Analogue Pocket
-- **flashing cards:** Burnmaster / GBxCart / Joey Jr  
+- **under $100:** funnyplaying FPGBC kit *(~~$79~~ $69, case + buttons must be purchased separately)*
+- **over $200:** Analogue Pocket *($219)*
+- **flashing cards:** Burnmaster *($20, shell + buttons must be purchased seperately)* / GBxCart *($33)* / Joey Jr *($42)*
