@@ -5,6 +5,8 @@ nav_order: 1
 ---
 # Hard Drives
 
+*$ depends on storage capacity*
+
 ## HDDs
 
 - **cheaper:** *used hard drives*
