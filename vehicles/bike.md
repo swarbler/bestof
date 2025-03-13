@@ -5,8 +5,6 @@ nav_order: 2
 ---
 # Bike
 
-$?
-
 - **e-bike:** Aventon Pace 500 3 *(~~$1799~~ $1599)* / Level 2 *(~~$1899~~ $1599)*
 
 > The Aventon Level 3 *($1899)* is $300 more than the Level 2 but comes with more security features such as GPS tracking, auto-lock, etc as well as a sleeker frame. This price difference may be worth it to you.
