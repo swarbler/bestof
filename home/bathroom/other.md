@@ -10,10 +10,10 @@ $?
 #### Nails
 
 - **clippers** 
-	- **smaller:** Seki Edge SS-106
-	- **standard:** Seki Edge SS-112
+	- **smaller:** Seki Edge SS-106 *($18)*
+	- **standard:** Seki Edge SS-112 *($19)*
 - **files:** *etched glass*
 
 #### Shaving
 
-- **razor:** Gilette Mach3
+- **razor:** Gilette Mach3 *($9)*

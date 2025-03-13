@@ -5,19 +5,16 @@ nav_order: 2
 ---
 # Oral Care
 
-$?
-
 #### Brushing
 
-- **electric toothbrush**
-	- **standard:** Oral-B Smart 1500 *(Oral-B brushheads are easier to find)*
-	- **better:** Suri S1 *(brushheads can only be purchased online)*
-		- *USB-C charger + magnetic mount + matte aluminium body*
-- **toothpaste:** Colgate Total
+- **electric toothbrush:** Oral-B Smart 1500 *($79)* / Suri S1 *($95, $119 w/ case)*
+- **toothpaste:** Colgate Total *($ depends on amount)*
+
+> The Suri S1 has many more features, such as a USB-C charger + magnetic mount + matte aluminium body, but brush heads can only be bought online. The Oral-B is more convenient as you can buy brush heads in-store.
 
 #### Flossing
 
-- **floss:** Cocofloss
-	- **alternative:** Dr Tungs
-- **refillable floss pick:** Quip
-- **water flosser:** Waterpik Ion
+- **floss:** Cocofloss *($ depends on amount)*
+	- **alternative:** Dr Tungs *($ depends on amount)*
+- **refillable floss:** Quip *($15)*
+- **water flosser:** Waterpik Ion *($99)*
