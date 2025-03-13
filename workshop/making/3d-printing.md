@@ -58,9 +58,9 @@ nav_order: 1
 
 ##### Creality
 
-- **budget bed-slinger:** Ender 3 V3 SE or KE
+- **budget bed-slinger:** Ender 3 V3 SE *($219)* or KE *($299)*
 	- *KE can print at higher temperatures + has linear rail for X-axis + has Klipper firmware*
-- **upgrade CoreXY:** K2 Plus 
+- **upgrade CoreXY:** K2 Plus *($1299)*
 
 ##### Elegoo
 
@@ -80,43 +80,42 @@ nav_order: 1
 
 ## Filaments
 
-$?
+> If you find a brand of filament for much cheaper than the options below, than go for that. These are just some good reliable options that are well-reviewed online
 
 #### Standard
 
-- **PLA:** Hatchbox / Polymaker
-	- **alternatives:** eSun / Sunlu
-- **PLA Matte:** Polymaker PolyTerra
-- **PETG:** Hatchbox / Polymaker / MatterHackers / Sunlu
-- **wood:** Hatchbox Wood
+- **PLA:** Hatchbox PLA *($25.99)* / Polymaker PolyLite PLA *($22.99)*
+	- **alternatives:** eSun PLA+ *(~~$23.99~~ $21.99)* / Sunlu PLA *(~~$18.99~~ $11.99)*
+- **PLA Matte:** Polymaker PolyTerra *($20.99)*
+- **PETG:** Hatchbox PETG *($24.99)* / Polymaker PolyLite PETG *($22.99)* / MatterHackers MH Build PETG *($24.99)* / Sunlu PETG *(~~$22.99~~ $11.99)*
+- **wood:** Hatchbox Wood PLA *($32.99)*
 
-#### Flexible
+#### TPU
 
-- **TPU:** NinjaFlex / Overture / Polymaker PolyFlex
+- **85A:** NinjaTek NinjaFlex *($99)*
+- **90A:** Polymaker PolyFlex TPU *($39.99)*
+- **95A:** NinjaTek Cheetah *($99)* / Overture High-Speed TPU *($30.99)* / Polymaker PolyFlex TPU *($29.99)*
 
 #### Tougher
 
-- **ABS:** Hatchbox / Polymaker
-	- **alternative:** eSun
-- **ASA:** Polymaker / Sunlu
+- **ABS:** Hatchbox ABS *($23.99)* / Polymaker ABS *($22.99)*
+	- **alternative:** eSun ABS+  *(~~$22.99~~ $19.99)*
+- **ASA:** Polymaker PolyLite ASA *($29.99)* / Sunlu ASA *($14.99)*
 
 ## Tools
 
-$?
-
-- **bed adhesion solution:** 3DLac
-- **filament dryer:** Creality Space Pi
-	- **alternative:** Sunlu S2 / S4
+- **bed adhesion solution:** 3DLac *($37)*
+- **filament dryer:** Creality Space Pi *($65)* / Sunlu S2 *(~~$79~~ $44)* or S4 *(~~$139~~ $129)*
 - **3D print recycler:** _shredder/extruder_
-- **micro-shears:** Fiskars micro-tip pruning snips
-- **3D pen:** 3Doodler Flow *(Pro+ has more features but is more expensive)*
+- **micro-shears:** Fiskars micro-tip pruning snips *(~~$17~~ $11)*
+- **3D pen** 
+	- **standard:** 3Doodler Flow *($79)*
+	- **for kids:** 3Doodler Start+ *($49)*
 
 ## Storage
 
-$?
-
-- **microSD cards:** Samsung Pro Plus
-- **SD cards:** Sandisk Extreme Pro
+- **microSD cards:** Samsung Pro Plus *($ depends on storage capacity)*
+- **SD cards:** Sandisk Extreme Pro *($ depends on storage capacity)*
 
 ## Addons
 
