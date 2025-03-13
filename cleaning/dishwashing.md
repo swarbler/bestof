@@ -5,8 +5,6 @@ nav_order: 1
 ---
 # Dishwashing
 
-$?
-
 ## Hand Washing
 
 #### Dish Soap
@@ -20,17 +18,18 @@ $?
 - **sponges:** O-Cedar Scrunge *($10)*
 - **scrub brushes:** O-Cedar Rinse Fresh Pot & Pan Brush *(discontinued)* / OXO Good Grips *($5)*
 - **sink caddy** 
-	- **standard:** Cisily / Simplehuman
-	- **fun:** Ototo
+	- **standard:** Cisily *(~~$26~~ $20)* / Simplehuman *($24)*
+	- **fun:** Ototo *($ depends on cute animal)*
 
 #### Towels
 
-- **dish towels:** Liliane Collection
-- **paper towels:** Bounty Select-A-Size / Viva Signature Cloth
-- **paper towel holder:** Simplehuman
+- **dish towels:** Liliane Collection *($ depends on amount)*
+- **paper towels:** Bounty Select-A-Size / Viva Signature Cloth *($ depends on amount)*
+- **paper towel holder:** Simplehuman *($39)*
 
 #### Gloves
 
+*$ depends on amount*
 - **nitrile** 
 	- **standard:** Venom Steel
 	- **fine motor skills:** Grease Monkey 
@@ -38,11 +37,11 @@ $?
 
 #### Drying
 
-- **dish rack:** KitchenAid full size
+- **dish rack:** KitchenAid full size *(~~$47~~ $42)*
 - **drying mat:** *any from amazon*
 
 ## Dishwasher
 
-- **dishwasher:** Bosch
-- **powder detergent:** Finish Powerball / *other*
+- **dishwasher:** Bosch *($ depends on model)*
+- **powder detergent:** Finish Powerball *($ depends on amount)* / *other*
 - **rinse aid:** *any*

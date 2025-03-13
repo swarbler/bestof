@@ -5,21 +5,19 @@ nav_order: 5
 ---
 # Craft
 
-$?
-
 ## Tools
 
-- **scissors:** Fiskars RazerEdge SoftGrip
-	- **alternative:** Kaijirushi highest grade *(KAI scissors)*
-- **fingertip craft knife:** Fiskars
+- **scissors:** Fiskars RazerEdge SoftGrip *($19 for 3-pack)*
+	- **alternative:** Kaijirushi Highest Grade (KAI scissors) *($70)*
+- **fingertip craft knife:** Fiskars *($9)*
 - **paper trimmer**
-	- **standard:** Dahle 508 personal
-	- **better:** Dahle 552 professional
-	- **upgrade:** Dahle 442 premium
+	- **under $100:** Dahle 508 Personal *($53)*
+	- **under $200:** Dahle 552 Professional *($183)*
+	- **under $300:** Dahle 442 Premium *($249)*
 - **glue gun**
-	- **cheaper:** Black+Decker
-	- **better:** Surebonder
-	- **cordless:** Ryobi
+	- **around $10:** Black+Decker *($10)*
+	- **over $100:** Surebonder *($125)*
+	- **cordless:** Ryobi *(~~$62~~ $49)*
 
 ## Machines
 

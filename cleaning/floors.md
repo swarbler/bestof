@@ -25,14 +25,12 @@ nav_order: 2
 - **robot:** Dreame L10S Ultra *(~~$899~~ $499)* / Roborock Q Revo S *(~~$799~~ $499)*
 
 #### Brooms and Mops
-
-$?
  
-- **brooms:** Casabella Wayclean
-- **wet mop:** O-Cedar EasyWring
-	- **flat:** Libman Rinse 'N Wring
-- **dust mop:** Bona Premium
-	- **alternative:** O-Cedar Hardwood Floor 'N More
-- **spray mop:** O-Cedar ProMist MAX
-- **electric mop:** Bissell Spinwave
-- **steam mop:** Bissell PowerFresh 
+- **brooms:** Casabella Wayclean *($14)*
+- **wet mop:** O-Cedar EasyWring *(~~$39~~ $34)*
+	- **flat:** Libman Rinse 'N Wring *(~~$49~~ $34)*
+- **dust mop:** Bona Premium *(~~$21~~ $19)*
+	- **alternative:** O-Cedar Hardwood Floor 'N More *($20)*
+- **spray mop:** O-Cedar ProMist MAX *(~~$27~~ $24)*
+- **electric mop:** Bissell Spinwave *($ depends on kit)*
+- **steam mop:** Bissell PowerFresh *($ depends on kit)*
