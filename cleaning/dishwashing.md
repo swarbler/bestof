@@ -11,14 +11,14 @@ $?
 
 #### Dish Soap
 
-- **liquid dish soap:** Mrs Meyer's Clean Day
-	- **alternative:** AspenClean
-- **dish soap dispenser:** OXO Good Grips *(stainless steel)*
+- **liquid dish soap:** Mrs Meyer's Clean Day *(~~$6~~ $3 for 16 oz, $11 for 48 fl oz refill)*
+	- **alternative:** AspenClean *($11 for 18 fl oz, $29 for 64 fl oz refill)*
+- **dish soap dispenser:** OXO Good Grips stainless steel
 
 #### Scrubbing
 
-- **sponges:** O-Cedar Scrunge
-- **scrub brushes:** O-Cedar Rinse Fresh Pot & Pan
+- **sponges:** O-Cedar Scrunge *($10)*
+- **scrub brushes:** O-Cedar Rinse Fresh Pot & Pan Brush *(discontinued)* / OXO Good Grips *($5)*
 - **sink caddy** 
 	- **standard:** Cisily / Simplehuman
 	- **fun:** Ototo

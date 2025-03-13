@@ -5,23 +5,24 @@ nav_order: 2
 ---
 # Appliances
 
-$?
+- **toaster oven:** Breville Smart Oven Mini *($159)* / Compact *($189)* / Pro *($269)* / Panasonic FlashXpress *($149)*
 
-- **toaster oven:** Breville / Panasonic FlashXpress
-- **microwave:** Panasonic
+> The Breville Smart Oven Mini *(BOV450XL)* is the smallest, the Compact *(BOV650XL)* is a bit bigger, and the Pro *(BOV845BSSUSC)* is the biggest with more features (built-in fan for convection + 2 extra cooking functions)
+
+- **microwave:** Panasonic *($ depends on model)*
 - **air fryer** 
-	- **standard:** Instant Vortex Plus
-	- **better:** Instant Vortex Plus ClearCook + OdorErase
+	- **standard:** Instant Vortex Plus *(~~$139~~ $119)*
+	- **better:** Instant Vortex Plus ClearCook + OdorErase *(~~$169~~ $129)*
 - **toaster** 
 	- **cheaper:** Sunbeam *(used)*
-	- **standard:** Dualit
-	- **overengineered single-slice:** Mitsubishi TO-ST1
+	- **standard:** Dualit *($179)*
+	- **overengineered single-slice:** Mitsubishi TO-ST1 *($260)*
 - **juicers** 
-	- **standard:** Breville Juice Fountain Cold
-	- **upgrade:** Nama J2
+	- **standard:** Breville Juice Fountain Cold *(~~$199~~ $179)*
+	- **upgrade:** Nama J2 *($550)*
 - **food processors** 
-	- **standard:** Cuisinart *(14 cup)*
-	- **mini:** Cuisinart *(4 cup)*
-- **rice cooker:** Zojirushi Neuro Fuzzy
-	- **alternative:** Cuckoo
-- **waffle maker:** Waring Pro 
+	- **standard:** Cuisinart 14 cup *($249)*
+	- **mini:** Cuisinart Mini Prep Plus 4 Cup *($49)*
+- **rice cooker:** Zojirushi Neuro Fuzzy *(~~$242~~ $215)*
+	- **alternative:** *other models from Cuckoo / Tiger / Zojirushi*
+- **waffle maker:** Waring Pro *(used)*
