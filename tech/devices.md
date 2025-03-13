@@ -266,6 +266,8 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 
 #### Cases
 
+$?
+
 - **budget:** *random case from Amazon/Aliexpress/Taobao/etc*
 - **everyday** 
 	- **iPhone:** Caudabe Sheath
@@ -288,10 +290,14 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 
 #### Stands
 
+$?
+
 - **cheaper:** Lamicall
 - **standard:** Ugreen
 
 #### Other Accessories
+
+$?
 
 - **grip:** PopSocket
 - **wallet:** ESR / Peak Design / PopWallet
@@ -340,15 +346,21 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 
 #### Linux
 
+$?
+
 - **standard:** PineTab 2
 
 #### Cases
+
+$?
 
 - **cheaper:** ESR Rebound
 - **standard:** ESR Shift
 - **ultra-thin:** Pitaka MagEZ Folio 2
 
 #### Sleeves
+
+$?
 
 - **soft:** Tomtoc Light-B18
 	- **alternative:** Tomtoc Light-B16
@@ -366,6 +378,8 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 
 #### WearOS
 
+$?
+
 - **cheaper:** Galaxy Watch 4
 	- **alternative:** Galaxy Watch FE *(same specs, newer software)*
 - **smaller:** Pixel Watch 3
@@ -378,17 +392,23 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 
 #### watchOS
 
+$?
+
 - **cheaper:** Apple Watch SE
 	- **alternative:** Apple Watch Series 5 *(always-on display + ECG)*
 - **standard:** Apple Watch Series 10
 
 #### Cases
 
+$?
+
 - **Apple:** Spigen Thin Fit / Caseology Vault
 - **Galaxy:** Spigen Liquid Air / Caseology Vault
 - **Pixel:** Spigen Liquid Air / Caseology Vault
 
 ## PCs
+
+$?
 
 #### Mini PCs
 
@@ -413,6 +433,8 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 The Framework Desktop is going to be repairable, customisable, and powerful with up to a Ryzen AI Max 395+
 
 ## E-Readers and Digital Notebooks
+
+$?
 
 - **e-reader**
 	- **B/W:** Kobo Clara BW

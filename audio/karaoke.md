@@ -7,6 +7,8 @@ nav_order: 9
 
 > Audio is purely subjective, your tastes may vary! These are just some popular options that are well-reviewed online!
 
+$?
+
 - **mixer:** Yamaha MG06X
 - **microphones** 
 	- **cheaper:** Shure PGA48

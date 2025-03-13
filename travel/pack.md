@@ -5,6 +5,8 @@ nav_order: 1
 ---
 # Pack
 
+$?
+
 #### Backpacks
 
 - **everyday** 

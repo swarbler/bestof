@@ -34,8 +34,7 @@ nav_order: 7
 - **magic arms:** iFootage Spider Crab
 - **airtag cage:** SmallRig
 
-#### Other
+#### Camera Straps
 
-- **camera strap** 
-	- **for smaller cameras:** Peak Design Slide Lite *($69)*
-	- **for larger cameras:** Peak Design Slide *($79)*
+- **for smaller cameras:** Peak Design Slide Lite *($69)*
+- **for larger cameras:** Peak Design Slide *($79)*

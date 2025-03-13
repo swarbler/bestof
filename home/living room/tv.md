@@ -5,6 +5,8 @@ nav_order: 1
 ---
 # TV
 
+$?
+
 *don't connect "smart" TVs to internet to make them dumb TVs*
 - **miniLED** 
 	- **standard:** Hisense U7N / TCL QM7

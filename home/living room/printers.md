@@ -5,6 +5,8 @@ nav_order: 4
 ---
 # Printers
 
+$?
+
 - **laser printer:** Brother HL-L2350DW / HL-L2370DW
 - **inkjet printer:** Epson EcoTank *(inkjets clog if unused for a long time)*
 - **document scanners:** 

@@ -5,6 +5,8 @@ nav_order: 4
 ---
 # Security
 
+$?
+
 #### Locks
 
 - **deadbolt:** Schlage B60N

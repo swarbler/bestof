@@ -5,6 +5,8 @@ nav_order: 2
 ---
 # Oral Care
 
+$?
+
 #### Brushing
 
 - **electric toothbrush**

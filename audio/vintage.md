@@ -14,6 +14,8 @@ nav_order: 8
 
 ## Turntable
 
+$?
+
 - **automatic** 
 	- **standard:** Audio-Technica AT-LP60X
 	- **alternative:** Sony PS-LX310BT

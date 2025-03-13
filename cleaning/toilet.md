@@ -5,6 +5,8 @@ nav_order: 6
 ---
 # Toilet
 
+$?
+
 - **toilet brush:** OXO Good Grips
 - **toilet cleaner** 
 	- **hydrogen peroxide:** Lysol

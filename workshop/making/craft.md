@@ -5,6 +5,8 @@ nav_order: 5
 ---
 # Craft
 
+$?
+
 ## Tools
 
 - **scissors:** Fiskars RazerEdge SoftGrip

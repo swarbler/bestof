@@ -5,6 +5,8 @@ nav_order: 1
 ---
 # Smart Home
 
+$?
+
 #### Smart Hubs
 
 - **hub:** Home Assistant

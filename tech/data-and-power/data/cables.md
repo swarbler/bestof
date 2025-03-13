@@ -5,6 +5,8 @@ nav_order: 2
 ---
 # Data Cables
 
+$?
+
 #### USB-C Cables
 
 - **10Gbps:** Cable Matters / Club3D

@@ -5,6 +5,8 @@ nav_order: 2
 ---
 # Optics
 
+$?
+
 ## Binoculars
 
 - **budget:** Celestron Cometron *(7x50)*

@@ -5,6 +5,8 @@ nav_order: 7
 ---
 # Cleaning
 
+$?
+
 #### Cleaning
 
 - **shop rags:** *blue surgical huck towels*

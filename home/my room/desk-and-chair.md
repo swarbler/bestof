@@ -5,6 +5,8 @@ nav_order: 1
 ---
 # Desk Setup
 
+$?
+
 - **non-adjustable desk:** Ikea Alex drawers + butcher block countertop
 - **standing desks** 
 	- **pneumatic** 

@@ -5,6 +5,8 @@ nav_order: 3
 ---
 # Toilet
 
+$?
+
 - **toilet paper** 
 	- **standard:** Tempo
 	- **sustainable:** Seventh Generation

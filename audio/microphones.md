@@ -7,6 +7,8 @@ nav_order: 4
 
 > Audio is purely subjective, your tastes may vary! These are just some popular options that are well-reviewed online!
 
+$?
+
 ## Mics
 
 > The Rode VideoMic Go II is a good value, but it's meant to be mounted on a camera and is a bit janky 

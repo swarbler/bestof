@@ -5,6 +5,8 @@ nav_order: 2
 ---
 # CNC Machining
 
+$?
+
 #### CNC Machines
 
 - **standard:** Carbide3D Shapeoko 4

@@ -5,6 +5,8 @@ nav_order: 5
 ---
 # VR
 
+$?
+
 #### Standalone Headsets
 
 - **cheaper:** Pico 4 / Quest 3S

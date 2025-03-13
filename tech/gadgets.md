@@ -14,10 +14,10 @@ nav_order: 5
 #### Circuits
 
 - **logic analyzer**
-	- **cheaper:** *knockoff Saleae analyzers*
-	- **standard:** DSLogic Plus *($149)*
-	- **better:** DSLogic Pro *($399)*
-	- **upgrade:** Saleae Logic 8 *($499)* / 8 Pro *($999)* / 16 *($1499)*
+	- **budget:** *knockoff Saleae analyzers*
+	- **under $150:** DSLogic Plus *($149)*
+	- **over $300:** DSLogic Pro *($399)*
+	- **over $500:** Saleae Logic 8 *($499)* / 8 Pro *($999)* / 16 *($1499)*
 - **single board computers:** Raspberry Pi 5 *($ depends on RAM)* / *others*
 
 #### Wireless

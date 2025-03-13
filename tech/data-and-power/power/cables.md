@@ -5,6 +5,8 @@ nav_order: 2
 ---
 # Power Cables
 
+$?
+
 #### USB-C
 
 - **to USB-C:** Belkin BoostCharge / Cable Matters

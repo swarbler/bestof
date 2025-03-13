@@ -5,6 +5,8 @@ nav_order: 4
 ---
 # Travel Toiletries
 
+$?
+
 #### Storage
 
 - **bar soap storage:** Matador Flatpak

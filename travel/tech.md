@@ -5,6 +5,8 @@ nav_order: 2
 ---
 # Travel Tech
 
+$?
+
 #### Mouse
 
 - **mouse:** MX Anywhere 3S / Razer Pro Click Mini

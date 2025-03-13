@@ -18,6 +18,8 @@ nav_order: 5
 
 ## Video Lights
 
+$?
+
 - **main:** Aputure amaran 200x
 - **secondary:** Aputure amaran 100d
 - **portable:** Smallrig RC-60B

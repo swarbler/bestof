@@ -5,6 +5,8 @@ nav_order: 4
 ---
 # Painting
 
+$?
+
 #### Paint
 
 - **paint:** Sherwin Williams / Benjamin Moore

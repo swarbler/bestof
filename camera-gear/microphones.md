@@ -30,7 +30,7 @@ more to be added soon?
 #### Audio Recorders
 
 - **voice recorder:** Tentacle Track E *($249, $349 with lavalier)*
-- **field recorders** 
+- **field recorders** $?
 	- **cheaper:** Zoom H1n
 	- **standard:** Zoom H5 / H6 
 	- **32-bit:** Zoom F3

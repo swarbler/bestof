@@ -5,6 +5,8 @@ nav_order: 3
 ---
 # Air Conditioning
 
+$?
+
 #### Fans
 
 - **tabletop:** Vornado 530 

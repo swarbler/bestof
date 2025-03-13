@@ -5,6 +5,8 @@ nav_order: 4
 ---
 # Safety
 
+$?
+
 #### Hand Protection
 
 - **cut-resistant gloves:** Mercer Culinary MercerGuard

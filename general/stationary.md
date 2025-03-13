@@ -5,6 +5,8 @@ nav_order: 3
 ---
 # Stationary
 
+$?
+
 #### Pencils
 
 - **mechanical pencil** 

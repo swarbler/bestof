@@ -5,6 +5,8 @@ nav_order: 1
 ---
 # Camping
 
+$?
+
 ## Shelter
 
 - **tents:** *any will do (e.g. REI, Nature Hike, Kelty, Eureka, and Coleman ones are all good)*

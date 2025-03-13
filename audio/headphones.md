@@ -7,6 +7,8 @@ nav_order: 2
 
 > Audio is purely subjective, your tastes may vary! These are just some popular options that are well-reviewed online!
 
+$?
+
 ## In-Ear
 
 #### Wireless

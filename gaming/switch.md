@@ -5,6 +5,8 @@ nav_order: 3
 ---
 # Nintendo Switch
 
+$?
+
 #### Carry Bags
 
 - **switch case:** tomtoc FancyCase-G05

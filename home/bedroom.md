@@ -5,6 +5,8 @@ nav_order: 1
 ---
 # Bedroom
 
+$?
+
 ## Bed
 
 #### Pillow

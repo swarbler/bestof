@@ -5,6 +5,8 @@ nav_order: 1
 ---
 # Dishwashing
 
+$?
+
 ## Hand Washing
 
 #### Dish Soap

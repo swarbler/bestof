@@ -5,6 +5,8 @@ nav_order: 1
 ---
 # Car
 
+$?
+
 #### Tech
 
 - **dash cam:** Vantrue N4 Pro / Vinfo A229 Pro

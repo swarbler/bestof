@@ -5,6 +5,8 @@ nav_order: 3
 ---
 # Laundry
 
+$?
+
 - **washing machine**
 	- **cheaper:** *any*
 	- **upgrade:** Miele / Speed Queen

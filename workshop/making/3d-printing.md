@@ -80,6 +80,8 @@ nav_order: 1
 
 ## Filaments
 
+$?
+
 #### Standard
 
 - **PLA:** Hatchbox / Polymaker
@@ -100,6 +102,8 @@ nav_order: 1
 
 ## Tools
 
+$?
+
 - **bed adhesion solution:** 3DLac
 - **filament dryer:** Creality Space Pi
 	- **alternative:** Sunlu S2 / S4
@@ -108,6 +112,8 @@ nav_order: 1
 - **3D pen:** 3Doodler Flow *(Pro+ has more features but is more expensive)*
 
 ## Storage
+
+$?
 
 - **microSD cards:** Samsung Pro Plus
 - **SD cards:** Sandisk Extreme Pro

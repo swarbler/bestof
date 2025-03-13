@@ -5,6 +5,8 @@ nav_order: 5
 ---
 # Decorations
 
+$?
+
 - **decorative wall lights:** Nanoleaf
 	- **alternative:** *DIY with WLED strips*
 - **digital picture frames**

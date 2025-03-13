@@ -13,6 +13,8 @@ nav_order: 1
 
 #### Switch
 
+$?
+
 - **standard:** Joy-Cons
 - **full-size** 
 	- **standard:** 8Bitdo Ultimate 2C *(cheaper + hall effect + standard rumble)*

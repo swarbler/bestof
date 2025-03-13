@@ -5,6 +5,8 @@ nav_order: 2
 ---
 # PC Handhelds
 
+$?
+
 - **handheld:** Steam Deck OLED
 
 > The ROG Ally with Bazzite may also be worth considering

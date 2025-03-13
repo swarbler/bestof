@@ -5,6 +5,8 @@ nav_order: 1
 ---
 # Lights
 
+$?
+
 #### Flashlights
 
 ##### Light

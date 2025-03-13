@@ -5,6 +5,8 @@ nav_order: 8
 ---
 # Sensors
 
+$?
+
 - **barcode scanner:** Tera / Zebra
 	- **alternative:** LS2208 *(sold under multiple brands)*
 - **infrared thermometer:** Klein IR10

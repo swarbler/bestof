@@ -5,6 +5,8 @@ nav_order: 2
 ---
 # Appliances
 
+$?
+
 - **toaster oven:** Breville / Panasonic FlashXpress
 - **microwave:** Panasonic
 - **air fryer** 

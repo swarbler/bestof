@@ -5,6 +5,8 @@ nav_order: 5
 ---
 # Cooling
 
+$?
+
 ## CPU Coolers
 
 #### Air Coolers

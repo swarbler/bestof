@@ -14,6 +14,8 @@ nav_order: 3
 
 ## Pre-Built Mechanical
 
+$?
+
 - **standard:** Aula F65/75/87
 - **aluminium body:** Cidoo V65/75/87
 - **low-profile:** Nuphy Air *(wisteria switches)* / Lofree Flow 
@@ -22,6 +24,8 @@ nav_order: 3
 > Keychron keyboards are quite good, but the price is a bit high. Also, customer service seems a bit iffy.
 
 ## Custom Mechanical
+
+$?
 
 #### Keyboard
 
@@ -55,5 +59,7 @@ nav_order: 3
 - **stabiliser grease:** Permatex dielectric grease
 
 ## Other
+
+$?
 
 - **numpad:** Cidoo V21 / Ducky Pocket
