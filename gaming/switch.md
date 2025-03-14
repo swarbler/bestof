@@ -5,20 +5,17 @@ nav_order: 3
 ---
 # Nintendo Switch
 
-$?
-
 #### Carry Bags
 
-- **switch case:** tomtoc FancyCase-G05
+- **switch case:** tomtoc FancyCase-G05 *($30)*
 - **switch bag** 
-	- **standard:** tomtoc Arccos-G42
-	- **much larger:** tomtoc Arccos-G47
-	- **leather:** Waterfield Cityslicker
-- **game card case:** tomtoc FancyCase-G17
-- **game card bag:** tomtoc Arccos-G46
+	- **standard:** tomtoc Arccos-G42 *($37)*
+	- **much larger:** tomtoc Arccos-G47 *($49)*
+	- **waxed canvas:** Waterfield CitySlicker *($88)*
+- **game card bag:** tomtoc Arccos-G46 *($49)*
 
 #### Other Accessories
 
 - **travel dock** 
-	- **smaller:** Genki Covert Dock Mini *(no USB-A)*
-	- **standard:** Covert Dock 2
+	- **smaller:** Genki Covert Dock Mini *($49)*
+	- **standard:** Genki Covert Dock 2 *($59)*
