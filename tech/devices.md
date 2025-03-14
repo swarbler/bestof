@@ -266,46 +266,41 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 
 #### Cases
 
-$?
-
 - **budget:** *random case from Amazon/Aliexpress/Taobao/etc*
 - **everyday** 
-	- **iPhone:** Caudabe Sheath
-	- **iPhone + Galaxy:** ESR HaloLock
-	- **iPhone + Galaxy + Pixel:** Caseology Nano Pop / dbrand Grip Case / OtterBox /  Ringke Onyx
-	- **OnePlus:** Sandstone Case *(OEM)*
-	- **Oppo:** Leather/Aramid Fibre Case *(OEM)*
-	- **a whole bunch:** Spigen
-		- **alternative:** Tudia MergeGrip
+	- **iPhone:** Caudabe Sheath *($43 for base/Pro models, $44 for Plus/Pro Max models)*
+	- **iPhone + Galaxy:** ESR HaloLock *($ depends on type)*
+	- **iPhone + Galaxy + Pixel:** Caseology Nano Pop *($44)* / dbrand Grip Case *($59)* / OtterBox *(\$ depends on type)* / Ringke Onyx *(\$ depends on model)*
+	- **OnePlus:** Sandstone Case *($24)*
+	- **a whole bunch:** Spigen *($ depends on type, e.g. Liquid Air is $29, Tough Armor is $59)*
+		- **alternative:** Tudia MergeGrip *($ varies)*
 - **ultra-thin** 
-	- **iPhone:** Pitaka MagEZ 5.0
-	- **iPhone + Galaxy + Pixel:** Thinborne
+	- **iPhone:** Pitaka MagEZ 5.0 *($49 for standard colours, $59 for special colours)*
+	- **iPhone + Galaxy + Pixel:** Thinborne *(around $65 to $70 depending on model)*
 - **leather (iPhone)** 
-	- **full leather incl. sides:** Bullstrap
-		- **alternatives:** Andar / Ryan London
-	- **plastic sides:** Nomad
-- **mounting:** Peak Design / Quad Lock *(iPhone + Galaxy + Pixel)*
-	- *both have a universal adapter option*
-- **physical keyboard:** Clicks *(iPhone + Galaxy + Pixel + Razr)*
+	- **full leather incl. sides:** Bullstrap *($89)*
+		- **alternatives:** Andar Aspen *($59)* / Ryan London Leather Shell *($72)*
+	- **plastic sides:** Nomad Modern Leather Case *($49, $69 for folio, $69 for Horween leather, $89 for Horween leather folio)*
+- **mounting:** Peak Design *($49, $59 for loop case)* / Quad Lock *($34, $39 for Mag)* 
+	- *both have options for iPhone + Galaxy + Pixel), and both have a universal adapter option*
+- **physical keyboard:** [Clicks](https://clicks.tech) *($139, $159 for iPhone Plus + Pro Max models)*
+	- *options for iPhone + Galaxy + Pixel + Razr*
 
 #### Stands
 
-$?
-
-- **cheaper:** Lamicall
-- **standard:** Ugreen
+- **standard:** [Ugreen](https://www.amazon.com/dp/B0BD4DZ2KH) *($12 for 2-pack)*
+- **colourful:** [Lamicall](https://www.amazon.com/dp/B01M7U6F8T) *(~~$14~~ $12)*
+	- available in lots of different colours!
 
 #### Other Accessories
 
-$?
-
-- **grip:** PopSocket
-- **wallet:** ESR / Peak Design / PopWallet
+- **grip:** PopSocket *($30, $35 for special designs)*
+- **wallet:** ESR Geo Wallet *(~~$49~~ $37)* / Peak Design *($49 for slim wallet, $59 for stand wallet)* / PopWallet *($40, $50 for Softgoods)*
 	- *ESR only holds 3 cards despite its bulk but has option for Find My support*
-	- *Peak Design can fit many cards but is expensive*
+	- *Peak Design can fit many cards and is high quality*
 	- *PopWallet has built-in Pop Socket*
-- **tripod:** Peak Design
-- **camera grip:** G-Grip by Greg Williams
+- **tripod:** Peak Design *($79)*
+- **camera grip:** [G-Grip by Greg Williams](https://ggrip.com) *(~~$69~~ $49)*
 
 ## Tablets
 
