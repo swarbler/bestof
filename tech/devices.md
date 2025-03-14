@@ -341,88 +341,76 @@ The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updat
 
 #### Linux
 
-$?
-
-- **standard:** PineTab 2
+- **standard:** PineTab 2 *($159 for 4GB/64GB, $209 for 8GB/128GB)*
 
 #### Cases
 
-$?
-
-- **cheaper:** ESR Rebound
-- **standard:** ESR Shift
-- **ultra-thin:** Pitaka MagEZ Folio 2
+- **around $20:** ESR Ascend *($18)* *(for base model iPad)*
+- **around $30:** ESR Rebound *(~$25-30 depending on model)* *(for iPad Air + Pro)*
+- **around $50:** ESR Shift *(~$40-50 depending on model)* *(for iPad Air + Pro)*
+- **ultra-thin:** Pitaka MagEZ Folio 2 *($49)* *(for iPad Air + Pro)*
 
 #### Sleeves
 
-$?
-
-- **soft:** Tomtoc Light-B18
-	- **alternative:** Tomtoc Light-B16
-- **hard:** Finpac
-- **waxed canvas:** Waterfield
+- **soft:** Tomtoc Light-B18 *($21)*
+- **hard:** Finpac *($28)*
+- **waxed canvas:** Waterfield SleeveCase *($89)*
 
 #### Stands
 
-- **cheaper:** Lamicall
-- **standard:** Ugreen
-- **portable:** Twelve South Compass Pro
-- **drawing tablet:** XP Pen AC18 / Parblo
+- **under $20:** [Lamicall](https://www.amazon.com/dp/B06XCD4PDF) *(~~$19~~ $14)* / [Ugreen](https://www.amazon.com/dp/B07CG71KQ1?crid=MVW2IW2M2LYF) *(~~$11~~ $9)*
+- **portable:** Twelve South Compass Pro *($29)*
+- **drawing tablet:** XP Pen AC18 *($49)* / Parblo *(\$ depends on model, e.g. PR100 is $39)*
 
 ## Smartwatches
 
 #### WearOS
 
-$?
+- **under $200:** Galaxy Watch 4 *(discontinued)* or FE *($199)*
+- **under $300:** OnePlus Watch 2 *($299)*
+- **under $350:** OnePlus Watch 3 *($329)*
+	- **smaller:** Pixel Watch 3 *($349 for 41mm)*
 
-- **cheaper:** Galaxy Watch 4
-	- **alternative:** Galaxy Watch FE *(same specs, newer software)*
-- **smaller:** Pixel Watch 3
-- **standard:** OnePlus Watch 2
-- **better:** OnePlus Watch 3
+> Note that the OnePlus Watch 2 and 3 only comes in one size: 46mm. This may be too big for those with small wrists, hence the Pixel Watch 3 recommendation, which comes in smaller 41mm *($349)* and 45mm *($399)* sizes at the cost of battery life.
 
-> The OnePlus Watch 3 has even better battery life and improved health and sleep tracking over the Watch 2, but there is a small price increase
+> The OnePlus Watch 3 has even better battery life and improved health and sleep tracking over the Watch 2, but there is a small price increase.
 
-> The Pixel Watch 2 is a good option if you find it for significantly cheaper. The only thing you won’t get with the 2 is the brighter screen and slimmer bezels of the Watch 3.
+> The Pixel Watch 2 *($249)* is a good option as well. The only thing you won’t get with the 2 is the brighter screen and slimmer bezels of the Watch 3.
 
 #### watchOS
 
-$?
+- **under $300:** Apple Watch Series 5 *(discontinued)* / SE  *($249 for 40mm, $279 for 44mm, cellular is +$50)*
 
-- **cheaper:** Apple Watch SE
-	- **alternative:** Apple Watch Series 5 *(always-on display + ECG)*
-- **standard:** Apple Watch Series 10
+>  The Series 5 is very similar to the SE, with the only differences being an always-on display + ECG
+
+- **over $300:** Apple Watch Series 10 *($399 for 42mm, $429 for 46mm, cellular is +$100)*
 
 #### Cases
 
-$?
-
-- **Apple:** Spigen Thin Fit / Caseology Vault
-- **Galaxy:** Spigen Liquid Air / Caseology Vault
-- **Pixel:** Spigen Liquid Air / Caseology Vault
+- **Apple:** Spigen Thin Fit *($19)* 
+- **Galaxy:** Spigen Liquid Air *($19)* 
+- **Pixel:** Spigen Liquid Air *($19)* 
 
 ## PCs
 
-$?
-
 #### Mini PCs
 
-- **budget:** Dell Micro / HP Mini / Lenovo Tiny / NUCs
-- **cheaper:** Minisforum UM760 Slim
-- **standard:** Beelink SER8 / Minisforum UM890 Pro
-- **better:** Minisforum HX99G or HX100G
+- **budget:** Dell Micro / HP Mini / Lenovo Tiny / NUCs *($ depends on specs)*
+- **under $500:** Minisforum UM760 Slim *($409)*
+- **under $650:** Beelink SER8 *(~~$599~~ $489 for 32GB/1TB)* / Minisforum UM890 Pro *(~~$809~~ $649 for 32GB/1TB)*
+- **under $800:** Minisforum HX99G *(~~$799~~ $719 for 32GB/1TB)* or HX100G *(~~$1029~~ $799 for 32GB/1TB)*
 - **kind of overkill / expensive**
-	- **Ryzen AI 9 HX 300 series:** Beelink SER9 / Minisforum EliteMini 
-	- **external GPU:** Beelink GTi12 Ultra or GTi14 Ultra *(RX 7800 XT / RX 7900 XTX)*
+	- **Ryzen AI 9 HX 300 series:** Beelink SER9 *($1249)* / Minisforum EliteMini *($1099)*
+	- **external GPU:** Beelink GTi14 Ultra *(~~$1228~~ $978 for 32GB/1TB + GPU docking station bundle)*
 - **MacOS:** Mac Mini *(M4)*
 
 #### Desktops
 
-- **budget:** Dell OptiPlex / HP EliteDesk / Lenovo ThinkCentre 
+- **budget:** Dell OptiPlex / HP EliteDesk / Lenovo ThinkCentre *($ depends on specs)*
 	- *Intel 8th gen is the best price/performance*
 	- *older CPUs tend to be slower*
 	- *newer CPUs tend to be more expensive*
-- **cheaper:** *used PCs* / Microcenter
+- **cheaper:** *used PCs* / Microcenter *($ depends on specs)*
 
 {: .upcoming }
 The Framework Desktop is going to be repairable, customisable, and powerful with up to a Ryzen AI Max 395+
