@@ -417,13 +417,13 @@ The Framework Desktop is going to be repairable, customisable, and powerful with
 
 ## E-Readers and Digital Notebooks
 
-$?
-
 - **e-reader**
-	- **B/W:** Kobo Clara BW
-	- **colour:** Kobo Libra Colour
-		- **alternative:** Kobo Clara Colour *(smaller 6” screen + no note-taking)*
-- **digital notebook:** Supernote A6 X2 Nomad
+	- **B/W:** Kobo Clara BW *($129)*
+	- **colour:** Kobo Libra Colour *($229)*
+
+> The Kobo Clara Colour *($159)* has smaller 6” screen + no note-taking ability, and it is dimmer than the Clara BW, but if you can live with those compromises, it's a good cheaper alternative to the Libra Colour.
+
+- **digital notebook:** Supernote A6 X2 Nomad *($299)*
 
 ## Dumbphones
 
