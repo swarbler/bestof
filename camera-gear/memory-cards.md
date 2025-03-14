@@ -5,10 +5,9 @@ nav_order: 6
 ---
 # Memory Cards
 
-$?
-
 #### Cards
 
+*$ depends on storage capacity*
 - **SD** 
 	- **standard:** Sandisk Extreme Pro
 	- **durable:** Sony Tough

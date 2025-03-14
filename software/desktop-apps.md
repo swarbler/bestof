@@ -13,10 +13,13 @@ nav_order: 1
 		- **standard:** Firefox / Waterfox *(depending on how much you trust Mozilla)*
 		- **more customisable:** Floorp
 		- **more private:** Librewolf / Arkenfox / Mullvad Browser
+		- **aesthetic:** Zen Browser *(vertical tabs is divisive)*
 		- **Tor network:** Tor Browser
 	- **Blink (Chromium):** Vivaldi 
 	- **for MacOS:** Orion by Kagi *(has support for Chrome and Firefox extensions)*
 - **local AI:** GPT4All *(more models)* / Sanctum *(more user-friendly)*
+
+> Chromium browsers have dropped support for Manifest V2 extensions, meaning uBlock Origin and other similar ad-blockers no longer work. "uBlock Origin Lite" is an alternative, but is a lot less customisable due to the restrictions of Manifest V3
 
 ## Productivity
 
