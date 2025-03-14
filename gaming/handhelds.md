@@ -5,8 +5,6 @@ nav_order: 2
 ---
 # PC Handhelds
 
-$?
-
 - **handheld:** Steam Deck OLED *($549)*
 
 > The ROG Ally *($459)* with Bazzite may also be worth considering

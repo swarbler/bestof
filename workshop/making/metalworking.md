@@ -9,17 +9,17 @@ $?
 
 #### Welders
 
-- **MIG:** Yeswelder
-- **TIG:** Titanium
-- **upgrade multi-process:** Lincoln Electric
+- **MIG:** Yeswelder MIG-205DS *($479)*
+- **TIG:** Titanium *(Harbor Freight, ~$320)*
+- **upgrade multi-process:** Lincoln Electric K4876-1 *($2099)*
 
 #### Grinders
 
 - **angle grinders**
 	- **corded** 
-		- **cheaper:** Ridgid
-		- **upgrade:** Makita
-	- **cordless:** Milwaukee M18 Fuel
+		- **under $100:** Ridgid R1006 *($68)*
+		- **around $150:** Makita 9564CV *($157)*
+	- **cordless:** Milwaukee M18 Fuel 
 - **bench grinder** 
 	- **standard:** Shop Fox
 	- **upgrade:** JET industrial
