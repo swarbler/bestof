@@ -5,8 +5,6 @@ nav_order: 1
 ---
 # Displays
 
-$?
-
 ## Monitors
 
 - **24” 1080p:** AOC 24G4 *(180hz IPS)*
@@ -42,19 +40,21 @@ $?
 	- *Facebook Marketplace or similar*
 	- *refurbished projectors*
 	- *old school projectors*
-- **standard:** BenQ HT2050A
-- **upgrade:** BenQ HT3560 / Epson 3800
-	- *the BenQ is a little bit sharper (true 4K)*
-	- *the Epson is brighter with better contrast*
-- **better upgrade:** Epson 5050UB
-
-> The Epson LS11000 is sharper than the 5050UB, but it will cost significantly more and has worse contrast. The LS12000 has an even higher asking price the LS11000, but has better contrast and IQ overall. Both are not very nice for your wallet…
 
 > Happrun H1 / Onoayo AY2PRO seem to be good no-name brand projectors, but I would not recommend them as they are mass-produced e-waste that need to replaced within a few months
 
+- **under $1000:** BenQ HT2050A *($749)*
+- **under $2000:** BenQ HT3560 *($1699)* / Epson 3800 *($1699)*
+
+> The BenQ is a little bit sharper as it is true 4K, but the Epson is brighter with better contrast
+
+- **under $3000:** Epson 5050UB *($2999)*
+
+> The Epson LS11000 *($3999)* is sharper than the 5050UB, but it will cost significantly more and has worse contrast. The LS12000 *($4999)* has an even higher asking price the LS11000, but has better contrast and IQ overall. Both are not very nice for your wallet…
+
 #### Accessories
 
-- **screen:** Silver Ticket 
+- **screen:** Silver Ticket *($ depends on size)*
 
 
 > Elite Screens also make good projector screens, but Silver Ticket is usually a bit better on price
