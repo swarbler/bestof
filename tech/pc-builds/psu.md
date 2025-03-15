@@ -13,8 +13,8 @@ nav_order: 3
 > 
 > EVGA's G3 is made by Superflower, the G5 is made by FSP, and the G6 and G7 is made by Seasonic. The G6 and G7 is best designed out of all of them. 
 
-$?
+- **SFX:** SF750 *($179)*
+- **SFX-L:** Loki 1000W Platinum *($249)*
+- **Flex-ATX:** Enhance ENP 7660B *(Velkase one is $129)*
 
-- **SFX:** SF750 *(smaller)*
-- **SFX-L:** Loki 1000W Platinum *(larger + more powerful)*
-- **Flex-ATX:** Enhance ENP 7660B / Silverstone FX
+> Silverstone FX series are also good Flex-ATX PSUs

@@ -5,11 +5,12 @@ nav_order: 4
 ---
 # Printers
 
-$?
+- **laser printer:** Brother HL-L2350DW *($300)* or HL-L2370DW *($397)*
+- **inkjet printer:** Epson EcoTank *($ depends on model)*
 
-- **laser printer:** Brother HL-L2350DW / HL-L2370DW
-- **inkjet printer:** Epson EcoTank *(inkjets clog if unused for a long time)*
-- **document scanners:** 
-	- **ultra-portable:** Brother DS-940DW
-	- **compact:** Brother ADS-1250W / ADS-1700W
-	- **flatbed:** Canon CanoScan LiDE 300 / 400
+> note that inkjets clog if unused for a long time, so only buy one if you print a lot
+
+- **document scanners** 
+	- **ultra-portable:** Brother DS-940DW *($199)*
+	- **compact:** Brother ADS-1250W *($219)* / ADS-1700W *($289)*
+	- **flatbed:** Canon CanoScan LiDE 300 *($69)* / 400 *($89)*
