@@ -5,15 +5,15 @@ nav_order: 4
 ---
 # Painting
 
-$?
-
 #### Paint
 
+*$ depends on amount + colour*
 - **paint:** Sherwin Williams / Benjamin Moore
 - **spray paint:** Rust-Oleum Professional
 
 #### Primer
 
+*$ depends on amount*
 - **wood primer**
 	- **water-based:** Insl-X Stix
 	- **oil-based:** Sherwin Williams
@@ -21,6 +21,7 @@ $?
 
 #### Finish
 
+*$ depends on amount*
 - **varnish**
 	- **oil-based varnish:** Minwax polyurethane finish satin *(darker woods)*
 	- **water-based varnish:** General Finishes high performance *(lighter woods)*
@@ -31,6 +32,7 @@ $?
 
 #### Paint Brushes
 
+*$ depends on size*
 - **synthetic-based**
 	- **versatile:** Purdy XL
 	- **soft:** Purdy Nylox
@@ -42,7 +44,7 @@ $?
 
 #### Other
 
-- **paint roller:** Wooster
-- **paint spray bottle:** HomeRight Super Finish Max
-- **painter’s tape:** FrogTape multi-surface
-- **painter's multi-tool:** Hyde 17-in-1
+- **paint roller:** Wooster *($ depends on length, size, and model)*
+- **paint spray bottle:** HomeRight Super Finish Max *($59)*
+- **painter’s tape:** FrogTape multi-surface *($ depends on length)*
+- **painter's multi-tool:** Hyde 17-in-1 *(~~$13~~ $9)*
