@@ -5,15 +5,14 @@ nav_order: 4
 ---
 # Security
 
-$?
-
 #### Locks
 
-- **deadbolt:** Schlage B60N
-- **smart:** Nuki Smart Lock Pro / Schlage Encode Plus / Yale Assure Lock 2
+- **deadbolt:** Schlage B60N *($36)*
+- **smart:** Nuki Smart Lock Pro *(€269)* / Schlage Encode Plus *(~~$329~~ $285)* / Yale Assure Lock 2 *($259 for touchscreen, $239 for keypad)*
 
 #### Safes
 
+*$ depends on size + model*
 - **fireproof safes:** Honeywell / Sentrysafe
 - **cash boxes:** Honeywell / Sentrysafe
 - **lockboxes:** Kidde AccessPoint KeySafe
@@ -22,9 +21,9 @@ $?
 
 #### Security Cameras
 
-- **cheaper:** TP-Link Tapo C110
-- **standard:** TP-Link Tapo C120
-- **outdoor cameras:** TP-Link Tapo Magnetic
+- **under $30 each:** TP-Link Tapo C110 *(~~$29~~ $15 for one, ~~$35~~ $29 for 2-pack, ~~$55~~ $47 for 4-pack)*
+- **standard:** TP-Link Tapo C120 *(~~$39~~ $24 for one)*
+- **outdoor cameras:** TP-Link Tapo MagCam *(~~$77~~ $64 for one*
 
 ##### Reolink Cameras
 

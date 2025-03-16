@@ -67,16 +67,16 @@ $?
 
 ## Laundry
 
-- **hangers:** Amazon Basics
+- **hangers:** Amazon Basics *(~~$14~~ $12 for 30-pack, ~~$24~~ $17 for 50-pack, $)*
 - **baskets** 
-	- **standard:** Sterilite
-	- **upgrade:** Steele Canvas
+	- **standard:** Sterilite *($ depends on amount + size)*
+	- **upgrade:** Steele Canvas *($ depends on size)*
 - **drying racks**
-	- **cheaper:** Ikea Frost
-	- **standard:** Whitmor
-	- **wall-mounted retractable:** Step Up
-	- **ceiling-mounted retractable:** foxydry mini
+	- **cheaper:** Ikea Frost *($29)*
+	- **standard:** Whitmor *($ depends on model)*
+	- **wall-mounted retractable:** Step Up *($66)*
+	- **ceiling-mounted retractable:** foxydry mini *($149)*
 
 ## Other
 
-- **cheap wall hooks:** 3M Command hooks 
+- **cheap wall hooks:** 3M Command hooks *($ depends on amount)*
