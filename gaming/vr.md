@@ -5,8 +5,6 @@ nav_order: 5
 ---
 # VR
 
-$?
-
 #### Standalone Headsets
 
 - **under $300:** Quest 3S *($299)*

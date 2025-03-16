@@ -5,9 +5,7 @@ nav_order: 4
 ---
 # Surge Protectors
 
-$?
-
-- **standard:** Tripp Lite TLP1208 Protect It! *(12 outlets)*
-- **better:** Tripp Lite ISOBAR6ULTRA *(6 outlets)* / ISOBAR8ULTRA *(8 outlets)*
-- **upgrade:** Furman PST-8 *(8 outlets)*
-- **clamp:** Tripp Lite *(6 outlets)*
+- **standard:** Tripp Lite TLP**12**08 Protect It! *($50)*
+- **better:** Tripp Lite ISOBAR**6**ULTRA *($74)* / ISOBAR**8**ULTRA *($87)*
+- **upgrade:** Furman PST-**8** *(~~$149~~ $129)*
+- **clamp:** Tripp Lite TLP**6**06DMUSB clamp mount *($38)*

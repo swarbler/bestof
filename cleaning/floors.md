@@ -26,7 +26,8 @@ nav_order: 2
 
 #### Brooms and Mops
  
-- **brooms:** Casabella Wayclean *($14)*
+- **brooms:** Casabella Wayclean Wide-Angle *($14)*
+- **lobby-broom combo:** OXO Good Grips *($39)*
 - **wet mop:** O-Cedar EasyWring *(~~$39~~ $34)*
 	- **flat:** Libman Rinse 'N Wring *(~~$49~~ $34)*
 - **dust mop:** Bona Premium *(~~$21~~ $19)*

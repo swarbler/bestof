@@ -14,14 +14,8 @@ nav_order: 8
 
 ## Turntable
 
-$?
-
-- **automatic** 
-	- **standard:** Audio-Technica AT-LP60X
-	- **alternative:** Sony PS-LX310BT
-- **manual** 
-	- **standard:** Audio-Technica AT-LP120XUSB
-	- **better:** Fluance RT82 *(better cartridge + optical sensor)*
+- **automatic:** Audio-Technica AT-LP60X *($149, $219 w/ BT)* / Sony PS-LX310BT *($249)*
+- **manual:** Audio-Technica AT-LP120XUSB *($349, $399 w/ BT)* / Fluance RT82 *($299)*
 
 #### Phono Preamps
 
