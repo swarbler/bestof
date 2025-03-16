@@ -11,11 +11,13 @@ $?
 
 #### Pots and Pans
 
-- **skillets** 
-	- **stainless steel:** All-Clad
-	- **cast iron:** Lodge
-- **saute pan:** Made In Clad
-- **dutch oven:** Lodge 
+- **frying pans/skillets** 
+	- **stainless steel:** All-Clad D3 *($129 for 8-inch, $99 for 10-inch, $129 for 12-inch)*
+	- **cast iron:** Smithy Ironware No. 10 *($180)* or No. 12 *($220)*
+	- **non-stick stainless steel:** All-Clad D3 nonstick *($149 for 8-inch, ~~$189~~ $157 for 10-inch, $229 for 12-inch)*
+	- **non-stick ceramic:** GreenPan Valencia Pro *($49 for 8-inch, $79 for 10-inch, $89 for 12-inch)*
+- **saute pan:** Made In Clad 3.5 Quart *($169)*
+- **dutch oven:** Cuisinart Chef's Classic enameled iron *(~~$69~~ $49 for 3 Qt, $99 for 5 Qt, ~~$129~~ $97 for 7 Qt)* 
 - **cast iron grill pan:** Lodge
 - **stovetop waffle iron:** Nordic Ware
 - **toaster oven pans:** Nordic Ware

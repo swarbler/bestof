@@ -5,39 +5,40 @@ nav_order: 2
 ---
 # Organisation
 
-$?
-
 #### Desk
 
-- **desk shelf:** Balolo Setup Cockpit
-- **desk organiser:** Orbitkey Nest V2
+- **desk shelf:** Balolo Setup Cockpit *($199 for M, $219 for L)*
+- **desk organiser:** Orbitkey Nest V2 *($124)*
+
+> or 3D printed organisers
 
 #### Stands
 
 - **headphones stands**
-	- **cheaper:** Avantree *(aluminium)*
-	- **wooden:** Samdi *(wooden)* 
-	- **best design:** Oakywood *(wooden)*
+	- **under $30:** Avantree *($29)*
+	- **under $50:** Oakywood *($49)*
 
 #### Pegboard
 
+*($ depends on size + type)*
 - **pegboard:** Wall Control
 - **hooks:** Wall Control
 - **accessories:** Wall Control
 
 #### Whiteboard
 
-- **whiteboard:** *magnetic glass dry erase white board*
-- **dry-erase markers:** Pilot Board Master
-- *clean with microfibre cloth with water spray*
+- **whiteboard:** *magnetic glass dry erase white board, $ depends on size*
+- **dry-erase markers:** Pilot V Board Master *($10 for 5-pack*
+
+> clean with microfibre cloth + water spray
 
 #### Bulletin Board
 
 - **bulletin board:** *cork / canvas / fabric*
-- **push pins** 
+- **push pins** *($ depends on amount)*
 	- **standard:** Kokuyo
 	- **colourful:** Mr. Pen
 	- **safety:** Kokuyo Punyo Punyo
-- **thumbtacks** 
+- **thumbtacks** *($ depends on amount)*
 	- **standard:** Mr. Pen
 	- **transparent:** Kokuyo

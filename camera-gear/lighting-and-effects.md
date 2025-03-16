@@ -18,27 +18,28 @@ nav_order: 5
 
 ## Video Lights
 
-$?
-
-- **main:** Aputure amaran 200x
-- **secondary:** Aputure amaran 100d
-- **portable:** Smallrig RC-60B
+- **main:** Aputure amaran 200x *($349)*
+- **secondary:** Aputure amaran 100d *($199)*
+- **portable:** Smallrig RC-60B *(~~$199~~ $169)*
 
 #### Accents
 
-- **panels:** Aputure MC Pro
-- **tubes:** Nanlite Pavotube T8-7X
-- **bulbs:** Aputure B7C
+- **panels:** Aputure MC Pro *($199 for one, $1899 for 8-light kit w/ charging case)*
+- **tubes:** Nanlite Pavotube T8-7X *($95 for one, $398 for 4-light kit)*
+- **bulbs:** Aputure B7C *($70 for one, $799 for 8-light kit w/ charging case)*
 
 #### Softboxes
 
-- **cheaper:** Aputure Light Dome SE *(no quick release)* 
-- **better:** Aputure Light Dome III *(quick release)*
-- **smaller:** Aputure Light Dome Mini III *(quick release)*
+- **under $100:** Aputure Light Dome SE *($99)*
+	- **smaller:** Apurture Light Dome Mini SE *($69)*
+- **upgrade:** Aputure Light Dome III *($219)*
+	- **smaller:** Aputure Light Dome Mini III *($129)*
+
+> The Light Dome III and Mini III have a quick release to collapse, the SE and Mini SE do not
 
 #### Accessories
 
-- **c-stands:** Cheetahstand C12 / Kupo / Matthews
+- **c-stands:** Cheetahstand C12 / Kupo / Matthews *($ depends on size + model)*
 - **reflectors + diffusers:** *5-in-1 bounce reflectors/diffusers*
 
 ## Effects

@@ -5,8 +5,6 @@ nav_order: 6
 ---
 # Metalworking
 
-$?
-
 #### Welders
 
 - **MIG:** Yeswelder MIG-205DS *($479)*
