@@ -30,10 +30,11 @@ more to be added soon?
 #### Audio Recorders
 
 - **voice recorder:** Tentacle Track E *($249, $349 with lavalier)*
-- **field recorders** $?
-	- **cheaper:** Zoom H1n
-	- **standard:** Zoom H5 / H6 
-	- **32-bit:** Zoom F3
+- **field recorders** 
+	- **under $100:** Zoom H1n *($89)*
+	- **under $250:** Sony A10 *($229)* 
+		- *very pocketable, great w/ lavalier mic for everyday voice memos*
+	- **under $300:** Zoom F3 *($299)*
 
 #### Timecode
 

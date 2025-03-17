@@ -5,12 +5,10 @@ nav_order: 2
 ---
 # Optics
 
-$?
-
 ## Binoculars
 
-- **budget:** Celestron Cometron *(7x50)*
-- **standard:** Vortex Diamondback HD / Monarch M5 / Nikon Prostaff P7
+- **budget:** Celestron Cometron 7x50 *($32)*
+- **standard:** Vortex Diamondback HD / Monarch M5 / Nikon Prostaff P7 *($ depends on model)*
 	- **smaller:** *8x32 or 8x42*
 	- **larger:** *10x42*
 
@@ -22,7 +20,7 @@ $?
 
 ## Telescopes
 
-- **cheaper (tabletop):** Sky-Watcher Heritage 150
+- **cheaper (tabletop):** Sky-Watcher Heritage 150 *($310)*
 - **cheaper:** *6" Dobsonian telescope*
 	- *e.g. Sky-Watcher 6" Classic Dob / Aputura AD6 Dobsonian*
 - **better:** *8" Dobsonian telescope*

@@ -13,6 +13,7 @@ nav_order: 1
 
 ##### Bits
 
+ *$ depends on size of set*
 - **bits** 
 	- **cheaper:** DeWalt
 	- **standard:** Bosch CO14B
@@ -24,7 +25,7 @@ nav_order: 1
 
 ##### Attachments
 
-- **right-angle attachment:** DeWalt / Milwaukee Shockwave
+- **right-angle attachment:** DeWalt / Milwaukee Shockwave *($ depends on model)*
 - **scrub brush:** *on Amazon*
 
 ## Impact Driver
@@ -34,8 +35,8 @@ nav_order: 1
 
 ##### Bits
 
-- **phillips:** Milwaukee Shockwave 
-- **torx:** DeWalt
+- **phillips:** Milwaukee Shockwave *($ depends on amount)*
+- **torx:** DeWalt *($ depends on amount)*
 - **bit holder:** DeWalt *($9)*
 
 ## Sanders
@@ -43,25 +44,25 @@ nav_order: 1
 - **random orbit sander:** Bosch GEX18V-5N *(~~$129~~ $96)*
 - **benchtop drum sander:** Jet 10-inch *(>$1000)*
 - **planar:** DeWalt DW735 *($799)*
-- **sandpaper:** 3M Cubitron / Diablo 
+- **sandpaper:** 3M Cubitron / Diablo *($ depends on amount + size)*
 
 ## Saws
 
 #### Circular Saw
 
 - **cordless:** Milwaukee M18 Fuel 2732-20 *(~~$239~~ $214)*
-- **blades:** Makita / Diablo 
+- **blades:** Makita / Diablo *($ depends on amount)*
 
 #### Jig Saw
 
 - **corded:** Bosch JS572 *(~~$269~~ $224)*
-- **blades:** DeWalt
+- **blades:** DeWalt *($ depends on amount)*
 
 #### Reciprocating Saw
  
-- **corded:** Milwaukee Sawzall *($??)*
+- **corded:** Milwaukee Sawzall *($ depends on model)*
 - **cordless:** Milwaukee M18 Fuel Sawzall *($139)*
-- **blades:** Diablo Sawzall
+- **blades:** Diablo Sawzall *($ depends on amount)*
 
 #### Table Saw
 
@@ -72,7 +73,7 @@ nav_order: 1
 
 - **blades:** *any 10" 40-tooth*
 - **miter gauge:** Incra Miter V27 *($79)* / V120 *($99)* / 1000 *($129)*
-- **miter bars:** Kreg / Microjig Zeroplay
+- **miter bars:** Kreg / Microjig Zeroplay *($ depends on size of set)*
 
 #### Miter Saw
 
