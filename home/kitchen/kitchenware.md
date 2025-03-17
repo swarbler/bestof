@@ -5,8 +5,6 @@ nav_order: 1
 ---
 # Kitchenware
 
-$?
-
 ## Cooking
 
 #### Pots and Pans
@@ -77,82 +75,83 @@ $?
 
 #### Measuring
 
-- **measuring cups:** OXO Good Grips
-- **measuring spoons:** OXO Good Grips
-- **liquid measuring cups** 
-	- **plastic:** OXO Good Grips
+- **measuring cup set:** OXO Good Grips *($12 for plastic, $32 for metal)*
+- **measuring spoon set:** OXO Good Grips *($11 for plastic, $17 for metal)*
+- **liquid measuring cup** *($ depends on size)*
+	- **plastic:** OXO Good Grips 
 	- **glass:** Pyrex
-- **scale:** OXO Good Grips *(w/ pull out display)*
+- **scale:** OXO Good Grips w/ pull out display *($55)*
 
 #### Prep
 
-- **prep bowls:** Pyrex
+- **prep bowls:** Pyrex custard cups *(~~$21~~ $15 for set of 4)*
 
 ## Cutting
 
 #### Knives
 
-- **chef’s knife:** Victorinox Swiss Army Fibrox Pro 8"
-- **paring knife:** Victorinox Swiss Army Fibrox Pro 3.25"
-- **serrated knife:** Mercer Culinary Millennia 10"
+- **chef’s knife:** Victorinox Swiss Army Fibrox Pro 8" *($49)*
+- **paring knife:** Victorinox Swiss Army Fibrox Pro 3.25" *($14)* or Swiss Classic Spear Point 3.25" *($14)*
+- **serrated knife:** Mercer Culinary Millennia 10" *($23)*
 
 #### Cutting Boards
 
-- **wooden cutting board:** Teakhaus
-- **plastic cutting board:** OXO Good Grips
+- **wooden cutting board:** Teakhaus *($ depends on size, there are many!)*
+- **plastic cutting board:** OXO Good Grips *($23 for set of 2, ~~$44~~ $36 for colourful set of 3)*
 
 #### Scissors
 
-- **kitchen scissors:** OXO Good Grips
+- **kitchen scissors:** OXO Good Grips *($19)*
 
 #### Peeling
 
-- **cheap:** Kuhn Rikon *(cheap and effective)*
-- **straight:** OXO Good Grips
-	- **alternative:** Westmark Famos original swivel
-- **y-peeler:** OXO Good Grips
-- **julienne:** OXO Prep y-peeler
+- **cheap:** Kuhn Rikon *(~~$10~~ $7 for one, $14 for 3-pack)*
+- **straight:** OXO Good Grips *($11)*
+- **y-peeler:** OXO Good Grips *($11)*
+- **julienne:** OXO Prep *($9)*
 
 #### Can and Jar Openers
 
-- **safety can openers:** Kuhn Rikon
-- **jar opener:** OXO Good Grips
+- **safety can openers:** Kuhn Rikon *($23)*
+- **jar opener:** OXO Good Grips *($14)*
 
 ## Grilling
 
 #### Grills
 
 - **charcoal grill** 
-	- **standard:** Weber original kettle 22-inch
-	- **upgrade:** Weber original kettle premium 22-inch
+	- **standard:** Weber original kettle 22-inch *($139)*
+	- **upgrade:** Weber original kettle premium 22-inch *($219)*
 - **gas grill:** 
-	- **standard:** Weber Spirit II E-310
-	- **smaller:** Weber Spirit II E-210
-- **portable gas grill:** Weber Go-Anywhere
+	- **standard:** Weber Spirit II E-310 *($569)*
+	- **smaller:** Weber Spirit II E-210 *($499)*
+- **portable gas grill:** Weber Go-Anywhere *($99)*
 
 #### Grilling Tools
 
-- **spatula:** Char-Broil Comfort-Grip
-- **tongs:** OXO Good Grips
-- **brush:** Weber
+- **spatula:** Char-Broil Comfort-Grip *($14)*
+- **grilling tongs:** OXO Good Grips *($16)*
+- **brush:** Weber *($16 for 12", $20 for 18")*
 
 ## Ice Cream
 
 - **ice cream maker** 
-	- **canister-style:** Cuisinart ICE-21
-	- **self-refridgerating:** Whynter ICM-201SB
-- **ice cream scooper:** Zeroll 1020 original 
+	- **canister-style:** Cuisinart ICE-21 *(~~$69~~ $49)*
+	- **self-refridgerating:** Whynter ICM-201SB *(~~$340~~ $304)*
+- **ice cream scooper:** Zeroll 1020 original *(~~$24~~ $20)*
 
 ## Dining
 
 - **flatware set:** *any 18/10 stainless steel*
-- **serrated utility knife:** Zwiling Pro
-- **steak knives:** Victorinox Swiss Army Rosewood Steak Set *(6 piece)*
+- **serrated utility knife:** Zwiling Pro *(~~$125~~ $89)*
+- **steak knives** 
+	- **under $50:** Chicago Cutlery *($34 for set of 4)*
+	- **over $200:** Victorinox Swiss Army Rosewood Steak Set *($234 for set of 6)*
 
 ## Drinkware
 
-- **stovetop kettle:** Sori Yanagi *(stainless steel)*
-- **electric kettle:** OXO Brew *(glass)*
+- **stovetop kettle:** Sori Yanagi *(~~$100~~ $65)*
+- **electric kettle:** OXO Brew *(~$80 for standard, ~$100 for adjustable temp, ~$100 for gooseneck)*
 - **water filters**
-	- **pitcher:** Brita Standard Everyday
-	- **dispenser:** Brita Ultramax
+	- **pitcher:** Brita Standard Everyday *(~~$39~~ $35)*
+	- **dispenser:** Brita Ultramax *($37)*
