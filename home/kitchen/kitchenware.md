@@ -18,47 +18,48 @@ $?
 	- **non-stick ceramic:** GreenPan Valencia Pro *($49 for 8-inch, $79 for 10-inch, $89 for 12-inch)*
 - **saute pan:** Made In Clad 3.5 Quart *($169)*
 - **dutch oven:** Cuisinart Chef's Classic enameled iron *(~~$69~~ $49 for 3 Qt, $99 for 5 Qt, ~~$129~~ $97 for 7 Qt)* 
-- **cast iron grill pan:** Lodge
-- **stovetop waffle iron:** Nordic Ware
-- **toaster oven pans:** Nordic Ware
+- **cast iron grill pan:** Lodge Chef Collection *($39)*
+- **stovetop waffle iron:** Nordic Ware *(~~$51~~ $47)*
+- **toaster oven pans:** Nordic Ware *(~~$21~~ $18 for 2-pack)*
 
 #### Tools
 
 - **spatula** 
-	- **metal:** Mercer Culinary Hell's Handle
-	- **silicone:** OXO Good Grips
-- **ladle:** Rösle
-- **colander:** RSVP International
-- **tongs** 
-	- **metal:** OXO Good Grips
-	- **silicone:** OXO Good Grips with silicone heads
+	- **metal:** Mercer Culinary Hell's Handle *($39)*
+	- **silicone:** OXO Good Grips *($11)*
+- **ladle:** Rösle *(~~$37~~ $33)*
+- **colander:** RSVP International *($25 for 3 qt, ~~$32~~ $30 for 5 qt)*
+- **tongs:** OXO Good Grips 
+	- **metal heads:** *~~$14~~ $12 for 9", $15 for 12"*
+	- **silicone heads:** *$15 for 9", $18 for 12"*
 
 #### Thermometers
 
 - **instant-read** 
-	- **cheaper:** ThermoWorks ThermoPop 2
-	- **standard:** ThermoWorks Thermapen ONE
-- **leave-in:** ThermoWorks Square Dot
-- **infrared:** ThermoWorks industrial IR with circle laser
+	- **under $50:** ThermoWorks ThermoPop 2 *($35)*
+	- **around $100:** ThermoWorks Thermapen ONE *($109)*
+- **leave-in:** ThermoWorks Square Dot *($69)*
+- **infrared:** ThermoWorks industrial IR with circle laser *($99)*
 
 ## Baking
 
 #### Tools
 
-- **flour sifters:** OXO Good Grips dusting wand
-- **mesh strainer:** Rösle *(wire handle)*
-- **biscuit cutters:** Ateco / Matfer Bourgeat Exoglass 
-- **bowl scrapers:** KitchenAid
-- **bench scrapers:** Dexter-Russell
+- **flour sifters:** OXO Good Grips dusting wand *($11)*
+- **mesh strainer:** Rösle wire handle
+- **biscuit cutters:** Ateco *($15 for set of 11)* / Matfer Bourgeat Exoglass  *(~~$124~~ $97 for set of 8)*
+- **bowl scrapers:** KitchenAid *($7 for set of 2)*
+- **bench scrapers:** Dexter-Russell *(~~$18~~ $13)*
 
 ##### Cakes
 
-- **cake strip:** Rose’s Heavenly
-- **cake lifter:** Fat Daddio's
-- **cake carrier:** Prepworks Progressive Collapsible
+- **cake strip:** Rose’s Heavenly *($13)*
+- **cake lifter:** Fat Daddio's *($24)*
+- **cake carrier:** Prepworks Progressive Collapsible *($40)*
 
 #### Sheets and Pans
 
+*$ depends on size*
 - **baking sheets:** Nordic Ware / Vollrath
 - **cookie sheets:** Vollrath
 - **cake pans:** Nordic Ware
@@ -67,14 +68,12 @@ $?
 
 #### Mixing
 
-- **whisks** 
-	- **standard:** OXO Good Grips 11" balloon whisk
-	- **non-stick:** OXO Good Grips 11" silicone balloon whisk
-- **mixing bowls** 
+- **whisks:** OXO Good Grips 11" balloon whisk *($11)
+- **mixing bowls** *($ depends on size)*
 	- **stainless steel:** Vollrath
 	- **glass:** Pyrex
-- **stand mixer:** KitchenAid Classic *(4.5 quart)* 
-- **large stand mixer:** KitchenAid *(7 quart)*
+- **stand mixer:** KitchenAid Classic 4.5 quart *(~~$329~~ $279)*
+	- **larger:** KitchenAid 7 quart *(~~$599~~ $529)*
 
 #### Measuring
 
