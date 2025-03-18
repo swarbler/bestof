@@ -12,7 +12,7 @@ $?
 - **10Gbps:** Cable Matters / Club3D
 - **TB** 
 	- **non-braided:** Cable Matters / OWC
-	- **braided:** Apple *(only option with 3m length)*
+	- **braided:** Apple *($159 for 3m)*
 
 #### Video Cables
 
