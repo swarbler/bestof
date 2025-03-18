@@ -5,6 +5,10 @@ nav_order: 2
 ---
 # Bike
 
+> Bicycles come in all shapes and sizes, **the "best" one is different to everyone.** I have not included recommendations for bicycles, since there are way too many of them. Ideally find a local bike shop and find one that suits you best.
+> 
+> For the e-bike recommendations, these are just a few good ones that are well-reviewed online. **If you like a different e-bike, that's fine by me.** Other brands probably have good e-bikes too, so be sure to do your research and, ideally, try them out in a local bike shop before you decide to purchase.
+
 - **e-bike:** Aventon Pace 500 3 *(~~$1799~~ $1599)* / Level 2 *(~~$1899~~ $1599)*
 
 > The Aventon Level 3 *($1899)* is $300 more than the Level 2 but comes with more security features such as GPS tracking, auto-lock, etc as well as a sleeker frame. This price difference may be worth it to you.

@@ -69,3 +69,4 @@ if you have any issues with bestof, please to email me at: [sbird+bestof@disroot
 - **2025/02/09:** public GitHub repository created
 - **2025/02/11:** green text, added callouts, added page levels
 - **2025/02/23:** completely new colour scheme, screenshots added [(view them here)](screenshots.md)
+- **2025/03/18:** added MSRPs and current prices to almost all the sections
