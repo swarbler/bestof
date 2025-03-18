@@ -55,3 +55,7 @@ nav_order: 2
 - **under $500:** Sennheiser HD 600 *($449)* or HD 650 *($499)*
 
 > The Massdrop x Sennheiser HD 6XX is quite good for $200
+
+## Other Reviews to Check Out
+
+- [The Headphone Show (YT)](https://www.youtube.com/channel/UCt44wdefZzrhNDYYAyEy3Xg)

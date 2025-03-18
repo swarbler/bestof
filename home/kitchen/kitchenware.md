@@ -155,3 +155,7 @@ nav_order: 1
 - **water filters**
 	- **pitcher:** Brita Standard Everyday *(~~$39~~ $35)*
 	- **dispenser:** Brita Ultramax *($37)*
+
+## Other Reviews to Check Out
+
+- https://www.americastestkitchen.com/

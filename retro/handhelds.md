@@ -25,3 +25,10 @@ nav_order: 1
 - **under $100:** funnyplaying FPGBC kit *(~~$79~~ $69, case + buttons must be purchased separately)*
 - **over $200:** Analogue Pocket *($219)*
 - **flashing cards:** Burnmaster *($20, shell + buttons must be purchased seperately)* / GBxCart *($33)* / Joey Jr *($42)*
+
+## Other Reviews to Check Out
+
+- [Retro Game Corps (Website)](https://retrogamecorps.com ) 
+- [Retro Game Corps (YT)](https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw)
+- [TechDweeb (YT)](https://www.youtube.com/channel/UCgRaK4A7yi4ZELCLUjdP_pg)
+- [Joey's Retro Handhelds (YT)](https://www.youtube.com/channel/UCwUiHJUm1wpSaUXiQt_H12A)

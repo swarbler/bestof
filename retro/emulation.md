@@ -32,3 +32,10 @@ nav_order: 2
 
 - **Saturn:** Yaba Sanshiro 2 (Pro)
 - **Dreamcast:** Redream / Flycast
+
+## Other Reviews to Check Out
+
+- [Retro Game Corps (Website)](https://retrogamecorps.com ) 
+- [Retro Game Corps (YT)](https://www.youtube.com/channel/UCoZQiN0o7f36H7PaW4fVhFw)
+- [TechDweeb (YT)](https://www.youtube.com/channel/UCgRaK4A7yi4ZELCLUjdP_pg)
+- [Joey's Retro Handhelds (YT)](https://www.youtube.com/channel/UCwUiHJUm1wpSaUXiQt_H12A)

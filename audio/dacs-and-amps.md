@@ -58,3 +58,8 @@ nav_order: 3
 		- **6-band:** Schiit Lokius *($299)*
 	- **software:** Equalizer APO
 
+## Other Reviews To Check Out
+
+- [Darko Audio (YT)](https://www.youtube.com/channel/UCQIcXQ2n0sa-7CD0NtqnrrA)
+- [Erin's Audio Corner (YT)](https://www.youtube.com/channel/UCW_IqM21u0J-zsKtCq4Gj2w)
+- [cheapaudioman (YT)](https://www.youtube.com/channel/UCkr6cLAnZiz5NH0NzjNK8rg)

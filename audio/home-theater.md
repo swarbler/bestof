@@ -22,3 +22,9 @@ nav_order: 6
 - **under $100:** WiiM Mini *($89)*
 - **under $250:** WiiM Amp *($299)* / WiiM Pro Plus *($289)* 
 - **under $350:** WiiM Ultra *($329)*
+
+## Other Reviews To Check Out
+
+- [Darko Audio (YT)](https://www.youtube.com/channel/UCQIcXQ2n0sa-7CD0NtqnrrA)
+- [Erin's Audio Corner (YT)](https://www.youtube.com/channel/UCW_IqM21u0J-zsKtCq4Gj2w)
+- [cheapaudioman (YT)](https://www.youtube.com/channel/UCkr6cLAnZiz5NH0NzjNK8rg)

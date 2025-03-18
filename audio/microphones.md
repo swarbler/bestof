@@ -32,3 +32,7 @@ nav_order: 4
 ## Other Accessories
 
 - **mic arms:** Rode PSA-1 *($109)* / Elgato Wave *($99)* or Wave LP *($99)*
+
+## Other Reviews To Check Out
+
+- [Tom Buck (YT)](https://www.youtube.com/channel/UCRtDHXdrLyYZF6cY9bJhjlg)
