@@ -62,3 +62,9 @@ Synology BeeStation Plus will have a better CPU/RAM and 8TB of storage
 	- **N4:** *6x 3.5", 2x 2.5", m-ATX, wooden accents*
 	- **N5:** *12x 3.5", 2x 2.5", E-ATX, largest, wooden accents*
 - **software:** OpenMediaVault / TrueNAS
+
+## Other Reviews To Check Out
+
+- [NASCompares (YT)](https://www.youtube.com/channel/UCFyP17HoU-vpxhIpGXnXx2g)
+- [NASCompares (Website)](https://nascompares.com)
+- [SpaceRex (YT)](https://www.youtube.com/channel/UC_n6DdR6FClpCbWnNM7Zp6A)

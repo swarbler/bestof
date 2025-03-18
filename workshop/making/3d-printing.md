@@ -106,6 +106,7 @@ nav_order: 1
 
 - **bed adhesion solution:** 3DLac *($37)*
 - **filament dryer:** Creality Space Pi *($65)* / Sunlu S2 *(~~$79~~ $44)* or S4 *(~~$139~~ $129)*
+- **vacuum-seal bags:** *any will do, eSun and Eibos kits seem pretty good*
 - **3D print recycler:** _shredder/extruder_
 - **micro-shears:** Fiskars micro-tip pruning snips *(~~$17~~ $11)*
 - **3D pen** 
@@ -145,6 +146,11 @@ nav_order: 1
 
 > OrcaSlicer is based on PrusaSlicer, which itself is a very good slicer! 
 
-## Other
+## Other Reviews To Check Out
 
-- **vacuum-seal bags:** *any will do, eSun and Eibos kits seem pretty good*
+- [CNC Kitchen (YT)](https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg) *good printer reviews + 3D printing tips*
+- [Emily the Engineer (YT)](https://www.youtube.com/channel/UC_4YBM08hcpJqLl3vvgTqXg) *makes all sorts of crazy contraptions using 3D printing*
+- [Frankly Built (YT)](https://www.youtube.com/channel/UCsnKS1fVNJ1yjCkGOXXDd4A) *3D printer reviews + guides for making 3D printed cosplay*
+- [Ivan Miranda (YT)](https://www.youtube.com/channel/UCF3cDM_hQMtIEJvEW1BZugg) *crazy contraptions made using 3D printing*
+- [Uncle Jessy (YT)](https://www.youtube.com/channel/UC8i8e7likh-EYMq1bZ0ttHw) *great 3D printing tips + printer reviews*
+- [Zack Freedman (YT)](https://www.youtube.com/channel/UCUW49KGPezggFi0PGyDvcvg) *funny guy!*

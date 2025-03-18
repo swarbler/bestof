@@ -434,3 +434,14 @@ The Framework Desktop is going to be repairable, customisable, and powerful with
 - **keitai phones:** Kyocera 902KC/903KC Digno Ketai 3 or A202KC Digno Ketai 4 / *others*
 
 > Japanese keitai phones are great, but they may be region locked. Check if the one you are purchasing works with your carrier!
+
+## Other Reviews To Check Out
+
+- [MKBHD (YT)](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ) *Marques is generally a reliable, mostly unbiased reviewer*
+- [The Tech Chap (YT)](https://www.youtube.com/channel/UCzlXf-yUIaOpOjEjPrOO9TA) *Also a good reviewer, and he also reviews phones that aren't available in the US such as Oppo, Vivo, etc. as he is based in the UK*
+- [Mrwhosetheboss (YT)](https://www.youtube.com/channel/UCMiJRAwDNSNzuYeN2uWa0pA) *Arun is also a very good reviewer, though sometimes he overhypes certain products and exaggerates a bit*
+- [SuperSaf (YT)](https://www.youtube.com/channel/UCIrrRLyFMVmmL9NDAU2obJA) *Great reviewer as well, I really like him*
+- [JerryRigEverything (YT)](https://www.youtube.com/channel/UCWFKCr40YwOZQx8FHU_ZqqQ) *Teardowns on different devices and assessing their durability*
+- [GSMArena (Website)](https://www.gsmarena.com/) *Great for finding the specs on different devices*
+- [ZONEofTech (YT)](https://www.youtube.com/channel/UCr6JcgG9eskEzL-k6TtL9EQ) *Also a decent reviewer as well, but focuses more on leaks + rumours*
+- [JustJosh (YT)](https://www.youtube.com/channel/UCtHm9ai5zSb-yfRnnUBopAg) *Focuses on laptop reviews*

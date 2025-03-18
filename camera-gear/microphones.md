@@ -27,6 +27,8 @@ more to be added soon?
 	- **under $100:** Rode Lavalier II *($81)*
 - **wireless:** Hollyland Lark M2 *($119 for full set, $106 for on-camera only, $92 for USB-C only, $99 for Lightning only, $36 for single transmitter)*
 
+> The DJI Mic 2 and Rode Wireless Pro are both good options and have many QoL features such as 32-bit float and, for the Rode, timecode support and a locking audio jack. However, they are larger and more expensive than the Lark M2.
+
 #### Audio Recorders
 
 - **voice recorder:** Tentacle Track E *($249, $349 with lavalier)*
