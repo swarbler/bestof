@@ -18,10 +18,11 @@ nav_order: 6
 
 #### Accessories
 
-- **reader:** ProGrade *(USB-C 3.2 Gen 2)*
-- **hard case**
+- **reader:** ProGrade *(USB-C 3.2 Gen 2 / 10Gbps)*
+- **reader + case:** PGYtech *(USB-C 3.1 Gen 1 / 5Gbps)*
+- **hard case** *($ depends on size)*
 	- **standard:** Smallrig
 	- **protective:** Pelican
-- **fabric case**
+- **fabric case** *$ depends on size*
 	- **standard:** ThinkTank Secure Pixel Pocket Rocket
 	- **upgrade:** Nomatic McKinnon
