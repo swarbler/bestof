@@ -8,6 +8,7 @@ nav_order: 2
 #### General Cleaning
 
 - **rocket blower:** Giottos *($17)*
+- **electric blower:** Nitecore BB2 *($89)*
 
 #### Lens Cleaning
 
