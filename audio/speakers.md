@@ -40,9 +40,3 @@ nav_order: 1
 
 - **surround speakers:** Sony HT-A9 *(~~$1999~~ $1499)*
 - **subwoofers:** Sony SW3 *(~~$399~~ $299)* or SW5  *(~~$699~~ $499)*
-
-## Other Reviews To Check Out
-
-- [Darko Audio (YT)](https://www.youtube.com/channel/UCQIcXQ2n0sa-7CD0NtqnrrA)
-- [Erin's Audio Corner (YT)](https://www.youtube.com/channel/UCW_IqM21u0J-zsKtCq4Gj2w)
-- [cheapaudioman (YT)](https://www.youtube.com/channel/UCkr6cLAnZiz5NH0NzjNK8rg)
