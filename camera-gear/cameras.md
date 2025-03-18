@@ -133,6 +133,7 @@ The Sigma BF will be an incredibly lightweight and compact 24.6MP full-frame cam
 
 - [Gerald Undone (YT)](https://www.youtube.com/channel/UC09qASY4ixFS-KXIH6Nw0rg)
 - [Simon d'Entremont (YT)](https://www.youtube.com/channel/UCH6acC9jnug-mI4vdGvuDbA)
+- [Anthony Gugliotta (YT)](https://www.youtube.com/channel/UCzi1cAY62PslI1b-4KGVxoQ)
 - [Mark Wiemels (YT)](https://www.youtube.com/channel/UCGuIM34mGnfTDjfd9vwPtAQ)
 - [Mark Benett's Camera Crisis (YT)](https://www.youtube.com/channel/UCV_Y7XgnjahESbnRe078Ybg)
 - [PetaPixel (YT)](https://www.youtube.com/channel/UCoJP9pYqZjiJOlR4UWdPhow)

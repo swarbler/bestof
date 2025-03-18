@@ -130,6 +130,7 @@ Sigma has announced the 16-300mm f/3.5-6.7 DC OS, which looks like an ultra vers
 - [Christopher Frost (YT)](https://www.youtube.com/channel/UCxoyIXANauK4cEfy0Wc09IA)
 - [Gerald Undone (YT)](https://www.youtube.com/channel/UC09qASY4ixFS-KXIH6Nw0rg)
 - [Simon d'Entremont (YT)](https://www.youtube.com/channel/UCH6acC9jnug-mI4vdGvuDbA)
+- [Anthony Gugliotta (YT)](https://www.youtube.com/channel/UCzi1cAY62PslI1b-4KGVxoQ)
 - [Mark Wiemels (YT)](https://www.youtube.com/channel/UCGuIM34mGnfTDjfd9vwPtAQ)
 - [Mark Benett's Camera Crisis (YT)](https://www.youtube.com/channel/UCV_Y7XgnjahESbnRe078Ybg)
 - [PetaPixel (YT)](https://www.youtube.com/channel/UCoJP9pYqZjiJOlR4UWdPhow)
