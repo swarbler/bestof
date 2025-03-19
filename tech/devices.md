@@ -200,6 +200,7 @@ nav_order: 1
 		- **great hardware, OS is a bit bloated:** Honor
 			- *Honor recently announced that the Magic 7 Pro will get 7 y/o OS updates! Hooray!*
 		- **great hardware, very bloated OS:** Xiaomi
+		- **meh hardware, divisive UI:** Samsung *(their A5x series phones are decent, but their S series lineup is overpriced)*
 	- **good:** OnePlus 13 / Xiaomi 15 series / Honor Magic 7 *(4 y/o OS updates)*
 	- **better:** Oppo Find X8 series *(5 y/o OS updates)*
 	- **best:** Pixel 9 series / Honor Magic 7 Pro *(7 y/o OS updates)*
@@ -216,22 +217,14 @@ nav_order: 1
 
 - **midrange**
 	- **good:** OnePlus 13R *(4 y/o OS updates)*
-	- **best:** Pixel 8a *(7 y/o OS updates)*
+	- **better:** Galaxy A56 *(6 y/o OS updates)*
+	- **best:** Pixel 9a *(7 y/o OS updates)*
 
 > The Poco F6 (4 y/o OS updates) is a powerful midrange phone, but has bloated software.
-
-{: .upcoming  }
-> Galaxy A56 will release this year with *6 y/o OS updates!*
-> 
-> The Pixel 9a will also release soon!
 
 - **budget**
 	- **good:** OnePlus Nord 4 / Realme GT 6T *(4 y/o OS updates)*
 	- **better:** Moto Edge 50 Neo *(5 y/o OS updates)*
-
-{: .upcoming }
-The Galaxy A26 and A36 will release near the end of this with *6 y/o of OS updates!*
-
 - **compact:** Xperia XZ1 Compact
 - **matte:** TCL 50 NXTPaper 5G *(NXTPaper 3.0)*
 - **repairable:** Fairphone 5
