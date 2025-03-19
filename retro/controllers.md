@@ -1,5 +1,5 @@
 ---
-title: Retro Controllers
+title: Controllers
 parent: Retro
 nav_order: 3
 ---

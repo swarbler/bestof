@@ -1,5 +1,5 @@
 ---
-title: Retro Handhelds
+title: Handhelds
 parent: Retro
 nav_order: 1
 ---
