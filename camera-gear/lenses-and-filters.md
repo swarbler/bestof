@@ -9,6 +9,8 @@ nav_order: 3
 
 ## Full Frame
 
+> The Viltrox 28mm f4.5 *(43.5mm)* is a very small pancake lens, nicknamed the "chip". If you don't mind the f4.5 and some trade-offs in terms of optical quality, it seems like a great EDC lens!
+
 #### E-mount (Sony)
 
 - **primes**
