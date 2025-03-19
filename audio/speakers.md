@@ -27,7 +27,12 @@ nav_order: 1
 
 #### Subwoofers
 
-- **standard:** SVS SB-1000 Pro *($599)*
+- **under $300:** RSL Speedwoofer 10e *($299)*
+- **under $500:** RSL Speedwoofer 10s MKII *($449)*
+- **under $1000:** RSL Speedwoofer 12s *($799)* / HSU VTF-2 MK5 *(~~$689~~ $639)* or ULS-15 MK2 *(~~$989~~ $889)*
+- **a bit over $1000:** HSU VTF-TN1 *(~~$1199~~ $1149)* / Rythmik FVX12 *($1049)* / SVS PB-2000 Pro *($1099)*
+
+> The SVS SB-1000 Pro *($599)* is comparable to the Speedwoofer 10s MKII. The SVS PB-1000 Pro *($799)* is also worth considering.
 
 ## Bluetooth
 

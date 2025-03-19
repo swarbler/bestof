@@ -16,11 +16,9 @@ nav_order: 1
 
 #### M.2 2280
 
-- **PCiE 3.0 (cheaper):** Kioxia Exceria G2
+- **PCiE 3.0 (cheaper):** Kioxia Exceria G2 / Samsung 970 EVO Plus
 - **PCiE 4.0:** Kioxia Exceria G3 / Sabrent Rocket 4 Plus / Samsung 980 Pro 
-- **PCiE 5.0:** Crucial T700 / Sabrent Rocket 5
-
-> The Crucial T705 is an even faster drive, but for an even higher cost than the T700
+- **PCiE 5.0:** Crucial T700 or T705 / Sabrent Rocket 5 / Samsung 9100 Pro
 
 #### Other
 
