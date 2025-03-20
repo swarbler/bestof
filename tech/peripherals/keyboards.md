@@ -27,8 +27,8 @@ nav_order: 3
 > Keychron's V and Q series keyboards are quite good, but the price is a bit high. You might get better value with other options
 
 - **low-profile** 
+	- Lofree Flow Lite84 *($129)* or Lite100 *($139)*
 	- Nuphy Air60/Air75 *($119 or $129 depending on switches)* or Air96 *($129 or $139 depending on switches)* 
-	- Lofree Flow84 *($159)* or Flow100 *($169)* 
 
 ## Custom Mechanical
 
