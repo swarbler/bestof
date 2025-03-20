@@ -10,13 +10,21 @@ nav_order: 2
 - **socket + bit set:** Wera Tool-Check Plus *(~$90)*
 - **socket set:** Klein Tools Flip Socket *($24 for 6-in-1, $29 for 9-in-1)*
 
-#### Screwdrivers
+#### Ratcheting Screwdrivers
 
 - **standard:** Megapro *($33)* / Wera KraftForm *($41)* / LTT *($69)*
 - **stubby:** Milwaukee *($26)* / Stahlwille *($34)* / LTT *($59)*
 - **torque:** Wera 7400 KraftForm *($84)* / Wiha *(~~$115~~ $99)*
 - **ESD-safe:** Wera 7440 KraftForm *($91)* 
 - **electric:** Xiaomi *($59)*
+
+#### Non-Ratcheting Screwdrivers
+
+*$ depends on driver + size of set*
+- **standard:** Wera Kraftform / Wiha
+- **insulated:** Wiha 
+
+> iFixit drivers are also good options with specialty bits used in electronics
 
 #### Wrenches
 
