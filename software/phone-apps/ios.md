@@ -32,6 +32,7 @@ nav_order: 3
 
 - **todo.txt:** 2do.txt *(free)* / Swiftodo *(paid)*
 - **calendar:** *Calendar*
+- **notes:** Beat
 
 > other good calendar apps include Across *(free)*, Creme *(free)*, and Calendar 366 *(paid)*
 

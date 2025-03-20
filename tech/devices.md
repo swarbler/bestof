@@ -67,11 +67,12 @@ nav_order: 1
 			- **screen:** *16" 16:10 120hz OLED touchscreen*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack + SD card reader*
 			- **memory + storage:** *up to 32GB + 2TB*
-	- **x86 (Intel):** Yoga Slim 7i Aura Edition / Zenbook S 14
+	- **x86 (Intel):** Yoga Slim 7i Aura Edition / Zenbook S 14 / Thinkpad X9
 		- *Core Ultra Series 2*
 		- ***summary:***
 			- **Yoga Slim 7i Aura Edition** is a great option with *good keyboard + solid build quality* but the screen is *LCD*
 			- **Zenbook S 14** is also a great option if you want *OLED*
+			- **Thinkpad X9** is a decent option if you want an *OLED screen + haptic touchpad + good speakers* if you can find it at a lower price
 		- **Yoga Slim 7i Aura Edition**
 			- *Core Ultra 7 Series 2*
 			- **screen:** *15" 16:10 120hz LCD touchscreen*
@@ -82,6 +83,11 @@ nav_order: 1
 			- **screen:** *14” 16:10 120hz OLED*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 1TB*
+		- **Thinkpad X9** *(haptic touchpad)*
+			- *up to Core Ultra 7 Series 2*
+			- **screen:** *14" 16:10 120hz OLED*
+			- **ports:** *2x USB-C 40Gbps + HDMI 2.1 + audio jack*
+			- **memory + storage:** *up to 32GB + 2TB*
 
 > The ThinkPad X1 Carbon Gen 13 has Intel's Lunar Lake processors and has great build quality, battery life, and an amazing keyboard. However, it is much more expensive than other options. 
 

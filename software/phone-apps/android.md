@@ -26,6 +26,7 @@ nav_order: 2
 
 - **todo.txt:** Simpletask
 - **calendar:** Etar / Fossify
+- **notes:** Markor / Notesnook / Quillpad
 
 #### Social
 
@@ -61,11 +62,11 @@ nav_order: 2
 
 #### System
 
-- **dialer:** Emerald Dialer / Fossify Dialer
+- **dialer:** Emerald Dialer / Fossify / Koler
 - **contacts:** Connect You / Fossify Contacts
 - **SMS messenger:** Quik SMS
 - **keyboard:** FlorisBoard / HeliBoard
-- **file manager:** Material Files / MiXplorer
+- **file manager:** Material Files
 - **alternative app stores** 
 	- **standard:** Aurora Store
 	- **FOSS:** f-droid / G-droid / Aurora Droid

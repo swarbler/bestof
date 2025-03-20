@@ -7,10 +7,10 @@ nav_order: 1
 
 #### Documents
 
-- **notes:** Obsidian
-	- **alternative:** Joplin
-	- **iOS:** Bear
+- **notes:** Joplin / Obsidian
 - **office suite:** Collabora Office
+
+> Joplin is open-source whereas Obsidian is closed-source. Both have many plugins to extend their functionality, and both offer options to sync between devixes
 
 #### Social
 
