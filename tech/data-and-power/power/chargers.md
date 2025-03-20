@@ -32,17 +32,17 @@ nav_order: 2
 
 ##### Cameras
 
-?
-- **Sony** 
-	- **multi-type**
-		- **standard:** ISDT NP2 
-		- **travel:** ISDT NP2 Air
-		- **powerbank:** ISDT NP2Go
-	- **NP-FZ100:** Peter Lindgren Tri-Charge / Llano
-	- **NP-BX1:** Telesin Pocket
-- **Panasonic Lumix:** DMW-BTC15
-- **Fujifilm:** BC-W235 / Nitecore FX3 
-- **Ricoh:** BJ-11
+- **triple charger + SD card slots:** Jupio Tri-Charge *($129)*
+	- *Sony / Canon / Nikon / Fuji / Panasonic Lumix*
+- **for Sony NP-FZ100 + NP-FW50 + NP-BX1 batteries:** ISDT NP2 *($39)* or NP2 Air *($29)*
+- **for Canon LP-E6 + LP-E12 + LP-E17 batteries:** ISDT LP2 Air *($28)*
+- **for Fujifilm NP-W126 + NP-W126S batteries:** Nitecore FX1 *($29)* or FX3 *($34)*
+- **fast-charging:** Llano *($ depends on battery type, around $29-59)*
+	- *Sony / Canon / Nikon / Fuji / GoPro*
+
+> The ISDT NP2 is much larger than the Air, but includes a screen with charging stats. Both have the ability to check these stats using an app. The NP2 Air is also $10 cheaper. The LP2 Air is basically the NP2 Air but for Canon batteries.
+
+> First-party camera battery chargers are expensive, but are a safer option if you are concerned with third-party chargers.
 
 #### Other
 
