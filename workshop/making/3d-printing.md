@@ -149,7 +149,7 @@ nav_order: 1
 ## Other Reviews To Check Out
 
 - [CNC Kitchen (YT)](https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg) *good printer reviews + 3D printing tips*
-- [Emily the Engineer (YT)](https://www.youtube.com/channel/UC_4YBM08hcpJqLl3vvgTqXg) *makes all sorts of crazy contraptions using 3D printing*
+- [Emily the Engineer (YT)](https://www.youtube.com/channel/UC_4YBM08hcpJqLl3vvgTqXg) *makes all sorts of unhinged creations using 3D printing*
 - [Frankly Built (YT)](https://www.youtube.com/channel/UCsnKS1fVNJ1yjCkGOXXDd4A) *3D printer reviews + guides for making 3D printed cosplay*
 - [Ivan Miranda (YT)](https://www.youtube.com/channel/UCF3cDM_hQMtIEJvEW1BZugg) *crazy contraptions made using 3D printing*
 - [Uncle Jessy (YT)](https://www.youtube.com/channel/UC8i8e7likh-EYMq1bZ0ttHw) *great 3D printing tips + printer reviews*

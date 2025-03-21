@@ -23,6 +23,11 @@ nav_order: 5
 	- **ultralight upgrade:** Bigscreen Beyond *($999)*
 	- **high resolution upgrade:** Pimax Crystal *($1599)*
 
+{: .upcoming }
+> The Bigscreen Beyond 2 is even lighter with much higher quality lenses, meaning a wider FOV, less lens glare, and reduced chromatic aberration. 
+> 
+> It also has an interchangeable face plate (Carbon Black, Nuclear Orange, or Crystal Clear) + adjustable IPD. Resolution and refresh rate seem to be the same.
+
 > The Beyond is incredibly small and lightweight with OLED displays, but is individually fitted meaning that you can’t share the headset with others.
 
 - **controllers** 
