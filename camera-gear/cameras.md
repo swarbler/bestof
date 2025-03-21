@@ -15,11 +15,10 @@ nav_order: 1
 
 #### Hybrid
 
+- **used options:** A6000 / A6100 / A6300
 - **under $1000:** A6400 *(~~$899~~ $748)*
 - **under $1500:** A6700 *($1398)*
 - **over $2000:** A7C II *($2198)* / A7 IV *($2498)*
-
-> The A6500 has worse AF + worse battery than the A6400 but has IBIS
 
 #### Video 
 
@@ -45,6 +44,7 @@ nav_order: 1
 
 #### Full-Frame
 
+- **under $1500:** S9 *(~~$1497~~ $1397)*
 - **under $2000:** S5 II *(~~$1999~~ $1497)* or IIX *(~~$2499~~ $2197)*
 
 ### Fujifilm
@@ -55,7 +55,9 @@ nav_order: 1
 - **under $1500:** X-T50 *($1399)*
 - **under $2000:** X-T5 *($1699)*
 
->  X-T4 *(~$1100 used)* can also be a very good deal
+> The X-M5 *($799)* is comparable to the X-T30 II in image quality but lacks an EVF and is much smaller with a less substantial grip. It also has fewer buttons and dials than the X-T30 II. Since it is newer, however, it has a few more features such as a larger buffer for burst photography and more advanced AF. 
+
+>  The X-T4 *(~$1100 used)* can also be a very good deal
 
 #### Video
 
