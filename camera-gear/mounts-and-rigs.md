@@ -15,7 +15,11 @@ nav_order: 7
 	- **around $100:** K&F Concept C225C0 (BA225) *(~~$109~~ $99)* / Sirui 5C *($96)* or 7C *($132)*
 	- **around $250:** Ulanzi Coman Zero Y *($249)*
 - **heavy-duty** 
-	- **a bit over $150:** Smallrig AD-01 *(~~$168~~ $159)*
+	- **under $150:** Smallrig AD-01 *(~~$159~~ $135)*
+	- **under $250:** Smallrig AD-80 *(~~$249~~ $199)*
+	- **under $400:** Smallrig AD-100 *(~~$399~~ $319)*
+	- **under $500:** Ulanzi VideoFast Aluminium *($499)*
+	- **under $600:** Ulanzi VideoFast Carbon Fiber *($599)*
 	- **upgrade:** *used Sachtler Flowtech* 
 
 #### Plates
