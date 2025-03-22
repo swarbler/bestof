@@ -8,18 +8,26 @@ nav_order: 1
 #### Backpacks
 
 - **everyday** 
-	- **under $100:** Jansport *($60)*
-	- **around $200** 
-		- Aer City Pack Pro *($209)* 
-		- Bellroy Transit Workpack *($199)* 
-- **tech pack:** Aer Tech Pack 3 *($219)*
+	- **around or under $100:** Jansport *(\$ depends on model)* / Osprey Daylite Plus *($75)* or Arcane Large Day *($110)*
+	- **around or under $200** 
+		- Aer City Pack Pro *($209 for 24L)* 
+		- Bellroy Transit Workpack *($199 for 26L)* 
+		- Osprey Parsec 26 *($170 for 26L)*
+		- Able Carry Daily Plus *($179 for 21L, $209 for X-Pac)*
+	- **over $200**
+		- Aer City Pack Pro X-Pac *($239 for 24L)* 
+		- Evergoods CPL24 *($279 for 24L)*
+		- Bellroy Venture Ready Pack *($259 for 26L)*
+- **tech pack:** Aer Tech Pack 3 *($219 for 16L, $239 for X-Pac)* 
+
+> The Goruck GR1 is a very high-quality backpack, but it has a high price tag at arounded $350-400!
 
 > The LTT Commuter Backpack *($149)* is also an option if you would like to like LTT and want to support them
 
 - **outdoor** 
-	- **budget:** Quechea *(Decathalon)*
-	- **standard:** Osprey Porter 30 *($175)*
-	- **larger:** Osprey Farpoint 40 *($185)*
+	- **budget:** Quechea *(Decathalon, $ depends on model)*
+	- **standard:** Osprey Porter 30 *($175 for 30L)*
+	- **larger:** Osprey Farpoint 40 *($185 for 40L)*
 - **camera**
 	- Tenba *($ varies depending on model, they are all good)*
 	- Lowepro *($ varies depending on model, they are all good)*
