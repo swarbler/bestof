@@ -9,18 +9,26 @@ nav_order: 1
 
 - **everyday** 
 	- **under $100:** Jansport *($60)*
-	- **around $200:** Aer City Pack Pro *($209)* / Bellroy Transit Workpack *($199)* 
+	- **around $200** 
+		- Aer City Pack Pro *($209)* 
+		- Bellroy Transit Workpack *($199)* 
 - **tech pack:** Aer Tech Pack 3 *($219)*
-	- **alternative:** LTT Commuter Backpack *($149)*
+
+> The LTT Commuter Backpack *($149)* is also an option if you would like to like LTT and want to support them
+
 - **outdoor** 
 	- **budget:** Quechea *(Decathalon)*
 	- **standard:** Osprey Porter 30 *($175)*
 	- **larger:** Osprey Farpoint 40 *($185)*
 - **camera**
-	- **standard:** ThinkTank Streetwalker *($199, $229 for Pro version)*
-		- **alternative:** ThinkTank Airport Essentials *($241)*
-	- **larger:** ThinkTank Airport Commuter *($263)*
-	- **rolling:** ThinkTank Essentials *($329)*
+	- Tenba *($ varies depending on model, they are all good)*
+	- Lowepro *($ varies depending on model, they are all good)*
+	- Domke Photo Backpack *($199)*
+	- ThinkTank Streetwalker *($199, $229 for Pro version)* or Airport Commuter *($263)*
+	- Wandrd PRVKE Lite *($239)*
+	- Shimoda Explore V2 *($309 for 30L, $319 for 35L)*
+	- Shimoda Action X30 *($299)* / X40 *($339)* / X50 *($349)* / X70 *($379)*
+	- Brevite Jumper *($169)*
 - **Peak Design:** Everyday Backpack *($279 for 20L, $299 for 30L)*
 
 #### Pouches
@@ -30,7 +38,7 @@ nav_order: 1
 	- **around $50:** Alpaka Elements Tech Case Mini *($45)*
 	- **best organisation:** Peak Design Tech Pouch *($49 for small, $59 for regular)*
 	- **leather:** Bellroy Tech Kit *($55 for compact, $59 for standard)*
-	- **waxed canvas:** Waterfield Gear Pouch *($49 for small, $55 for medium, $59 for large)*
+	- **waxed canvas:** Waterfield Gear Pouch *($49 for S, $55 for M, $59 for L)*
 - **toiletry pouches** 
 	- **standard:** Gravel Explorer *($ depends on size)*
 	- **best organisation:** Peak Design Wash Pouch *($49 for small, $59 for regular)*
@@ -41,12 +49,23 @@ nav_order: 1
 #### Crossbody Slings
 
 - **everyday** 
-	- **smaller:** Aer Go Sling 2 *($59 for 0.8L)* / Tom Binh Side Effect *($68 for 1.5L)*
-	- **standard:** Aer City Sling 2 *(~~$89~~ $75 for 2.5L)* or Day Sling 3 *($79 for 3L)* / Bellroy Venture Sling *($89 for 2.5L)*
-	- **larger:** Aer Day Slin 3 Max *($95 for 6L)* or Tech Sling 3 *($119 for 9L)* / Travel Sling 2 *($119 for 12L)* / Bellroy Venture Sling *($129 for 6L, $139 for 9L)*
+	- **smaller** 
+		- Aer Go Sling 2 *($59 for 0.8L)* 
+		- Tom Binh Side Effect *($68 for 1.5L)*
+	- **standard** 
+		- Aer City Sling 2 *(~~$89~~ $75 for 2.5L)* or Day Sling 3 *($79 for 3L)* 
+		- Bellroy Venture Sling *($89 for 2.5L)*
+	- **larger** 
+		- Aer Day Sling 3 Max *($95 for 6L)* / Tech Sling 3 *($119 for 9L)* / Travel Sling 2 *($119 for 12L)* 
+		- Bellroy Venture Sling *($129 for 6L, $139 for 9L)*
 - **outdoor:** Chrome Kadet *($95)*
-- **camera:** ThinkTank Retrospective
-	- *$120 for 4 // $175 for 5 // $197 for 7 // $199 for 10 // $214 for 20 // $239 for 30*
+- **camera** 
+	- Bellroy Venture Camera Sling 10L *($179)*
+	- ThinkTank Retrospective *($120 for 4 // $175 for 5 // $197 for 7 // $199 for 10 // $214 for 20 // $239 for 30)*
+	- Wandrd Rogue *($109 for 3L, $139 for 6L, $159 for 9L)*
+	- Hex Ranger Mini *($69)*
+	- Domke F-6 *($111)*
+	- LowePro *($ depends on model, all of them are good)*
 - **Peak Design:** Everyday Sling *($99 for 3L, $129 for 6L, $169 for 10L)*
 
 #### Duffel Bags
