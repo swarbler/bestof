@@ -14,25 +14,7 @@ nav_order: 1
 
 #### Windows
 
-- **around $300:** Acer Aspire 3 / IdeaPad Slim 3
-	- *Ryzen 3 7320U*
-	- **Acer Aspire 3**
-		- **screen:** *15" 16:9 60hz IPS*
-		- **ports:** *USB-C 10Gbps + 2x USB-A 5Gbps + HDMI 2.1 + audio jack*
-		- **memory + storage:** *8GB + 128GB*
-	- **IdeaPad Slim 3**
-		- **screen:** *15" 16:9 60hz IPS*
-		- **ports:** *USB-C 5Gbps + 2x USB-A 5Gbps + HDMI 1.4 + audio jack + SD card reader*
-		- **memory + storage:** *8GB + 256GB*
-- **around $500:** Vivobook Go 15 OLED
-	- *Ryzen 5 7520U*
-	- **screen:** *15” 16:9 60hz OLED*
-	- **ports:** *USB-C 5Gbps + USB-A 5Gbps + USB-A 480Mbps + HDMI 1.4 + audio jack*
-	- **memory + storage:** *up to 16GB + 1TB*
-
-> If you find laptops with great specs for a better price, it may be worth it. The budget laptop market constantly changes! 
-
-> Another good option is to find used laptops (such as used ThinkPads)
+> The best budget laptops are used laptops, such as old ThinkPads. Alternatively, look for a really good sale on a laptop with decent specs
 
 - **everyday** 
 	- **ARM:** Surface Laptop 7 / Yoga Slim 7x / Zenbook A14
@@ -54,11 +36,16 @@ nav_order: 1
 			- **screen:** *14" 16:10 60hz IPS (OLED for X Elite varient)*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 1TB*
-	- **x86 (AMD):** Yoga Pro 7 / Zenbook S 16
+	- **x86 (AMD):** Omnibook Ultra 14 / Yoga Pro 7 / Zenbook S 16
 		- *Ryzen AI 9 300 series*
 		- ***summary:***
-			- **Yoga Pro 7** is also a great option with *a smaller 14” screen + a really good keyboard*
+			- **Omnibook Ultra 14** is a good value option with *a smaller 14" screen and good battery life* but is *IPS and 60hz*
+			- **Yoga Pro 7** is a great option with *a smaller 14” screen + a really good keyboard*
 			- **Zenbook S 16** is a great option with *a larger 16” screen + great ports*
+		- **Omnibook Ultra 14** *(haptic trackpad, thin and light)*
+			- **screen:** *14" 16:10 60hz IPS touchscreen*
+			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + audio jack*
+			- **memory + storage:** *16GB + 1TB*
 		- **Yoga Pro 7** *(more performance)*
 			- **screen:** *14” 16:10 120hz OLED*
 			- **ports:** *USB-C 40Gbps + USB-C 10Gbps + USB-A 5Gbps + HDMI 2.1 + audio jack*

@@ -10,6 +10,7 @@ nav_order: 1
 ##### Light
 
 - **18650:** Skilhunt M200 V3 *($63)*
+	- **budget:** Wurkkos FC11C *(~~$32~~ $20)*
 - **14500:** Skilhunt M150 V3 *($46)*
 - **21700:** Skilhunt M300 V2 *($74)*
 
