@@ -5,9 +5,11 @@ nav_order: 2
 ---
 # Bike
 
-> Bicycles come in all shapes and sizes, **the "best" one is different to everyone.** I have not included recommendations for bicycles, since there are way too many of them. Ideally find a local bike shop and find one that suits you best.
-> 
+> Bicycles come in all shapes and sizes, **the "best" one is different to everyone.** I have not included recommendations for bicycles, since there are way too many of them. **Ideally find a local bike shop and find one that suits you best.** Someone on Lemmy mentioned Omafiets as a good comfortable option for a bike, take that what you will.
+
 > For the e-bike recommendations, these are just a few good ones that are well-reviewed online. **If you like a different e-bike, that's fine by me.** Other brands probably have good e-bikes too, so be sure to do your research and, ideally, try them out in a local bike shop before you decide to purchase.
+> 
+> **NOTE THAT E-BIKES ARE EXPENSIVE. PLEASE GET A GOOD BIKE LOCK AND DON'T LOSE IT!**
 
 - **e-bike:** Aventon Pace 500 3 *(~~$1799~~ $1599)* / Level 2 *(~~$1899~~ $1599)*
 
