@@ -32,7 +32,7 @@ nav_order: 3
 
 ## Custom Mechanical
 
-*$ varies*
+> Everyone has different preferences for keyboard cases, switches, and keycaps. These are just some popular options recommended by the online reviews I've seen, but you may like other options and that's totally fine!
 
 #### Keyboard
 
@@ -40,16 +40,17 @@ nav_order: 3
 	- **around $100:** Tofu60 *($108)*
 	- **under $150:** QK60 *($145)*
 - **65%** 
-	- **around $100:** KBD67 Lite *($109 for wired, $129 for wireless)*
+	- **around $100:** KBD67 Laite *($109 for wired, $129 for wireless)*
 	- **under $200:** QK65 V2 *($165 to $185 depending on colour)*
 	- **Keychron:** V2 Barebones *(~~$74~~ $64)* / Q2 Max Barebones *($189)*
 - **75%** 
-	- **under $100:** NextTime75 *($59 or $67 depending on colour)* /  Monsgeek M1W V3 *(~~$99~~ $89)* 
+	- **under $100:** NextTime75 *($59 or $67 depending on colour)* / Monsgeek M1W V3 *(~~$99~~ $89)* / Akko 5075B *($59)*
 	- **under $150:** Cidoo V75 Plus VIA kit *($133)*
 	- **under $200:** QK75N *($180 or $195 depending on colour)*
 	- **Keychron:** V1 Barebones *(~~$64~~ $54, ~~$74~~ $64 with knob)* / Q1 Max Barebones *($189)*
 - **TKL**
 	- **under $100:** ?
+	- **under $150:** Nuphy Gem80 *($149 for wired, $169 for tri-mode)*
 	- **around $200:** QK80 MK2 *($199 or $209 depending on colour)*
 	- **Keychron:** V3 Barebones *(~~$74~~ $64)* / Q3 Max Barebones *($194)*
 - **full-size**

@@ -413,7 +413,7 @@ The Framework Desktop is going to be repairable, customisable, and powerful with
 
 ## Dumbphones
 
-- **budget:** Noctua 2760 / TCL Flip 2
+- **budget:** Nokia 2760 / TCL Flip 2
 - **cheaper:** Cat S22 Flip / Qin F21 Pro *(Xiaomi)*
 - **standard:** Kyocera Dura XV Extreme / Sunbeam F1
 - **better:** Kyocera Dura XV Extreme+ / Light Phone II / Kyocera Digno 903KC
