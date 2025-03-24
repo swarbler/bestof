@@ -15,7 +15,7 @@ nav_order: 1
 
 #### Hybrid
 
-- **used options:** A6000 / A6100 / A6300
+- **older options:** A6000 / A6100 / A6300 *(all discontinued, find them used)*
 - **under $1000:** A6400 *(~~$899~~ $748)*
 - **under $1500:** A6700 *($1398)*
 - **over $2000:** A7C II *($2198)* / A7 IV *($2498)*
@@ -55,16 +55,19 @@ nav_order: 1
 
 #### Hybrid
 
+- **older options:** X-T3 *(discontinued, find them used)*
+	- *the X-T2 is also decent*
 - **under $1000:** X-T30 II *($899)*
 - **under $1500:** X-T50 *($1399)*
 - **under $2000:** X-T5 *($1699)*
 
 > The X-M5 *($799)* is comparable to the X-T30 II in image quality but lacks an EVF and is much smaller with a less substantial grip. It also has fewer buttons and dials than the X-T30 II. Since it is newer, however, it has a few more features such as a larger buffer for burst photography and more advanced AF. 
-
->  The X-T4 *(~$1100 used)* can also be a very good deal
+> 
+> The X-T4 *(~$1100 used)* can also be a very good deal
 
 #### Video
 
+- **older options:** X-S10 *(discontinued, find it used)*
 - **under $1500:** X-S20 *($1299)*
 - **under $2500:** X-H2S *($2499)*
 
@@ -91,6 +94,7 @@ nav_order: 1
 
 #### Hybrid
 
+- **older options:** D3000 series *(discontinued, find them used)*
 - **under $1000:** Z50 *($599)* / Z30 *(~~$709~~ $609)*
 - **around $2000:** Z6 III *(~~$2499~~ $2196)* / Zf *(~~$1996~~ $1796)*
 	- *Z6 III is the best price/performance*
