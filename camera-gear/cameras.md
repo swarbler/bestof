@@ -24,14 +24,16 @@ nav_order: 1
 
 - **under $1000:** ZV-E10 *(~$599)*
 - **under $2000:** FX30 *($1599)*
-- **over $3000:** A7S III *(~~$3499~~ $3198)* / FX3 *($3898)*
+- **over $3000:** A7S III *(~~$3499~~ $3198)*
 
-> The ZV-E10 II is overpriced for what it is in my opinion
+> The ZV-E10 II *($998)* is overpriced for what it is in my opinion
+> 
+> The FX3 *($3898)* has the same sensor as the A7S III but has a cinema-focused body, meaning things like no EVF and mounting holes and more video-focused software
 
 #### Photo
 
-- **around $3000:** A7R IV *(~~$3198~~ $2998)*
-- **around $4000:** A7R V *($3898)*
+- **under $3000:** A7R IV *(~~$3198~~ $2998)*
+- **under $4000:** A7R V *($3898)*
 
 ### Panasonic Lumix
 
@@ -46,6 +48,7 @@ nav_order: 1
 
 - **under $1500:** S9 *(~~$1497~~ $1397)*
 - **under $2000:** S5 II *(~~$1999~~ $1497)* or IIX *(~~$2499~~ $2197)*
+- **under $3500:** S1R II *($3297)*
 
 ### Fujifilm
 
@@ -72,9 +75,9 @@ nav_order: 1
 - **under $1000:** R10 *($799)*
 - **under $1500:** R7 *(~~$1499~~ $1399)*
 - **under $2000:** R6 II *(~~$2499~~ $1999)*
+- **under $4000:** R5 II *(~~$4299~~ $3999)*
 
 > Canon R8 *($1299)* is similar to the R7, but is full-frame rather than APS-C
-
 
 #### Video
 
