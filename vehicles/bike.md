@@ -5,19 +5,18 @@ nav_order: 2
 ---
 # Bike
 
-> Bicycles come in all shapes and sizes, **the "best" one is different to everyone.** I have not included recommendations for bicycles, since there are way too many of them. **Ideally find a local bike shop and find one that suits you best.** Someone on Lemmy mentioned Omafiets as a good comfortable option for a bike, take that what you will.
+> Bicycles come in all shapes and sizes, **the "best" one is different to everyone. Ideally find a local bike shop and find one that suits you best.** Someone on Lemmy mentioned Omafiets as a good comfortable option for a bike, take that what you will. Finding bicycles used is also a good way to save money.
 
-> For the e-bike recommendations, these are just a few good ones that are well-reviewed online. **If you like a different e-bike, that's fine by me.** Other brands probably have good e-bikes too, so be sure to do your research and, ideally, try them out in a local bike shop before you decide to purchase.
+> The Aventon e-bikes are well-reviewed online. **If you like a different e-bike, that's fine by me.** Other brands probably have good e-bikes too, so be sure to do your research and, ideally, **try them out in a local bike shop before you decide to purchase.**
 > 
 > **NOTE THAT E-BIKES ARE EXPENSIVE. PLEASE GET A GOOD BIKE LOCK AND DON'T LOSE IT!**
 
-- **e-bike:** Aventon Pace 500 3 *(~~$1799~~ $1599)* / Level 2 *(~~$1899~~ $1599)*
+- **bike:** *100% down to personal preference, the "best" one differs from person to person*
+- **e-bike** 
+	- **under $1500:** *there aren't any, get a regular bike!*
+	- **over $1500:** Aventon Pace 500 3 *(~~$1799~~ $1599)* or Level 2 *(~~$1899~~ $1599)*
 
-> The Aventon Level 3 *($1899)* is $300 more than the Level 2 but comes with more security features such as GPS tracking, auto-lock, etc as well as a sleeker frame. This price difference may be worth it to you.
-
-- **folding e-bike:** Aventon Sinch 2 *($1699)*
-
-> The Aventon Sinch 2.5 *($1799)* is $100 more but is a relatively minor upgrade, bringing hydraulic brakes and a suspension seatpost. The battery and power of the bike remains identical.
+> The Aventon Level 3 *($1899)* is $300 more than the Level 2 but comes with more security features such as GPS tracking, auto-lock, etc as well as a sleeker frame. 
 
 #### Safety
 
