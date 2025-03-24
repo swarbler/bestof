@@ -111,10 +111,8 @@ nav_order: 1
 
 ## Social
 
-- **Mastodon**
-	- **web client:** Elk
-	- **MacOS:** Mammoth
-- **Lemmy:** ?
+- **Mastodon (web client):** Elk
+- **Lemmy (web client):** Alexandrite / Photon
 - **RSS reader** 
 	- **Windows + MacOS:** Fluent Reader
 	- **Linux:** Akregator *(KDE)* / NewsFlash *(GTK4)*

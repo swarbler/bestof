@@ -53,6 +53,7 @@ nav_order: 3
 	- **around $200:** QK80 MK2 *($199 or $209 depending on colour)*
 	- **Keychron:** V3 Barebones *(~~$74~~ $64)* / Q3 Max Barebones *($194)*
 - **full-size**
+	- **under $100:** ?
 	- **under $200:** QK100 *($165 or $175 depending on colour)*
 	- **Keychron:** V6 Barebones *($79)* / Q6 Max Barebones *($199)*
 
