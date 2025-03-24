@@ -24,6 +24,7 @@ nav_order: 1
 
 - **under $1000:** ZV-E10 *(~$599)*
 - **under $2000:** FX30 *($1599)*
+- **over $2000:** ZV-E1 *($2198)*
 - **over $3000:** A7S III *(~~$3499~~ $3198)*
 
 > The ZV-E10 II *($998)* is overpriced for what it is in my opinion
