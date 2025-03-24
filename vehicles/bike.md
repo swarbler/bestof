@@ -13,7 +13,7 @@ nav_order: 2
 
 - **bike:** *100% down to personal preference, the "best" one differs from person to person*
 - **e-bike** 
-	- **under $1500:** *there aren't any, get a regular bike!*
+	- **under $1500:** *there aren't any good options, get a regular bike!*
 	- **over $1500:** Aventon Pace 500 3 *(~~$1799~~ $1599)* or Level 2 *(~~$1899~~ $1599)*
 
 > The Aventon Level 3 *($1899)* is $300 more than the Level 2 but comes with more security features such as GPS tracking, auto-lock, etc as well as a sleeker frame. 
