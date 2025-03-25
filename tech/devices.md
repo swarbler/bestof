@@ -245,6 +245,10 @@ nav_order: 1
 - **compact:** iPhone SE *(1st gen)*
 	- **alternative:** iPhone 5S *(slower processor)*
 
+> The iPhone 15 Pro can be found used for a bit over the price of the 16e, and you get the triple camera system, LTPO 120hz high brightness screen, and MagSafe. 
+> 
+> However, the 16e’s battery life is better than the 15 Pro, and it has a newer processor.
+
 #### Linux
 
 - **standard:** PinePhone
@@ -354,14 +358,19 @@ nav_order: 1
 
 - **under $200:** Galaxy Watch 4 *(discontinued)* or FE *($199)*
 - **under $300:** OnePlus Watch 2 *($299)*
+	- **smaller:** Pixel Watch 2 *(~~$249~~ $199)*
 - **under $350:** OnePlus Watch 3 *($329)*
 	- **smaller:** Pixel Watch 3 *($349 for 41mm)*
 
 > Note that the OnePlus Watch 2 and 3 only comes in one size: 46mm. This may be too big for those with small wrists, hence the Pixel Watch 3 recommendation, which comes in smaller 41mm *($349)* and 45mm *($399)* sizes at the cost of battery life.
 
 > The OnePlus Watch 3 has even better battery life and improved health and sleep tracking over the Watch 2, but there is a small price increase.
+> 
+> The Pixel Watch 2 is a good option as well. The only thing you won’t get with the 2 is the brighter screen and slimmer bezels of the Watch 3.
 
-> The Pixel Watch 2 *($249)* is a good option as well. The only thing you won’t get with the 2 is the brighter screen and slimmer bezels of the Watch 3.
+> If you use a Samsung Galaxy phone, you may prefer to use the Galaxy Watch 7 *($299 for 40mm, $329 for 44mm, cellular is +$50)* or the Watch 6 Classic *(discontinued)* if you prefer a physical dial. Older models may also be worth considering. It is not recommended for non-Galaxy users as a lot of the [functionality](https://gelberhut.com/galaxy-watch-features-which-require-a-samsung-phone/) is unfortunately restricted to Samsung’s Galaxy phones.
+
+
 
 #### watchOS
 
@@ -370,6 +379,13 @@ nav_order: 1
 >  The Series 5 is very similar to the SE, with the only differences being an always-on display + ECG
 
 - **over $300:** Apple Watch Series 10 *($399 for 42mm, $429 for 46mm, cellular is +$100)*
+
+#### PebbleOS
+
+- **B&W screen + plastic body:** Core 2 Duo *($149)*
+- **64 colour screen + metal body:** Core Time 2 *($225)*
+
+> PebbleOS smartwatches have e-paper screens and have 30-day battery life. PebbleOS is also open-source!
 
 #### Cases
 

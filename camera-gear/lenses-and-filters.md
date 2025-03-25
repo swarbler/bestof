@@ -5,6 +5,8 @@ nav_order: 3
 ---
 # Lenses and Filters
 
+$?
+
 *(XXmm)* shows filter thread
 
 ## Full Frame
@@ -13,24 +15,26 @@ nav_order: 3
 
 #### E-mount (Sony)
 
+?
 - **primes**
-	- **cheaper** *(49mm)*
-		- **35mm:** Sony ZEISS Sonnar FE 35mm f2.8 ZA
-		- **50mm:** Sony ZEISS Sonnar FE 55mm f1.8 ZA
-	- **standard:** Sony 35mm *(55mm)* or 50mm *(49mm)* or 85mm *(67mm)* f1.8
+	- **Sony trio:** Sony 35mm *(55mm, $748)* or 50mm *(49mm, $248)* or 85mm *(67mm, $598)* f1.8
+	- **Zeiss duo** *(49mm)*
+		- **35mm:** Sony ZEISS Sonnar FE 35mm f2.8 ZA *($598)*
+		- **50mm:** Sony ZEISS Sonnar FE 55mm f1.8 ZA *($998)*
 	- **compact G trio** *(49mm)*
-		- **24mm:** Sony 24mm f2.8 G
-		- **40mm:** Sony 40mm f2.5 G
-		- **50mm:** Sony 50mm f2.5 G
+		- **24mm:** Sony 24mm f2.8 G *($598)*
+		- **40mm:** Sony 40mm f2.5 G *($598)*
+		- **50mm:** Sony 50mm f2.5 G *($598)*
 	- **ultrawide** 
-		- **standard:** Sony 16mm f1.8 G *(67mm)*
-		- **upgrade:** Sony 14mm f1.4 GM *(no filter thread)*
+		- **standard:** Sony 16mm f1.8 G *(67mm, $798)*
+		- **upgrade:** Sony 14mm f1.8 GM *(no filter thread, $1598)*
 - **zoom** 
-	- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm)*
-	- **compact:** Sony 24-50mm f2.8 G *(67mm)*
+	- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm, $1189)*
+	- **compact:** Sony 24-50mm f2.8 G *(67mm, $1098)*
 
 #### L-mount (Panasonic Lumix)
 
+?
 - **primes** 
 	- **all 67mm filter thread:** Lumix 18/24/35/50/85mm f1.8
 	- **varying filter threads:** Sigma 20/24/35/50/85mm f1.4 DG DN
@@ -39,89 +43,133 @@ nav_order: 3
 
 #### RF mount (Canon)
 
+?
 - **primes**
-	- **standard:** Canon 35mm f1.8 Macro *(52mm)* / 85mm f2 Macro *(67mm)*
-	- **compact:** Canon 16mm f2.8 / 50mm f1.8 *(43mm)*
-	- **pancake:** Canon 28mm f2.8 *(55mm)*
+	- **standard** 
+		- **35mm:** Canon 35mm f1.8 Macro *(52mm, $499)* 
+		- **85mm:** Canon 85mm f2 Macro *(67mm, $599)*
+	- **compact** *(43mm)*
+		- **wide:** Canon 16mm f2.8 *(~~$299~~ $279)*
+		- **50mm:** Canon 50mm f1.8 *($199)*
+	- **pancake:** Canon 28mm f2.8 *(55mm, $299)*
 - **zooms** 
 	- **compact trio** *(77mm)*
-		- **standard:** Canon 24-105mm f4L
-		- **wide:** Canon 14-35mm f4L
-		- **telephoto:** Canon 70-200mm f4L
+		- **standard:** Canon 24-105mm f4L *($1299)*
+		- **wide:** Canon 14-35mm f4L *(~~$1399~~ $1299)*
+		- **telephoto:** Canon 70-200mm f4L *(~~$1599~~ $1499)*
 	- **standard trio**
-		- **standard:** Canon 24-70mm f2.8L  *(82mm)*
-		- **wide:** Canon 15-35mm f2.8L *(82mm)*
-		- **telephoto:** Canon 70-200mm f2.8L *(77mm)*
+		- **standard:** Canon 24-70mm f2.8L  *(82mm, ~~$2399~~ $2199)*
+		- **wide:** Canon 15-35mm f2.8L *(82mm, ~~$2399~~ $2199)*
+		- **telephoto:** Canon 70-200mm f2.8L *(77mm, ~~$2799~~ $2599)*
 
 #### Z-mount (Nikon)
 
 - **primes**
-	- **standard:** Nikon 35/50mm *(62mm)* or 85mm *(67mm)* f1.8S
-	- **brighter apertures:** Nikon 35mm *(67mm)* or 50mm *(62mm)* f1.4
-	- **compact:** Nikon 28mm f2.8 / Nikon 40mm f2 *(52mm)*
+	- **standard trio** 
+		- Nikon 35mm f1.8S *(62mm, ~~$846~~ $696)*
+		- Nikon 50mm f1.8S *(62mm, ~~$626~~ $526)* 
+		- Nikon 85mm f1.8S *(67mm, ~~$796~~ $696)*
+	- **brighter aperture duo** 
+		- Nikon 35mm f1.4 *(67mm, $596)*
+		- Nikon 50mm f1.4 *(62mm, $496)* 
+	- **compact lenses** *(52mm)*
+		- Nikon 28mm f2.8 *(~~$296~~ $226)*
+		- Nikon 40mm f2 *(~~$296~~ $226)*
 - **zooms** 
-	- **standard:** Tamron 28-75mm f2.8 Di III VXD G2 *(67mm)*
-	- **better:** Nikon 24-70mm f2.8 *(77mm)*
-	- **versatile:** Tamron 35-150mm f2-2.8 Di III VXD *(82mm)*
+	- **standard:** Tamron 28-75mm f2.8 Di III VXD G2 *(67mm, ~~$899~~ $699)*
+	- **better:** Nikon 24-70mm f2.8 *(77mm, ~~$2396~~ $1996)*
+	- **superzoom:** Tamron 35-150mm f2-2.8 Di III VXD *(82mm, ~~$1699~~ $1599)*
 
 ## APS-C
 
+*1.5x crop factor*
+
 #### Lenses for All Mounts
 
-- **cheapest:** TTArtisan 23/35/56mm f1.8 *(52mm)*
-- **cheaper:** Viltrox 25/35/56mm f1.7 Air *(52mm)*
-- **better:** Sigma 16mm *(67mm)* or 23/30mm *(52mm)* or 56mm *(55mm)* f1.4 DC DN
-- **portrait:** Viltrox 75mm f1.2 *(77mm)*
-- **pancake:** TTArtisan 27mm f2.8 *(39mm)*
+- **under $150 per lens** *(52mm)*
+	- TTArtisan 23mm f1.8 *($127)*
+	- TTArtisan 35mm f1.8 *($125)*
+	- TTArtisan 56mm f1.8 *($129)*
+- **under $200 per lens** *(52mm)* 
+	- Viltrox 25mm f1.7 Air *($176)*
+	- Viltrox 35mm f1.7 Air *($179)*
+	- Viltrox 56mm f1.7 Air *($180)*
+- **under $600 per lens** 
+	- Sigma 16mm f1.4 DC DN *(67mm, ~~$489~~ $409)* 
+	- Sigma 23mm f1.4 DC DN *(52mm, ~~$599~~ $499)*
+	- Sigma 30mm f1.4 DC DN *(52mm, ~~$369~~ $314)* 
+	- Sigma 56mm f1.4 DC DN *(55mm, ~~$529~~ $479)*
+- **portrait:** Viltrox 75mm f1.2 *(77mm, $580)*
+- **pancake:** TTArtisan 27mm f2.8 *(39mm, $149)*
+- **superzoom:** Sigma 16-300mm f/3.5-6.7 DC OS *($699)*
 
-> Meike 33mm *(52mm)* or 55mm *(58mm)* f1.4 is a bit more expensive than the Viltrox lenses but have a wider aperture
-
-{: .upcoming }
-Sigma has announced the 16-300mm f/3.5-6.7 DC OS, which looks like an ultra versatile zoom lens with a zoom range of 18.8x, the largest in any APS-C mirrorless lens!
+> Meike 33mm *(52mm, $229)* and 55mm *(58mm, $199)* f1.4 is a bit more expensive than the Viltrox lenses but have a wider aperture
 
 #### E-mount (Sony)
 
 - **primes** 
-	- **standard:** Sony 35/50mm f1.8 OSS *(49mm)*
-	- **ultrawide:** Sony 11mm f1.8 *(55mm)*
+	- **standard duo** *(49mm)*
+		- Sony 35mm f1.8 OSS *($473)*
+		- Sony 50mm f1.8 OSS *($348)*
+	- **ultrawide:** Sony 11mm f1.8 *(55mm, $548)*
 
 > The Sony 15mm f1.4 G is a bit better Sigma 16mm f1.4, but is also more expensive
 
 - **zooms**
-	- **standard:** Sigma 18-50mm f2.8 DC DN *(55mm)*
-	- **ultrawide:** Sigma 10-18 mm f2.8 DC DN / Tamron 11-20mm f2.8 Di III-A RXD *(67mm)* 
-	- **small telephoto:** Sony 55-210mm f4.5-6.3
+	- **standard:** Sigma 18-50mm f2.8 DC DN *(55mm, ~~$609~~ $510)*
+	- **ultrawide** *(67mm)* 
+		- Sigma 10-18 mm f2.8 DC DN *(~~$659~~ $569)*
+		- Tamron 11-20mm f2.8 Di III-A RXD *($659)*
+	- **cheap telephoto:** Sony 55-210mm f4.5-6.3 *($298)*
 
 #### X-mount (Fujifilm)
 
 - **primes** 
-	- **standard:** Fuji XC 23/35mm  *(43mm)* or 50mm *(46mm)* f2
-	- **better:** Fuji XF 16/23/35mm f1.4 *(varying filter threads)*
-	- **ultrawide:** Fuji XF 8mm f3.5 *(62mm)*
+	- **standard trio** 
+		- **35mm equivalent:** Fuji XF 23mm f2 *(43mm, $449)* 
+		- **50mm equivalent:** Fuji XC 35mm f2 *(43mm, $199)* or XF 35mm f2 *(43mm, $399)*
+		- **75mm equivalent:** Fuji XC 50mm f2 *(46mm, $449)*
+	- **better** 
+		- **wide:** Fuji XF 16mm f1.4 *(67mm, $999)*
+		- **35mm equivalent:** Fuji XF 23mm f1.4 *(58mm, $899)*
+		- **50mm equivalent:** Fuji XF 35mm f1.4 *(52mm, $599)*
+	- **ultrawide:** Fuji XF 8mm f3.5 *(62mm, $799)*
 
 - **zooms** 
-	- **standard:** Sigma 18-50mm f2.8 DC DN *(55mm)*
-	- **ultrawide:** Sigma 10-18 mm f2.8 DC DN / Tamron 11-20mm f2.8 Di III-A RXD *(67mm)* 
+	- **standard:** Sigma 18-50mm f2.8 DC DN *(55mm, ~~$609~~ $510)*
+	- **ultrawide** *(67mm)* 
+		- Sigma 10-18 mm f2.8 DC DN *(~~$659~~ $569)*
+		- Tamron 11-20mm f2.8 Di III-A RXD *($659)*
 
 #### Z-mount (Nikon)
 
-- **nice compact prime:** Nikon 24mm f1.7 DX *(46mm)*
-- **cheap + versatile zoom:** Nikon Z DX 18-140mm f3.5-6.3 *(62mm)*
+- **nice compact prime:** Nikon DX 24mm f1.7 DX *(46mm, ~~$276~~ $226)*
+- **cheap superzoom:** Nikon DX 18-140mm f3.5-6.3 *(62mm, $636)*
 
 ## M4/3
 
+*2x crop factor*
+
 - **primes**
-	- **standard**
-		- Olympus M.Zuiko 17/25mm *(46mm)* or 45mm *(37mm)* f1.8
-		- *OR* Panasonic Lumix 15/20mm *(46mm)* or 42.5mm *(37mm)* f1.7
-	- **wide:** Panasonic Lumix 9mm f1.7 *(55mm)*
+	- **Olympus trio**
+		- **35mm equivalent:** Olympus M.Zuiko 17mm f1.8 *(46mm, $499)* 
+		- **50mm equivalent:** Olympus M.Zuiko 25mm f1.8 *(46mm, $499)* 
+		- **90mm equivalent:** Olympus M.Zuiko 45mm f1.8 *(37mm, $399)* 
+	- **Panasonic Lumix trio**
+		- **30mm equivalent:** Panasonic Lumix Leica DG 15mm f1.7 *(46mm, $597)*
+		- **40mm equivalent:** Panasonic Lumix 20mm f1.7 *(46mm, ~~$297~~ $267)* 
+		- **85mm equivalent:** Panasonic Lumix 42.5mm f1.7 *(37mm, ~~$397~~ $297)* 
+	- **wide:** Panasonic Lumix Leica DG 9mm f1.7 *(55mm, ~~$497~~ $447)*
 - **zooms**
-	- **standard:** Olympus M.Zuiko 12-45mm f4 Pro / Panasonic Lumix 12-60mm f3.5-5.6 *(58mm)*
+	- **standard**  *(58mm)*
+		- Olympus M.Zuiko 12-45mm f4 Pro *(~~$699~~ $499)*
+		- Panasonic Lumix 12-60mm f3.5-5.6 *($497)*
 	- **pancake:** Panasonic Lumix 12-32mm f3.5-5.6 *(37mm)*
 
 ## Filters
 
+*$ depends on size + type*
 - **filter sets**
 	- **standard:** K&F Concept Nano-X
 	- **magnetic:** K&F Concept Nano-X Magnetic
-- **filter pouch: *(holds 8 filters)*** ThinkTank MindShift Filter Nest
+- **filter pouch (holds 8 filters):** ThinkTank MindShift Filter Nest

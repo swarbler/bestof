@@ -40,13 +40,20 @@ nav_order: 3
 
 - **RSS reader:** NetNewsWire
 - **Mastodon:** Ice Cubes / Mastoot
-- **Lemmy:** Mlem
-- **Pixelfed:** *official app*
-- **YT frontend:** BluePlayer / Yattee
 
 > Toot! looks like really nice Mastadon client with lots of features, but it's a paid app. If you like it, support the dev by purchasing it!
 > 
 > Mammoth looks quite good with a "minimalist" look, but pushes their Mammoth Gold subscription and is a little buggy in my experience.
+
+- **Lemmy:** Mlem
+- **Pixelfed:** *official app* / Impressia
+- **YT frontend:** BluePlayer / Yattee / *Invidious web app* 
+
+> Yattee seems like the most recommended one online, but I couldn’t get it to work. Your mileage may vary. Seems to be feature-rich and has great UI.
+> 
+> BluePlayer seems like a cool project but the UI is difficult to navigate. Very customisable, however. It’s a fun option.
+> 
+> For most people, I would recommend going to your preferred invidious instance, click the share icon, and select “add to home screen” to turn it into a web app.
 
 #### Navigation
 
