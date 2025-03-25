@@ -15,14 +15,17 @@ nav_order: 3
 
 ?
 - **primes**
-	- **Sony trio:** Sony 35mm *(55mm, $748)* or 50mm *(49mm, $248)* or 85mm *(67mm, $598)* f1.8
+	- **Sony trio** 
+		- Sony 35mm f1.8 *(55mm, $748)* 
+		- Sony 50mm f1.8 *(49mm, $248)* 
+		- Sony 85mm f1.8 *(67mm, $598)* 
 	- **Zeiss duo** *(49mm)*
-		- **35mm:** Sony ZEISS Sonnar FE 35mm f2.8 ZA *($598)*
-		- **50mm:** Sony ZEISS Sonnar FE 55mm f1.8 ZA *($998)*
+		- Sony ZEISS Sonnar FE 35mm f2.8 ZA *($598)*
+		- Sony ZEISS Sonnar FE 55mm f1.8 ZA *($998)*
 	- **compact G trio** *(49mm)*
-		- **24mm:** Sony 24mm f2.8 G *($598)*
-		- **40mm:** Sony 40mm f2.5 G *($598)*
-		- **50mm:** Sony 50mm f2.5 G *($598)*
+		- Sony 24mm f2.8 G *($598)*
+		- Sony 40mm f2.5 G *($598)*
+		- Sony 50mm f2.5 G *($598)*
 	- **ultrawide** 
 		- **standard:** Sony 16mm f1.8 G *(67mm, $798)*
 		- **upgrade:** Sony 14mm f1.8 GM *(no filter thread, $1598)*
@@ -44,11 +47,11 @@ nav_order: 3
 ?
 - **primes**
 	- **standard** 
-		- **35mm:** Canon 35mm f1.8 Macro *(52mm, $499)* 
-		- **85mm:** Canon 85mm f2 Macro *(67mm, $599)*
+		- Canon 35mm f1.8 Macro *(52mm, $499)* 
+		- Canon 85mm f2 Macro *(67mm, $599)*
 	- **compact** *(43mm)*
-		- **wide:** Canon 16mm f2.8 *(~~$299~~ $279)*
-		- **50mm:** Canon 50mm f1.8 *($199)*
+		- Canon 16mm f2.8 *(~~$299~~ $279)*
+		- Canon 50mm f1.8 *($199)*
 	- **pancake:** Canon 28mm f2.8 *(55mm, $299)*
 - **zooms** 
 	- **compact trio** *(77mm)*
@@ -124,13 +127,13 @@ nav_order: 3
 
 - **primes** 
 	- **standard trio** 
-		- **35mm equivalent:** Fuji XF 23mm f2 *(43mm, $449)* 
-		- **50mm equivalent:** Fuji XC 35mm f2 *(43mm, $199)* or XF 35mm f2 *(43mm, $399)*
-		- **75mm equivalent:** Fuji XC 50mm f2 *(46mm, $449)*
-	- **better** 
-		- **wide:** Fuji XF 16mm f1.4 *(67mm, $999)*
-		- **35mm equivalent:** Fuji XF 23mm f1.4 *(58mm, $899)*
-		- **50mm equivalent:** Fuji XF 35mm f1.4 *(52mm, $599)*
+		- Fuji XF 23mm f2 *(43mm, $449)* 
+		- Fuji XC 35mm f2 *(43mm, $199)* or XF 35mm f2 *(43mm, $399)*
+		- Fuji XC 50mm f2 *(46mm, $449)*
+	- **better trio** 
+		- Fuji XF 16mm f1.4 *(67mm, $999)*
+		- Fuji XF 23mm f1.4 *(58mm, $899)*
+		- Fuji XF 35mm f1.4 *(52mm, $599)*
 	- **ultrawide:** Fuji XF 8mm f3.5 *(62mm, $799)*
 
 - **zooms** 
@@ -150,13 +153,13 @@ nav_order: 3
 
 - **primes**
 	- **Olympus trio**
-		- **35mm equivalent:** Olympus M.Zuiko 17mm f1.8 *(46mm, $499)* 
-		- **50mm equivalent:** Olympus M.Zuiko 25mm f1.8 *(46mm, $499)* 
-		- **90mm equivalent:** Olympus M.Zuiko 45mm f1.8 *(37mm, $399)* 
+		- Olympus M.Zuiko 17mm f1.8 *(46mm, $499)* 
+		- Olympus M.Zuiko 25mm f1.8 *(46mm, $499)* 
+		- Olympus M.Zuiko 45mm f1.8 *(37mm, $399)* 
 	- **Panasonic Lumix trio**
-		- **30mm equivalent:** Panasonic Lumix Leica DG 15mm f1.7 *(46mm, $597)*
-		- **40mm equivalent:** Panasonic Lumix 20mm f1.7 *(46mm, ~~$297~~ $267)* 
-		- **85mm equivalent:** Panasonic Lumix 42.5mm f1.7 *(37mm, ~~$397~~ $297)* 
+		- Panasonic Lumix 15mm f1.7 *(46mm, $597)*
+		- Panasonic Lumix 20mm f1.7 *(46mm, ~~$297~~ $267)* 
+		- Panasonic Lumix 42.5mm f1.7 *(37mm, ~~$397~~ $297)* 
 	- **wide:** Panasonic Lumix Leica DG 9mm f1.7 *(55mm, ~~$497~~ $447)*
 - **zooms**
 	- **standard**  *(58mm)*
