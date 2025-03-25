@@ -23,6 +23,15 @@ nav_order: 2
 	- **60W:** Leviton T5636 *(~~$79~~ $58)*
 		- **alternative:** Leviton T5836 *(20A A/C outlets)*
 
+#### Wireless Chargers
+
+- **magnetic charging puck:** Apple MagSafe 25W *($39 for 1m, $49 for 2m)* / Belkin *(with metal kickstand, $49 for 2m)*
+- **magnetic stand:** Anker MagGo *(~~$35~~ $30)*
+	- **convertible:** Belkin BoostCharge Pro *($59)* 
+- **2-in-1 magnetic stand:** Anker MagGo *(~~$49~~ $37)* / ESR HaloLock *(~~$69~~ $49)* / Ugreen MagFlow *($49)* / Belkin BoostCharge *($49)*
+
+> Another option for a magnetic stand/dock is to 3D print your own!
+
 #### Plug Adapters
 
 - **travel adapter set:** [Ceptics](https://www.amazon.com/dp/B00E0P2GLM) *($10)*

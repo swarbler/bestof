@@ -5,8 +5,6 @@ nav_order: 3
 ---
 # Lenses and Filters
 
-$?
-
 *(XXmm)* shows filter thread
 
 ## Full Frame

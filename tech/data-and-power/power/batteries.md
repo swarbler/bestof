@@ -14,7 +14,7 @@ nav_order: 1
 - **fast charging** 
 	- **standard:** Anker 737 24,000mAh *(~~$149~~ $105)*
 	- **better:** Anker Prime 27,650mAh *($179)*
-- **magnetic:** Anker MagGo Qi2 5K Slim *($49)* or 10K Slim *($74)*
+- **magnetic:** Anker MagGo Qi2 5K Slim *($49)* / OnePlus Slim 5000mAh *($69)*
 
 #### Power Stations
 

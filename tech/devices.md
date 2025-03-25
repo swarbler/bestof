@@ -16,6 +16,11 @@ nav_order: 1
 
 > The best budget laptops are used laptops, such as old ThinkPads. Alternatively, look for a really good sale on a laptop with decent specs
 
+- **cheaper:** HP Pavillon Aero 13
+	- *Ryzen 5 8640U*
+	- **screen:** *13” 60hz IPS*
+	- **ports:** *2x USB-C 10Gbps, 2x USB-A 5Gbps, HDMI 2.1, audio jack*
+	- **memory + storage:** *up to 16GB + 1TB* 
 - **everyday** 
 	- **ARM:** Surface Laptop 7 / Yoga Slim 7x / Zenbook A14
 		- *Snapdragon X series*
@@ -76,7 +81,11 @@ nav_order: 1
 			- **ports:** *2x USB-C 40Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 2TB*
 
-> The ThinkPad X1 Carbon Gen 13 has Intel's Lunar Lake processors and has great build quality, battery life, and an amazing keyboard. However, it is much more expensive than other options. 
+> The ThinkPad X1 Carbon Gen 13 has Intel's Lunar Lake processors and has great build quality, battery life, and an amazing keyboard. However, it is significantly more expensive than other options!
+
+> The Dell XPS 13 AI looks promising. Excellent battery life with a Snapdragon processor, a haptic trackpad, and a beautiful design that suits the XPS lineup.
+> 
+> However, the keyboard is edge-to-edge and isn’t fun to type on, the trackpad is “invisible”, the function keys are capacitive (touch) rather than physical, and it has HORRIBLE ports, even worse than the Yoga Slim 7x with only TWO USB-C ports! I do jot recommend the XPS 13 due to these issues, especially given the price.
 
 - **powerful:** Legion Pro 5/5i or 7i *(Gen 10)* / ROG Zephyrus G14/16 *(2025)*
 	- ***summary:***
@@ -354,18 +363,29 @@ nav_order: 1
 
 ## Smartwatches
 
+> If you are on a budget, the Amazfit smartwatches are decent for the price. Good options include the Amazfit Bip 5 *(~~$89~~ $59)*, Bip 5 Unity *(~~$69~~ $49)*, and GTR Mini *(~~$99~~ $69)*
+> 
+> Going used may also be an option if you are on a budget, such as the Fossil Gen 5, the Pixel Watch 1, and older Galaxy Watches. However, note that used smartwatches often have degraded batteries resulting in worse battery life.
+
+> Note that Garmin smartwatches are not included as they are more focused on fitness tracking rather than the smartwatch bit. If you do want a Garmin smartwatch, good options include the viv
+
 #### WearOS
 
-- **under $200:** Galaxy Watch 4 *(discontinued)* or FE *($199)*
-- **under $300:** OnePlus Watch 2 *($299)*
-	- **smaller:** Pixel Watch 2 *(~~$249~~ $199)*
-- **under $350:** OnePlus Watch 3 *($329)*
-	- **smaller:** Pixel Watch 3 *($349 for 41mm)*
+- **under $200:** OnePlus Watch 2R *(~~$229~~ $179 for 46mm)*
+	- **smaller:** Pixel Watch 2 *(~~$249~~ $199 for 41mm)*
+- **under $350:** OnePlus Watch 3 *($329 for 46mm)*
+	- **smaller:** Pixel Watch 3 *($349 for 41mm, $399 for 45mm)*
 
-> Note that the OnePlus Watch 2 and 3 only comes in one size: 46mm. This may be too big for those with small wrists, hence the Pixel Watch 3 recommendation, which comes in smaller 41mm *($349)* and 45mm *($399)* sizes at the cost of battery life.
-
-> The OnePlus Watch 3 has even better battery life and improved health and sleep tracking over the Watch 2, but there is a small price increase.
+> The OnePlus Watches are recommended as they have impressive multi-day battery life, far exceeding other WearOS watches. 
 > 
+> Note that the OnePlus Watch 2/2R and 3 only comes in one size: 46mm. This may be too big for those with small wrists, hence the Pixel Watch 3 recommendation, which comes in smaller 41mm *($349)* and 45mm *($399)* sizes at the cost of battery life.
+
+> The OnePlus Watch 3 has even better battery life and improved health and sleep tracking over the Watch 2/2R, but it is more expensive.
+> 
+> The OnePlus Watch 2R is a cheaper version of the Watch 2 *(~~$299~~ $209)* using an aluminium body rather than stainless steel, but is otherwise the same. This also makes it a bit lighter. The Watch 2R is a better value compared to the 2.
+> 
+> The Oppo Watch X2 has the same specs as the OnePlus Watch 3, but has a different design with a beautiful blue colour and an indented bezel. It is a bit more expensive, however. If you do purchase this over the OP Watch 3, be sure to get the global version, as the Chinese version runs ColorOS rather than WearOS!
+
 > The Pixel Watch 2 is a good option as well. The only thing you won’t get with the 2 is the brighter screen and slimmer bezels of the Watch 3.
 
 > If you use a Samsung Galaxy phone, you may prefer to use the Galaxy Watch 7 *($299 for 40mm, $329 for 44mm, cellular is +$50)* or the Watch 6 Classic *(discontinued)* if you prefer a physical dial. Older models may also be worth considering. It is not recommended for non-Galaxy users as a lot of the [functionality](https://gelberhut.com/galaxy-watch-features-which-require-a-samsung-phone/) is unfortunately restricted to Samsung’s Galaxy phones.
