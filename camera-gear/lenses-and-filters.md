@@ -152,20 +152,33 @@ nav_order: 3
 *2x crop factor*
 
 - **primes**
-	- **Olympus trio**
-		- Olympus M.Zuiko 17mm f1.8 *(46mm, $499)* 
-		- Olympus M.Zuiko 25mm f1.8 *(46mm, $499)* 
-		- Olympus M.Zuiko 45mm f1.8 *(37mm, $399)* 
-	- **Panasonic Lumix trio**
-		- Panasonic Lumix 15mm f1.7 *(46mm, $597)*
-		- Panasonic Lumix 20mm f1.7 *(46mm, ~~$297~~ $267)* 
-		- Panasonic Lumix 42.5mm f1.7 *(37mm, ~~$397~~ $297)* 
-	- **wide:** Panasonic Lumix Leica DG 9mm f1.7 *(55mm, ~~$497~~ $447)*
+	- **35mm equivalent** 
+		- Olympus 17mm f1.8 *(46mm, $499)* 
+		- Panasonic Leica 15mm f1.7 *(46mm, $597)*
+	- **40mm equivalent:** Panasonic 20mm f1.7 II *(46mm, ~~$297~~ $267)*
+	- **50mm equivalent** 
+		- Panasonic 25mm f1.7 *(46mm, ~~$247~~ $147)* 
+		- Olympus 25mm f1.8 *(46mm, $499)* 
+		- Panasonic Leica 25mm f1.4 II *(46mm, $697)*
+	- **85mm equivalent** 
+		- Panasonic 42.5mm f1.7 *(37mm, ~~$397~~ $297)* 
+		- Olympus 45mm f1.8 *(37mm, $399)* 
+		- Panasonic Leica 42.5mm f1.2 *(67mm, ~~$1597~~ $1297)*
+	- **portraits:** Olympus 75mm f1.8 *(58mm, ~~$899~~ $699)*
+	- **wide:** Panasonic Leica DG 9mm f1.7 *(55mm, ~~$497~~ $447)*
+	- **macro:** Olympus 60mm f2.8 *(46mm, ~~$549~~ $399)*
+	- **pancake:** Panasonic 14mm f2.5 *(discontinued, find it used)*
+
+> The DJI 15mm f1.7 is a rebrand of the Panasonic 15mm f1.7 for a bit cheaper. Note that 15mm is equivalent to 30mm, a bit wider than 35mm.
+> 
+> Also, the 45mm Olympus lens is equivalent to 90mm, a bit more zoomed in than 85mm.
+
 - **zooms**
-	- **standard**  *(58mm)*
-		- Olympus M.Zuiko 12-45mm f4 Pro *(~~$699~~ $499)*
-		- Panasonic Lumix 12-60mm f3.5-5.6 *($497)*
-	- **pancake:** Panasonic Lumix 12-32mm f3.5-5.6 *(37mm)*
+	- **standard:** Olympus 12-45mm f4 Pro *(58mm, ~~$699~~ $499)*
+		- **brighter aperture:** Olympus 12-40mm f2.8 Pro II *(62mm, ~~$999~~ $799)*
+	- **telephoto:** Panasonic 35-100mm f/4-5.6 *(46mm, $397)*
+		- **brighter aperture:** Panasonic 35-100mm f2.8 *(58mm, ~~$1147~~ $947)*
+	- **superzoom:** Panasonic 14-140mm f3.5-5.6 II *(58mm, ~~$597~~ $497)*
 
 ## Filters
 
