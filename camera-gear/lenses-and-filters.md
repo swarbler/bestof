@@ -13,9 +13,8 @@ nav_order: 3
 
 #### E-mount (Sony)
 
-?
 - **primes**
-	- **Sony trio** 
+	- **standard trio** 
 		- Sony 35mm f1.8 *(55mm, $748)* 
 		- Sony 50mm f1.8 *(49mm, $248)* 
 		- Sony 85mm f1.8 *(67mm, $598)* 
@@ -26,11 +25,20 @@ nav_order: 3
 		- Sony 24mm f2.8 G *($598)*
 		- Sony 40mm f2.5 G *($598)*
 		- Sony 50mm f2.5 G *($598)*
+	- **GM trio**
+		- Sony 35mm f1.4 GM *(67mm, $1398)*
+		- Sony 50mm f1.4 GM *(67mm, $1298)*
+		- Sony 85mm f1.4 GM II *(77mm, $1798)*
 	- **ultrawide** 
 		- **standard:** Sony 16mm f1.8 G *(67mm, $798)*
 		- **upgrade:** Sony 14mm f1.8 GM *(no filter thread, $1598)*
 - **zoom** 
-	- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm, $1189)*
+	- **Sigma duo**
+		- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm, $1189)*
+		- **telephoto:** ?
+	- **GM duo**
+		- **standard:** ?
+		- **telephoto:** ?
 	- **compact:** Sony 24-50mm f2.8 G *(67mm, $1098)*
 
 #### L-mount (Panasonic Lumix)
@@ -117,11 +125,15 @@ nav_order: 3
 > The Sony 15mm f1.4 G is a bit better Sigma 16mm f1.4, but is also more expensive
 
 - **zooms**
-	- **standard:** Sigma 18-50mm f2.8 DC DN *(55mm, ~~$609~~ $510)*
+	- **standard** 
+		- Sigma 18-50mm f2.8 DC DN *(55mm, ~~$609~~ $510)*
+		- Tamron 17-70mm f2.8 Di III-A VC RXD *(67mm, ~~$699~~ $649)*
 	- **ultrawide** *(67mm)* 
 		- Sigma 10-18 mm f2.8 DC DN *(~~$659~~ $569)*
 		- Tamron 11-20mm f2.8 Di III-A RXD *($659)*
 	- **cheap telephoto:** Sony 55-210mm f4.5-6.3 *($298)*
+
+> The Tamron 17-70mm is larger and more expensive than the Sigma 18-50mm, but has a longer range making it more versatile.
 
 #### X-mount (Fujifilm)
 
