@@ -7,10 +7,17 @@ nav_order: 3
 
 - **browser** 
 	- **standard:** *Safari* 
-	- **more features:** Orion by Kagi 
-		- *Chrome and Firefox extension support + customisable Safari-like gestures*
+	- **extension support:** Orion by Kagi
 	- **more customisable:** SnowHaze
-		- *the browser with the most settings to be customised I've seen on iOS!*
+
+> As Apple does not allow browsers to use engines other than WebKit, most browsers on iOS are effectively reskins of Safari. If you like the look of other iOS browsers, be noted that they all use WebKit under the hood and most do not support extensions.
+> 
+> Firefox (and Firefox Focus) are both options if you want Firefox Sync but don't offer many additional features over Safari and lacks extension support.
+> 
+> I have recommended Orion as an option as it, like Firefox Focus, has a built-in content blocker. It uniquely supports both Chrome and Firefox extensions, and in my opinion, is a pretty decent browser overall.
+> 
+> SnowHaze is also recommended as it seems like an excellent browser for iOS. it has numerous security and privacy settings and includes a content blocker. However, it does not feature extension support.
+
 - **email client:** Apple Mail *(or wait for Thunderbird for iOS)*
 
 #### Photos
@@ -18,9 +25,10 @@ nav_order: 3
 - **camera app**
 	- **standard:** *Camera*
 	- **better:** Halide *(paid)*
-		- **alternative:** Obscura
 - **image gallery:** *Photos* 
 - **photo editor:** Darkroom
+
+> If you want a more advanced camera app, my pick for a free option would be to use Obscura. Most features are available in the free version, and the only major feature you are missing is video recording.
 
 #### Audio
 
@@ -84,6 +92,5 @@ nav_order: 3
 - **dialer:** *Phone*
 - **contacts:** *Contacts*
 - **SMS messenger:** *iMessage*
-- **file manager:** FE File Explorer Pro *(paid)* / FileBrowser *(paid)* / Owlfiles *(free)*
-	- **alternative:** Documents by Readdle
+- **file manager:** Documents by Readdle / FE File Explorer Pro *(paid)* / FileBrowser *(paid)* / Owlfiles
 - **QR codes:** Qewie
