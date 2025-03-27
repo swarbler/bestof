@@ -32,6 +32,7 @@ nav_order: 3
 	- **wide** 
 		- **standard:** Sony 16mm f1.8 G *(67mm, $798)*
 		- **upgrade:** Sony 14mm f1.8 GM *(no filter thread, $1598)*
+	- **macro:** Sony 90mm f2.8 G *(62mm, $1098)*
 - **zoom** 
 	- **Sigma duo**
 		- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm, $1189)*
@@ -144,10 +145,8 @@ nav_order: 3
 	- **standard duo** *(49mm)*
 		- Sony 35mm f1.8 OSS *($473)*
 		- Sony 50mm f1.8 OSS *($348)*
-	- **wide:** Sony 11mm f1.8 *(55mm, $548)*
-
-> The Sony 15mm f1.4 G is a bit better Sigma 16mm f1.4, but is also more expensive
-
+	- **wide:** Sony 11mm f1.8 *(55mm, $548)* or 15mm f1.4 G *(55mm $748)*
+	- **pancake:** Sony 20mm f2.8 *(49mm, $348)*
 - **zooms**
 	- **standard** 
 		- Sigma 18-50mm f2.8 DC DN *(55mm, ~~$609~~ $510)*
