@@ -29,16 +29,16 @@ nav_order: 3
 		- Sony 35mm f1.4 GM *(67mm, $1398)*
 		- Sony 50mm f1.4 GM *(67mm, $1298)*
 		- Sony 85mm f1.4 GM II *(77mm, $1798)*
-	- **ultrawide** 
+	- **wide** 
 		- **standard:** Sony 16mm f1.8 G *(67mm, $798)*
 		- **upgrade:** Sony 14mm f1.8 GM *(no filter thread, $1598)*
 - **zoom** 
 	- **Sigma duo**
 		- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm, $1189)*
-		- **telephoto:** ?
+		- **telephoto:** Sigma 70-200mm f2.8 DG DN *(77mm, $1489)*
 	- **GM duo**
-		- **standard:** ?
-		- **telephoto:** ?
+		- **standard:** Sony 24-70mm f2.8 GM I *(82mm, $1698)* or GM II *(82mm, $2298)*
+		- **telephoto:** Sony 70-200mm f2.8 GM I *(77mm, $1998)* or GM II *(77mm, $2798)*
 	- **compact:** Sony 24-50mm f2.8 G *(67mm, $1098)*
 
 #### L-mount (Panasonic Lumix)
@@ -54,7 +54,6 @@ nav_order: 3
 
 #### RF mount (Canon)
 
-?
 - **primes**
 	- **standard trio** 
 		- Canon 35mm f1.8 Macro *(52mm, $499)* 
@@ -64,7 +63,7 @@ nav_order: 3
 		- Canon 50mm f1.2 L *(77mm, ~~$2299~~ $2199)*
 		- Canon 85mm f1.2 L *(82mm, $2799)*
 	- **wide:** Canon 16mm f2.8 *(43mm, ~~$299~~ $279)*
-	- **macro:** Canon 100mm f/2.8 L
+	- **macro:** Canon 100mm f2.8 L *(67mm, $1199)*
 	- **pancake:** Canon 28mm f2.8 *(55mm, $299)*
 - **zooms** 
 	- **compact trio** *(77mm)*
@@ -76,9 +75,9 @@ nav_order: 3
 		- **wide:** Canon 15-35mm f2.8 L *(82mm, ~~$2399~~ $2199)*
 		- **telephoto:** Canon 70-200mm f2.8 L *(77mm, ~~$2799~~ $2599)*
 	- **upgrade trio**
-		- **standard:** Canon 24-105mm f2.8 L
-		- **wide:** Canon 15-35mm f2.8 L
-		- **telephoto:** Canon 100-300mm f2.8 L
+		- **standard:** Canon 24-105mm f2.8 L *(82mm, $2999)*
+		- **wide:** Canon 15-35mm f2.8 L *(82mm, ~~$2399~~ $2199)*
+		- **telephoto:** Canon 100-300mm f2.8 L *(112mm, $9499)*
 
 #### Z-mount (Nikon)
 
@@ -93,7 +92,7 @@ nav_order: 3
 	- **compact lenses** *(52mm)*
 		- Nikon 28mm f2.8 *(~~$296~~ $226)*
 		- Nikon 40mm f2 *(~~$296~~ $226)*
-- **zooms** 
+- **zooms** ?
 	- **standard:** Tamron 28-75mm f2.8 Di III VXD G2 *(67mm, ~~$899~~ $699)*
 	- **better:** Nikon 24-70mm f2.8 *(77mm, ~~$2396~~ $1996)*
 	- **superzoom:** Tamron 35-150mm f2-2.8 Di III VXD *(82mm, ~~$1699~~ $1599)*
@@ -129,7 +128,7 @@ nav_order: 3
 	- **standard duo** *(49mm)*
 		- Sony 35mm f1.8 OSS *($473)*
 		- Sony 50mm f1.8 OSS *($348)*
-	- **ultrawide:** Sony 11mm f1.8 *(55mm, $548)*
+	- **wide:** Sony 11mm f1.8 *(55mm, $548)*
 
 > The Sony 15mm f1.4 G is a bit better Sigma 16mm f1.4, but is also more expensive
 
@@ -137,7 +136,7 @@ nav_order: 3
 	- **standard** 
 		- Sigma 18-50mm f2.8 DC DN *(55mm, ~~$609~~ $510)*
 		- Tamron 17-70mm f2.8 Di III-A VC RXD *(67mm, ~~$699~~ $649)*
-	- **ultrawide** *(67mm)* 
+	- **wide** *(67mm)* 
 		- Sigma 10-18 mm f2.8 DC DN *(~~$659~~ $569)*
 		- Tamron 11-20mm f2.8 Di III-A RXD *($659)*
 	- **cheap telephoto:** Sony 55-210mm f4.5-6.3 *($298)*
@@ -151,15 +150,16 @@ nav_order: 3
 		- Fuji XF 23mm f2 *(43mm, $449)* 
 		- Fuji XC 35mm f2 *(43mm, $199)* or XF 35mm f2 *(43mm, $399)*
 		- Fuji XC 50mm f2 *(46mm, $449)*
-	- **better trio** 
+	- **upgrade trio** 
 		- Fuji XF 16mm f1.4 *(67mm, $999)*
 		- Fuji XF 23mm f1.4 *(58mm, $899)*
 		- Fuji XF 35mm f1.4 *(52mm, $599)*
-	- **ultrawide:** Fuji XF 8mm f3.5 *(62mm, $799)*
-
+	- **wide:** Fuji XF 8mm f3.5 *(62mm, $799)*
+	- **macro:** Fuji XF 60mm f2.4 *(39mm, $649)* or 80mm f2.8 *(62mm, $1199)*
+	- **pancake:** Fuji 18mm f2 *(52mm, $599)* or 27mm f2.8 *(39mm, $399)*
 - **zooms** 
 	- **standard:** Sigma 18-50mm f2.8 DC DN *(55mm, ~~$609~~ $510)*
-	- **ultrawide** *(67mm)* 
+	- **wide** *(67mm)* 
 		- Sigma 10-18 mm f2.8 DC DN *(~~$659~~ $569)*
 		- Tamron 11-20mm f2.8 Di III-A RXD *($659)*
 
