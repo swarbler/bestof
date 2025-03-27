@@ -78,15 +78,15 @@ nav_order: 3
 	- **macro:** Canon 100mm f2.8 L *(67mm, $1199)*
 	- **pancake:** Canon 28mm f2.8 *(55mm, $299)*
 - **zooms** 
-	- **compact trio** *(77mm)*
+	- **compact trinity** *(77mm)*
 		- **standard:** Canon 24-105mm f4L *($1299)*
 		- **wide:** Canon 14-35mm f4L *(~~$1399~~ $1299)*
 		- **telephoto:** Canon 70-200mm f4L *(~~$1599~~ $1499)*
-	- **standard trio**
+	- **standard trinity**
 		- **standard:** Canon 24-70mm f2.8 L  *(82mm, ~~$2399~~ $2199)*
 		- **wide:** Canon 15-35mm f2.8 L *(82mm, ~~$2399~~ $2199)*
 		- **telephoto:** Canon 70-200mm f2.8 L *(77mm, ~~$2799~~ $2599)*
-	- **upgrade trio**
+	- **upgrade trinity**
 		- **standard:** Canon 24-105mm f2.8 L *(82mm, $2999)*
 		- **wide:** Canon 15-35mm f2.8 L *(82mm, ~~$2399~~ $2199)*
 		- **telephoto:** Canon 100-300mm f2.8 L *(112mm, $9499)*
@@ -94,7 +94,7 @@ nav_order: 3
 #### Z-mount (Nikon)
 
 - **primes**
-	- **standard trio** 
+	- **standard trinity** 
 		- Nikon 35mm f1.8S *(62mm, ~~$846~~ $696)*
 		- Nikon 50mm f1.8S *(62mm, ~~$626~~ $526)* 
 		- Nikon 85mm f1.8S *(67mm, ~~$796~~ $696)*
@@ -104,10 +104,12 @@ nav_order: 3
 	- **compact lenses** *(52mm)*
 		- Nikon 28mm f2.8 *(~~$296~~ $226)*
 		- Nikon 40mm f2 *(~~$296~~ $226)*
-- **zooms** ?
-	- **standard:** Tamron 28-75mm f2.8 Di III VXD G2 *(67mm, ~~$899~~ $699)*
-	- **better:** Nikon 24-70mm f2.8 *(77mm, ~~$2396~~ $1996)*
-	- **superzoom:** Tamron 35-150mm f2-2.8 Di III VXD *(82mm, ~~$1699~~ $1599)*
+- **zooms** 
+	- **standard:** Nikon 24-120mm f4 *(77mm, $1096)* / Tamron 28-75mm f2.8 Di III VXD G2 *(67mm, ~~$899~~ $699)* 
+	- **upgrade trinity**
+		- **standard:** Nikon 24-70mm f2.8 *(77mm, ~~$2396~~ $1996)*
+		- **wide:** Nikon 14-24mm f2.8 *(112mm, ~~$2496~~ $1996)*
+		- **telephoto:** Nikon 70-200mm f2.8 *(77mm, ~~$2696~~ $2196)*
 
 ## APS-C
 
