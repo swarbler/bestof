@@ -104,6 +104,8 @@ nav_order: 3
 	- **compact lenses** *(52mm)*
 		- Nikon 28mm f2.8 *(~~$296~~ $226)*
 		- Nikon 40mm f2 *(~~$296~~ $226)*
+	- **macro:** Nikon 105mm f2.8 *(62mm, ~~$1046~~ $846)*
+	- **pancake:** Nikon 26mm f2.8 *(52mm, ~~$496~~ $396)*
 - **zooms** 
 	- **standard:** Nikon 24-120mm f4 *(77mm, $1096)* / Tamron 28-75mm f2.8 Di III VXD G2 *(67mm, ~~$899~~ $699)* 
 	- **upgrade trinity**
