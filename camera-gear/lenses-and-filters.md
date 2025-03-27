@@ -43,14 +43,26 @@ nav_order: 3
 
 #### L-mount (Panasonic Lumix)
 
-?
 - **primes** 
-	- **all 67mm filter thread:** Lumix 18/24/35/50/85mm f1.8
-	- **varying filter threads:** Sigma 20/24/35/50/85mm f1.4 DG DN
-		- **more compact:** Sigma 20/24/35/50/65mm f2 DG DN
+	- **Panasonic quartet** *(67mm)*
+		- Panasonic 24mm f1.8 *(~~$897~~ $697)*
+		- Panasonic 35mm f1.8 *(~~$697~~ $597)*
+		- Panasonic 50mm f1.8 *(~~$447~~ $247)*
+		- Panasonic 85mm f1.8 *(~~$597~~ $397)*
+	- **Sigma f2 trio**
+		- Sigma 24mm f2 DG DN *(62mm, $639)*
+		- Sigma 35mm f2 DG DN *(58mm, $639)*
+		- Sigma 50mm f2 DG DN *(58mm, $639)*
+	- **Sigma f1.4 quartet**
+		- Sigma 24mm f1.4 DG DN *(72mm, $799)*
+		- Sigma 35mm f1.4 DG DN *(67mm, $799)*
+		- Sigma 50mm f1.4 DG DN  *(72mm, $889)*
+		- Sigma 85mm f1.4 DG DN  *(77mm, ~~$1199~~ $1099)*
+	- **wide:** Panasonic 18mm f1.8 *(67mm, ~~$997~~ $897)*
+	- **macro:** Panasonic 100mm f2.8 Macro *(67mm, ~~$997~~ $797)*
 - **zooms** 
 	- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm, $1189)*
-	- **telephoto:** ?
+	- **telephoto:** Sigma 70-200mm f2.8 DG DN *(77mm, $1499)*
 
 #### RF mount (Canon)
 
