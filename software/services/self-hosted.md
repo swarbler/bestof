@@ -38,6 +38,7 @@ nav_order: 2
 
 - **RSS feed:** RSSHub / RSS-Bridge
 - **music:** Navidrome
+- **Y**
 - **e-books:** Calibre / Kavita / Readarr
 
 #### Social

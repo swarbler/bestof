@@ -48,18 +48,23 @@ nav_order: 3
 	- **all 67mm filter thread:** Lumix 18/24/35/50/85mm f1.8
 	- **varying filter threads:** Sigma 20/24/35/50/85mm f1.4 DG DN
 		- **more compact:** Sigma 20/24/35/50/65mm f2 DG DN
-- **zooms:** Sigma 24-70mm f2.8 DG DN *(67mm)*
+- **zooms** 
+	- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm, $1189)*
+	- **telephoto:** ?
 
 #### RF mount (Canon)
 
 ?
 - **primes**
-	- **standard** 
+	- **standard trio** 
 		- Canon 35mm f1.8 Macro *(52mm, $499)* 
+		- Canon 50mm f1.8 *(43mm, $199)*
 		- Canon 85mm f2 Macro *(67mm, $599)*
-	- **compact** *(43mm)*
-		- Canon 16mm f2.8 *(~~$299~~ $279)*
-		- Canon 50mm f1.8 *($199)*
+	- **brighter aperture duo**
+		- Canon 50mm f1.2 L *(77mm, ~~$2299~~ $2199)*
+		- Canon 85mm f1.2 L *(82mm, $2799)*
+	- **wide:** Canon 16mm f2.8 *(43mm, ~~$299~~ $279)*
+	- **macro:** Canon 100mm f/2.8 L
 	- **pancake:** Canon 28mm f2.8 *(55mm, $299)*
 - **zooms** 
 	- **compact trio** *(77mm)*
@@ -67,9 +72,13 @@ nav_order: 3
 		- **wide:** Canon 14-35mm f4L *(~~$1399~~ $1299)*
 		- **telephoto:** Canon 70-200mm f4L *(~~$1599~~ $1499)*
 	- **standard trio**
-		- **standard:** Canon 24-70mm f2.8L  *(82mm, ~~$2399~~ $2199)*
-		- **wide:** Canon 15-35mm f2.8L *(82mm, ~~$2399~~ $2199)*
-		- **telephoto:** Canon 70-200mm f2.8L *(77mm, ~~$2799~~ $2599)*
+		- **standard:** Canon 24-70mm f2.8 L  *(82mm, ~~$2399~~ $2199)*
+		- **wide:** Canon 15-35mm f2.8 L *(82mm, ~~$2399~~ $2199)*
+		- **telephoto:** Canon 70-200mm f2.8 L *(77mm, ~~$2799~~ $2599)*
+	- **upgrade trio**
+		- **standard:** Canon 24-105mm f2.8 L
+		- **wide:** Canon 15-35mm f2.8 L
+		- **telephoto:** Canon 100-300mm f2.8 L
 
 #### Z-mount (Nikon)
 
