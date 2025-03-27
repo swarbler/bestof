@@ -181,8 +181,12 @@ nav_order: 3
 
 #### Z-mount (Nikon)
 
-- **nice compact prime:** Nikon DX 24mm f1.7 DX *(46mm, ~~$276~~ $226)*
-- **cheap superzoom:** Nikon DX 18-140mm f3.5-6.3 *(62mm, $636)*
+- **prime:** Nikon DX 24mm f1.7 *(46mm, ~~$276~~ $226)*
+- **zooms**
+	- **standard:** Nikon DX 16-50mm f3.5-6.3 *(46mm, $306)*
+	- **superzoom:** Nikon DX 18-140mm f3.5-6.3 *(62mm, $636)*
+
+> Note that there are very few options when it comes to Nikon DX lenses
 
 ## M4/3
 
