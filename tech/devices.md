@@ -126,11 +126,18 @@ nav_order: 1
 	- **standard:** Framework Laptop 13 *(Core Ultra Series 1 / Ryzen 7040 series)*
 	- **more powerful:** Framework Laptop 16 *(Ryzen 7040 series)*
 		- *modular GPU (RX 7700S)*
-- **2-in-1:** HP OmniBook Ultra Flip *(haptic touchpad)*
-	- *Core Ultra 7 256V*
-	- **screen:** *14" 16:10 120hz OLED touchscreen*
-	- **ports:** *2x USB-C 40Gbps + USB-C 10Gbps + audio jack*
-	- **memory + storage:** *16GB + 1TB*
+- **2-in-1:** HP OmniBook Ultra Flip 14
+	- *Core Ultra 7 256V or 258V*
+	- **OmniBook Ultra Flip 14**
+		- **screen:** *14" 16:10 120hz OLED touchscreen*
+		- **ports:** *2x USB-C 40Gbps + USB-C 10Gbps + audio jack*
+		- **memory + storage:** *16GB + 1TB*
+	- **Yoga 7i 2-in-1 14 or 16**
+		- **screen:** *14” or 16” 16:10 120hz OLED touchscreen*
+		- **ports:** *2x 40Gbps USB-C + USB-A 5Gbps + HDMI 1.4b + audio jack + microSD card reader*
+		- **memory + storage:** *up to 32GB + 1TB*
+	- **Yoga 9i 2-in-1**
+		- **s**
 
 {: .upcoming }
 > Framework Laptop 13 with Ryzen 9 AI 300 series

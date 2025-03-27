@@ -18,13 +18,16 @@ nav_order: 3
 		- Sony 35mm f1.8 *(55mm, $748)* 
 		- Sony 50mm f1.8 *(49mm, $248)* 
 		- Sony 85mm f1.8 *(67mm, $598)* 
-	- **Zeiss duo** *(49mm)*
-		- Sony ZEISS Sonnar FE 35mm f2.8 ZA *($598)*
-		- Sony ZEISS Sonnar FE 55mm f1.8 ZA *($998)*
+	- **Zeiss Sonnar duo** *(49mm)*
+		- Sony Sonnar T* 35mm f2.8 ZA *($598)*
+		- Sony Sonnar T* 55mm f1.8 ZA *($998)*
 	- **compact G trio** *(49mm)*
 		- Sony 24mm f2.8 G *($598)*
 		- Sony 40mm f2.5 G *($598)*
 		- Sony 50mm f2.5 G *($598)*
+	- **Zeiss Batis duo** *(67mm)*
+		- Zeiss Batis 25mm f2 *($1349)*
+		- Zeiss Batis 85mm f1.8 *($1249)*
 	- **GM trio**
 		- Sony 35mm f1.4 GM *(67mm, $1398)*
 		- Sony 50mm f1.4 GM *(67mm, $1298)*
@@ -118,21 +121,24 @@ nav_order: 3
 
 *1.5x crop factor*
 
-#### Lenses for All Mounts
+#### Lenses for All/Most Mounts
 
-- **under $150 per lens** *(52mm)*
+- **TTArtisan AF trio (under $150 each)** *(52mm)*
 	- TTArtisan 23mm f1.8 *($127)*
 	- TTArtisan 35mm f1.8 *($125)*
 	- TTArtisan 56mm f1.8 *($129)*
-- **under $200 per lens** *(52mm)* 
+- **Viltrox f1.7 Air trio (under $200 each)** *(52mm)* 
 	- Viltrox 25mm f1.7 Air *($176)*
 	- Viltrox 35mm f1.7 Air *($179)*
 	- Viltrox 56mm f1.7 Air *($180)*
-- **under $600 per lens** 
+- **Sigma quartet** 
 	- Sigma 16mm f1.4 DC DN *(67mm, ~~$489~~ $409)* 
 	- Sigma 23mm f1.4 DC DN *(52mm, ~~$599~~ $499)*
 	- Sigma 30mm f1.4 DC DN *(52mm, ~~$369~~ $314)* 
 	- Sigma 56mm f1.4 DC DN *(55mm, ~~$529~~ $479)*
+- **Zeiss duo**
+	- Zeiss Touit 12mm f1.8 *(67mm, ~~$999~~ $799)*
+	- Zeiss Touit 32mm f1.8 *(52mm, ~~$720~~ $610)*
 - **portrait:** Viltrox 75mm f1.2 *(77mm, $580)*
 - **pancake:** TTArtisan 27mm f2.8 *(39mm, $149)*
 - **superzoom:** Sigma 16-300mm f/3.5-6.7 DC OS *($699)*
