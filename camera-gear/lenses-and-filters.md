@@ -5,6 +5,8 @@ nav_order: 3
 ---
 # Lenses and Filters
 
+> Buying **USED** will give you better deals, however, be warned that used items usually do not have a warranty or any guarantees, which is problematic for such expensive equipment. Another option is to rent if you're only need to use the lens once.
+
 *(XXmm)* shows filter thread
 
 ## Full Frame
@@ -44,6 +46,14 @@ nav_order: 3
 		- **standard:** Sony 24-70mm f2.8 GM I *(82mm, $1698)* or GM II *(82mm, $2298)*
 		- **telephoto:** Sony 70-200mm f2.8 GM I *(77mm, $1998)* or GM II *(77mm, $2798)*
 	- **compact:** Sony 24-50mm f2.8 G *(67mm, $1098)*
+	- **supertelephoto** 
+		- Sigma 100-400mm f5-6.3 DG DN *(67mm, ~~$949~~ $829)* 
+		- Sigma 150-600mm f5-6.3 DG DN *(95mm, $1489)*
+		- Sigma 300-600mm f4 *(drop-in filter, $5999)*
+		- Sony 200-600mm f5.6-6.3 G *(95mm, $1998)*
+		- Sony 400-800mm f6.3-8 G *(105mm, $2898)*
+		- Sony 100-400mm f4.5-5.6 GM *(77mm, $2498)*
+		- Sony 600mm f4 GM *(drop-in filter, $12,998)*
 
 #### L-mount (Panasonic Lumix)
 

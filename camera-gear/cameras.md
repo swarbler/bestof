@@ -7,7 +7,7 @@ nav_order: 1
 
 ## Interchangeable Lens Cameras
 
-> buying **USED** will give you MUCH better deals!
+> Buying **USED** will give you better deals, however, be warned that used items usually do not have a warranty or any guarantees, which is problematic for such expensive equipment.
 
 > note: prices below are BODY ONLY *(i.e. w/o kit lenses)*
 
