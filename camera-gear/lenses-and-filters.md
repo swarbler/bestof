@@ -204,6 +204,8 @@ nav_order: 3
 	- **wide** *(67mm)* 
 		- Sigma 10-18 mm f2.8 DC DN *(~~$659~~ $569)*
 		- Tamron 11-20mm f2.8 Di III-A RXD *($659)*
+- **supertelephoto**
+	- ?
 
 #### Z-mount (Nikon)
 
@@ -246,6 +248,8 @@ nav_order: 3
 	- **telephoto:** Panasonic 35-100mm f/4-5.6 *(46mm, $397)*
 		- **brighter aperture:** Panasonic 35-100mm f2.8 *(58mm, ~~$1147~~ $947)*
 	- **superzoom:** Panasonic 14-140mm f3.5-5.6 II *(58mm, ~~$597~~ $497)*
+- **supertelephoto**
+	- ?
 
 ## Filters
 
