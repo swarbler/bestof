@@ -208,9 +208,10 @@ nav_order: 1
 		- **if you want near-stock OS + great software support:** Pixel *(limited availability + worse chipset)*
 		- **great hardware, OS is a bit bloated:** Honor
 			- *Honor recently announced that the Magic 7 Pro will get 7 y/o OS updates! Hooray!*
+		- **great cameras, bloated OS:** Vivo
 		- **great hardware, very bloated OS:** Xiaomi
 		- **meh hardware, divisive UI:** Samsung *(their A5x series phones are decent, but their S series lineup is overpriced)*
-	- **good:** OnePlus 13 / Xiaomi 15 series / Honor Magic 7 *(4 y/o OS updates)*
+	- **good:** OnePlus 13 / Xiaomi 15 series / Vivo X200 series / Honor Magic 7 *(4 y/o OS updates)*
 	- **better:** Oppo Find X8 series *(5 y/o OS updates)*
 	- **best:** Pixel 9 series / Honor Magic 7 Pro *(7 y/o OS updates)*
 - **best cameras:** Xiaomi 15 Ultra *(4 y/o OS updates)*
@@ -327,7 +328,7 @@ nav_order: 1
 
 - **under $100:** onn
 - **under $250:** Galaxy Tab A9+ *(~~$219~~ $149)* / [Lenovo Xiaoxin Pad Pro](https://www.aliexpress.com/item/1005005902996431) *(~~about $349~~ about $249)*  / *others*
-- **under $500:** Galaxy Tab S9 FE *($449)* / Xiaomi Pad 6 *($449)* / *others*
+- **under $500:** Galaxy Tab S9 FE *($449)* / Xiaomi Pad 7 *($459)* / *others*
 - **over $500:** OnePlus Pad 2 *($549)*
 - **over $600:** Galaxy Tab S9 *(~~$799~~ $649)* 
 - **over $850:** Galaxy Tab S10+ *(~~$999~~ $869)* or S10 Ultra *(~~$1199~~  $1059)*

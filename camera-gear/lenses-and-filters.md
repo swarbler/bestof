@@ -13,6 +13,8 @@ nav_order: 3
 
 > The Viltrox 28mm f4.5 *(43.5mm)* is a very small pancake lens, nicknamed the "chip". If you don't mind the f4.5 and some trade-offs in terms of optical quality, it seems like a great EDC lens!
 
+> Using a teleconverter with a 70-200mm lens or similar will give you a cheaper, more lightweight supertelephoto setup. However, the IQ will not be as good as a dedicated supertelephoto lens.
+
 #### E-mount (Sony)
 
 - **primes**
@@ -45,16 +47,20 @@ nav_order: 3
 	- **GM duo**
 		- **standard:** Sony 24-70mm f2.8 GM I *(82mm, $1698)* or GM II *(82mm, $2298)*
 		- **telephoto:** Sony 70-200mm f2.8 GM I *(77mm, $1998)* or GM II *(77mm, $2798)*
+	- **Tamron duo** 
+		- **standard:** Tamron 28-75mm f2.8 Di III VXD G2
+		- **telephoto:** Tamron 70-180mm f2.8 Di III VC VXD G2
 	- **compact:** Sony 24-50mm f2.8 G *(67mm, $1098)*
 - **supertelephoto** 
-	- Sigma 100-400mm f5-6.3 DG DN *(67mm, ~~$949~~ $829)* 
-	- Sigma 150-600mm f5-6.3 DG DN *(95mm, $1489)*
-	- Sigma 500mm f5.6 *(95mm, ~~$2949~~ $2749)*
-	- Sigma 300-600mm f4 *(drop-in filter, $5999)*
-	- Sony 200-600mm f5.6-6.3 G *(95mm, $1998)*
-	- Sony 400-800mm f6.3-8 G *(105mm, $2898)*
-	- Sony 100-400mm f4.5-5.6 GM *(77mm, $2498)*
-	- Sony 600mm f4 GM *(drop-in filter, $12,998)*
+	- **cheapest:** Sigma 100-400mm f5-6.3 DG DN *(67mm, ~~$949~~ $829)* 
+	- **cheaper**
+		- Tamron 150-500mm f5-6.7 Di III VC VXD *(82mm, ~~$1399~~ $1199)*
+		- Sigma 150-600mm f5-6.3 DG DN *(95mm, $1489)*
+	- **best price/performance, but quite expensive:** Sony 200-600mm f5.6-6.3 G *(95mm, $1998)*
+	- **very expensive:** Sony 100-400mm f4.5-5.6 GM *(77mm, $2498)*
+	- **ridiculously expensive:** Sony 600mm f4 GM *(drop-in filter, $12,998)*
+
+> The Sigma 300-600mm f4 *(drop-in filter, $5999)* is a decent alternative to the Sony 600mm f4 GM at half the price and more versatility due to being a zoom, but is very heavy at over 9 pounds (about 4.5 kg)
 
 #### L-mount (Panasonic Lumix)
 
@@ -76,14 +82,12 @@ nav_order: 3
 	- **wide:** Panasonic 18mm f1.8 *(67mm, ~~$997~~ $897)*
 	- **macro:** Panasonic 100mm f2.8 Macro *(67mm, ~~$997~~ $797)*
 - **zooms** 
+	- **cheaper:** Panasonic 20-60mm f3.5-5.6 *(67mm, $497, available as kit lens)* 
 	- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm, $1189)*
 	- **telephoto:** Sigma 70-200mm f2.8 DG DN *(77mm, $1499)*
 - **supertelephoto**
-	- Sigma 100-400mm f5-6.3 DG DN *(67mm, ~~$949~~ $844)* 
-	- Sigma 150-600mm f5-6.3 DG DN *(95mm, $1489)*
-	- Sigma 500mm f5.6 *(95mm, ~~$2999~~ $2799)*
-	- Sigma 300-600mm f4 *(drop-in filter, $5999)*
-	- ?
+	- **cheapest:** Panasonic 70-300mm f4.5-5.6 *(77mm, ~~$1097~~ $897)* / Sigma 100-400mm f5-6.3 DG DN *(67mm, ~~$949~~ $844)* 
+	- **more expensive:** Sigma 150-600mm f5-6.3 DG DN *(95mm, $1489)*
 
 #### RF mount (Canon)
 
@@ -112,7 +116,9 @@ nav_order: 3
 		- **wide:** Canon 15-35mm f2.8 L *(82mm, ~~$2399~~ $2199)*
 		- **telephoto:** Canon 100-300mm f2.8 L *(112mm, $9499)*
 - **supertelephoto**
-	- ?
+	- **cheapest:** Canon 100-400mm f5.6-8 *(67mm, $649)*
+	- **very expensive:** Canon 200-800mm f6.3-9 *(95mm, $1899)*
+	- **ridiculously expensive:** Canon 600mm f4 *(drop-in filters, $12,999)*
 
 #### Z-mount (Nikon)
 
@@ -136,7 +142,10 @@ nav_order: 3
 		- **wide:** Nikon 14-24mm f2.8 *(112mm, ~~$2496~~ $1996)*
 		- **telephoto:** Nikon 70-200mm f2.8 *(77mm, ~~$2696~~ $2196)*
 - **supertelephoto**
-	- ?
+	- **cheaper:** Tamron 150-500mm f5-6.7 Di III VC VXD *(82mm, $1199)*
+	- **very expensive:** Nikon 180-600mm f5.6-6.3 *(95mm, $1896)*
+	- **ridiculously expensive:** Nikon 400mm f2.8 *(drop-in filters, ~~$13,996~~ $12,996)* or 600mm f4 *(drop-in filters, ~~$15,496~~ $13,996)*
+	- **the zoomiest:** Nikon 800mm f6.3 *(drop-in filters, ~~$6496~~ $5496)*
 
 ## APS-C
 
@@ -205,7 +214,9 @@ nav_order: 3
 		- Sigma 10-18 mm f2.8 DC DN *(~~$659~~ $569)*
 		- Tamron 11-20mm f2.8 Di III-A RXD *($659)*
 - **supertelephoto**
-	- ?
+	- **cheapest:** Fujifilm XF 70-300mm f4-5.6 *(67mm, $799)* / Sigma 100-400mm f5-6.3 *(67mm, ~~$909~~ $799)*
+	- **more expensive:** Tamron 150-500mm f5-6.7 *(82mm, ~~$1499~~ $1299)*
+	- **very expensive:** Fujifilm XF 150-600mm f5.6-8 *(82mm, $1999)*
 
 #### Z-mount (Nikon)
 
@@ -222,7 +233,7 @@ nav_order: 3
 
 - **primes**
 	- **35mm equivalent** 
-		- Olympus 17mm f1.8 *(46mm, $499)* 
+		- Olympus 17mm f1.8 *(46mm, $499)*
 		- Panasonic Leica 15mm f1.7 *(46mm, $597)*
 	- **40mm equivalent:** Panasonic 20mm f1.7 II *(46mm, ~~$297~~ $267)*
 	- **50mm equivalent** 
@@ -249,7 +260,8 @@ nav_order: 3
 		- **brighter aperture:** Panasonic 35-100mm f2.8 *(58mm, ~~$1147~~ $947)*
 	- **superzoom:** Panasonic 14-140mm f3.5-5.6 II *(58mm, ~~$597~~ $497)*
 - **supertelephoto**
-	- ?
+	- **cheaper:** Panasonic 100-300mm f4-5.6 II *(67mm, ~~$647~~ $497)*
+	- **very expensive:** Leica 100-400mm f5-6.3 *(82mm, $2295)*
 
 ## Filters
 
