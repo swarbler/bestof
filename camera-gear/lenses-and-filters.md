@@ -46,14 +46,15 @@ nav_order: 3
 		- **standard:** Sony 24-70mm f2.8 GM I *(82mm, $1698)* or GM II *(82mm, $2298)*
 		- **telephoto:** Sony 70-200mm f2.8 GM I *(77mm, $1998)* or GM II *(77mm, $2798)*
 	- **compact:** Sony 24-50mm f2.8 G *(67mm, $1098)*
-	- **supertelephoto** 
-		- Sigma 100-400mm f5-6.3 DG DN *(67mm, ~~$949~~ $829)* 
-		- Sigma 150-600mm f5-6.3 DG DN *(95mm, $1489)*
-		- Sigma 300-600mm f4 *(drop-in filter, $5999)*
-		- Sony 200-600mm f5.6-6.3 G *(95mm, $1998)*
-		- Sony 400-800mm f6.3-8 G *(105mm, $2898)*
-		- Sony 100-400mm f4.5-5.6 GM *(77mm, $2498)*
-		- Sony 600mm f4 GM *(drop-in filter, $12,998)*
+- **supertelephoto** 
+	- Sigma 100-400mm f5-6.3 DG DN *(67mm, ~~$949~~ $829)* 
+	- Sigma 150-600mm f5-6.3 DG DN *(95mm, $1489)*
+	- Sigma 500mm f5.6 *(95mm, ~~$2949~~ $2749)*
+	- Sigma 300-600mm f4 *(drop-in filter, $5999)*
+	- Sony 200-600mm f5.6-6.3 G *(95mm, $1998)*
+	- Sony 400-800mm f6.3-8 G *(105mm, $2898)*
+	- Sony 100-400mm f4.5-5.6 GM *(77mm, $2498)*
+	- Sony 600mm f4 GM *(drop-in filter, $12,998)*
 
 #### L-mount (Panasonic Lumix)
 
@@ -77,6 +78,12 @@ nav_order: 3
 - **zooms** 
 	- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm, $1189)*
 	- **telephoto:** Sigma 70-200mm f2.8 DG DN *(77mm, $1499)*
+- **supertelephoto**
+	- Sigma 100-400mm f5-6.3 DG DN *(67mm, ~~$949~~ $844)* 
+	- Sigma 150-600mm f5-6.3 DG DN *(95mm, $1489)*
+	- Sigma 500mm f5.6 *(95mm, ~~$2999~~ $2799)*
+	- Sigma 300-600mm f4 *(drop-in filter, $5999)*
+	- ?
 
 #### RF mount (Canon)
 
@@ -104,6 +111,8 @@ nav_order: 3
 		- **standard:** Canon 24-105mm f2.8 L *(82mm, $2999)*
 		- **wide:** Canon 15-35mm f2.8 L *(82mm, ~~$2399~~ $2199)*
 		- **telephoto:** Canon 100-300mm f2.8 L *(112mm, $9499)*
+- **supertelephoto**
+	- ?
 
 #### Z-mount (Nikon)
 
@@ -126,6 +135,8 @@ nav_order: 3
 		- **standard:** Nikon 24-70mm f2.8 *(77mm, ~~$2396~~ $1996)*
 		- **wide:** Nikon 14-24mm f2.8 *(112mm, ~~$2496~~ $1996)*
 		- **telephoto:** Nikon 70-200mm f2.8 *(77mm, ~~$2696~~ $2196)*
+- **supertelephoto**
+	- ?
 
 ## APS-C
 
