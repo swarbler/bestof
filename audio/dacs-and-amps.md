@@ -15,13 +15,18 @@ nav_order: 3
 
 > The Fiio R9 *($1499)* has a much better DAC and AMP than the R7, but is quite a bit more expensive
 
-#### USB
+#### Dongles
 
-- **under $10:** *Apple dongle*
-- **under $50:** Fiio KA1 *($49)*
-- **under $100:** Fiio KA13 *(~~$79~~ $59)* / Moondrop Dawn Pro *($59)*
+- **under $10:** *Apple dongle* / *CS46L41*
+- **under $15:** *CX319993+MAX97220 (e.g. Jcally JM6 Pro)*
+- **under $30:** *CS43131+SGM8262 (e.g. Jcally JM20 Max)*
 
-> The Fiio KA13 is confusingly the successor to the KA3, so if the KA3 is cheaper than get that
+> Note thaat the CS43131+SGM8262 dongle DACs are *very* powerful, they are able to drive HD 800s! This means they drain battery quickly and get very hot
+
+- **under $60:** Moondrop Dawn Pro *(dual CS43131 chipset, $59)*
+- **under $100:** Fiio KA15 *(dual CS43198 chipset, $94)*
+
+> The dual chipset dongle DACs have a removeable cable, and due to having two chips, their power is effectively doubled. 
 
 #### Bluetooth
 
