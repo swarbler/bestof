@@ -7,16 +7,16 @@ nav_order: 2
 
 > Bicycles come in all shapes and sizes, **the "best" one is different to everyone. Ideally find a local bike shop and find one that suits you best.** Someone on Lemmy mentioned Omafiets as a good comfortable option for a bike, take that what you will. Finding bicycles used is also a good way to save money.
 
-> The Aventon e-bikes are well-reviewed online. **If you like a different e-bike, that's fine by me.** Other brands probably have good e-bikes too, so be sure to do your research and, ideally, **try them out in a local bike shop before you decide to purchase.**
+> These e-bikes are well-reviewed online. Also note that this list is more focused on commuter bikes rather than anything like mountain bikes. **If you like a different e-bike, that's fine by me.** There are definitely other good e-bikes, so be sure to do your research and, ideally, **try them out in a local bike shop before you decide to purchase.**
 > 
 > **NOTE THAT E-BIKES ARE EXPENSIVE. PLEASE GET A GOOD BIKE LOCK AND DON'T LOSE IT!**
 
 - **bike:** *100% down to personal preference, the "best" one differs from person to person*
 - **e-bike** 
-	- **under $1500:** *there aren't any good options, get a regular bike!*
-	- **over $1500:** Aventon Pace 500 3 *(~~$1799~~ $1599)* or Level 2 *(~~$1899~~ $1599)*
-
-> The Aventon Level 3 *($1899)* is $300 more than the Level 2 but comes with more security features such as GPS tracking, auto-lock, etc as well as a sleeker frame. 
+	- **commuter:** Lectric Xpress 750 *($1299)* / Velotric Discover 2 *($1899)* 
+	- **folding:** Lectric XP 3.0 *($999)*
+	- **cargo:** Lectric XPedition 2.0 *($1399)*
+	- **very customisable:** Electric Bike Company Model S *($2499)*
 
 #### Safety
 

@@ -24,13 +24,15 @@ nav_order: 5
 	- **high resolution upgrade:** Pimax Crystal *($1599)*
 
 {: .upcoming }
-> The Bigscreen Beyond 2 is even lighter with much higher quality lenses, meaning a wider FOV, less lens glare, and reduced chromatic aberration. 
+> The Bigscreen Beyond 2 *($1019, $1219 w/ eye-tracking)* is even lighter with much higher quality lenses, meaning a wider FOV, less lens glare, and reduced chromatic aberration. 
 > 
-> It also has an interchangeable face plate (Carbon Black, Nuclear Orange, or Crystal Clear) + adjustable IPD. 
+> It also has an interchangeable face plate (Carbon Black, Nuclear Orange, or Crystal Clear), an adjustable IPD, and an option for a universal light seal. 
 > 
 > Resolution and refresh rate seem to be the same.
 
-> The Beyond is incredibly small and lightweight with OLED displays, but is individually fitted meaning that you can’t share the headset with others.
+> The Beyond is incredibly small and lightweight with OLED displays, but is individually fitted meaning that you can’t share the headset with others. 
+> 
+> This will soon change with the Beyond 2, however, as it has an option for a universal light seal.
 
 - **controllers** 
 	- **under $200:** HTC Vive Wand *(~~$129~~ $89 for V1, $199 for V2)*
