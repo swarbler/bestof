@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Pack
 
-#### Backpacks
+## Backpacks
 
 - **everyday** 
 	- **around or under $100:** Jansport *(\$ depends on model)* / Osprey Daylite Plus *($75)* or Arcane Large Day *($110)*
@@ -39,7 +39,7 @@ nav_order: 1
 	- Brevite Jumper *($169)*
 - **Peak Design:** Everyday Backpack *($279 for 20L, $299 for 30L)*
 
-#### Pouches
+## Pouches
 
 - **tech pouches** 
 	- **under $30:** Tomtoc Light-T12 *($19 for S, $25 for M)*
@@ -54,7 +54,7 @@ nav_order: 1
 	- **snug fit:** Peak Design *($29)*
 	- **roomier:** Kicks Kase *($20)*
 
-#### Crossbody Slings
+## Crossbody Slings
 
 - **everyday** 
 	- **smaller** 
@@ -76,17 +76,17 @@ nav_order: 1
 	- LowePro *($ depends on model, all of them are good)*
 - **Peak Design:** Everyday Sling *($99 for 3L, $129 for 6L, $169 for 10L)*
 
-#### Duffel Bags
+## Duffel Bags
 
 - **gym bags:** Goruck *($ depends on size)*
 - **gear bags:** Patagonia Black Hole Duffel *($ depends on size)*
 
-#### Luggage
+## Luggage
 
 - **softshell carry-on** **luggage:** Travelpro Platinum Elite Softside *(~~$429~~ $365)*
 - **hardshell carry-on luggage:** Monos *($275)*
 
-#### Accessories
+## Accessories
 
 - **camera cubes** *($ depends on size + shape)*
 	- **standard:** Tenba BYOB
@@ -97,3 +97,14 @@ nav_order: 1
 	- **small ($20):** *50lb/22kg*
 	- **medium ($22):** *60lb/27kg*
 	- **large ($27):** *100lb/45kg*
+
+## Other Reviews to Check Out
+
+- [Packhacker (Website)](https://packhacker.com/)
+- [Chase Reviews (YT)](https://www.youtube.com/@chasereeves)
+- [Bo Ismono (YT)](https://www.youtube.com/@Youknowthebo)
+- [OneBagTravels (YT)](https://www.youtube.com/@OneBagTravels)
+- [Danny Packs (YT)](https://www.youtube.com/channel/UC3lgfGlws-Cd-QdQ8mv3LLw)
+- [Nomads Nation (YT)](https://www.youtube.com/@chasereeves)
+- [George Defined (YT)](https://www.youtube.com/c/GeorgeDEFINED)
+- [Rushfaster (YT)](https://www.youtube.com/@chasereeves)
