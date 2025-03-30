@@ -11,7 +11,7 @@ nav_order: 1
 
 - **smaller:** TrimUI Brick *($79)* / Miyoo Mini Plus *(~~$89~~ $69)*
 - **standard:** Anbernic RG40XXV *($66)*
-- **clamshell:** Anbernic RG 35XXSP *(~~$64~~ $49)* / Miyoo Flip *($119)*
+- **clamshell:** Anbernic RG 35XXSP *(~~$64~~ $49)* / Miyoo Flip V2 *($89)*
 - **horizontal:** Anbernic RG 35XXH *(~~$64~~ $54)*
 
 #### Android
