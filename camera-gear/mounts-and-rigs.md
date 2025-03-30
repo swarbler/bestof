@@ -40,5 +40,8 @@ nav_order: 7
 
 #### Camera Straps
 
-- **for smaller cameras:** Peak Design Slide Lite *($69)*
-- **for larger cameras:** Peak Design Slide *($79)*
+- **standard:** *Etsy / other*
+- **quick-release**
+	- **for smaller cameras:** Peak Design Slide Lite *($69)*
+	- **for larger cameras:** Peak Design Slide *($79)*
+	- **wrist strap:** Peak Design Cuff *($39)*
