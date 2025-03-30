@@ -452,7 +452,9 @@ The Framework Desktop is going to be repairable, customisable, and powerful with
 
 > The Kobo Clara Colour *($159)* has smaller 6” screen + no note-taking ability, and it is dimmer than the Clara BW, but if you can live with those compromises, it's a good cheaper alternative to the Libra Colour.
 
-- **digital notebook:** Supernote A6 X2 Nomad *($299)*
+- **digital notebook** 
+	- **smaller:** Supernote A6 X2 Nomad *($299)*
+	- **larger:** Supernote A5 X2 Manta *($459)*
 
 ## Dumbphones
 

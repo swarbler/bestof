@@ -15,6 +15,19 @@ nav_order: 3
 
 > Using a teleconverter with a 70-200mm lens or similar will give you a cheaper, more lightweight supertelephoto setup. However, the IQ will not be as good as a dedicated supertelephoto lens.
 
+#### Cheaper Lenses
+
+- **compact Viltrox duo**
+	- Viltrox 20mm f2.8 *(43mm, ~~$176~~ $149)*
+	- Viltrox 40mm f2.5 *(52mm, ~~$168~~ $142)*
+- **standard Viltrox quartet**
+	- Viltrox 24mm f1.8 *(55mm, ~~$379~~ $322)* 
+	- Viltrox 28mm f1.8 *(55mm, ~~$379~~ $322)*
+	- Viltrox 35mm f1.8 *(55mm, ~~$379~~ $322)*
+	- Viltrox 50mm f1.8 *(55mm, ~~$359~~ $305)*
+- **portrait:** TTArtisan 75mm f2 *(62mm, $178)* / Viltrox 85mm f1.8 *(72mm, ~~$399~~ $339)*
+- **wide:** Viltrox 16mm f1.8 *(77mm, ~~$580~~ $493)*
+
 #### E-mount (Sony)
 
 - **primes**
@@ -151,7 +164,7 @@ nav_order: 3
 
 *1.5x crop factor*
 
-#### Lenses for All/Most Mounts
+#### Lenses for Many Mounts
 
 - **TTArtisan AF trio (under $150 each)** *(52mm)*
 	- TTArtisan 23mm f1.8 *($127)*
