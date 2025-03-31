@@ -32,7 +32,7 @@ nav_order: 2
 - **combination wrench set:** Proto / Gearwrench *($ varies depending on size of set)*
 - **adjustable wrench:** Milwaukee *($32)*
 - **wrench pliers:** Knipex *($ varies depending on size)*
-- **torque:** Tekton *(~~$60~~ $43)*
+- **torque:** Tekton *($ varies depending on size)*
 - **hex/allen key set:** Wera *($33)*
 
 #### Ratchets
