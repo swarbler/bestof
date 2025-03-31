@@ -7,7 +7,7 @@ nav_order: 2
 
 ## Saws
 
-- **jigsaws:** ?
+- **jig saws:** Bosch *($ depends on model)*
 - **miter saw**
 	- **under $250:** DeWalt DWS715 *(~~$349~~ $249)*
 	- **under $600:** Bosch GCM12SD  *(~~$649~~ $549)*
@@ -24,5 +24,5 @@ nav_order: 2
 ## Other
 
 - **drill press:** Wen *($98)*
-- **heat gun:** ?
+- **heat gun:** Wagner / Seekone *($ depends on model)*
 - **planar:** DeWalt DW735 *($799)*

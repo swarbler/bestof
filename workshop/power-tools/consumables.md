@@ -5,28 +5,31 @@ nav_order: 3
 ---
 # Consumables
 
-## Drill
+## Drill Bits
 
- *$ depends on size of set*
-- **bits**
-	- **cheaper:** DeWalt
-	- **standard:** Bosch CO14B
+ *$ depends on set*
+- **cheaper:** DeWalt
+- **standard:** Bosch CO14B
 - **wood bits** 
 	- **no nails:** Diablo Spade
 	- **nails:** Bosch Nail Strike
 
-## Impact Driver
+## Impact Driver Bits
 
-- **bits:** ?
+- **bits:** DeWalt / Milwaukee *($ depends on set)*
 
-## Sanders
+## Sandpaper
 
-- **sandpaper:** 3M Cubitron / Diablo *($ depends on amount + size)*
+*$ depends on size + amount*
+- **sandpaper:** 3M Cubitron / Diablo
 
-## Saws
+## Saw Blades
 
-- **circular saw blades:** Makita / Diablo *($ depends on amount)*
-- **jigsaw blades:** ?
-- **reciprocating saw blades:** ?
-- **table saw blades:** ?
+*$ depends on size + amount*
+- **cheaper:** *any (e.g. Harbor Freight)*
+- **standard:** Diablo
+- **upgrade**
+	- Freud
+	- Whiteside Dimar
+	- CMT
 
