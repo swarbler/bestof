@@ -40,7 +40,11 @@ Don't get bath mats with a rubber backing, they don't last as long!
 
 #### Hair Dryers
 
-- **standard:** Rusk W8less *(~~$135~~ $94)*
+- **under $40:** Conair InfinitiPRO *(~~$39~~ $31)*
+- **under $100:** Rusk W8less *(~~$135~~ $94)*
+- **upgrade:** Dyson Supersonic *($429, ~~$349~~ $219 refurbished)*
+
+> The Dyson Supersonic is incredibly expensive for a hair dryer, but their refurbished dryers are quite a bit less expensive. Note that the refurbished Supersonics will have a reduced warranty and may have scuffs or scratches.
 
 ## Fixtures
 
