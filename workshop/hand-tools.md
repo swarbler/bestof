@@ -12,13 +12,15 @@ nav_order: 2
 
 #### Ratcheting Multi-Bit Screwdrivers
 
-- **standard:** Megapro *($33)* / Wera KraftForm *($41)* / LTT *($69)*
-- **stubby:** Milwaukee *($26)* / Stahlwille *($34)* / LTT *($59)*
+- **standard:** Megapro *($33)* / Wera KraftForm *($41)*
+- **stubby:** Milwaukee *($26)* / Stahlwille *($34)*
 - **torque:** Wera 7400 KraftForm *($84)* / Wiha *(~~$115~~ $99)*
 - **ESD-safe:** Wera 7440 KraftForm *($91)* 
 - **electric:** Xiaomi *($59)*
 
 > PB Swiss makes excellent quality tools, but they cost significantly more
+
+> The LTT screwdriver *($69)* and the LTT stubby *($59)* are both good options if you would like to support LTT. They seem to be generally great quality tools as well.
 
 #### Screwdriver Sets (non-ratcheting drivers)
 
