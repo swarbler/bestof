@@ -6,9 +6,6 @@ plugins:
   - jekyll-include-cache
 
 callouts:
-  warning:
-    title: warning
-    color: yellow
   upcoming:
     title: upcoming
     color: green

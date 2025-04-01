@@ -19,8 +19,7 @@ nav_order: 6
 	- **standard:** Venom Steel *(~~$27~~ $22 for 100 pack)*
 	- **fine motor skills:** Grease Monkey *($27 for 100 pack)*
 
-{: .warning }
-Do **NOT** wear gloves when using power tools!
+> do **NOT** wear gloves when using power tools!
 
 #### Ear
 

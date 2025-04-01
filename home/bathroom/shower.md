@@ -35,8 +35,7 @@ nav_order: 1
 - **bath mat:** Ikea
 - **bath stone:** Dorai
 
-{: .warning }
-Don't get bath mats with a rubber backing, they don't last as long!
+> do **not** get bath mats with a rubber backing, they don't last as long!
 
 #### Hair Dryers
 

@@ -23,6 +23,3 @@ nav_order: 5
 
 - **speaker wire:** *pure copper 16 gauge*
 	- **for more power:** *pure copper 12-14 gauge*
-
-{: .warning }
- don't get CCA (copper-clad aluminium) speaker wire!

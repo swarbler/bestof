@@ -51,8 +51,7 @@ nav_order: 1
 	- **with enclosure:** P1S  *(~~$699~~ $629)*
 - **upgrade CoreXY:** X1 Carbon  *(~~$1,199~~ $1,149)*
 
-{: .warning }
-> Bambu Lab has restricted access to its printers, so you are unable to use third-party software without changing to "Developer Mode" (LAN only mode) in firmware after v4.0.0.0! 
+> **Bambu Lab has restricted access to its printers, so you are unable to use third-party software without changing to "Developer Mode" (LAN only mode) in firmware after v4.0.0.0!** 
 > 
 > If you want to continue using a Bambu Handy-like app with Bambu printers, I recommend the "Bambu Companion" app (unfortunately iOS only) with Tailscale. It works surprisingly well!
 
