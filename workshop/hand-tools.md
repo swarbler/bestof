@@ -18,14 +18,18 @@ nav_order: 2
 - **ESD-safe:** Wera 7440 KraftForm *($91)* 
 - **electric:** Xiaomi *($59)*
 
+> PB Swiss makes excellent quality tools, but they cost significantly more
+
 #### Non-Ratcheting Screwdrivers
 
 *$ depends on driver + size of set*
-- **cheaper:** Craftsman
-- **standard:** Wera Kraftform / Wiha
+- **cheaper:** Craftsman / Stanley
+- **standard:** Wera Kraftform / Wiha / Vessel
 - **insulated:** Wiha 
 
 > iFixit drivers are also good options with specialty bits used in electronics
+
+> PB Swiss makes excellent quality tools, but they cost significantly more
 
 #### Wrenches
 
