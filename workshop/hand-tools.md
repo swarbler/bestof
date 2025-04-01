@@ -10,7 +10,7 @@ nav_order: 2
 - **socket + bit set:** Wera Tool-Check Plus *(~$90)*
 - **socket set:** Klein Tools Flip Socket *($24 for 6-in-1, $29 for 9-in-1)*
 
-#### Ratcheting Screwdrivers
+#### Ratcheting Multi-Bit Screwdrivers
 
 - **standard:** Megapro *($33)* / Wera KraftForm *($41)* / LTT *($69)*
 - **stubby:** Milwaukee *($26)* / Stahlwille *($34)* / LTT *($59)*
@@ -20,9 +20,9 @@ nav_order: 2
 
 > PB Swiss makes excellent quality tools, but they cost significantly more
 
-#### Non-Ratcheting Screwdrivers
+#### Screwdriver Sets (non-ratcheting drivers)
 
-*$ depends on driver + size of set*
+*$ depends on set*
 - **cheaper:** Craftsman / Stanley
 - **standard:** Wera Kraftform / Wiha / Vessel
 - **insulated:** Wiha 
