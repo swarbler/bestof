@@ -5,7 +5,28 @@ nav_order: 1
 ---
 # Car
 
-#### Tech
+## EVs
+
+> There are plenty of other good EV models as well, and there are plenty of other good brands as well, these are just a few good options. Note that the best car for everyone differs from person to person and everyone has different needs. **There is no one "best" EV!**
+
+- **mid-size fastback sedan**
+	- BYD Seal
+	- Hyundai Ioniq 6
+	- Tesla Model 3
+- **subcompact hatchback**
+	- BYD Dolphin 
+- **subcompact crossover SUV**
+	- BYD Atto 2
+	- Hyundai Kona
+- **compact crossover SUV**
+	- BYD Atto 3
+	- Hyundai Ioniq 5
+	- Tesla Model Y
+- **mid-size crossover SUV**
+	- BYD Sealion 7
+	- Hyundai Ioniq 9
+
+## Tech
 
 - **dash cam** 
 	- **under $150:** Viofo A119 Mini 2 *($129)*
@@ -27,7 +48,7 @@ nav_order: 1
 
 - **USB car charger:** Scosche PD40 CPDCC40M *($16)*
 
-#### Tools
+## Tools
 
 - **jump starter** 
 	- **under $200:** Gooloo GP4000 *($169)*
@@ -36,7 +57,7 @@ nav_order: 1
 - **wheel cleaner:** Adams / Mothers *($ depends on size)*
 - **windshield repair kit:** Permatex *($12)*
 
-#### Other
+## Other
 
 - **car trash can:** Hotor *(~~$12~~ $9)*
 - **wiper blades:** Bosch Icon *($ depends on length)*
