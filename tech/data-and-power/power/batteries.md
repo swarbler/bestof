@@ -77,10 +77,11 @@ nav_order: 1
 
 ##### V-mount
 
-- **standard:** Smallrig *($ depends on model)*
-- **rugged:** Core SWX NanoX Micro *($ depends on model)*
+- **cheaper:** K&F Concept V99 Pro *(~~$119~~ $101)* 
+- **standard:** Smallrig VB99 Pro *(~~$249~~ $199)*
+- **rugged:** Core SWX NanoX Micro 98 *(~~$285~~ $199)*
 
-> Anton Bauer batteries are expensive but are very high-quality
+> Anton Bauer batteries are expensive but are very reliable and are worth it if you are doing videography professionally
 
 ##### NPF
 
