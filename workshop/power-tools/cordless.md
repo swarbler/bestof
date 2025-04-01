@@ -12,6 +12,6 @@ nav_order: 1
 - Makita 18V LXT
 - Bosch
 
-> Other brands such as Ridgid, Black+Decker, and Metabo may also be good options as well on a budget
+> Other brands such as Ridgid, Black+Decker, and Kobalt may also be good options as well on a budget
 
 > A good option for a powerful cordless circular saw is the DeWalt FlexVolt 60V Max *($199 tool only, $369 for 1x battery)*
