@@ -9,22 +9,33 @@ nav_order: 1
 
 > There are plenty of other good EV models as well, and there are plenty of other good brands as well, these are just a few good options. Note that the best car for everyone differs from person to person and everyone has different needs. **There is no one "best" EV!**
 
-- **mid-size fastback sedan**
+- **crossover city car (A-segment)**
+	- BYD Seagull
+	- Hyundai Inster
+- **subcompact crossover SUV (B-segment)**
+	- BYD Atto 2
+	- Hyundai Kona
+	- Kia EV3
+	- Nissan Leaf
+	- Zeekr X
+- **compact hatchback (C-segment)**
+	- BYD Dolphin 
+	- MG 4 EV
+- **compact crossover SUV (C-segment)**
+	- BYD Atto 3
+	- Hyundai Ioniq 5
+	- Kia EV5 or EV6
+	- Nissan Ariya
+	- Tesla Model Y
+- **mid-size fastback sedan (D-segment)**
 	- BYD Seal
 	- Hyundai Ioniq 6
 	- Tesla Model 3
-- **subcompact hatchback**
-	- BYD Dolphin 
-- **subcompact crossover SUV**
-	- BYD Atto 2
-	- Hyundai Kona
-- **compact crossover SUV**
-	- BYD Atto 3
-	- Hyundai Ioniq 5
-	- Tesla Model Y
-- **mid-size crossover SUV**
+- **mid-size crossover SUV (D-segment)**
 	- BYD Sealion 7
 	- Hyundai Ioniq 9
+	- Kia EV9
+	- Zeekr 7X
 
 ## Tech
 
