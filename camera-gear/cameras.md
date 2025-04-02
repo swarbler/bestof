@@ -36,42 +36,6 @@ nav_order: 1
 - **under $3000:** A7R IV *(~~$3198~~ $2998)*
 - **under $4000:** A7R V *($3898)*
 
-### Panasonic Lumix
-
-#### M43
-
-- **under $1000:** GX85 *(~$500 used)*
-- **under $2000:** G9 II *(~~$1899~~ $1697)*
-
-> G85 *($899)* is weather sealed alternative to the GX85 with a larger DSLR-style grip
-
-#### Full-Frame
-
-- **under $1500:** S9 *(~~$1497~~ $1397)*
-- **under $2000:** S5 II *(~~$1999~~ $1497)* or IIX *(~~$2499~~ $2197)*
-- **under $3500:** S1R II *($3297)*
-
-### Fujifilm
-
-#### Hybrid
-
-- **older options:** X-T3 *(discontinued, find them used)*
-	- *the X-T2 is also decent*
-- **under $1000:** X-T30 II *($899)*
-- **under $1500:** X-T50 *($1399)*
-- **under $2000:** X-T5 *($1699)*
-
-> The X-M5 *($799)* is comparable to the X-T30 II in image quality but lacks an EVF and is much smaller with a less substantial grip. It also has fewer buttons and dials than the X-T30 II. Since it is newer, however, it has a few more features such as a larger buffer for burst photography and more advanced AF. 
-> 
-> The X-T4 *(~$1100 used)* can also be a very good deal
-
-#### Video
-
-- **older options:** X-S10 *(discontinued, find it used)*
-- **under $1500:** X-S20 *($1299)*
-- **under $2500:** X-H2S *($2499)*
-
-
 ### Canon
 
 #### Hybrid
@@ -96,12 +60,53 @@ nav_order: 1
 
 - **older options:** D3000 series *(discontinued, find them used)*
 - **under $1000:** Z50 *($599)* / Z30 *(~~$709~~ $609)*
-- **around $2000:** Z6 III *(~~$2499~~ $2196)* / Zf *(~~$1996~~ $1796)*
-	- *Z6 III is the best price/performance*
-	- *Zf is more fun and a bit smaller*
+- **around $2000:** Z6 III *(~~$2499~~ $2196)* 
+	- **retro-inspired:** Zf *(~~$1996~~ $1796)*
 - **over $3000:** Z8 *(~~$3999~~ $3396)*
 
 > Zfc *(~~$1096~~ $996)* is similar to the Z30 II but has an EVF. However, it has no weather sealing!
+
+### Panasonic Lumix
+
+#### M43
+
+- **under $1000:** GX85 *(~$500 used)*
+- **under $2000:** G9 II *(~~$1899~~ $1697)*
+
+> G85 *($899)* is weather sealed alternative to the GX85 with a larger DSLR-style grip
+
+#### Full-Frame
+
+- **under $1500:** S9 *(~~$1497~~ $1397)*
+- **under $2000:** S5 II *(~~$1999~~ $1497)* or IIX *(~~$2499~~ $2197)*
+- **under $3500:** S1R II *($3297)*
+
+### OM System / Olympus
+
+- **older option:** OM-D E-M1 *(discontinued, ~$300 used)*
+- **under $1000:** OM-5 *(~~$1199~~ $899)*
+- **under $2000:** OM-1 Mark II *(~~$2199~~ $1999)*
+	- **retro-inspired:** OM-3 *($1999)*
+
+### Fujifilm
+
+#### Hybrid
+
+- **older options:** X-T3 *(discontinued, find them used)*
+	- *the X-T2 is also decent*
+- **under $1000:** X-T30 II *($899)*
+- **under $1500:** X-T50 *($1399)*
+- **under $2000:** X-T5 *($1699)*
+
+> The X-M5 *($799)* is comparable to the X-T30 II in image quality but lacks an EVF and is much smaller with a less substantial grip. It also has fewer buttons and dials than the X-T30 II. Since it is newer, however, it has a few more features such as a larger buffer for burst photography and more advanced AF. 
+> 
+> The X-T4 *(~$1100 used)* can also be a very good deal
+
+#### Video
+
+- **older options:** X-S10 *(discontinued, find it used)*
+- **under $1500:** X-S20 *($1299)*
+- **under $2500:** X-H2S *($2499)*
 
 {: .upcoming }
 The Sigma BF will be an incredibly lightweight and compact 24.6MP full-frame camera with a metal unibody design. 

@@ -10,7 +10,7 @@ nav_order: 2
 - **jig saws:** Bosch *($ depends on model)*
 - **miter saw**
 	- **under $250:** DeWalt DWS715 *(~~$349~~ $249)*
-	- **under $600:** Bosch GCM12SD  *(~~$649~~ $549)*
+	- **over $500:** Bosch GCM12SD Axial Glide *(~~$649~~ $549)*
 - **table saw:** DeWalt DWE7485 *(~~$419~~ $395)*
 	- **miter gauge:** Incra Miter V27 *($79)* / V120 *($99)* / 1000 *($129)*
 

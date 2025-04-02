@@ -75,33 +75,6 @@ nav_order: 3
 
 > The Sigma 300-600mm f4 *(drop-in filter, $5999)* is a decent alternative to the Sony 600mm f4 GM at half the price and more versatility due to being a zoom, but is very heavy at over 9 pounds (about 4.5 kg)
 
-#### L-mount (Panasonic Lumix)
-
-- **primes** 
-	- **Panasonic quartet** *(67mm)*
-		- Panasonic 24mm f1.8 *(~~$897~~ $697)*
-		- Panasonic 35mm f1.8 *(~~$697~~ $597)*
-		- Panasonic 50mm f1.8 *(~~$447~~ $247)*
-		- Panasonic 85mm f1.8 *(~~$597~~ $397)*
-	- **Sigma f2 trio**
-		- Sigma 24mm f2 DG DN *(62mm, $639)*
-		- Sigma 35mm f2 DG DN *(58mm, $639)*
-		- Sigma 50mm f2 DG DN *(58mm, $639)*
-	- **Sigma f1.4 quartet**
-		- Sigma 24mm f1.4 DG DN *(72mm, $799)*
-		- Sigma 35mm f1.4 DG DN *(67mm, $799)*
-		- Sigma 50mm f1.4 DG DN  *(72mm, $889)*
-		- Sigma 85mm f1.4 DG DN  *(77mm, ~~$1199~~ $1099)*
-	- **wide:** Panasonic 18mm f1.8 *(67mm, ~~$997~~ $897)*
-	- **macro:** Panasonic 100mm f2.8 Macro *(67mm, ~~$997~~ $797)*
-- **zooms** 
-	- **cheaper:** Panasonic 20-60mm f3.5-5.6 *(67mm, $497, available as kit lens)* 
-	- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm, $1189)*
-	- **telephoto:** Sigma 70-200mm f2.8 DG DN *(77mm, $1499)*
-- **supertelephoto**
-	- **cheapest:** Panasonic 70-300mm f4.5-5.6 *(77mm, ~~$1097~~ $897)* / Sigma 100-400mm f5-6.3 DG DN *(67mm, ~~$949~~ $844)* 
-	- **more expensive:** Sigma 150-600mm f5-6.3 DG DN *(95mm, $1489)*
-
 #### RF mount (Canon)
 
 - **primes**
@@ -159,6 +132,33 @@ nav_order: 3
 	- **very expensive:** Nikon 180-600mm f5.6-6.3 *(95mm, $1896)*
 	- **ridiculously expensive:** Nikon 400mm f2.8 *(drop-in filters, ~~$13,996~~ $12,996)* or 600mm f4 *(drop-in filters, ~~$15,496~~ $13,996)*
 	- **the zoomiest:** Nikon 800mm f6.3 *(drop-in filters, ~~$6496~~ $5496)*
+
+#### L-mount (Panasonic Lumix)
+
+- **primes** 
+	- **Panasonic quartet** *(67mm)*
+		- Panasonic 24mm f1.8 *(~~$897~~ $697)*
+		- Panasonic 35mm f1.8 *(~~$697~~ $597)*
+		- Panasonic 50mm f1.8 *(~~$447~~ $247)*
+		- Panasonic 85mm f1.8 *(~~$597~~ $397)*
+	- **Sigma f2 trio**
+		- Sigma 24mm f2 DG DN *(62mm, $639)*
+		- Sigma 35mm f2 DG DN *(58mm, $639)*
+		- Sigma 50mm f2 DG DN *(58mm, $639)*
+	- **Sigma f1.4 quartet**
+		- Sigma 24mm f1.4 DG DN *(72mm, $799)*
+		- Sigma 35mm f1.4 DG DN *(67mm, $799)*
+		- Sigma 50mm f1.4 DG DN  *(72mm, $889)*
+		- Sigma 85mm f1.4 DG DN  *(77mm, ~~$1199~~ $1099)*
+	- **wide:** Panasonic 18mm f1.8 *(67mm, ~~$997~~ $897)*
+	- **macro:** Panasonic 100mm f2.8 Macro *(67mm, ~~$997~~ $797)*
+- **zooms** 
+	- **cheaper:** Panasonic 20-60mm f3.5-5.6 *(67mm, $497, available as kit lens)* 
+	- **standard:** Sigma 24-70mm f2.8 DG DN *(67mm, $1189)*
+	- **telephoto:** Sigma 70-200mm f2.8 DG DN *(77mm, $1499)*
+- **supertelephoto**
+	- **cheapest:** Panasonic 70-300mm f4.5-5.6 *(77mm, ~~$1097~~ $897)* / Sigma 100-400mm f5-6.3 DG DN *(67mm, ~~$949~~ $844)* 
+	- **more expensive:** Sigma 150-600mm f5-6.3 DG DN *(95mm, $1489)*
 
 ## APS-C
 
@@ -240,7 +240,7 @@ nav_order: 3
 
 > Note that there are very few options when it comes to Nikon DX lenses
 
-## M4/3
+## M4/3 (Panasonic Lumix and Olympus / OM-System)
 
 *2x crop factor*
 
