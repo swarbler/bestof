@@ -5,13 +5,13 @@ nav_order: 4
 ---
 # Painting
 
-#### Paint
+## Paint
 
 *$ depends on amount + colour*
 - **paint:** Sherwin Williams / Benjamin Moore
 - **spray paint:** Rust-Oleum Professional
 
-#### Primer
+## Primer
 
 *$ depends on amount*
 - **wood primer**
@@ -19,7 +19,7 @@ nav_order: 4
 	- **oil-based:** Sherwin Williams
 - **drywall primer:** Sherwin Williams PVA
 
-#### Finish
+## Finish
 
 *$ depends on amount*
 - **varnish**
@@ -30,7 +30,7 @@ nav_order: 4
 - **hard wax:** General Finishes / Fiddes
 - **wood stain:** Minwax
 
-#### Paint Brushes
+## Paint Brushes
 
 *$ depends on size*
 - **synthetic-based**
@@ -42,7 +42,17 @@ nav_order: 4
 	- **soft:** Purdy Black Bristles
 	- **stiff:** Purdy Ox Hair
 
-#### Other
+## Air Brushing
+
+- **air brush**
+	- **under $50:** Gaahleri GHAD-39 *($45)*
+	- **under $100:** Badger Patriot 105 *($91)* / GSI Creos Mr. Airbrush Procon Boy PS-289 *(~~$95~~ $85)* or PS-270 *($99)*
+	- **under $200:** Iwata Eclipse HP CS *($170)*
+- **compressor**
+	- **budget:** *no-name brand on Amazon*
+	- **standard:** *AS-186 style compresser*
+
+## Other
 
 - **paint roller:** Wooster *($ depends on length, size, and model)*
 - **paint spray bottle:** HomeRight Super Finish Max *($59)*
