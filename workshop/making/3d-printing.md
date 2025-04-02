@@ -5,9 +5,7 @@ nav_order: 1
 ---
 # 3D Printing
 
-## Printers
-
-#### FDM
+## FDM Printers
 
 ***personal ranking***
 1. **Voron** - good hardware, very upgradeable + repairable, very open-source 
@@ -24,7 +22,7 @@ nav_order: 1
 
 *Elegoo’s Centauri Carbon recently released, could possibly be an incredible value but wait for independent reviews to release*
 
-##### Prusa
+### Prusa
 
 - **smaller bed-slinger:** Mini+ *($429 for kit, $459 for semi-assembled)*
 - **standard bed-slinger:** MK4S *($729 for kit, $999 for pre-assembled, +$270 for MMU3)*
@@ -34,18 +32,18 @@ nav_order: 1
 
 > The multi-material unit (MMU3) can be purchased separately for $359 preassembled or $329 as a kit ($299 if you exclude print your own parts)
 
-##### Qidi
+### Qidi
 
 - **cheaper CoreXY:** Qidi Q1 Pro *(~~$599~~ $449)*
 - **larger CoreXY:** Qidi Plus 4 *(~~$999~~ $799)*
 
-##### Sovol
+### Sovol
 
 - **cheaper bed-slinger:** SV06 ACE *(~~$299~~ $279)*
 - **larger bed-slinger:** SV06 Plus ACE *(~~$349~~ $299)*
 - **larger CoreXY:** SV08 *(~~$599~~ $569)*
 
-##### Bambu Lab
+### Bambu Lab
 
 - **smaller bed-slinger:** A1 Mini  *(~~$299~~ $239, ~~$459~~ $389 for AMS lite combo)*
 - **cheaper bed-slinger:** A1 *(~~$399~~ $379, ~~$559~~ $529 for AMS lite combo)*
@@ -61,7 +59,7 @@ nav_order: 1
 > 
 > Bambu Lab has also released an upgraded multi-material unit (AMS 2 Pro) for $349 with built-in filament drying and better access to the filament tubes. They have also released a single-filament multi-material unit (AMS HT) for $149 that has hotter drying temperatures and a display for viewing the humidity of the filament. You are able to pair 4 AMS 2 Pro units with 8 AMS HT units to print with 24 colours at a time!
 
-##### Creality
+### Creality
 
 - **budget bed-slinger:** Ender 3 V3 SE *($219)* or KE *($299)*
 
@@ -71,21 +69,35 @@ nav_order: 1
 
 > The multi-material unit (CFS) can be purchased separately for $319
 
-##### Elegoo
+### Elegoo
 
 - **cheaper CoreXY:** Centauri Carbon *($299)*
 
 > The Centauri *($199)* is even cheaper alternative if you don’t need an enclosure
 
-##### Voron
+### Voron
 
 - **fixed gantry CoreXY:** Voron Trident *(price varies depending on kit)*
 - **moving gantry CoreXY:** Voron 2.4 *(price varies depending on kit)*
 
-#### Resin
+## Resin
 
 - **smaller:** Elegoo Mars 5 Ultra  *(~~$338~~ $269)*
 - **larger:** Elegoo Saturn 4 Ultra  *(~~$524~~ $399)*
+
+#### Post-Processing
+
+- **wash & cure** 
+	- **2-in-1 machine:** Anycubic Wash and Cure 3 *(~~$119~~ $99 for standard, ~~$219~~ $159 for Plus)*
+	- **separate machines:** Elegoo Mercury X *(~~$199~~ $159)*
+
+> You will also need isopropyl alcohol to post-process resin prints
+
+#### Safety
+
+- **nitrile gloves** *($ depends on amount)*
+	- **standard:** Venom Steel
+	- **fine motor skills:** Grease Monkey 
 
 ## Filaments
 
@@ -110,6 +122,10 @@ nav_order: 1
 - **ABS:** Hatchbox ABS *($23.99)* / Polymaker ABS *($22.99)*
 	- **alternative:** eSun ABS+  *(~~$22.99~~ $19.99)*
 - **ASA:** Polymaker PolyLite ASA *($29.99)* / Sunlu ASA *($14.99)*
+
+## Resin
+
+?
 
 ## Tools
 
