@@ -27,10 +27,12 @@ nav_order: 1
 ##### Prusa
 
 - **smaller bed-slinger:** Mini+ *($429 for kit, $459 for semi-assembled)*
-- **standard bed-slinger:** MK4S *($729 for kit, $999 for pre-assembled)*
+- **standard bed-slinger:** MK4S *($729 for kit, $999 for pre-assembled, +$270 for MMU3)*
 - **upgrade CoreXY:** Core One  *($949 for kit, $1,199 for pre-assembled)*
 
 > There no real reason why you should get the Prusa Mini+ unless you want a small printer/the cheapest printer from Prusa. Other options in this price range offer far better value (Sovol, Qidi, and Bambu Lab all have good options)
+
+> The multi-material unit (MMU3) can be purchased separately for $359 preassembled or $329 as a kit ($299 if you exclude print your own parts)
 
 ##### Qidi
 
@@ -45,21 +47,29 @@ nav_order: 1
 
 ##### Bambu Lab
 
-- **smaller bed-slinger:** A1 Mini  *(~~$299~~ $219)*
-- **cheaper bed-slinger:** A1 *(~~$399~~ $359)*
-- **standard CoreXY:** P1P  *(~~$699~~ $519)*
-	- **with enclosure:** P1S  *(~~$699~~ $629)*
-- **upgrade CoreXY:** X1 Carbon  *(~~$1,199~~ $1,149)*
+- **smaller bed-slinger:** A1 Mini  *(~~$299~~ $239, ~~$459~~ $389 for AMS lite combo)*
+- **cheaper bed-slinger:** A1 *(~~$399~~ $379, ~~$559~~ $529 for AMS lite combo)*
+- **standard CoreXY:** P1P  *(~~$699~~ $539)*
+	- **with enclosure:** P1S  *(~~$699~~ $649, ~~$949~~ $849 for AMS combo)*
+- **upgrade CoreXY:** X1 Carbon  *($1199, $1449 for AMS combo)*
 
 > **Bambu Lab has restricted access to its printers, so you are unable to use third-party software without changing to "Developer Mode" (LAN only mode) in firmware after v4.0.0.0!** 
 > 
 > If you want to continue using a Bambu Handy-like app with Bambu printers, I recommend the "Bambu Companion" app (unfortunately iOS only) with Tailscale. It works surprisingly well!
 
+> The multi-material unit for the P1 and X1 printers (AMS) can be purchased separately for ~~$349~~ $319. You are able to connect 4 AMS units to print 16 colours at a time! The one for the A1 series (AMS Lite) can be purchased separately for $269.
+> 
+> Bambu Lab has also released an upgraded multi-material unit (AMS 2 Pro) for $349 with built-in filament drying and better access to the filament tubes. They have also released a single-filament multi-material unit (AMS HT) for $149 that has hotter drying temperatures and a display for viewing the humidity of the filament. You are able to pair 4 AMS 2 Pro units with 8 AMS HT units to print with 24 colours at a time!
+
 ##### Creality
 
 - **budget bed-slinger:** Ender 3 V3 SE *($219)* or KE *($299)*
-	- *KE can print at higher temperatures + has linear rail for X-axis + has Klipper firmware*
-- **upgrade CoreXY:** K2 Plus *($1299)*
+
+> The Ender 3 V3 KE can print at higher temperatures + has a linear rail for the X-axis + has Klipper firmware
+
+- **upgrade CoreXY:** K2 Plus *($1299, $1499 for CFS combo)*
+
+> The multi-material unit (CFS) can be purchased separately for $319
 
 ##### Elegoo
 
@@ -104,6 +114,7 @@ nav_order: 1
 ## Tools
 
 - **bed adhesion solution:** 3DLac *($37)*
+- **glue:** 3DGloop
 - **filament dryer:** Creality Space Pi *($65)* / Sunlu S2 *(~~$79~~ $44)* or S4 *(~~$139~~ $129)*
 - **vacuum-seal bags:** *any will do, eSun and Eibos kits seem pretty good*
 - **3D print recycler:** _shredder/extruder_
