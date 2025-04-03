@@ -14,6 +14,7 @@ nav_order: 7
 - **travel** 
 	- **around $100:** K&F Concept C225C0 (BA225) *(~~$109~~ $99)* / Sirui 5C *($96)* or 7C *($132)*
 	- **around $250:** Ulanzi Coman Zero Y *($249)*
+	- **3-in-1:** Heipi 3-in-1 W28S *($429)*
 - **heavy-duty** 
 	- **under $150:** Smallrig AD-01 *(~~$159~~ $135)*
 	- **under $250:** Smallrig AD-80 *(~~$249~~ $199)*
