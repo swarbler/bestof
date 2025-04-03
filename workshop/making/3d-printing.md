@@ -125,7 +125,9 @@ nav_order: 1
 
 ## Resin
 
-?
+- Sunlu ABS-like *(~~$27~~ $18 for 1kg, ~~$49~~ $35 for 2kg, ~~$69~~ $53 for 3kg)*
+- Elegoo ABS-like *(~~$21~~ $15 for 1kg, ~~$39~~ $31 for 2kg)*
+- Siriya Tech Fast *(~~$36~~ $29 for 1kg, ~~$67~~ $57 for 2kg, ~~$155~~ $140 for 5kg)*
 
 ## Tools
 

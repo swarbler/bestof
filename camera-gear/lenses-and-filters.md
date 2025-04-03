@@ -17,9 +17,10 @@ nav_order: 3
 
 #### Cheaper Lenses
 
-- **compact Viltrox duo**
-	- Viltrox 20mm f2.8 *(43mm, ~~$176~~ $149)*
-	- Viltrox 40mm f2.5 *(52mm, ~~$168~~ $142)*
+- **Viltrox Air trio**
+	- Viltrox 20mm f2.8 *(43mm, $176)*
+	- Viltrox 40mm f2.5 *(52mm, $168)*
+	- Viltrox 50mm f2 *(58mm, ~~$199~~ $183)*
 - **standard Viltrox quartet**
 	- Viltrox 24mm f1.8 *(55mm, ~~$379~~ $322)* 
 	- Viltrox 28mm f1.8 *(55mm, ~~$379~~ $322)*
