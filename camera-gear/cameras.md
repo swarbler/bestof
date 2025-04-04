@@ -59,12 +59,13 @@ nav_order: 1
 #### Hybrid
 
 - **older options:** D3000 series *(discontinued, find them used)*
-- **under $1000:** Z50 *($599)* / Z30 *(~~$709~~ $609)*
-- **around $2000:** Z6 III *(~~$2499~~ $2196)* 
-	- **retro-inspired:** Zf *(~~$1996~~ $1796)*
-- **over $3000:** Z8 *(~~$3999~~ $3396)*
+- **under $1000:** Z30 *(~~$846~~ $696)* or Z50 II *($906)*
+- **under $2000:** Z5 II *($1696)*
+	- **retro-inspired:** Zf *($1996)*
+- **under $2500:** Z6 III *($2496)* 
+- **over $3000:** Z8 *(~~$3999~~ $3696)*
 
-> Zfc *(~~$1096~~ $996)* is similar to the Z30 II but has an EVF. However, it has no weather sealing!
+> Zfc *($1096)* is similar to the Z30 but has an EVF. However, it has no weather sealing!
 
 ### Panasonic Lumix
 
