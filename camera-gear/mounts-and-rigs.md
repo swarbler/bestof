@@ -49,7 +49,7 @@ nav_order: 7
 
 #### Gimbals
 
-- **under $250:** DJI RS 3 Mini *($237, $486 for Creator Combo)* / Zhiyun Cinepeer Weebill 3E *($249)*
+- **under $250:** Zhiyun Cinepeer Weebill 3E *($249)*
 - **under $500:** DJI RS 4 Mini *($369, $459 for Combo, $478 for Creator Combo)* / Zhiyun Crane 4E *($499)*
 - **over $500:** DJI RS 4 *($549, $719 for Combo)* / Zhiyun Crane 4 *($669)* 
 
