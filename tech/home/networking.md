@@ -7,31 +7,35 @@ nav_order: 3
 
 - **router** 
 	- **WiFi 6** 
-		- GL.iNet Beryl AX (GL-MT3000) *($86)*
-		- GL.iNet Flint 2 (GL-MT6000) *($159)*
-		- Linksys Hydra 6 (AX3000) *($99)*
-		- Netgear Nighthawk RAX5 *($69)*
-		- Netgear Nighthawk RAX10 *(~~$99~~ $89)*
-		- Netgear Nighthawk RAX50 *($199)*
-		- Netgear Nighthawk RAX70 *($379)*
-		- TP-Link Archer AX55 Pro (AX3000) *(~~$149~~ $119)*
-		- TP-Link Archer AX80 (AX6000) *($189)*
-		- TP-Link Archer AX90 (AX6600) *($299)*
+		- **under $100**
+			- Netgear Nighthawk RAX5 *($69)*
+			- Linksys Hydra 6 *($99)*
+		- **under $150:** TP-Link Archer AX55 Pro *(~~$149~~ $119)*
+		- **under $200**
+			- Asus RT-AX86U Pro *(~~$199~~ $169)*
+			- TP-Link Archer AX80 *($189)*
+		- **OpenWRT:** GL.iNet Flint 2 *($159)*
+		- **travel:** GL.iNet Beryl AX *($86)*
 	- **WiFi 7** 
-		- GL.iNet Slate 7 (GL-BE3600) *($149)*
-		- Netgear Nighthawk RS200 *($229)*
-		- Netgear Nighthawk RS300 *(~~$299~~ $279)*
-		- Netgear Nighthawk RS500 *(~~$399~~ $349)*
-		- Netgear Nighthawk RS600 *(~~$499~~ $449)*
-		- Netgear Nighthawk RS700S *(~~$599~~ $549)*
-		- TP-Link Archer BE550 *(~~$299~~ $199)*
-		- TP-Link Archer BE700 *(~~$399~~ $329)*
-		- TP-Link Archer BE800 *(~~$599~~ $349)*
-		- TP-Link Archer BE900 *(~~$699~~ $549)*
+		- **under $200:** TP-Link Archer BE550 *(~~$299~~ $199)*
+		- **under $300** 
+			- Asus RT-BE86U Pro *($299)*
+			- Netgear Nighthawk RS300 *(~~$299~~ $279)*
+		- **over $300** 
+			- Netgear Nighthawk RS500 *(~~$399~~ $349)*
+			- TP-Link Archer BE800 *(~~$599~~ $349)*
+		- **over $500:** Netgear Nighthawk RS700S *(~~$599~~ $549)*
+		- **travel:** GL.iNet Slate 7 *($149)*
+
+{: .upcoming }
+The GL.iNet Flint 3 is coming soon!
+
 - **network switch:** *any from a reputable brand, just get a cheap one*
 - **mesh**
-	- **WiFi 6:** Linksys Velop Micro Mesh 6 *($174 for two)*
-	- **WiFi 7:** TP-Link Deco BE63 *(~~$299~~ $199 for one, ~~$549~~ $349 for two, ~~$579~~ $449 for three)*
+	- **WiFi 6** 
+		- Linksys Velop Micro Mesh 6 *(~~$279~~ $176)*
+		- Asus ZenWiFi XT9 *(~~$349~~ $279)*
+	- **WiFi 7:** TP-Link Deco BE63 *(~~$549~~ $394)*
 
 #### Ubiquiti
 
