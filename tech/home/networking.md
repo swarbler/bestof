@@ -38,8 +38,9 @@ The GL.iNet Flint 3 is coming soon!
 - **network switch:** *any from a reputable brand, just get a cheap one*
 - **mesh** *(prices are for "2-packs")*
 	- **WiFi 6** 
-		- Linksys Velop Micro Mesh 6 *(~~$279~~ $176)*
 		- Asus ZenWiFi XT9 *(~~$349~~ $279)*
+		- Linksys Velop Micro Mesh 6 *(~~$279~~ $176)*
+		- TP-Link Deco BE63 *(~~$139~~ $119)*
 	- **WiFi 7** 
 		- **under $500 (tri-band)** 
 			- Asus ZenWiFi BT6 *(~~$479~~ $399)*
