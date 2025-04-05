@@ -27,13 +27,13 @@ nav_order: 3
 
 > Note that *dual-band* WiFi 7 routers do not support 6Ghz, one of the main features of WiFi 7! Quad-band WiFi 7 routers such as the TP-Link Archer BE900 *(~~$699~~ $549)* split the 6Ghz band into two. Most people do not need this however, and these are more expensive than equivalent tri-band WiFi 7 routers.
 
+{: .upcoming }
+The GL.iNet Flint 3 is coming soon!
+
 - **travel routers**
 	- **WiFi 5:** GL.iNet Opal *(~~$49~~ $34)*
 	- **WiFi 6:** GL.iNet Beryl AX *($86)*
 	- **WiFi 7:** GL.iNet Slate 7 *($149)*
-
-{: .upcoming }
-The GL.iNet Flint 3 is coming soon!
 
 - **network switch:** *any from a reputable brand, just get a cheap one*
 - **mesh** *(prices are for "2-packs")*
