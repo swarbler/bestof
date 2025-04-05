@@ -5,6 +5,8 @@ nav_order: 7
 ---
 # Mounts and Rigs
 
+> Gear from Neewer is quite a bit cheaper, but the build quality is poor and you really wouldn't want to trust it with expensive camera equipment. However, they may be a good budget option if your load is very light.
+
 #### Tripods
 
 - **mini** 
