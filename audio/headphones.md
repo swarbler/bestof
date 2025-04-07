@@ -63,7 +63,7 @@ nav_order: 2
 	- Sennheiser HD 550 *($299)*
 - **under $500** 
 	- Sony MDR-MV1 *($399)* 
-	- Sennheiser HD 490 Pro *($399)*
+	- Sennheiser HD 620 S *($349)* or HD 490 Pro *($399)*
 	- Sennheiser HD 600 *($449)* or HD 650 *($499)*
 - **under $1000**
 	- Focal Clear *(~~$990~~ $790)* or Hadeyns *(~~$699~~ $649)*
