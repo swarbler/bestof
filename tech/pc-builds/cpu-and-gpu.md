@@ -26,17 +26,19 @@ nav_order: 1
 
 ## 1080p / 1440p
 
-- **CPU:** Ryzen 5 [7600](https://camelcamelcamel.com/product/B0BMQJWBDM) *(~~$229~~ ~$190)* or [7600X](https://camelcamelcamel.com/product/B0BBJDS62N) *(~~$299~~ ~$220)*
+- **CPU:** Ryzen 5 [7600X](https://www.newegg.com/p/N82E16819113770) *(~~$299~~ $208)*
 - **GPU:** RX 6800 XT
 - **power supply:** *at least 650W*
 
-> The Ryzen 5 7600 and 7600X can be cooled with their included stock coolers
+> The Ryzen 5 7600X can be cooled with the included stock cooler
+
+> The Ryzen 5 [7500F](https://www.newegg.com/p/274-000M-00200) *(~~$164~~ $147)* is another option to consider, but does not come with a stock cooler or an integrated GPU
 
 > The RX 7700 XT underperforms in comparison to the 6800 XT. If you're able to find the 7700 XT for a lot cheaper than it might be worth it
 
 ## 1440p / 4K
 
-- **CPU:** Ryzen 7 [7700X](https://camelcamelcamel.com/product/B0BBHHT8LY) *(~~$399~~ ~$270)*
+- **CPU:** Ryzen 7 [7700X](https://www.newegg.com/p/N82E16819113768) *(~~$399~~ $352)*
 - **GPU:** RX 7800 XT / RTX 4070 Super
 	- **better:** RX 7900 XT / RTX 4070 Ti Super
 - **power supply:** *at least 750W*
@@ -56,7 +58,7 @@ nav_order: 1
 
 ## Best for Productivity Workhorses
 
-- **CPU:** Ryzen 9 [7900X](https://camelcamelcamel.com/product/B0BBJ59WJ4) *(~~$549~~ ~$350)* or [7950X](https://camelcamelcamel.com/product/B0BBHD5D8Y) *(~~$699~~ ~$480)*
+- **CPU:** Ryzen 9 [7900X](https://www.newegg.com/p/N82E16819113769) *(~~$549~~ $347)* or [7950X](https://www.newegg.com/p/N82E16819113771) *(~~$699~~ $484)*
 - **GPU:** RX 7900 XT / RTX 4070 Ti Super
 	- **better:** RX 7900 XTX / RTX 4080 Super
 - **power supply:** *at least 1000W*
