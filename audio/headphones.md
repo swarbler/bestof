@@ -47,11 +47,23 @@ nav_order: 2
 
 #### Wired
 
-- **under $100:** Phillips SHP9600 *($69)* / Sony MDR-7506 *($99)*
-- **just over $100:** Hifiman HE400SE *($109)*
-- **under $200:** Beyerdynamic DT 770 Pro *($149)* / AKG K361 *($119)* or K371 *($179)*
-- **just over $200:** Sennheiser HD 560S *($229)*
-- **under $300:** Hifiman Sundara *($279)*
-- **under $500:** Sennheiser HD 600 *($449)* or HD 650 *($499)*
-
-> The Massdrop x Sennheiser HD 6XX is quite good for $200
+- **under $150** 
+	- AKG K361 *($119)* 
+	- Fiio FT1 *($149)*
+	- Hifiman HE400SE *($109)*
+	- Phillips SHP9600 *($69)* 
+	- Sony MDR-7506 *($99)*
+- **under $250** 
+	- AKG K371 *($179)*
+	- Beyerdynamic DT 770 Pro *($149)*
+	- Massdrop x Sennheiser HD 6XX *(~~$219~~ $199)*
+	- Sennheiser HD 560S *(~~$229~~ $199)*
+- **under $300** 
+	- Hifiman Sundara *($279)*
+	- Sennheiser HD 550 *($299)*
+- **under $500** 
+	- Sony MDR-MV1 *($399)* 
+	- Sennheiser HD 490 Pro *($399)*
+	- Sennheiser HD 600 *($449)* or HD 650 *($499)*
+- **under $1000**
+	- Focal Clear *(~~$990~~ $790)* or Hadeyns *(~~$699~~ $649)*
