@@ -7,16 +7,13 @@ nav_order: 4
 
 #### On-Camera
 
-- **under $100:** Sennheiser MKE 200 *($66)*
-
-> The Rode VideoMic Go II *($99)* is also okay, but the shock mount is quite annoying
-
-- **under $200:** Sennheiser MKE 400 *($177)*
+- **under $100:** Rode VideoMic Go II *($99)* / Sennheiser MKE 200 *($79)*
+- **under $200:** Sennheiser MKE 400 *($199)*
 
 #### Shotgun
 
 - **standard:** Audio-Technica AT875R *($169)*
-- **longer distance:** Sennheiser MKE 600 *($295)*
+- **longer distance:** Sennheiser MKE 600 *($329)*
 more to be added soon?
 
 #### Lavalier
