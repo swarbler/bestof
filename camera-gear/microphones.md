@@ -21,8 +21,7 @@ nav_order: 4
 - **under $500:** Rode NTG5 *($499)*
 - **under $700:** Rode NTG3 *($699)*
 - **under $1000:** Sennheiser MKH 416 *($899)*
-- **over $1500** 
-	- Sennheiser MKH 8060 *($1599)*
+- **over $1500:** Sennheiser MKH 8060 *($1599)*
 
 ## Hypercardioid (indoor boom mics)
 
