@@ -40,23 +40,45 @@ nav_order: 3
 	- **around $100:** Tofu60 *($108)*
 	- **under $150:** QK60 *($145)*
 - **65%** 
-	- **around $100:** KBD67 Laite *($109 for wired, $129 for wireless)*
+	- **around $100:** KBD67 Lite *($109 for wired, $129 for wireless)*
+	- **under $150**
+		- Monsgeek M7W *($136)*
+		- Monsgeek M7 VIA *($113)*
 	- **under $200:** QK65 V2 *($165 to $185 depending on colour)*
-	- **Keychron:** V2 Barebones *(~~$74~~ $64)* / Q2 Max Barebones *($189)*
+	- **Keychron** 
+		- V2 Barebones *(~~$74~~ $64)* 
+		- Q2 Max Barebones *($189)*
 - **75%** 
-	- **under $100:** NextTime75 *($59 or $67 depending on colour)* / Monsgeek M1W V3 *(~~$99~~ $89)* / Akko 5075B *($59)*
-	- **under $150:** Cidoo V75 Plus VIA kit *($133)*
+	- **under $100** 
+		- NextTime X75 *($59 or $67 depending on colour)* 
+		- Feker IK75 Pro *($90)*
+		- Akko 5075B *($59)*
+	- **under $150** 
+		- Cidoo V75 Plus VIA kit *($133)*
+		- MonsGeek M1 V5 VIA *($136, $147 for ISO layout)*
 	- **under $200:** QK75N *($180 or $195 depending on colour)*
-	- **Keychron:** V1 Barebones *(~~$64~~ $54, ~~$74~~ $64 with knob)* / Q1 Max Barebones *($189)*
+	- **Keychron** 
+		- V1 Barebones *(~~$64~~ $54, ~~$74~~ $64 with knob)* 
+		- Q1 Max Barebones *($189)*
 - **TKL**
-	- **under $100:** ?
-	- **under $150:** Nuphy Gem80 *($149 for wired, $169 for tri-mode)*
+	- **under $100:** Flesports MK870 *($57)* / NK87 *(~~$135~~ $75)*
+	- **around $150** 
+		- Nuphy Gem80 *($149 for wired, $169 for tri-mode)*
+		- Monsgeek M3W *($147)*
+		- Monsgeek M3 QMK *($147)*
 	- **around $200:** QK80 MK2 *($199 or $209 depending on colour)*
-	- **Keychron:** V3 Barebones *(~~$74~~ $64)* / Q3 Max Barebones *($194)*
+	- **Keychron** 
+		- V3 Barebones *(~~$74~~ $64)* 
+		- Q3 Max Barebones *($194)*
 - **full-size**
-	- **under $100:** ?
+	- **under $100:** *besides Keychron, there aren't too many under $100*
+	- **around $150:** Monsgeek M5W *($154)*
 	- **under $200:** QK100 *($165 or $175 depending on colour)*
-	- **Keychron:** V6 Barebones *($79)* / Q6 Max Barebones *($199)*
+	- **Keychron** 
+		- V6 Barebones *($79)* 
+		- Q6 Max Barebones *($199)*
+
+> If you really want to pay up, more aesthetic-oriented keyboards such as the Mode Sonnet have options for things like walnut and copper. Those are expensive, however, and most people likely aren't willing to spend that much on a keyboard.
 
 #### Switches
 
