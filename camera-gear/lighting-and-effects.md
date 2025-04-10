@@ -19,21 +19,25 @@ nav_order: 5
 ## Video Lights
 
 - **daylight** 
-	- **100W:** Aputure amaran 100d *($199)*
-	- **200W:** Aputure amaran 200d *($299)*
+	- **60W:** amaran 60d *($169)*
+		- **metal body + focusing lens:** Aputure LS 60d *($299)*
+	- **100W:** amaran 100d *($199)*
+	- **200W:** amaran 200d *($299)*
 - **bi-colour** 
-	- **100W:** Aputure amaran 100x *($249)*
-	- **200W:** Aputure amaran 200x *($349)*
+	- **60W:** amaran 60x *($199)*
+		- **metal body + focusing lens:** Aputure LS 60x *($419)*
+	- **100W:** amaran 100x *($249)*
+	- **200W:** amaran 200x *($349)*
 - **colour** 
-	- **150W:** Aputure amaran 150c *($359)*
-	- **300W:** Aputure amaran 300c *($569)*
+	- **150W:** amaran 150c *($359)*
+	- **300W:** amaran 300c *($569)*
 
 #### Accents
 
 - **panels:** 
 	- **around or under $100 per light** 
-		- **bi-colour:** Aputure amaran Ace 25x *($69, $95 for kit w/ case + accessories)*
-		- **colour:** Aputure amaran Ace 25c *($99, $125 for kit w/ case + accessories)*
+		- **bi-colour:** amaran Ace 25x *($69, $95 for kit w/ case + accessories)*
+		- **colour:** amaran Ace 25c *($99, $125 for kit w/ case + accessories)*
 	- **under $200 per light:** Aputure MC Pro *($199 for one, $1899 for 8-light kit w/ charging case)*
 
 > The MC Pro is better built and has an IP65 rating, but the amaran Ace 25c is 5x brighter. To achieve this, the amaran Ace 25c has a fan (which makes noise) whereas the MC Pro does not. The MC Pro can also be charged in a case, whereas the amaran Ace 25c cannot.
