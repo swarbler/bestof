@@ -80,7 +80,7 @@ nav_order: 1
 
 > The Dell XPS 13 AI looks promising. Excellent battery life with a Snapdragon processor, a haptic trackpad, and a beautiful design that suits the XPS lineup.
 > 
-> However, the keyboard is edge-to-edge and isn’t fun to type on, the trackpad is “invisible”, the function keys are capacitive (touch) rather than physical, and it has HORRIBLE ports, even worse than the Yoga Slim 7x with only TWO USB-C ports! I do jot recommend the XPS 13 due to these issues, especially given the price.
+> However, the keyboard is edge-to-edge and isn’t fun to type on, the trackpad is “invisible”, the function keys are capacitive (touch) rather than physical, and it has HORRIBLE ports, even worse than the Yoga Slim 7x with only TWO USB-C ports! I do not recommend the XPS 13 due to these issues, especially given the price.
 
 - **powerful:** Legion Pro 5/5i or 7i *(Gen 10)* / ROG Zephyrus G14/16 *(2025)*
 	- ***summary:***
