@@ -16,11 +16,6 @@ nav_order: 1
 
 > The best budget laptops are used laptops, such as old ThinkPads. Alternatively, look for a really good sale on a laptop with decent specs
 
-- **cheaper:** HP Pavillon Aero 13
-	- *Ryzen 5 8640U*
-	- **screen:** *13” 60hz IPS*
-	- **ports:** *2x USB-C 10Gbps, 2x USB-A 5Gbps, HDMI 2.1, audio jack*
-	- **memory + storage:** *up to 16GB + 1TB* 
 - **everyday** 
 	- **ARM:** Surface Laptop 7 / Yoga Slim 7x / Zenbook A14
 		- *Snapdragon X series*
@@ -41,7 +36,7 @@ nav_order: 1
 			- **screen:** *14" 16:10 60hz IPS (OLED for X Elite varient)*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 1TB*
-	- **x86 (AMD):** Omnibook Ultra 14 / Yoga Pro 7 / Zenbook S 16
+	- **x86 (AMD Strix Point):** Omnibook Ultra 14 / Yoga Pro 7 / Zenbook S 16
 		- *Ryzen AI 9 300 series*
 		- ***summary:***
 			- **Omnibook Ultra 14** is a good value option with *a smaller 14" screen and good battery life* but is *IPS and 60hz*
@@ -59,7 +54,7 @@ nav_order: 1
 			- **screen:** *16" 16:10 120hz OLED touchscreen*
 			- **ports:** *2x USB-C 40Gbps + USB-A 10Gbps + HDMI 2.1 + audio jack + SD card reader*
 			- **memory + storage:** *up to 32GB + 2TB*
-	- **x86 (Intel):** Yoga Slim 7i Aura Edition / Zenbook S 14 / Thinkpad X9
+	- **x86 (Intel Lunar Lake):** Yoga Slim 7i Aura Edition / Zenbook S 14 / Thinkpad X9
 		- *Core Ultra Series 2*
 		- ***summary:***
 			- **Yoga Slim 7i Aura Edition** is a great option with *good keyboard + solid build quality* but the screen is *LCD*
