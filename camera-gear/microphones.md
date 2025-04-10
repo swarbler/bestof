@@ -19,8 +19,8 @@ nav_order: 4
 	- Deity S-Mic 2 *($359)* or S-Mic 3 *($399)*
 	- Rode NTG4+ *($399)*
 - **under $500:** Rode NTG5 *($499)*
-- **under $700:** Rode NTG3 *($699)*
-- **under $1000:** Sennheiser MKH 416 *($899)*
+- **over $500:** Rode NTG3 *($699)*
+- **over $800:** Sennheiser MKH 416 *($899)*
 - **over $1500:** Sennheiser MKH 8060 *($1599)*
 
 ## Hypercardioid (indoor boom mics)

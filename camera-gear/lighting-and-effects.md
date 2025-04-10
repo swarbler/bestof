@@ -18,13 +18,21 @@ nav_order: 5
 
 ## Video Lights
 
-- **main:** Aputure amaran 200x *($349)*
-- **secondary:** Aputure amaran 100d *($199)*
-- **portable:** Smallrig RC-60B *(~~$199~~ $169)*
+- **daylight** 
+	- **100W:** Aputure amaran 100d *($199)*
+	- **200W:** Aputure amaran 200d *($299)*
+- **bi-colour** 
+	- **100W:** Aputure amaran 100x *($249)*
+	- **200W:** Aputure amaran 200x *($349)*
+- **colour** 
+	- **150W:** Aputure amaran 150c *($359)*
+	- **300W:** Aputure amaran 300c *($569)*
 
 #### Accents
 
-- **panels:** Aputure MC Pro *($199 for one, $1899 for 8-light kit w/ charging case)*
+- **panels:** 
+	- **under $100 per light:** Aputure amaran Ace 25c *($99, $125 for kit w/ case + accessories)*
+	- **under $200 per light:** Aputure MC Pro *($199 for one, $1899 for 8-light kit w/ charging case)*
 - **tubes:** Nanlite Pavotube T8-7X *($95 for one, $398 for 4-light kit)*
 - **bulbs:** Aputure B7C *($70 for one, $799 for 8-light kit w/ charging case)*
 
