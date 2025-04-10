@@ -31,7 +31,9 @@ nav_order: 5
 #### Accents
 
 - **panels:** 
-	- **under $100 per light:** Aputure amaran Ace 25c *($99, $125 for kit w/ case + accessories)*
+	- **around or under $100 per light** 
+		- **bi-colour:** Aputure amaran Ace 25x *($69, $95 for kit w/ case + accessories)*
+		- **colour:** Aputure amaran Ace 25c *($99, $125 for kit w/ case + accessories)*
 	- **under $200 per light:** Aputure MC Pro *($199 for one, $1899 for 8-light kit w/ charging case)*
 
 > The MC Pro is better built and has an IP65 rating, but the amaran Ace 25c is 5x brighter. To achieve this, the amaran Ace 25c has a fan (which makes noise) whereas the MC Pro does not. The MC Pro can also be charged in a case, whereas the amaran Ace 25c cannot.
