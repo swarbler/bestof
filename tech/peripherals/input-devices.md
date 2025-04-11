@@ -17,6 +17,9 @@ nav_order: 2
 	- **cheaper:** Logitech M650 Signature *(~~$39~~ $34)*
 	- **upgrade:** MX Anywhere 3 or 3S *($79)* 
 		- *MX Anywhere 3**S** is silent*
+- **the tiniest option:** Logitech Pebble Mouse 2 M350s *(~~$49~~ $24)*
+
+> The Pebble Mouse is not ergonomic at all due to its flat shape, but it is small and easily fits in a laptop sleeve. 
 
 > If you want a more lightweight mouse, get a gaming mouse. Gaming mice can be decent productivity mice as well.
 

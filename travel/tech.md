@@ -5,12 +5,6 @@ nav_order: 2
 ---
 # Travel Tech
 
-#### Mouse
-
-- **mouse:** MX Anywhere 3S *(~~$79~~ $69)* / Razer Pro Click Mini *(~~$79~~ $49)*
-	- *MX Anywhere 3**S** is silent*
-- **drawing tablet:** Wacom Intuos S *($79)*
-
 #### Portable Monitors
 
 - **IPS:** ThinkVision M14 14" *($239)* / Zenscreen MB166C 16" *($119)*
