@@ -11,7 +11,19 @@ nav_order: 2
 - [earbuds/IEMs](https://swarbler.github.io/bestof/audio/headphones/#in-ear)
 - [MP3 players](https://swarbler.github.io/bestof/audio/vintage/)
 
-## Portable Monitors
+## Peripherals
+
+#### Input Devices
+
+- **mouse:** Logitech Pebble Mouse 2 M350s *(~~$49~~ $24)*
+
+> The Pebble Mouse is not very ergonomic due to its flat shape, but it is small and easily fits in a laptop sleeve. 
+
+- **drawing tablet** 
+	- **wired:** Huion Inspiroy 2 S *($49)*
+	- **wireless:** Wacom Intuos S *($79)*
+
+#### Portable Monitors
 
 - **IPS:** ThinkVision M14 14" *($239)* / Zenscreen MB166C 16" *($119)*
 - **OLED:** Zenscreen MQ13AH 13" *($299)* / MQ16AH 16" *($309)*
@@ -26,6 +38,17 @@ nav_order: 2
 
 - [retro handhelds](https://swarbler.github.io/bestof/retro/handhelds/)
 - [PC handhelds](https://swarbler.github.io/bestof/gaming/handhelds/)
+
+## Power
+
+- [chargers](https://swarbler.github.io/bestof/tech/data-and-power/power/chargers/)
+- [power banks](https://swarbler.github.io/bestof/tech/data-and-power/power/batteries/)
+- [cables](https://swarbler.github.io/bestof/tech/data-and-power/power/cables/)
+
+## Data
+
+- [external drives](https://swarbler.github.io/bestof/tech/data-and-power/data/storage/external-drives/)
+- [cables](https://swarbler.github.io/bestof/tech/data-and-power/data/cables/)
 
 ## Other
 
