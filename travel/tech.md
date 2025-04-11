@@ -5,7 +5,13 @@ nav_order: 2
 ---
 # Travel Tech
 
-#### Portable Monitors
+## Audio
+
+- [headphones](https://swarbler.github.io/bestof/audio/headphones/#over-ear)
+- [earbuds/IEMs](https://swarbler.github.io/bestof/audio/headphones/#in-ear)
+- [MP3 players](https://swarbler.github.io/bestof/audio/vintage/)
+
+## Portable Monitors
 
 - **IPS:** ThinkVision M14 14" *($239)* / Zenscreen MB166C 16" *($119)*
 - **OLED:** Zenscreen MQ13AH 13" *($299)* / MQ16AH 16" *($309)*
@@ -16,7 +22,12 @@ nav_order: 2
 > 
 > If you find any of the other three for cheaper than the MB166C on a deal, get those, as they seem to be identical besides some very small differences. The other option is to get the significantly less confusing ThinkVision M14.
 
-#### Other
+## Gaming
+
+- [retro handhelds](https://swarbler.github.io/bestof/retro/handhelds/)
+- [PC handhelds](https://swarbler.github.io/bestof/gaming/handhelds/)
+
+## Other
 
 - **reading light:** [Glocusent](https://www.amazon.com/dp/B09PR1BTM7) *(~~$20~~ $15)*
 - **desk lamp:** Ottlite *($44)*
