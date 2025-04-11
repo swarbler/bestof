@@ -24,16 +24,26 @@ nav_order: 1
 
 > The CeraVe PM is great for all skin types, whereas the La Roche matte is amazing for oily skin. Other facial moisturisers may be worth considering depending on your skin type 
 
-## Drying
-
-#### Towels and Mats
+## Towels
 
 *$ depends on size*
-- **towels**
-	- **cheaper:** Costco / Ikea / Target
-	- **better:** Onsen 
-- **bath mat:** Ikea
-- **bath stone:** Dorai
+
+#### Cotton
+
+- **cheaper:** Costco / Ikea / Target
+- **better:** *Turkish cotton towel*
+- **waffle:** Onsen 
+
+> Turkish cotton towels are very absorbant and dry faster than traditional towels. Waffle towels also dry much faster than traditional towels. 
+
+#### Linen
+
+*brand does not really matter all too much*
+
+## Bath Mats
+
+- **cloth:** Ikea
+- **stone:** Dorai
 
 > do **not** get bath mats with a rubber backing, they don't last as long!
 
