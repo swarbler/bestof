@@ -9,16 +9,17 @@ nav_order: 1
 
 #### non-Android
 
-- **smaller:** TrimUI Brick *($79)* / Miyoo Mini Plus *(~~$89~~ $69)*
+- **smaller:** Miyoo Mini Plus *($53)* / TrimUI Brick *($79)* 
+	- **even smaller:** Miyoo Mini *($57)*
 - **standard:** Anbernic RG40XXV *($66)*
 - **clamshell:** Anbernic RG 35XXSP *(~~$64~~ $49)* / Miyoo Flip V2 *($89)*
-- **horizontal:** Anbernic RG 35XXH *(~~$64~~ $54)*
+- **horizontal:** Anbernic RG 35XX H *(~~$67~~ $54)*
 
 #### Android
 
 - **a bit over $150:** Anbernic RG406H *(~~$167~~ $159)*
 - **under $250:** Retroid Pocket 5 *($219)*
-- **around $300:** Odin 2 series *(~~$319~~ $299)*
+- **over $300:** Odin 2 series *($329)*
 
 ## Hardware Emulators
 
