@@ -6,6 +6,8 @@ nav_order: 4
 # Microphones
 
 > Audio is purely subjective, your tastes may vary! These are just some popular options that are well-reviewed online!
+> 
+> Also note that the microphone that fits you differs depending on your voice and what kind of sound you want to record
 
 ## Mics
 
@@ -31,4 +33,11 @@ nav_order: 4
 
 ## Other Accessories
 
-- **mic arms:** Rode PSA-1 *($109)* / Elgato Wave *($99)* or Wave LP *($99)*
+- **mic arms** 
+	- **under $100:** Rode PSA-1 *($109)* / Elgato Wave *($99)* 
+- **low-profile mic arms**
+	- **under $100:** Elgato Wave LP *($99)*
+- **tablestop mic stands**
+	- **under $20:** Samson MD5 *($19)*
+	- **under $100:** Rode DS2 *($90)* 
+	- **more versatile w/ boom arm:** Shure Desktop 2 *($64)*

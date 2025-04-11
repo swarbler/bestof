@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Desks and Seats
 
-#### Desks
+## Desks
 
 - **standard**
 	- **budget:** *used (Facebook Marketplace, garage sales, etc.)*
@@ -15,7 +15,7 @@ nav_order: 2
 
 > You could also make a DIY desk using spare materials, it's inexpensive and you can make it into any size or shape you want
 
-#### Pillows
+## Pillows
 
 - **throw pillows:** L.L. Bean Wicked Plush Throw Pillow *($29 for 18x18", $39 for 24x24")*
 - **backrest pillows:** L.L. Bean Wicked Plush Sherpa Backrest Pillow *($64)*

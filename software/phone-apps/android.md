@@ -9,26 +9,26 @@ nav_order: 2
 - **email client:** K-9 Mail / Thunderbird
 - **CalDAV / CardDAV:** DAVx5
 
-#### Photos
+## Photos
 
 - **camera app:** Open Camera
 - **image gallery:** Aves Libre
 	- **alternative:** Fossify Gallery
 - **photo editor:** Image Toolbox
 
-#### Audio
+## Audio
 
 - **music player:** Metro / Symphony / Vanilla Music
 - **Navidrome client:** Symfonium
 - **voice recorder:** Audio Recorder / Fossify
 
-#### Productivity
+## Productivity
 
 - **todo.txt:** Simpletask
 - **calendar:** Etar / Fossify
 - **notes:** Markor / Notesnook / Quillpad
 
-#### Social
+## Social
 
 - **RSS reader:** Feeder
 - **Mastodon** 
@@ -40,18 +40,18 @@ nav_order: 2
 	- **direct connection to YT:** NewPipe / SkyTube / Tubular
 	- **piped proxy:** LibreTube
 
-#### Programming
+## Programming
 
 - **code editor:** Acode
 	- **alternative:** SCode Studio
 - **GUI git client:** MGit
 
-#### Security
+## Security
 
 - **local password manager:** KeePassDX
 - **local 2FA:** Aegis
 
-#### Other
+## Other
 
 - **weather:** Breezy Weather
 - **translate:** Lentil Translate / LibreTranslator
@@ -60,7 +60,7 @@ nav_order: 2
 - **clock:** Chronos / Clock You / Fossify
 - **local AI:** Maid
 
-#### System
+## System
 
 - **dialer:** Emerald Dialer / Fossify / Koler
 - **contacts:** Connect You / Fossify Contacts

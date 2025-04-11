@@ -5,7 +5,7 @@ nav_order: 5
 ---
 # VR
 
-#### Standalone Headsets
+## Standalone Headsets
 
 - **under $300:** Quest 3S *($299)*
 - **over $300:** Pico 4 *(**€**389, or about $420)* / Pico 4 Ultra *(**€**599, or about $650)* / Quest 3 *($499)*
@@ -16,7 +16,7 @@ nav_order: 5
 
 > The Pico headsets are not readily available in North America
 
-#### PCVR
+## PCVR
 
 - **headset** 
 	- **standard:** Vive Pro 1 *($799)* w/ GearVR lens mod

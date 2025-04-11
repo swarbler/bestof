@@ -5,7 +5,7 @@ nav_order: 3
 ---
 # Organisation
 
-#### Kitchenware
+## Kitchenware
 
 - **utensil holder:** RSVP International *($47)*
 - **lid holders:** Yamazaki *($23)*
@@ -15,12 +15,12 @@ nav_order: 3
 
 - **knife drawer organiser:** Knife Dock *($29)*
 
-#### Storage
+## Storage
 
 - **metal wire shelves:** Whitmer *($ depends on size)*
 - **bread box:** Brabantia *($49)*
 
-#### Drying
+## Drying
 
 - **drying rack** 
 	- **under $25:** Rubbermaid Sink Drainer *($21)*

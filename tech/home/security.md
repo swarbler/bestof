@@ -5,12 +5,12 @@ nav_order: 4
 ---
 # Security
 
-#### Locks
+## Locks
 
 - **deadbolt:** Schlage B60N *($36)*
 - **smart:** Nuki Smart Lock Pro *(€269)* / Schlage Encode Plus *(~~$329~~ $285)* / Yale Assure Lock 2 *($259 for touchscreen, $239 for keypad)*
 
-#### Safes
+## Safes
 
 *$ depends on size + model*
 - **fireproof safes:** Honeywell / Sentrysafe
@@ -19,13 +19,13 @@ nav_order: 4
 	- **portable:** Kidde Safety Portable KeySafe
 - **fake rock:** Hide-a-Key
 
-#### Security Cameras
+## Security Cameras
 
 - **under $30 each:** TP-Link Tapo C110 *(~~$29~~ $15 for one, ~~$35~~ $29 for 2-pack, ~~$55~~ $47 for 4-pack)*
 - **standard:** TP-Link Tapo C120 *(~~$39~~ $24 for one)*
 - **outdoor cameras:** TP-Link Tapo MagCam *(~~$77~~ $64 for one*
 
-##### Reolink Cameras
+#### Reolink Cameras
 
 - **NVR:** Frigate
 - **indoor cameras:** E1 Zoom
@@ -47,7 +47,7 @@ nav_order: 4
 		- **wide-angle:** Duo 2 PoE
 - **smart doorbell:** Reolink
 
-##### Ubiquiti Cameras
+#### Ubiquiti Cameras
 
 - **cameras** 
 	- **cheaper:** G5 Flex
@@ -55,14 +55,14 @@ nav_order: 4
 	- **outdoor:** G5 Bullet
 - **doorbell:** G4 Doorbell Pro
 
-#### Bluetooth Trackers
+## Bluetooth Trackers
 
-##### iOS
+#### iOS
 
 - **coin style:** AirTag
 - **card style:** Nomad
 
-##### Android
+#### Android
 
 - **coin style:** Moto Tag / Pebblebee
 - **card style:** Pebblebee

@@ -5,7 +5,7 @@ nav_order: 4
 ---
 # Measuring
 
-#### Length Measurements
+## Length Measurements
 
 - **tape measure** 
 	- **standard:** Craftsman 8m *($14)*
@@ -16,13 +16,13 @@ nav_order: 4
 
 > Be careful of counterfeit Mitutoyo calipers! Try not to buy off of Amazon and eBay
 
-#### Measuring Squares
+## Measuring Squares
 
 - **speed squares:** Swanson *($14)*
 - **framing squares:** Shinwa *($14)*
 - **combination squares:** Swanson *(~~$15~~ $12)*
 
-#### Scale
+## Scale
 
 - **standard:** OXO Good Grips *($55)*
 - **precise:** *generic jeweller's scale from Amazon*

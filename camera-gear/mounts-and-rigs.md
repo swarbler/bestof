@@ -7,7 +7,7 @@ nav_order: 7
 
 > Gear from Neewer is quite a bit cheaper, but the build quality is poor and you really wouldn't want to trust it with expensive camera equipment. However, they may be a good budget option if your load is very light.
 
-#### Tripods
+## Tripods
 
 - **mini** 
 	- **standard:** Ulanzi MT-46 *($49)*
@@ -25,13 +25,13 @@ nav_order: 7
 	- **under $600:** Ulanzi VideoFast Carbon Fiber *($599)*
 	- **upgrade:** *used Sachtler Flowtech* 
 
-#### Plates
+## Plates
 
 - **baseplates:** Smallrig *(for all cameras)*
 - **thumbgrips:** Smallrig
 - **cold shoe mounts:** Smallrig
 
-#### Videography Rig
+## Videography Rig
 
 - **cage:** Smallrig / Tilta
 - **side handle:** Smallrig
@@ -41,7 +41,7 @@ nav_order: 7
 - **magic arms:** iFootage Spider Crab
 - **airtag cage:** SmallRig
 
-#### Camera Straps
+## Camera Straps
 
 - **standard:** *Etsy / other*
 - **quick-release**
@@ -49,7 +49,7 @@ nav_order: 7
 	- **for larger cameras:** Peak Design Slide *($79)*
 	- **wrist strap:** Peak Design Cuff *($39)*
 
-#### Gimbals
+## Gimbals
 
 - **under $250:** Zhiyun Cinepeer Weebill 3E *($249)*
 - **under $500:** DJI RS 4 Mini *($369, $459 for Combo, $478 for Creator Combo)* / Zhiyun Crane 4E *($499)*

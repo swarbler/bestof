@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Power Cables
 
-#### USB-C
+## USB-C
 
 - **to USB-C (240W)** 
 	- Belkin BoostCharge: *$14 for 1m, $19 for 2m* 
@@ -20,7 +20,7 @@ nav_order: 2
 
 > The Anker 643 Flow *($13 for 1m, $15 for 2m)* and 641 Flow *($15 for 1m)* have a flexible silicone sheath that's very soft and could be a nice option
 
-#### USB-A
+## USB-A
 
 - **to USB-C** 
 	- Belkin BoostCharge: *$9 for 1m, $14 for 2m, $19 for 3m*
@@ -33,6 +33,6 @@ nav_order: 2
 	- Anker Powerline+ II: *$16 for 1m, $17 for 2m, $18 for 3m*
 - **to microUSB:** Anker Powerline *($15 for 3-pack)*
 
-#### Adapters
+## Adapters
 
 - **USB-C to USB-A:** CableCreation *($19 for 3-pack)*

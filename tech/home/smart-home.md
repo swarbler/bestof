@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Smart Home
 
-#### Smart Hubs
+## Smart Hubs
 
 - **hub:** Home Assistant
 	- **AI accelerator:** Coral *($73)*
@@ -15,7 +15,7 @@ nav_order: 1
 - **display panel:** Sonoff NSPanel Pro *($109)*
 	- **alternative:** *cheap Android tablet*
 
-#### Smart Speakers + Voice Control
+## Smart Speakers + Voice Control
 
 - **voice assistant:** Mycroft / OpenVoiceOS
 	- **alternative:** Assist *(Home Assistant)*
@@ -23,7 +23,7 @@ nav_order: 1
 	- **cheaper:** Ikea Symfonysk 
 	- **standard:** Sonos
 
-#### Smart Plugs and Outlets
+## Smart Plugs and Outlets
 
 - **plugs** 
 	- **standard:** TP-Link Kasa *(WiFi, ~~$19~~ $14 for 2-pack, ~~$29~~ $23 for 4-pack)*
@@ -35,7 +35,7 @@ nav_order: 1
 	- **alternative:** Eve Energy Power Strip *(WiFi, **€**99 for one, ~~€199~~ **€**179 for 2-pack)*
 - **outlets:** Leviton Decora *(WiFi, $ depends on model)*
 
-#### Smart Sensors
+## Smart Sensors
 
 - **motion:** Aqara P1 *(Zigbee, $22)*
 - **precence:** Aqara FP2 *(WiFi, $85)*
@@ -48,23 +48,23 @@ nav_order: 1
 	- **"dumb looking":** Honeywell T6 Pro *(WiFi / Z-Wave, $ varies depending on model)*
 	- **"smart looking":** Ecobee *(WiFi, ~~$189~~ $164 for Enhanced, $249 for Premium)*
 
-#### Usage Monitors
+## Usage Monitors
 
 - **power:** Emporia Vue *($209)*
 - **water:** Flume *($199)*
 
-#### Safety
+## Safety
 
 - **smoke + CO:** First Alert *($ depends on model)*
 - **water leak sensors:** Aqara *(Zigbee, $19 for one, $69 for 3-pack)*
 
-#### Controls
+## Controls
 
 *$ depends on model*
 - **buttons:** *Zigbee buttons*
 - **knobs:** *Zigbee knobs*
 
-#### Shades
+## Shades
 
 *$ depends on size + material + colour*
 - **cheaper:** Ikea *(WiFi)*

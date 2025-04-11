@@ -5,7 +5,7 @@ nav_order: 3
 ---
 # Nintendo Switch
 
-#### Carry Bags
+## Carry Bags
 
 - **switch case:** tomtoc FancyCase-G05 *($30)*
 - **switch bag** 
@@ -14,7 +14,7 @@ nav_order: 3
 	- **waxed canvas:** Waterfield CitySlicker *($88)*
 - **game card bag:** tomtoc Arccos-G46 *($49)*
 
-#### Other Accessories
+## Other Accessories
 
 - **travel dock** 
 	- **smaller:** Genki Covert Dock Mini *($49)*

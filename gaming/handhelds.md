@@ -9,7 +9,7 @@ nav_order: 2
 
 > The ROG Ally *($459)* with Bazzite may also be worth considering
 
-#### Accessories
+## Accessories
 
 - **grip case:** dbrand KillSwitch *(~~$64~~ $59)*
 - **skins:** dbrand *($ depends on skin)*

@@ -9,7 +9,7 @@ nav_order: 4
 - **key organiser:** Keyport Pivot *($ depends on modules that you pick)*
 - **passport holder:** Bellroy Passport Cover *($99)*
 
-#### Hardware Keys
+## Hardware Keys
 
 - **standard size** 
 	- **USB-C:** YubiKey 5C NFC *($55)*

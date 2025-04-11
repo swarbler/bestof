@@ -49,7 +49,7 @@ nav_order: 1
 - **bowl scrapers:** KitchenAid *($7 for set of 2)*
 - **bench scrapers:** Dexter-Russell *(~~$18~~ $13)*
 
-##### Cakes
+#### Cakes
 
 - **cake strip:** Rose’s Heavenly *($13)*
 - **cake lifter:** Fat Daddio's *($24)*

@@ -5,7 +5,7 @@ nav_order: 4
 ---
 # Other
 
-#### Nails
+## Nails
 
 - **clippers** 
 	- **under $10:** Muji *($9)*
@@ -13,6 +13,6 @@ nav_order: 4
 		- **smaller:** Seki Edge SS-106 *($18)*
 - **files:** *etched glass*
 
-#### Shaving
+## Shaving
 
 - **razor:** Gilette Mach3 *($9)*

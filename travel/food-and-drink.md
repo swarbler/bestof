@@ -5,9 +5,9 @@ nav_order: 3
 ---
 # Food and Drink
 
-#### Water Bottles
+## Water Bottles
 
-##### Standard Water Bottles
+#### Standard Water Bottles
 
 - **metal** 
 	- **attached lid:** Takeya Active
@@ -19,16 +19,16 @@ nav_order: 3
 
 > Purist Collective water bottles prevent the "metal" taste with a "glass-like layer", but they are much more expensive than similar sized bottles
 
-##### Thermos
+#### Thermos
 
 - **standard:** Zojirushi SJ-J10 *($39)*
 - **larger:** Stanley Classic Legendary 2.5QT *($55)*
 
-##### Cleaning
+#### Cleaning
 
 - **water bottle cleaning set:** OXO Good Grips *($7)*
 
-#### Food Containers
+## Food Containers
 
 - **plastic containers:** Rubbermaid Brilliance *($ depends on size)*
 - **food thermos:** Zojirushi *($ depends on size)*
@@ -39,7 +39,7 @@ nav_order: 3
 	- **standard:** L.L. Bean *($19)*
 	- **better:** Carhatt *($39 to $199 depending on size)*
 
-#### Utensils
+## Utensils
 
 - **travel utensil set:** Full Windsor Magware *($34 for set, $34 for chopsticks)*
 - **reusable straws:** OXO Good Grips *($15)*

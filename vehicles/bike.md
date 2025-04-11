@@ -18,13 +18,13 @@ nav_order: 2
 	- **cargo:** Lectric XPedition 2.0 *($1399)*
 	- **very customisable:** Electric Bike Company Model S *($2499)*
 
-#### Safety
+## Safety
 
 - **bicycle helmet:** Specialized Align II *($54)* or Mode *(~~$119~~ $49)*
 - **headlight:** Planet Bike Beamer 700 *($50)*
 - **taillight:** Knog Blinder V *($49)* 
 
-#### Accessories
+## Accessories
 
 - **bike pump** 
 	- **standard:** Lezyne Classic Floor Drive 3.5 *($79)*

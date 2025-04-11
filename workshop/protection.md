@@ -5,14 +5,14 @@ nav_order: 6
 ---
 # Protection
 
-#### Face/Eye
+## Face/Eye
 
 - **mask:** RZ mask *($39)*
 - **full-face respirator:** 3M *(~$100-250 depending on model)*
 - **safety goggles:** DeWalt DPG82 *($12)*
 - **laser safety eyewear:** Laservision *(lasersafety.com)* / Cloudray
 
-#### Hand
+## Hand
 
 - **cut-resistant gloves:** NoCry *($13)*
 - **nitrile gloves** 
@@ -21,23 +21,23 @@ nav_order: 6
 
 > do **NOT** wear gloves when using power tools!
 
-#### Ear
+## Ear
 
 - **ear muffs:** 3M *($ depends on model)*
 - **headphones:** 3M Worktunes Connect *($ depends on model)*
 
-#### Mats
+## Mats
 
 - **self-healing cutting mat:** Olfa *($70 for 24" x 36", $38 for 18" x 24")* / Fiskars *($44 for 24" x 36", $32 for 18" x 24")* 
 - **magnetic project mat:** iFixit *($19)*
 
-#### Table Saw
+## Table Saw
 
 - **push sticks:** *comes with SawStop table saw*
 - **push blocks:** Microjig GRR-Ripper *($49)*
 - **table saw blade cleaner:** MicroJig Bladeclean *($14)*
 
-#### Welding
+## Welding
 
 - **welding helmet:** Lincoln Electric Viking 3350 *(~~$528~~ $309)*
 - **welding jacket:** Lincoln Electric *($55)*
@@ -51,6 +51,6 @@ nav_order: 6
 
 > The Dickies carpenter jeans *($39)* are a good cheaper option for welding pants, but are **NOT** flame resistant!
 
-#### Paint
+## Paint
 
 - **spray booth:** Master Airbrush *($119)*

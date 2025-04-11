@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Cloud Services
 
-#### Everyday
+## Everyday
 
 - **email** 
 	- **free:** *any is fine, IMAP ones are preferred*
@@ -19,12 +19,12 @@ nav_order: 1
 
 - **notes:** Cryptpad / Etherpad
 
-#### Communication
+## Communication
 
 - **messaging:** Signal / Element / Jami
 - **file sharing:** Send
 
-#### Productivity
+## Productivity
 
 - **to-do list:** Vikunja
 - **calendar/contacts:** fruux
@@ -33,30 +33,30 @@ nav_order: 1
 - **grammar checker:** Language Tool
 - **translation:** Lingva Translate / LibreTranslate
 
-#### Data
+## Data
 
 - **storage:** pCloud
 	- **alternative:** IceDrive / BackBlaze / Proton Drive
 - **photos:** ente
 
-#### Media
+## Media
 
 - **RSS feeds:** RSSHub / RSS-Bridge
 - **music** 
 	- **subscription:** Tidal
 	- **purchasing songs:** Bandcamp
 
-#### Social
+## Social
 
 - **Mastodon**
 - **Lemmy**
 - **Pixelfed**
 
-#### Programming
+## Programming
 
 - **git:** Codeberg / GitHub
 
-#### Security
+## Security
 
 - **password manager:** Bitwarden
 
@@ -66,7 +66,7 @@ nav_order: 1
 - **VPN:** Proton VPN / Mullvad VPN
 - **DNS:** Cloudflare / NextDNS
 
-#### Other
+## Other
 
 - **custom domains:** Porkbun
 	- **alternative:** namecheap

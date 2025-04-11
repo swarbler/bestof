@@ -5,7 +5,7 @@ nav_order: 7
 ---
 # Lawn
 
-#### Lawn Mowers
+## Lawn Mowers
 
 - **electric:** Ego Power+ / Ryobi *($ depends on model)*
 
@@ -13,6 +13,6 @@ nav_order: 7
 
 - **gas:** Honda *($ depends on model)*
 
-#### Weed Wackers
+## Weed Wackers
 
 - **electric:** Ego Power+ / Ryobi *($ depends on model)*

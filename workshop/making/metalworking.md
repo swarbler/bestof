@@ -5,13 +5,13 @@ nav_order: 6
 ---
 # Metalworking
 
-#### Welders
+## Welders
 
 - **MIG:** Yeswelder MIG-205DS *($479)*
 - **TIG:** Titanium *(Harbor Freight, ~$320)*
 - **upgrade multi-process:** Lincoln Electric K4876-1 *($2099)*
 
-#### Tools
+## Tools
 
 - **angle grinders**
 	- **corded:** Metabo *($289)*
@@ -23,7 +23,7 @@ nav_order: 6
 	- **standard:** Shop Fox
 	- **upgrade:** JET industrial
 
-#### Other
+## Other
 
 - **metal polish** 
 	- **all-arounder:** Autosol *(cheap and great at everything)*

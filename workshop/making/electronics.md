@@ -5,7 +5,7 @@ nav_order: 3
 ---
 # Electronics
 
-#### Precision Tools
+## Precision Tools
 
 - **precision screwdriver** 
 	- **budget:** Jakemy *(see Aliexpress, Taobao, etc.)*
@@ -29,26 +29,26 @@ nav_order: 3
 > 
 > Some people online say that the app is terrible and that the light-up logo is gimmicky, but I have not tested this myself so I cannot confirm this. 
 
-#### Wire Strippers
+## Wire Strippers
 
 - **wire strippers:** Knipex Forged *($49)*
 - **automatic wire strippers:** Knipex *(~~$48~~ $44)*
 
-#### Soldering
+## Soldering
 
-##### Soldering Irons
+#### Soldering Irons
 
 - **smart soldering iron:** Pinecil *($39)*
 - **soldering station:** Weller WE1010 *($115)* / Hakko FX888D *($121)*
 
-##### Solder and Flux
+#### Solder and Flux
 
 - **solder**
 	- **leaded:** Kester 44 63/37 *($38)*
 	- **lead-free:** Kester 275 *($51)*
 - **flux:** Stirri V3 TF *($27)*
 
-##### Other Accessories
+#### Other Accessories
 
 - **helping hands** 
 	- **standard:** Kotto *($23)*
@@ -57,7 +57,7 @@ nav_order: 3
 - **tip cleaner:** Hakko 599B *($9)*
 - **solder smoke absorber:** Kotto *($39)*
 
-#### Magnifying
+## Magnifying
 
 - **magnifying lamp:** Aven Mighty Vue Pro *($264)*
 - **magnifying glasses:** OptiVisor DA *(~$50-60 depending on magnification)*

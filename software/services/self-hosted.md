@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Self-Hosted Services
 
-#### Everyday
+## Everyday
 
 - **email:** mailcow / mail-in-a-box
 - **search engine:** SearXNG
@@ -13,12 +13,12 @@ nav_order: 2
 	- **standard:** Cryptpad / Etherpad / HedgeDoc / Livebook / *others*
 	- **twitter feed style:** Memos
 
-#### Communication
+## Communication
 
 - **messaging:** Element
 - **file sharing:** Send
 
-#### Productivity
+## Productivity
 
 - **to-do list:** Vikunja
 - **calendar/contacts:** Baikal / Radicale
@@ -27,31 +27,31 @@ nav_order: 2
 - **grammar checker:** Language Tool
 - **translation:** Argos Translate
 
-#### Data
+## Data
 
 - **storage:** Nextcloud
 - **photos:** Immich
 - **videos:** Jellyfin
 - **peer-to-peer syncing:** Syncthing
 
-#### Media
+## Media
 
 - **RSS feed:** RSSHub / RSS-Bridge
 - **music:** Navidrome
 - **YouTube media server:** TubeArchivist
 - **e-books:** Calibre / Kavita / Readarr
 
-#### Social
+## Social
 
 - **Mastodon**
 - **Lemmy**
 - **Pixelfed**
 
-#### Programming
+## Programming
 
 - **git:** Gitea
 
-#### Security
+## Security
 
 - **password manager:** Vaultwarden
 - **VPN:** Tailscale

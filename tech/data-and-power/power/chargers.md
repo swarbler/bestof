@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Chargers
 
-#### USB Chargers
+## USB Chargers
 
 - **cheaper** 
 	- **20W:** Apple 20W *($19)*
@@ -23,7 +23,7 @@ nav_order: 2
 	- **60W:** Leviton T5636 *(~~$79~~ $58)*
 		- **alternative:** Leviton T5836 *(20A A/C outlets)*
 
-#### Wireless Chargers
+## Wireless Chargers
 
 - **magnetic charging puck:** Apple MagSafe 25W *($39 for 1m, $49 for 2m)* / Belkin *(with metal kickstand, $49 for 2m)*
 - **magnetic stand:** Anker MagGo *(~~$35~~ $30)*
@@ -32,14 +32,12 @@ nav_order: 2
 
 > Another option for a magnetic stand/dock is to 3D print your own!
 
-#### Plug Adapters
+## Plug Adapters
 
 - **travel adapter set:** [Ceptics](https://www.amazon.com/dp/B00E0P2GLM) *($10)*
 - **universal travel adapter:** [Epicka](https://www.amazon.com/dp/B078S3M2NX) *(~~$24~~ $22)*
 
-#### Camera Battery Chargers
-
-##### Cameras
+## Camera Battery Chargers
 
 - **triple charger + SD card slots:** Jupio Tri-Charge *($129)*
 	- *Sony / Canon / Nikon / Fuji / Panasonic Lumix*
@@ -53,6 +51,6 @@ nav_order: 2
 
 > First-party camera battery chargers are expensive, but are a safer option if you are concerned with third-party chargers.
 
-#### Other
+## Other
 
 - **drone charging dock:** DJI charging display base *(DJI Mini 2 only)*

@@ -5,7 +5,7 @@ nav_order: 5
 ---
 # Operating Systems
 
-#### Linux Distros
+## Linux Distros
 
 - **standard** 
 	- **fixed release** 
@@ -19,7 +19,7 @@ nav_order: 5
 
 > Deepin is also a good distro with great aesthetics, but is more focused at a Chinese audience. It seems to be the best option if you want a Chinese language distro.
 
-#### Other
+## Other
 
 - **boot drive** 
 	- **standard:** Rufus / Etcher
