@@ -20,7 +20,7 @@ nav_order: 1
 - **full-size** 
 	- **under $30:** 8Bitdo Ultimate 2C for Switch *($29)* / EasySMX X05 *($29)*
 	- **under $60:** Flydigi Direwolf 3 *($49)* / GameSir Cyclone 2 *($55)* / EasySMX X20 *($59)* 
-	- **over $50:** Pro Controller *($69)* 
+	- **under $100:** Pro Controller *($69)* 
 
 > Note the Pro Controller by Nintendo has HD rumble, but does not have the HD rumble of cheaper third-party controllers
 
