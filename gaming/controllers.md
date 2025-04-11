@@ -18,9 +18,10 @@ nav_order: 1
 
 - **standard:** Joy-Cons *($79)*
 - **full-size** 
-	- **under $30:** 8Bitdo Ultimate 2C for Switch *($29)*
+	- **under $30:** 8Bitdo Ultimate 2C for Switch *($29)* / EasySMX X05 *($29)*
+	- **under $60:** Flydigi Direwolf 3 *($49)* / GameSir Cyclone 2 *($55)* / EasySMX X20 *($59)* 
 	- **over $50:** Pro Controller *($69)* 
 
-> The Ultimate 2C is much cheaper and uses hall-effect sensors. However, the Pro Controller by Nintendo has HD rumble.
+> Note the Pro Controller by Nintendo has HD rumble, but does not have the HD rumble of cheaper third-party controllers
 
 - **grips:** *3D printed* 
