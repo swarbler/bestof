@@ -52,5 +52,6 @@ nav_order: 2
 
 ## Other
 
+- [e-readers and digital notebooks](https://swarbler.github.io/bestof/tech/devices/#e-readers-and-digital-notebooks)
 - **reading light:** [Glocusent](https://www.amazon.com/dp/B09PR1BTM7) *(~~$20~~ $15)*
 - **desk lamp:** Ottlite *($44)*
