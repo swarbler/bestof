@@ -14,7 +14,7 @@ nav_order: 4
 #### USB
 
 - **under $50:** Razer Seiren Mini *($49)*
-- **under $100:** Audio-Technica ATR2100x *($80)*  / Samson Q2U *($69)*
+- **under $100:** Audio-Technica ATR2100x *($80)* / Samson Q2U *($69)*
 - **a bit over $100:** Sennheiser Profile *($119, $179 for streaming set w/ mic arm)*
 
 #### XLR

@@ -208,12 +208,10 @@ nav_order: 1
 	- **good:** OnePlus 13 / Xiaomi 15 series / Vivo X200 series / Honor Magic 7 *(4 y/o OS updates)*
 	- **better:** Oppo Find X8 series *(5 y/o OS updates)*
 	- **best:** Pixel 9 series / Honor Magic 7 Pro *(7 y/o OS updates)*
-- **best cameras:** Xiaomi 15 Ultra *(4 y/o OS updates)*
-	- *50MP 1" sensor OIS main, f1.63* 
-	- *200MP 1/1.4" sensor 4.3x periscope telephoto, f2.6*
-	- *50MP 3x telephoto, f1.8*
-	- *50MP ultrawide, f2.2*
-	- *optional "Photography Kit" with shutter button, DSLR-style grip, 1000mAh battery, and a filter thread adapter*
+- **best cameras:** Oppo Find X8 Ultra / Xiaomi 15 Ultra *(4 y/o OS updates)*
+
+> Note that the Xiaomi 15 Ultra has an optional "photography kit" with a shutter button grip that doubles as extra battery.
+
 - **enthusiast:** Sony Xperia 1 VI *(headphone jack + good screen + good cameras + front-facing speakers + microSD slot)*
 - **audio:** Moondrop MIAD-01
 
