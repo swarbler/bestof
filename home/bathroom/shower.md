@@ -34,7 +34,9 @@ nav_order: 1
 - **better:** *Turkish cotton towel*
 - **waffle:** Onsen 
 
-> Turkish cotton towels are very absorbant and dry faster than traditional towels. Waffle towels also dry much faster than traditional towels. 
+> Turkish cotton towels (Peshtemal) are very absorbant and dry faster than traditional towels. Waffle towels also dry much faster than traditional towels. 
+
+> Another good option for a traditional cotton towels are those from Red Land Cotton
 
 #### Linen
 
