@@ -18,6 +18,10 @@ nav_order: 2
 	- **upgrade:** MX Anywhere 3 or 3S *($79)* 
 		- *MX Anywhere 3**S** is silent*
 
+> If you want a more lightweight mouse, get a gaming mouse. Gaming mice can be decent productivity mice as well.
+
+> Another option is the Microsoft's "Bluetooth Ergonomic Mouse" *($59)*. Many people also like the shape of Microsoft's "Sculpt Ergonomic Mouse", but it is discontinued. However, Incase is bringing it back and it will be coming soon.
+
 #### Gaming
 
 *shape is key, there are plenty of good options*
