@@ -1,5 +1,5 @@
 ---
-title: Peripheral
+title: Peripherals
 parent: Tech
 nav_order: 2
 ---
