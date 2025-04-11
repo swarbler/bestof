@@ -18,8 +18,8 @@ nav_order: 1
 #### Android
 
 - **a bit over $150:** Anbernic RG406H *(~~$167~~ $159)*
-- **under $250:** Retroid Pocket 5 *($219)*
-- **over $300:** Odin 2 series *($329)*
+- **under $250:** [Retroid Pocket 5](https://www.goretroid.com/collections/retro-game-system/products/retroid-pocket-5-handheld) *($219)*
+- **over $300:** [Odin 2 Portal](https://www.ayntec.com/products/odin2-portal) *($329 for 8GB/128GB, $399 for 12GB/512GB, $499 for 16GB/1TB)*
 
 ## Hardware Emulators
 
