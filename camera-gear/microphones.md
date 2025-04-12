@@ -12,27 +12,23 @@ nav_order: 4
 
 ## Shotguns (outdoor boom mics)
 
+> You can also get equipment for much cheaper by renting!
+
 - **under $200:** Audio-Technica AT875R *($169)*
-- **under $300:** Audio-Technica AT897 *($249)*
+- **under $300:** Rode NTG2 *($269)*
 - **under $400** 
 	- Sennheiser MKE 600 *($329)* 
-	- Deity S-Mic 2 *($359)* or S-Mic 3 *($399)*
 	- Rode NTG4+ *($399)*
 - **under $500:** Rode NTG5 *($499)*
-- **over $500:** Rode NTG3 *($699)*
-- **over $800:** Sennheiser MKH 416 *($899)*
-- **over $1500:** Sennheiser MKH 8060 *($1599)*
+- **under $1000:** Rode NTG3 *($699)*
 
 ## Hypercardioid (indoor boom mics)
 
+> You can also get equipment for much cheaper by renting!
+
 - **under $200:** Synco Mic-D2 *(~~$199~~ $169)*
 - **under $300:** Oktava MK-012 *($269)*
-- **under $400:** Deity S-Mic 2S *($319)* or S-Mic 3S *($349)*
-- **over $500:** Audio-Technica AT4053b *($699)*
-- **over $1000** 
-	- Sennheiser MKH 50 *($1399)* or MKH 8050 *($1399)*
-	- Schoeps CMC641 *($1664)*
-	- DPA 4018C *($1915)*
+- **under $1000:** Audio-Technica AT4053b *($699)*
 
 ## Lavalier
 
