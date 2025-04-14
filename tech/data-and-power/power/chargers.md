@@ -16,6 +16,7 @@ nav_order: 2
 	- **100W:** Anker Prime 100W A2343 *($84)*
 - **desktop** 
 	- **100W:** Baseus GaN3 100W *(~~$65~~ $49)*
+	- **200W:** Belkin BoostCharge Pro 200W *($129)*
 	- **240W:** Anker Prime 240W A2342 *($139)*
 - **USB wall outlet**
 	- **30W:** Leviton T5635 *($25)*
