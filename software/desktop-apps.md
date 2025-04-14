@@ -131,9 +131,9 @@ nav_order: 1
 
 #### One-Time Purchase
 
-- **image editor:** [Affinity Photo](https://affinity.serif.com/photo/)
-- **vector image editor:** [Affinity Designer](https://affinity.serif.com/designer/)
-- **audio editor:** [Reaper](https://www.reaper.fm/)
+- **image editor:** [Affinity Photo](https://affinity.serif.com/photo/) *($69)*
+- **vector image editor:** [Affinity Designer](https://affinity.serif.com/designer/) *($69)*
+- **audio editor:** [Reaper](https://www.reaper.fm/) *($60, $225 for commercial license)*
 
 #### Free
 
@@ -146,7 +146,7 @@ nav_order: 1
 ## Creative
 
 - **painting:** [Krita](https://krita.org/download/)
-- **pixel art:** [Aseprite](https://www.aseprite.org/)
+- **pixel art:** [Aseprite](https://www.aseprite.org/) *($19.99)*
 - **3D modelling** 
 	- **hard surface modelling:** [Blender](https://www.blender.org/download/)
 		- **web:** [Tinkercad](https://www.tinkercad.com/)
