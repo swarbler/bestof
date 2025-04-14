@@ -19,7 +19,7 @@ nav_order: 3
 
 - **under $10:** *Apple dongle* / *CS46L41*
 - **under $15:** *CX319993+MAX97220 (e.g. Jcally JM6 Pro)*
-- **under $30:** *CS43131+SGM8262 (e.g. Jcally JM20 Max)*
+- **under $30:** *CS43131+SGM8262 (e.g. Jcally JM20 Max, Fiio KA11)*
 
 > Note thaat the CS43131+SGM8262 dongle DACs are *very* powerful, they are able to drive HD 800s! This means they drain battery quickly and get very hot
 
