@@ -104,7 +104,7 @@ nav_order: 1
 
 - **image viewer:** [feh](https://feh.finalrewind.org/) / [nomacs](https://nomacs.org/) / [pqiv](https://www.pberndt.com/Programme/Linux/pqiv/index.html)
 - **media viewer:** [MPV](https://mpv.io/)
-- **music player:** [Audacious](https://audacious-media-player.org/download) / [Clementine](https://www.clementine-player.org/downloads) / [Quod Libet](https://quodlibet.readthedocs.io/en/quodlibet-4.6/downloads.html)
+- **music player:** [Audacious](https://audacious-media-player.org/download) / [Clementine](https://www.clementine-player.org/downloads) / [Quod Libet](https://quodlibet.readthedocs.io/quodlibet-4.6/downloads.html)
 - **pdf viewer:** [Okular](https://okular.kde.org/download/)
 
 ## Social
