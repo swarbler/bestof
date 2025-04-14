@@ -208,28 +208,28 @@ nav_order: 1
 	- **good:** OnePlus 13 / Xiaomi 15 series / Vivo X200 series / Honor Magic 7 *(4 y/o OS updates)*
 	- **better:** Oppo Find X8 series *(5 y/o OS updates)*
 	- **best:** Pixel 9 series / Honor Magic 7 Pro *(7 y/o OS updates)*
-- **best cameras:** Oppo Find X8 Ultra / Xiaomi 15 Ultra *(4 y/o OS updates)*
+- **best cameras:** Oppo Find X8 Ultra *(5 y/o OS updates)* / Xiaomi 15 Ultra *(4 y/o OS updates)*
 
 > Note that the Xiaomi 15 Ultra has an optional "photography kit" with a shutter button grip that doubles as extra battery.
 
 - **enthusiast:** Sony Xperia 1 VI *(headphone jack + good screen + good cameras + front-facing speakers + microSD slot)*
 - **audio:** Moondrop MIAD-01
 
-> Unfortunately, the Sony only provides 2 y/o OS updates with 3 y/o security patches. They are also very expensive compared to the competition, so I can't recommend them for most people.
+> Unfortunately,  Sony only provides 2 y/o OS updates with 3 y/o security patches. The Xperia 1 VI is also very expensive compared to the competition, so I can't recommend them for most people.
 
 - **midrange**
 	- **good:** OnePlus 13R *(4 y/o OS updates)*
 	- **better:** Galaxy A56 *(6 y/o OS updates)*
 	- **best:** Pixel 9a *(7 y/o OS updates)*
 
-> The Poco F6 (4 y/o OS updates) is a powerful midrange phone, but has bloated software.
+> The Poco F6 *(4 y/o OS updates)* is a powerful midrange phone, but has bloated software.
 
 - **budget**
 	- **good:** OnePlus Nord 4 / Realme GT 6T *(4 y/o OS updates)*
 	- **better:** Moto Edge 50 Neo *(5 y/o OS updates)*
 - **compact:** Xperia XZ1 Compact
 - **matte:** TCL 50 NXTPaper 5G *(NXTPaper 3.0)*
-- **repairable:** Fairphone 5
+- **repairable:** Fairphone 5 *(8 y/o OS updates)*
 
 ##### Foldables
 
@@ -268,14 +268,11 @@ nav_order: 1
 - **budget:** *random case from Amazon/Aliexpress/Taobao/etc*
 - **everyday** 
 	- **iPhone:** Caudabe Sheath *($43 for base/Pro models, $44 for Plus/Pro Max models)*
-	- **iPhone + Galaxy:** ESR HaloLock *($ depends on type)*
-	- **iPhone + Galaxy + Pixel:** Caseology Nano Pop *($44)* / dbrand Grip Case *($59)* / OtterBox *(\$ depends on type)* / Ringke Onyx *(\$ depends on model)*
+	- **iPhone + Galaxy:** ESR HaloLock *($ depends on model)*
+	- **iPhone + Galaxy + Pixel:** Caseology Nano Pop *($44)* / dbrand Grip Case *($59)* / OtterBox *(\$ depends on model)* / Ringke Onyx *(\$ depends on model)*
 	- **OnePlus:** Sandstone Case *($24)*
-	- **a whole bunch:** Spigen *($ depends on type, e.g. Liquid Air is $29, Tough Armor is $59)*
+	- **a whole bunch:** Spigen *($ depends on model, e.g. Liquid Air is $29, Tough Armor is $59)*
 		- **alternative:** Tudia MergeGrip *($ varies)*
-- **ultra-thin** 
-	- **iPhone:** Pitaka MagEZ 5.0 *($49 for standard colours, $59 for special colours)*
-	- **iPhone + Galaxy + Pixel:** Thinborne *(around $65 to $70 depending on model)*
 - **leather (iPhone)** 
 	- **full leather incl. sides:** Bullstrap *($89)*
 		- **alternatives:** Andar Aspen *($59)* / Ryan London Leather Shell *($72)*
@@ -306,7 +303,7 @@ nav_order: 1
 #### Windows
 
 - **standard:** ProArt PZ13 / Surface Pro 11 *(Snapdragon X series)*
-- **more powerful:** ROG Flow Z13 *(up to Ryzen AI Max 390)*
+- **more powerful (Strix Halo):** ROG Flow Z13 *(up to Ryzen AI Max 390)*
 
 #### iPadOS
 
