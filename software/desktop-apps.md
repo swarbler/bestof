@@ -68,8 +68,8 @@ nav_order: 1
 - **disk space analyzer:** [GrandPerspective](https://apps.apple.com/app/grandperspective/id1111570163?mt=12)
 - **package manager:** [Homebrew](https://brew.sh/)
 - **launcher** 
-	- **customisable:** [Alfred](https://www.alfredapp.com/) *(one-time purchase)* 
-	- **aesthetic:** [Raycast](https://www.raycast.com/) *(subscription)*
+	- **customisable:** [Alfred](https://www.alfredapp.com/) *(**£**34 for powerpack, **£59** for mega supporter)* 
+	- **aesthetic:** [Raycast](https://www.raycast.com/) *($8 monthly, $12 monthly for teams)*
 
 #### Linux
 
