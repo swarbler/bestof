@@ -25,7 +25,7 @@ nav_order: 1
 ## Hardware Emulators
 
 - **under $100:** funnyplaying FPGBC kit *(~~$79~~ $69, case + buttons must be purchased separately)*
-- **over $200:** Analogue Pocket *($219)*
+- **over $200:** [Analogue Pocket](https://store.analogue.co/products/analogue-pocket-black) *($219)*
 - **flashing cards:** Burnmaster *($20, shell + buttons must be purchased seperately)* / GBxCart *($33)* / Joey Jr *($42)*
 
 ## Other Reviews to Check Out
