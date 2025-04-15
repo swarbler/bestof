@@ -7,7 +7,6 @@ nav_order: 3
 
 - **toilet paper:** Seventh Generation *($ depends on amount)*
 - **toilet stool:** Tushy Ottoman *(~~$74~~ $49)*
-- **toilet paper holder:** Moen Align pivoting *($ depends on amount)*
 
 #### Gloves
 
