@@ -31,7 +31,7 @@ nav_order: 2
 ## Social
 
 - **RSS reader:** [Feeder](https://f-droid.org/packages/com.nononsenseapps.feeder/)
-- **Mastodon:** [Moshidon](https://f-droid.org/packages/org.joinmastodon.android.moshinda/)
+- **Mastodon:** [Moshidon](https://f-droid.org/packages/org.joinmastodon.android.moshinda/) / [Tusky](https://f-droid.org/repository/browse/?fdid=com.keylesspalace.tusky)
 - **Lemmy:** [Jerboa](https://f-droid.org/packages/com.jerboa/) / [Thunder](https://play.google.com/store/apps/details?id=com.hjiangsu.thunder)
 - **Pixelfed:** [PixelDroid](https://f-droid.org/packages/org.pixeldroid.app/) / [Pixelix](https://f-droid.org/packages/com.daniebeler.pfpixelix/)
 - **YT frontend** 
