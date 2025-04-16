@@ -4,6 +4,8 @@ nav_order: 0
 ---
 # bestof - the best things!
 
+<button onclick="changeTheme()">H I G H   C O N T R A S T</button>
+
 ## what is this?
 
 bestof is a repository of the best things in each product category, frequently updated whenever a new thing is released or I find out there's an even better thing! [(view screenshots)](screenshots.md)
