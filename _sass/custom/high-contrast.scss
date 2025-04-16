@@ -1,22 +1,23 @@
 :root {
-    --base-background-color: #f5ffe0;
-    --base-text-color: #8d9b70;
-    --big-header-text-color: #727f59;
-    --header-text-color: #727e59;
-    --link-text-color: #a0b27d;
-    --link-text-color-noclass: #c1d49a;
-    --navlink-text-color: #a7b689;
-    --navlink-expander-color: #a1b181;
-    --italics-and-footer-text-color: #7e8c62;
-    --border-color: #ebfdc3;
-    --sidebar-background-color: #f2ffd7;
-    --gradient: linear-gradient(-90deg, #f0ffd2 0%, #eafacbcc 100%);
-    --gradient-with-transparency: linear-gradient(#f0ffd2 0%, #eafacbcc 80%, #e3fab600 100%);
-    --searchbox-background-color: #f5ffe0;
-    --search-result-background-color-hover: #f0ffd2;
-    --search-icon-color: #808b69;
-    --search-result-icon-color: #76815e;
-    --search-result-icon-color-focus: #9fa88a;
+    --base-background-color: #fff;
+    --base-text-color: #000;
+    --big-header-text-color: #000;
+    --header-text-color: #000;
+    --link-text-color: #000;
+    --link-text-color-noclass: #31f;
+    --link-text-color-noclass-hover: #30d;
+    --navlink-text-color: #000;
+    --navlink-expander-color: #000;
+    --italics-and-footer-text-color: #000;
+    --border-color: #ccc;
+    --sidebar-background-color: #ddd;
+    --gradient: linear-gradient(-90deg, #eee 0%, #fff 100%);
+    --gradient-with-transparency: linear-gradient(#eee 0%, #fff 80%, #fff0 100%);
+    --searchbox-background-color: #fff;
+    --search-result-background-color-hover: #ccc;
+    --search-icon-color: #000;
+    --search-result-icon-color: #000;
+    --search-result-icon-color-focus: #555;
 }
 
 body {
@@ -98,7 +99,7 @@ a, strong, .search-result-preview, .search-result-rel-url, .search-input {
     color: var(--link-text-color);
 }
 a:not([class]) { text-decoration-color: var(--link-text-color-noclass); }
-a:not([class]):hover { text-decoration-color: var(--link-text-color); }
+a:not([class]):hover { text-decoration-color: var(--link-text-color-noclass-hover); }
 em, .main-content .anchor-heading svg, .site-footer {
     color: var(--italics-and-footer-text-color);
 }
