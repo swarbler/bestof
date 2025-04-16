@@ -36,6 +36,7 @@ nav_order: 1
 		- EasySMX X20 *($59, HE sticks)* 
 		- Flydigi Direwolf 3 *($49, HE sticks)* 
 		- GameSir Cyclone 2 *($55, TMR sticks)* 
+		- GameSir Super Nova *($49, HE sticks)*
 
 > Note the Pro Controller by Nintendo has HD rumble, but does not use either HE sticks or TMR sticks like the cheaper third-party controllers. Some third-party controllers also offer more features such as 2.4Ghz connection and back paddles.
 
