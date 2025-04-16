@@ -18,7 +18,7 @@ I later moved everything from the PowerPoint to a more organised system of diffe
 
 ## Upcoming Changes
 
-- higher contrast colour palettes
+- ~~higher contrast colour palettes~~ it has been added! Click on the "high contrast" button to toggle the theme. The current theme is saved as a cookie so it'll stay the same even when you reload!
 - more details on why things are chosen as the best
 - a "reviews" section for more in-depth information on things I have personal experience with
 
