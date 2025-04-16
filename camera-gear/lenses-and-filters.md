@@ -15,7 +15,7 @@ nav_order: 3
 
 > Using a teleconverter with a 70-200mm lens or similar will give you a cheaper, more lightweight supertelephoto setup. However, the IQ will not be as good as a dedicated supertelephoto lens.
 
-#### Cheaper Lenses
+#### Third-Party Lenses
 
 - **Viltrox Air trio**
 	- Viltrox 20mm f2.8 *(43mm, $176)*
@@ -26,6 +26,9 @@ nav_order: 3
 	- Viltrox 28mm f1.8 *(55mm, ~~$379~~ $322)*
 	- Viltrox 35mm f1.8 *(55mm, ~~$379~~ $322)*
 	- Viltrox 50mm f1.8 *(55mm, ~~$359~~ $305)*
+- **Viltrox LAB duo**
+	- Viltrox 35mm f1.2 LAB *(77mm, $999)*
+	- Viltrox 135mm f1.8 LAB *(82mm, $899)*
 - **portrait:** TTArtisan 75mm f2 *(62mm, $178)* / Viltrox 85mm f1.8 *(72mm, ~~$399~~ $339)*
 - **wide:** Viltrox 16mm f1.8 *(77mm, ~~$580~~ $493)*
 
