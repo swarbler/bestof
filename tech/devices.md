@@ -250,6 +250,7 @@ nav_order: 1
 #### iOS
 
 - **standard:** iPhone *(wait for ProMotion)*
+- **best cameras:** iPhone Pro Max
 - **midrange:** iPhone 16e
 - **compact:** iPhone SE *(1st gen)*
 	- **alternative:** iPhone 5S *(slower processor)*
