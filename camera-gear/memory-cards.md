@@ -8,10 +8,18 @@ nav_order: 6
 #### Cards
 
 *$ depends on storage capacity*
-- **SD** 
-	- **standard:** Sandisk Extreme Pro
+- **UHS-I / V30 SD:** Sandisk Extreme / Lexar Professional Silver or 1066x
+- **UHS-II / V60 SD:** Sandisk Extreme Pro / Lexar Professional 1667x or 1800x
 	- **durable:** Sony Tough
-- **microSD:** Samsung Pro Plus
+- **UHS-II / V90 SD:** Sandisk Extreme Pro / Lexar Professional 2000x
+
+- **UHS-I / V30 microSD:** Sandisk Extreme / Lexar Professional Silver / Samsung Evo or Pro Plus
+- **UHS-II / V60+ microSD:** Sandisk Extreme Pro / Lexar Professional Gold
+
+> V30 SD cards (usually UHS-I) is fine for most people. Many older / entry-level cameras don't support faster UHS-II SD cards anyways. 
+> 
+> V60 SD cards are the minimum required for shooting 4K video at 60fps. V90 SD cards are even faster and allow for very high bandwidth recording, such as 8K video or, more realistically, higher frame rates and RAW footage.
+
 - **CFExpress Type A/B**
 	- **standard:** ProGrade
 	- **durable:** Sony Tough
