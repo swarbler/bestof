@@ -23,12 +23,12 @@ nav_order: 1
 
 ## Productivity
 
-- **note-taking:** [Joplin](https://joplinapp.org/download) / [Obsidian](https://obsidian.md/download)
+- **note-taking:** [Joplin](https://joplinapp.org/download) / [Obsidian](https://obsidian.md/download) / [Logseq](https://logseq.com/)
 	- **MacOS:** [Bear](https://bear.app/)
 - **todo.txt:** [sleek](https://github.com/ransome1/sleek)
 - **notepad alternative (Windows):** [Notepad++](https://notepad-plus-plus.org/downloads)
 
-> Both Joplin and Obsidian have loads of different plugins and are great note-taking apps. Joplin is open-source whereas Obsidian is closed, and Obsidian organises notes in "vaults" whereas Joplin has "notebooks"
+> Joplin and Logseq are open-source whereas Obsidian is closed. All of them offer plugin support + sync. Logseq  interestingly doesn't use a folder-based structure like Obsidian does. Joplin is more suited for shorter and quicker notes whereas Logseq and Obsidian are more suited for power users with LOADS of notes. All three are great software.
 
 ## Documents
 
