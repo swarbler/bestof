@@ -42,9 +42,8 @@ nav_order: 1
 
 #### Cross-Platform
 
+- **screenshot tool:** [ShareX](https://getsharex.com/) / [Flameshot](https://flameshot.org/)
 - **file sharing:** [KDE Connect](https://kdeconnect.kde.org/download.html)
-- **OCR screen capture:** [NormCap](https://dynobo.github.io/normcap/)
-	- **MacOS:** [Lookupper](https://lookupper.com/) 
 - **image resizing and converting** 
 	- **CLI:** [ImageMagick](https://imagemagick.org/script/download.php)
 	- **GUI:** [Coverseen](https://converseen.fasterland.net/)
