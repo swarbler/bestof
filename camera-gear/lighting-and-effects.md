@@ -47,12 +47,18 @@ nav_order: 5
 
 #### Softboxes
 
-- **under $100:** Aputure Light Dome SE *($99)*
-	- **smaller:** Apurture Light Dome Mini SE *($69)*
-- **upgrade:** Aputure Light Dome III *($219)*
-	- **smaller:** Aputure Light Dome Mini III *($129)*
+- **standard**
+	- **under $100:** amaran Light Dome 90 *($99)*
+		- **smaller:** amaran Light Dome 60 *($79)*
+	- **over $100:** Aputure Light Dome III *($219)*
+		- **smaller:** Aputure Light Dome Mini III *($129)*
+- **rectangular (30x120):** amaran Light Box 30x120 *($72)* / Aputure Light Box 30x120 *($69)*
+- **rectangular (60x90):** amaran Light Box 60x90 *($79)* / Aputure Light Box 30x120 *($66)*
+- **rectangular (45x45):** amaran Light Box 45x45 *($69)* / Aputure Light Box 30x120 *($59)*
+- **omnidirectional**
+	- **under $100:** amaran Lantern 90 *($99)*
+	- **over $100:** Aputure Lantern 90 *($139)*
 
-> The Light Dome III and Mini III have a quick release to collapse, the SE and Mini SE do not
 
 #### Accessories
 
