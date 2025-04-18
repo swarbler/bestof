@@ -118,15 +118,9 @@ nav_order: 1
 	- *very lightweight magnesium alloy body*
 - **repairable** 
 	- *easy to repair, upgradeable components, modular I/O*
-	- **standard:** Framework Laptop 13 *(Core Ultra Series 1 / Ryzen 7040 series)*
+	- **standard:** Framework Laptop 13 *(Ryzen 300 series)*
 	- **more powerful:** Framework Laptop 16 *(Ryzen 7040 series)*
 		- *modular GPU (RX 7700S)*
-
-{: .upcoming }
-> Framework Laptop 13 with Ryzen 9 AI 300 series
-> 
-> Framework Laptop 12 as a cheaper alternative with 360 degree hinges + touchscreen as well as colourful plastic body
-
 - **2-in-1:** HP OmniBook Ultra Flip 14 / Yoga 7i 2-in-1
 	- *Core Ultra 7 256V or 258V*
 	- **OmniBook Ultra Flip 14**
