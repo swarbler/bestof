@@ -53,8 +53,7 @@ nav_order: 1
 #### Windows
 
 - **file search:** [Everything](https://www.voidtools.com/)
-- **file explorer:** [One Commander ](https://www.onecommander.com/)
-	- **alternative:** [Files](https://files.community/download)
+- **file explorer:** [One Commander](https://www.onecommander.com/) / [Directory Opus](https://www.gpsoft.com.au) *($89 **AUD** for single, $129 **AUD** for dual, $249 **AUD** for five)* / [Files](https://files.community/download)
 - **renaming:** [Bulk Rename](https://www.bulkrenameutility.co.uk/Download.php)
 - **disk space analyzer:** [WizTree](https://diskanalyzer.com/download)
 - **package manager:** [Chocolatey](https://chocolatey.org/install)
