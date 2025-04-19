@@ -311,25 +311,38 @@ nav_order: 1
 #### Android
 
 - **under $100:** onn
-- **under $250:** Galaxy Tab A9+ *(~~$219~~ $149)* / [Lenovo Xiaoxin Pad Pro](https://www.aliexpress.com/item/1005005902996431) *(~~about $349~~ about $249)*  / *others*
-- **under $500:** Galaxy Tab S9 FE *($449)* / Xiaomi Pad 7 *($459)* / *others*
-- **over $500:** OnePlus Pad 2 *($549)*
-- **over $600:** Galaxy Tab S9 *(~~$799~~ $649)* 
-- **over $850:** Galaxy Tab S10+ *(~~$999~~ $869)* or S10 Ultra *(~~$1199~~  $1059)*
-- **smaller:** Lenovo Legion Tab Gen 3 *(~~$549~~ $489)*
-- **matte** 
-	- **NXTPaper 3.0:** TCL NXTPaper 14
-	- **NXTPaper 4.0:** TCL NXTPaper 11 Plus / *others soon to come?*
 
 > onn tablet is only available in Walmart
 
+- **under $250** 
+	- Galaxy Tab A9+ *(~~$219~~ $149)*
+		- *Snapdragon 695*
+	- [Lenovo Xiaoxin Pad Pro 2025](https://www.aliexpress.com/item/1005005902996431) *(~~about $349~~ about $249)*  
+		- *MediaTek Dimensity 8300*
+	- *others*
+- **under $500** 
+	- Galaxy Tab S9 FE *($449)* 
+		- *Exynos 1380*
+	- Xiaomi Pad 7 *(~~$359~~ $329)* 
+		- *Snapdragon 7+ Gen 3*
+	- Xiaomi Pad 7 Pro *(~~$459~~ $399)* 
+		- *Snapdragon 8s Gen 3*
+	- *others*
+
 > If you are able to find a tablet with better specs for a good deal in your region, go for that instead!
 
-> The Galaxy Tab S9 and S10 series are very overpriced, but have beautiful OLED screens. The S10 is a minimal improvement, with the only noticeable change being an anti-reflective screen
+- **over $500:** OnePlus Pad 2 *($549)*
+	- *Snapdragon 8 Gen 3*
+- **over $600:** Galaxy Tab S9 *(~~$799~~ $649)* 
+	- *Snapdragon 8 Gen 2*
+- **over $850:** Galaxy Tab S10+ *(~~$999~~ $869)* or S10 Ultra *(~~$1199~~  $1059)*
+	- *MediaTek Dimensity 9300+*
+- **smaller:** Lenovo Legion Tab Gen 3 *(~~$549~~ $489)
+	- *Snapdragon 8 Gen 3*
+
+> The Galaxy Tab S9 and S10 series are quite overpriced, but have beautiful OLED screens. The S10 is a minimal improvement, with the only noticeable change being an anti-reflective screen. The S10 series also use MediaTek processors instead of Snapdragon. **Unless you want an OLED screen, the OnePlus Pad 2 is better value for most people.** 
 > 
 > Also, Samsung removed the base model for the S10 series, so now there’s only the Plus and Ultra
-
-> NXTPaper 4.0 give you better sharpness with a new etching process compared to 3.0
 
 #### Linux
 
