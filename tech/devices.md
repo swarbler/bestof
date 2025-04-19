@@ -316,6 +316,7 @@ nav_order: 1
 - **over $500:** OnePlus Pad 2 *($549)*
 - **over $600:** Galaxy Tab S9 *(~~$799~~ $649)* 
 - **over $850:** Galaxy Tab S10+ *(~~$999~~ $869)* or S10 Ultra *(~~$1199~~  $1059)*
+- **smaller:** Lenovo Legion Tab Gen 3 *(~~$549~~ $489)*
 - **matte** 
 	- **NXTPaper 3.0:** TCL NXTPaper 14
 	- **NXTPaper 4.0:** TCL NXTPaper 11 Plus / *others soon to come?*
