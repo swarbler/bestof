@@ -13,7 +13,7 @@ nav_order: 1
 	- **even smaller:** Miyoo Mini *($57)*
 - **standard:** Anbernic RG35XX+ *(~~$63~~ $49)* or RG40XXV *($66)*
 - **clamshell:** Anbernic RG 35XXSP *(~~$64~~ $49)* / Miyoo Flip V2 *($89)*
-- **horizontal:** Anbernic RG 35XX H *(~~$67~~ $54)*
+- **horizontal:** Anbernic RG 35XXH *(~~$67~~ $54)*
 
 #### Android
 

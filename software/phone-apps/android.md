@@ -37,6 +37,7 @@ nav_order: 2
 - **YT frontend** 
 	- **direct connection to YT:** [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) / [SkyTube](https://f-droid.org/packages/free.rm.skytube.oss/) / [Tubular](https://f-droid.org/packages/org.polymorphicshade.tubular)
 	- **piped proxy:** [LibreTube](https://f-droid.org/packages/com.daniebeler.pfpixelix/)
+- **Signal:** [Molly]([https://molly.im](https://molly.im/))
 
 ## Programming
 

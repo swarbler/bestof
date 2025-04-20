@@ -47,7 +47,9 @@ nav_order: 1
 - **image resizing and converting** 
 	- **CLI:** [ImageMagick](https://imagemagick.org/script/download.php)
 	- **GUI:** [Coverseen](https://converseen.fasterland.net/)
-- **video file conversion:** [ffmpeg](https://ffmpeg.org/download.html)
+- **video file conversion** 
+	- **CLI:** [ffmpeg](https://ffmpeg.org/download.html)
+	- **GUI:** [Handbrake](https://handbrake.fr)
 - **screen mirroring and extending:** [spacedesk](https://www.spacedesk.net/download)
 
 #### Windows
@@ -55,6 +57,7 @@ nav_order: 1
 - **file search:** [Everything](https://www.voidtools.com/)
 - **file explorer:** [One Commander](https://www.onecommander.com/) / [Directory Opus](https://www.gpsoft.com.au) *($89 **AUD** for single, $129 **AUD** for dual, $249 **AUD** for five)* / [Files](https://files.community/download) / [TotalCommander](https://www.ghisler.com/download.htm) / *others probably*
 - **file archiver:** [7-Zip](https://7-zip.org/)
+- **file conversion:** [file-converter.io](https://file-converter.io/)
 - **renaming:** [Bulk Rename](https://www.bulkrenameutility.co.uk/Download.php)
 - **disk space analyzer:** [WizTree](https://diskanalyzer.com/download)
 - **package manager:** [Chocolatey](https://chocolatey.org/install)
