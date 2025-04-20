@@ -53,30 +53,36 @@ nav_order: 1
 #### Windows
 
 - **file search:** [Everything](https://www.voidtools.com/)
-- **file explorer:** [One Commander](https://www.onecommander.com/) / [Directory Opus](https://www.gpsoft.com.au) *($89 **AUD** for single, $129 **AUD** for dual, $249 **AUD** for five)* / [Files](https://files.community/download)
+- **file explorer:** [One Commander](https://www.onecommander.com/) / [Directory Opus](https://www.gpsoft.com.au) *($89 **AUD** for single, $129 **AUD** for dual, $249 **AUD** for five)* / [Files](https://files.community/download) / [TotalCommander](https://www.ghisler.com/download.htm) / *others probably*
+- **file archiver:** [7-Zip](https://7-zip.org/)
 - **renaming:** [Bulk Rename](https://www.bulkrenameutility.co.uk/Download.php)
 - **disk space analyzer:** [WizTree](https://diskanalyzer.com/download)
 - **package manager:** [Chocolatey](https://chocolatey.org/install)
 - **launcher** 
 	- **standard:** [Powertoys](https://learn.microsoft.com/windows/powertoys/install) Run
 	- **more features:** [Flow Launcher](https://www.flowlauncher.com/)
+- **miscellaneous:** [NirSoft](https://www.nirsoft.net/) / *lots of others!*
 
 #### MacOS
 
+- **file explorer:** *Finder* / [Marta](https://marta.sh/) / [CommanderOne](https://commander-one.com/) / [NimbleCommander](https://magnumbytes.com/) / [QSpace](https://qspace.awehunt.com/index.html) / *others probably*
 - **disk space analyzer:** [GrandPerspective](https://apps.apple.com/app/grandperspective/id1111570163?mt=12)
 - **package manager:** [Homebrew](https://brew.sh/)
 - **launcher** 
 	- **customisable:** [Alfred](https://www.alfredapp.com/) *(**£**34 for powerpack, **£59** for mega supporter)* 
 	- **aesthetic:** [Raycast](https://www.raycast.com/) *($8 monthly, $12 monthly for teams)*
+- **miscellaneous:** *lots of options!*
 
 #### Linux
 
+- **file explorer:** [Dolphin]([https://dolphinexplorer.com](https://dolphinexplorer.com/)) / [GNOME Files (Nautilus)]([https://dolphinexplorer.com](https://dolphinexplorer.com/)) / [Nemo](https://github.com/linuxmint/nemo) / [Thunar](https://gitlab.xfce.org/xfce/thunar) / *others probably*
 - **disk space analyzer:** [QDirStat](https://github.com/shundhammer/qdirstat)
 - **launcher** 
 	- **customisable:** [Albert](https://github.com/albertlauncher/albert)
 		- **alternative:** [ULauncher](https://ulauncher.io/)
 	- **lightweight:** [Rofi](https://github.com/davatorium/rofi)
 - **facial recognition:** [Howdy](https://github.com/boltgolt/howdy)
+- **miscellaneous:** *lots of options!*
 
 ## Media
 

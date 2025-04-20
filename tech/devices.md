@@ -14,6 +14,8 @@ nav_order: 1
 
 #### Windows
 
+> Note that I am focusing on laptops with a portable form factor (hence no crazy 18” gaming laptops or anything like that) 
+
 > The best budget laptops are used laptops, such as old ThinkPads. Alternatively, look for a really good sale on a laptop with decent specs
 
 - **everyday** 
@@ -57,12 +59,12 @@ nav_order: 1
 	- **x86 (Intel Lunar Lake):** Yoga Slim 7i Aura Edition / Zenbook S 14 / Thinkpad X9
 		- *Core Ultra Series 2*
 		- ***summary:***
-			- **Yoga Slim 7i Aura Edition** is a great option with *good keyboard + solid build quality* but the screen is *LCD*
+			- **Yoga Slim 7i Aura Edition** is a great option with a *good keyboard + solid build quality* and has options for both a *15" 120hz LCD and a 14" 60hz OLED*
 			- **Zenbook S 14** is also a great option if you want *OLED*
 			- **Thinkpad X9** is a decent option if you want an *OLED screen + haptic touchpad + good speakers* if you can find it at a lower price
 		- **Yoga Slim 7i Aura Edition**
 			- *Core Ultra 7 Series 2*
-			- **screen:** *15" 16:10 120hz LCD touchscreen*
+			- **screen:** *14" 16:10 60hz OLED touchscreen / 15" 16:10 120hz LCD touchscreen* 
 			- **ports:** *2x USB-C 40Gbps + USB-A 5Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 1TB*
 		- **Zenbook S 14**
@@ -75,6 +77,8 @@ nav_order: 1
 			- **screen:** *14" 16:10 120hz OLED*
 			- **ports:** *2x USB-C 40Gbps + HDMI 2.1 + audio jack*
 			- **memory + storage:** *up to 32GB + 2TB*
+
+> Lunar Lake processors offer very good battery life. AMD's Strix Point processors have better performance but don't offer as great battery life. Qualcomm's ARM processors have both great battery and decent performance, but are not compatible with some x86 programs.
 
 > The ThinkPad X1 Carbon Gen 13 has Intel's Lunar Lake processors and has great build quality, battery life, and an amazing keyboard. However, it is significantly more expensive than other options!
 
@@ -111,6 +115,13 @@ nav_order: 1
 		- **memory + storage:** *up to 64GB + 2TB*
 		- **ports:** *USB-C 40 Gbps + USB-C 10Gbps + 2x USB-A 10Gbps + HDMI 2.1 + audio jack + UHS-II SD card reader*
 		- **graphics:** *up to RTX 5090*
+
+> The ROG Zephyrus laptops are some of the best thin + lightweight gaming laptops, whereas the Lenovo Legion laptops are solid all-rounders with great performance. 
+>
+> If your use-case somehow requires even more performance and *don’t* have space for a desktop, then gaming laptops like the ROG Scar and XPG models (as well as plenty of others) are all great options, but they are much thicker due to the extra cooling.
+> 
+> In my opinion, this kind of performance is a bit overkill for a laptop and it makes more sense to purchase a PC, which will run faster, cooler, and quieter than any gaming laptop at the cost of portability. 
+
 - **interesting one:** Honor MagicBook Art 14 *(haptic touchpad)*
 	- *Core Ultra 7 Series 1 / Snapdragon X Elite*
 	- *14” 3:2 120hz OLED touchscreen*
@@ -225,15 +236,17 @@ nav_order: 1
 - **matte:** TCL 50 NXTPaper 5G *(NXTPaper 3.0)*
 - **repairable:** Fairphone 5 *(8 y/o OS updates)*
 
+> HMD also makes very repairable phones, but focus on the midrange segment at the time of writing. The HMD Skyline is a solid option with an easily removeable back with just a single screw and is the first phone to support Qi2! 
+
 ##### Foldables
 
 - **clamshell-style** 
-	- **cheaper:** Razr 40
-	- **standard:** Galaxy Flip 6 / Razr 40 Ultra
-		- *Galaxy Flip has better build quality, Razr has a larger cover screen*
+	- **cheaper:** Razr 50
+	- **standard:** Galaxy Flip 6 / Razr 50 Ultra
+		- *Galaxy Flip is more refined, Razr has a larger cover screen*
 - **book-style:** Oppo Find N5
 
->The Xiaomi Mix Flip is also a solid clamshell-style foldable with a large cover screen and decent cameras. However, it does NOT have an IP rating!
+>The Xiaomi Mix Flip is also a solid clamshell-style foldable with a large cover screen and decent cameras. However, it does NOT have an IP rating! Despite this, it is an impressive first attempt by Xiaomi.
 
 > The OnePlus Open is based on the predecessor of the Find N5, the Find N3. It's a bit older but still a great foldable if the Oppo is not available in your region.
 > 
@@ -243,15 +256,40 @@ nav_order: 1
 
 #### iOS
 
-- **standard:** iPhone *(wait for ProMotion)*
-- **best cameras:** iPhone Pro Max
+- **standard:** iPhone 17 *(leaked to have ProMotion, meaning 120hz LTPO???)*
+
+> Wait for ProMotion to come in the iPhone 17, a 60hz screen is not acceptable at this price. For now, either buy an Android phone or keep your old iPhone for a bit longer. 
+
+- **best cameras:** iPhone 12/13/14/15/16 Pro 
+- 
+> The Pro models are all the same with the only differences being:
+> - notch (12/13) vs dynamic island (14/15/16)
+> 	- slightly less annoying
+> - Lightning (12/13/14) vs USB-C (15/16)
+> 	- the universal connector :D
+> - action button (15/16)
+> 	- very useful, can be customised a bunch
+> - camera control (16)
+> 	- honestly very gimmicky and is in an awkward position where it can be accidentally pressed
+> - 5x telephoto for Pro Max (15/16)
+> - 5x telephoto for standard Pro (16)
+> - stainless steel (12/13/14) vs titanium (15/16)
+> 	- leaks say that Apple might switch back to aluminium for the 17 Pro models. I never got why Apple used SS / Ti to begin with since Al is both cheaper and less dense than both besides the bragging rights of the fancy-pants metal.
+> - processor
+> 	- the newer phones are a bit faster
+> - Apple Intelligence (15/16)
+> 	- Half-baked, smart Siri is still not here. Sad.
+> - …and that’s kind of it I think
+> 
+> Of course, the newer models are more future-proof in terms of software updates, but if you own an older gen Pro model there’s not much need to upgrade.
+
 - **midrange:** iPhone 16e
 - **compact:** iPhone SE *(1st gen)*
 	- **alternative:** iPhone 5S *(slower processor)*
 
 > The iPhone 15 Pro can be found used for a bit over the price of the 16e, and you get the triple camera system, LTPO 120hz high brightness screen, and MagSafe. 
 > 
-> However, the 16e’s battery life is better than the 15 Pro, and it has a newer processor.
+> However, the 16e’s battery life is better than the 15 Pro, and it has a newer processor. Still, if you can find it, the 15 Pro is a really solid option.
 
 #### Linux
 

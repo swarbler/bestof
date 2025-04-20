@@ -36,6 +36,7 @@ nav_order: 1
 - **tv box** 
 	- **under $20:** onn 4K *($19)*
 	- **upgrade:** Apple TV 4K *($129 for 64GB, $179 w/ ethernet + 128GB)* / Nvidia Shield *($199 for 16GB)*
+- **Kodi:** *works with Raspberry Pi, Linux, Windows, etc.*
 
 > onn TV box is only available in Walmart
 
