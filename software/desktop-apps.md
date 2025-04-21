@@ -136,19 +136,15 @@ nav_order: 1
 
 ## Image + Video + Audio Editing
 
-#### One-Time Purchase
-
-- **image editor:** [Affinity Photo](https://affinity.serif.com/photo/) *($69)*
-- **vector image editor:** [Affinity Designer](https://affinity.serif.com/designer/) *($69)*
-- **audio editor:** [Reaper](https://www.reaper.fm/) *($60, $225 for commercial license)*
-
-#### Free
-
-- **video editor:** [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
+- **video editor** 
+	- **open-source:** [kdenlive](https://kdenlive.org/) 
+	- **closed-source:** [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 - **image processing:** [RawTherapee](https://www.rawtherapee.com/downloads/) / [darktable](https://www.darktable.org/install/)
 - **image editing:** [GIMP](https://www.gimp.org/downloads/)
 - **vector image editor:** [Inkscape](https://inkscape.org/release)
 - **audio editor:** [Audacity](https://www.audacityteam.org/download/)
+
+> The [Serif Affinity suite](https://affinity.serif.com/) are also good options, but are closed-source. If you don't mind that, they are decent alternatives. I would still suggest trying alternatives such as GIMP and Inkscape, they're really good!
 
 ## Creative
 
@@ -159,6 +155,7 @@ nav_order: 1
 		- **web:** [Tinkercad](https://www.tinkercad.com/)
 	- **parametric design:** [Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
 		- **web:** [Onshape](https://www.onshape.com) 
+	- **programming:** [OpenSCAD](https://openscad.org/)
 
 ## Security
 
