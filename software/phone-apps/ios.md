@@ -74,7 +74,7 @@ nav_order: 3
 
 #### Security
 
-- **local password manager:** [Strongbox](https://apps.apple.com/app/strongbox-password-manager/id897283731?mt=8)
+- **local password manager:** [KeePassium](https://apps.apple.com/app/keepassium-keepass-passwords/id1435127111) / [Strongbox](https://apps.apple.com/app/strongbox-password-manager/id897283731?mt=8)
 - **local 2FA:** [Tofu](https://apps.apple.com/app/tofu-authenticator/id1082229305)
 
 #### Other

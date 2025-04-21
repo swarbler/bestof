@@ -23,12 +23,16 @@ nav_order: 1
 
 ## Productivity
 
-- **note-taking:** [Joplin](https://joplinapp.org/download) / [Obsidian](https://obsidian.md/download) / [Logseq](https://logseq.com/)
+- **note-taking:** [Joplin](https://joplinapp.org/download) / [Obsidian](https://obsidian.md/download) / [Logseq](https://logseq.com/) / [Notesnook](https://notesnook.com/downloads/) / *others*
 	- **MacOS:** [Bear](https://bear.app/)
 - **todo.txt:** [sleek](https://github.com/ransome1/sleek)
 - **notepad alternative (Windows):** [Notepad++](https://notepad-plus-plus.org/downloads)
 
-> Joplin and Logseq are open-source whereas Obsidian is closed. All of them offer plugin support + sync. Logseq  interestingly doesn't use a folder-based structure like Obsidian does. Joplin is more suited for shorter and quicker notes whereas Logseq and Obsidian are more suited for power users with LOADS of notes. All three are great software.
+> Joplin, Logseq, and Notesnook are open-source whereas Obsidian is closed. All of them offer syncing options. Logseq interestingly doesn't use a folder-based structure like Obsidian does, but both use .md files.
+> 
+> Joplin and Notesnook don't use .md files or similar, but the latter allows you to export your notes as text files (.txt, .pdf, .html, and .md). There is a Joplin plugin that allows you to save notes as .md files called "Save as .md". This feature should really be built in though.
+> 
+> Other note-taking apps are also great, it just depends on your personal preference. The ones I have listed here are options that I have tried that have good UI, syncing between devices, and Markdown support in some form or another. 
 
 ## Documents
 
