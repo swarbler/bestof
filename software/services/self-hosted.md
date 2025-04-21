@@ -48,7 +48,7 @@ nav_order: 2
 
 ## Programming
 
-- **git:** [Gitea](https://gitea.com) / [GitLab]([https://gitlab.com](https://gitlab.com/))
+- **git:** [Forgejo](https://forgejo.org/) / [Gitea](https://gitea.com) / [GitLab]([https://gitlab.com](https://gitlab.com/))
 
 ## Security
 
