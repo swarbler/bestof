@@ -6,6 +6,12 @@ nav_order: 0
 
 <button onclick="changeTheme()">H I G H   C O N T R A S T</button>
 
+# ⚠️ PROJECT MOVED TO CODEBERG ⚠️
+
+https://codeberg.org/sperchingbird/bestof
+
+This repository has been archived and will not receive further commits. Please go to the Codeberg repo!
+
 ## what is this?
 
 bestof is a repository of the best things in each product category, frequently updated whenever a new thing is released or I find out there's an even better thing! [(view screenshots)](screenshots.md)
