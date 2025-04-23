@@ -8,9 +8,7 @@ nav_order: 0
 
 # ⚠️ PROJECT MOVED TO CODEBERG ⚠️
 
-https://codeberg.org/sperchingbird/bestof
-
-This website has been archived and will not receive further commits. Please go to the Codeberg repo!
+This website has been archived and will not receive further commits. Please go to the [Codeberg repo](https://codeberg.org/sperchingbird/bestof)!
 
 ## what is this?
 
