@@ -10,7 +10,7 @@ nav_order: 0
 
 https://codeberg.org/sperchingbird/bestof
 
-This repository has been archived and will not receive further commits. Please go to the Codeberg repo!
+This website has been archived and will not receive further commits. Please go to the Codeberg repo!
 
 ## what is this?
 
